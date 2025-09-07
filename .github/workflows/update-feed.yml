@@ -18,7 +18,7 @@ jobs:
       - name: Install gdown
         run: pip install gdown
 
-      - name: Download zf.xml from Google Drive
+      - name: Download the XMLs from Google Drive
         run: |
           # zf.xml
           ZF_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
