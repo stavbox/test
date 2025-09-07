@@ -20,14 +20,18 @@ jobs:
 
       - name: Download zf.xml from Google Drive
         run: |
-          # Replace this with your actual Google Drive file ID
-          FILE_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
-          gdown --fuzzy "https://drive.google.com/uc?id=${FILE_ID}" -O zf.xml
+          # zf.xml
+          ZF_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
+          gdown --fuzzy "https://drive.google.com/uc?id=${ZF_ID}" -O zf.xml
+
+          # hf.xml
+          HF_ID="17dejy2sqx-yf8NSDiDfL_NhZWO7iRI8U"
+          gdown --fuzzy "https://drive.google.com/uc?id=${HF_ID}" -O hf.xml
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add zf.xml
-          git commit -m "Update zf.xml from Google Drive" || echo "No changes to commit"
+          git add zf.xml hf.xml
+          git commit -m "Update zf.xml and hf.xml from Google Drive" || echo "No changes to commit"
           git push
