@@ -1,4 +1,4 @@
-name: Update zf.xml from Google Drive
+name: Update zf.xml and hf.xml from GDrive
 
 on:
   schedule:
