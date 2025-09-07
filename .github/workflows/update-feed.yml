@@ -2,7 +2,7 @@ name: Update zf.xml and hf.xml from GDrive
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # runs day at 1AM
+    - cron: "0 * * * *"   # runs day at 1AM
   workflow_dispatch:       # allows manual run from GitHub UI
 
 jobs:
@@ -32,6 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           git add zf.xml hf.xml
-          git commit -m "Update zf.xml and hf.xml from Google Drive" || echo "No changes to commit"
+          git commit -m "Update zf.xml and hf.xml from Google Drive at $TIMESTAMP" || echo "No changes to commit"
           git push
