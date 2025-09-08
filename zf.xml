@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 322 -->
-<!-- Created: 2025-09-08 11:40:55 -->
+<!-- Created: 2025-09-08 12:40:23 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -274,11 +274,11 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
   
       <SHOPITEM>
         <PRODUCTNAME>Köster NB 4000 · 25 kg · Hydroizolační, trhliny překlenující stěrka</PRODUCTNAME>
-        <DESCRIPTION>Dvousložková, vysoce flexibilní, trhliny překlenující, minerální silnovrstvá hydroizolace (FDP). S rychlou odolnosti proti dešti a možností následného omítání. Radon těsná.
+        <DESCRIPTION>Dvousložková (2K), vysoce flexibilní, trhliny překlenující, minerální silnovrstvá hydroizolace (FDP). S rychlou odolnosti proti dešti a možností následného omítání. Radon těsná.
 Polymerem modifikovaná minerální stěkra, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
         <PRICE_VAT>3500.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -379,7 +379,7 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-5l</URL>
         <PRICE_VAT>5142.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
         <MANUFACTURER>Bauprotect</MANUFACTURER>
         <DELIVERY>
@@ -1756,7 +1756,7 @@ Spotřeba: Approx. 1.6 kg / l void.</DESCRIPTION>
 Spotřeba: cca 0.1 - 0.25 kg/m² v závislosti na podkladu.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-polysil-tg-500-1kg</URL>
         <PRICE_VAT>389.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -1780,7 +1780,7 @@ Spotřeba: cca 0.1 - 0.25 kg/m² v závislosti na podkladu.</DESCRIPTION>
 Spotřeba: cca 0.1 - 0.25 kg/m² v závislosti na podkladu.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-polysil-tg-500-10kg</URL>
         <PRICE_VAT>2964.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -1828,7 +1828,7 @@ Spotřeba: KÖSTER KD 1 Base (základ): cca. 1,5 - 2,5 kg / m²; KÖSTER KD 2 Bl
 KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů. Odolává tlakové vodě při aplikaci v tloušťce vrstvy 4 mm.Rychle vytvrzuje a vyznačuje se vysokou odolností vůči tlaku a otěru, vysokou chemickou odolností a odolností vůči solím v podkladu.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
         <PRICE_VAT>1390.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -7443,7 +7443,7 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
 · jednosložkový (1K) materiál připravený k použití· bezešvý vrstva s jednoduchou aplikací· vysokoviskózní konzistence pro plochy se sklonem a vertikální plochy· přilnavost na různých podkladech· vynikající odolnost proti povětrnostním vlivům a ultrafialovému záření· ekologický produkt</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-ms-joint-sealant-grey-600ml-sedy</URL>
         <PRICE_VAT>420.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-MS-Joint-Sealant-jednoslozkovy-sparovaci-tmel-na-bazi-MS-polymeru.jpg?v=1755886982</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -7593,7 +7593,7 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
 KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina pro všechny cementové malty, omítky a těsnicí hmoty. KÖSTER SB Bonding Emulsion neobsahuje rozpouštědla, změkčovadla a plniva. Když se syntetická kapalina přidá do systémů na minerální bázi, zvyšuje elasticitu a pružnost a snižuje absorpci vody. KÖSTER SB Bonding Emulsion je voděodolná, což znamená, že po aplikaci ji nelze smýt ani spláchnout.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion-5kg</URL>
         <PRICE_VAT>1530.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-bonding-emulsion.png?v=1756382256</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
