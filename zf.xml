@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 324 -->
-<!-- Created: 2025-09-09 00:00:18 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-09-09 10:19:41 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
       <SHOPITEM>
@@ -3242,7 +3242,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zachovává paropropustnost, nízká viskozita, snadná aplikace.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-funcosil-ws-5l</URL>
         <PRICE_VAT>2243.0</PRICE_VAT>
-        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
