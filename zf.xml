@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 324 -->
-<!-- Created: 2025-09-09 16:21:04 -->
+<!-- Total items: 325 -->
+<!-- Created: 2025-09-09 21:27:50 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -5301,7 +5301,7 @@ Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti
 Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti, vodoodpudivá, paropropustná, ideální pro renovaci fasád historických staveb.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-color-la-12-5l-bily</URL>
         <PRICE_VAT>4980.0</PRICE_VAT>
-        <DELIVERY_DATE>8</DELIVERY_DATE>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
@@ -7754,6 +7754,30 @@ Cena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+        
+        <CONDITION>new</CONDITION>
+      </SHOPITEM>
+    
+  
+      <SHOPITEM>
+        <PRODUCTNAME>Köster CT 227 1C Silane · 10 kg · Podlahový ochranný nátěr</PRODUCTNAME>
+        <DESCRIPTION>Jednosložkový (1K) podlahový ochranný nátěr pro lehké až střední zatížení.
+Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, trhliny překlenující, pružný a snadno použitelný nátěr s velmi dobrou krycí schopností pro vnitřní i venkovní použití na minerálních podkladech, jako je např. beton, cementový potěr, minerální omítka a na stabilních starých nátěrech. Pro použití v soukromých a komerčních prostorách. Odolný vůči střednímu chemickému a mechanickému zatížení, odolný vůči UV záření a povětrnostním vlivům. Přidáním 2 % hmotnostních protiskluzového granulátu KÖSTER AntiSlip Granules 20 do lze dosáhnout protiskluznosti R 10. Hodnoty R 12lze dosáhnout plným posypem křemičitým pískem se zrnistosí cca 0,7-1,2 mm. Použitím KÖSTER Color-Chips v kontrastním a/nebo plném pokrytí lze dosáhnout široké škály individuálních provedení povrchu.</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/koster-ct-227-1c-silane-10kg</URL>
+        <PRICE_VAT>8288.0</PRICE_VAT>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/CT_227_Silan_mod.jpg?v=1757439935</IMGURL>
+        <MANUFACTURER>Köster</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+          <DELIVERY_PRICE>250</DELIVERY_PRICE>
+          <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+        </DELIVERY>
+        <ITEM_ID>CT227010</ITEM_ID>
+
+        
+            <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Příslušenství pro venkovní podlahy a dlažbu</CATEGORYTEXT>
 
         
         <CONDITION>new</CONDITION>
