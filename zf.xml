@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 325 -->
-<!-- Created: 2025-09-11 00:00:18 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-09-11 10:04:29 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
       <SHOPITEM>
@@ -1066,7 +1066,7 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
 Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 120 · na míru · 1 m</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-tape-vf-120-10m</URL>
         <PRICE_VAT>1007.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>8</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
@@ -2048,7 +2048,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
         <DESCRIPTION>Jemná tenkovrstvá omítka pro hladké dekorativní povrchy na sanačních omítkách a minerálních podkladech. Může se aplikovat v tloušťce vrstvy od 2 do 5 mm, nanáší se plstěným hladítkem. Omítka je hydrofobní, odolná povětrnostním vlivům a mrazuvzdorná. Povrch je jemně strukturovaný, uzavřený a může být přetřen barvou nebo ukončen tapetou.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-fine-plaster-25kg</URL>
         <PRICE_VAT>1480.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Fine-Plaster-25kg-fajnova-omitka-hydrofobni-na-sanacni-omitky.jpg?v=1755853373</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -2198,7 +2198,7 @@ KÖSTER Restoration Plaster White/Fast je rychle tuhnoucí, solím a tlaku odoln
 KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení solí s vysokou odolností vůči krystalizačním tlakům. Používá se jako sanační omítka pro obnovu povrchů silně vlhkých a zasolených konstrukcí a to hlavně po provedení hydroizolační chemické bariéry. Díky vysokému obsahu lehčených plniv (speciální směs pěnového sklaz recyklátu a dalších přírodních lehčených plniv) dosahuje vysoké poréznosti a tím i nízké spotřeby. KÖSTER Restoration Plaster White/Light umožňuje spolehlivé vysušení a odsolení zdiva a to i v případech vysokého obsahu solí všech druhů. Mimo to zlepšuje tepelně izolační vlastnosti povrchu zdiva, čímž pomáhá předcházet tvorbě kondenzátu. Při včasné a vhodné povrchové úpravě zafilcováním lze docílit povrchu, který v některých případech nevyžaduje štukovou úpravu. Díky bílé barvě a vlastnostem může najít široké uplatnění i při renovacích historických objektů.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-restoration-plaster-white-light-25kg-bily</URL>
         <PRICE_VAT>847.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Restoration-Plaster-White-25kg-sanacni-omitka-bila.jpg?v=1755853635</IMGURL>
         <MANUFACTURER>Köster</MANUFACTURER>
         <DELIVERY>
@@ -3217,7 +3217,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-10l</URL>
         <PRICE_VAT>4520.0</PRICE_VAT>
-        <DELIVERY_DATE>8</DELIVERY_DATE>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
@@ -4568,7 +4568,7 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
 Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WTA certifikát, pro izolaci proti vlhkosti až do 95 % nasycení.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-kiesol-ik-30kg</URL>
         <PRICE_VAT>48050.0</PRICE_VAT>
-        <DELIVERY_DATE>8</DELIVERY_DATE>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-iK-30kg-hydrofobizujici-siloxanovy-koncentrat.jpg?v=1755864215</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
