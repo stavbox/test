@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 325 -->
-<!-- Created: 2025-09-12 12:05:16 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2025-09-13 00:00:17 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
       <SHOPITEM>
         <PRODUCTNAME>Remmers MB 2K · 25 kg · bal. &quot;3+3&quot; · Multifunkční hydroizolační stěrka</PRODUCTNAME>
-        <DESCRIPTION>Dvousložková (2K) hydroizolační multifunkční stěrka.
-Génius tekuté hydroizolace. Chrání proti tlakové vodě a solím, ideální pro novostavby i sanace starých zdí. Překlenuje trhliny. Efektivní a trvanlivá ochrana zdiva.</DESCRIPTION>
+        <DESCRIPTION>Tekutá hydroizolační stěrka.
+Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-mb-2k-25kg-3-3</URL>
         <PRICE_VAT>3908.0</PRICE_VAT>
         <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -451,8 +451,8 @@ HADALAN® MBH 12E je transparentní epoxidová pryskyřice s širokospektrým v
   
       <SHOPITEM>
         <PRODUCTNAME>Remmers MB 2K · 8,3 kg · Multifunkční hydroizolační stěrka</PRODUCTNAME>
-        <DESCRIPTION>Dvousložková (2K) hydroizolační multifunkční stěrka.
-Génius tekuté hydroizolace. Chrání proti tlakové vodě a solím, ideální pro novostavby i sanace starých zdí. Překlenuje trhliny. Efektivní a trvanlivá ochrana zdiva.</DESCRIPTION>
+        <DESCRIPTION>Tekutá hydroizolační stěrka.
+Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-mb-2k-8-3kg</URL>
         <PRICE_VAT>1474.0</PRICE_VAT>
         <DELIVERY_DATE>8</DELIVERY_DATE>
@@ -475,8 +475,8 @@ Génius tekuté hydroizolace. Chrání proti tlakové vodě a solím, ideální 
   
       <SHOPITEM>
         <PRODUCTNAME>Remmers MB 2K · 25 kg · bal. &quot;1+1&quot; · Multifunkční hydroizolační stěrka</PRODUCTNAME>
-        <DESCRIPTION>Dvousložková (2K) hydroizolační multifunkční stěrka.
-Génius tekuté hydroizolace. Chrání proti tlakové vodě a solím, ideální pro novostavby i sanace starých zdí. Překlenuje trhliny. Efektivní a trvanlivá ochrana zdiva.</DESCRIPTION>
+        <DESCRIPTION>Tekutá hydroizolační stěrka.
+Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-mb-2k-25kg-1-1</URL>
         <PRICE_VAT>3995.0</PRICE_VAT>
         <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2163,7 +2163,7 @@ Omítka odolná vůči solím a tlaku, určená pro sanaci silně vlhkého a sol
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Omítky</CATEGORYTEXT>
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-        
+        <EAN>4026906056220</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2188,7 +2188,7 @@ KÖSTER Restoration Plaster White/Fast je rychle tuhnoucí, solím a tlaku odoln
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Omítky</CATEGORYTEXT>
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-        
+        <EAN>4026906158382</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2352,7 +2352,7 @@ KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsa
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-        
+        <EAN>4026906061408</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2547,7 +2547,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
 
-        
+        <EAN>4026906135208</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2571,7 +2571,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
 
-        
+        <EAN>4026906134737</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2595,7 +2595,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
 
-        
+        <EAN>4026906154827</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2619,7 +2619,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
 
-        
+        <EAN>4026906126657</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2645,7 +2645,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
 
-        
+        <EAN>4026906126152</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -2669,7 +2669,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
 
-        
+        <EAN>4026906613256</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -3742,7 +3742,7 @@ KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-        
+        <EAN>4026906030688</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7429,7 +7429,7 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
-        
+        <EAN>4026906136786</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7479,7 +7479,7 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
-        
+        <EAN>4026906136793</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7504,7 +7504,7 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
-        
+        <EAN>4026906136748</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7604,7 +7604,7 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-        
+        <EAN>4026906021198</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7628,7 +7628,7 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-        
+        <EAN>4026906021143</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7653,7 +7653,7 @@ KÖSTER Protection and Drainage Sheet 3-250 je složená ze 3 vrstev, vysoce kva
         
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Hydroizolační pásy</CATEGORYTEXT>
 
-        
+        <EAN>4026906153844</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
@@ -7774,7 +7774,7 @@ Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, 
         
             <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Příslušenství pro venkovní podlahy a dlažbu</CATEGORYTEXT>
 
-        
+        <EAN>4026906152779</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
