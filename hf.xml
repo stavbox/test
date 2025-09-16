@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 325 -->
-<!-- Created: 2025-09-16 00:00:19 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 326 -->
+<!-- Created: 2025-09-16 11:42:52 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 <SHOP>
   
       <SHOPITEM>
@@ -4916,6 +4916,21 @@ Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, 
         <URL>https://www.stavbox.cz/products/koster-ct-227-1c-silane-10kg</URL>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/CT_227_Silan_mod.jpg?v=1757439935</IMGURL>
         <PRICE_VAT>8288.0</PRICE_VAT>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+        <MANUFACTURER>Köster</MANUFACTURER>
+      </SHOPITEM>
+    
+  
+      <SHOPITEM>
+        <ITEM_ID>RT815</ITEM_ID>
+        <PRODUCTNAME>Köster SB Bonding Emulsion · 10 kg · Elastizační syntetická disperze</PRODUCTNAME>
+        <PRODUCT>Köster TPO 1.5 · střešní fólie · 1,5 mm x 0,25 m x 20 m - </PRODUCT>
+        <DESCRIPTION>TPO střešní a hydroizolační membrána s centrálně vloženým skleněným rounem.
+Tloušťka: 1,5 mmŠířka: 0,25 mDélka: 20 m</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/koster-tpo-1-5-stresni-folie-tloustka-1-5mm</URL>
+        <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RT-8-KOESTER-TPO-Dach-und-Dichtungsbahn.jpg?v=1758009652</IMGURL>
+        <PRICE_VAT>3013.0</PRICE_VAT>
         <DELIVERY_DATE>2</DELIVERY_DATE>
         <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
         <MANUFACTURER>Köster</MANUFACTURER>

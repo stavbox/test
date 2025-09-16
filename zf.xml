@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 325 -->
-<!-- Created: 2025-09-16 00:00:19 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 326 -->
+<!-- Created: 2025-09-16 11:42:52 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
       <SHOPITEM>
@@ -7775,6 +7775,30 @@ Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, 
             <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Příslušenství pro venkovní podlahy a dlažbu</CATEGORYTEXT>
 
         <EAN>4026906152779</EAN>
+        <CONDITION>new</CONDITION>
+      </SHOPITEM>
+    
+  
+      <SHOPITEM>
+        <PRODUCTNAME>Köster SB Bonding Emulsion · 10 kg · Elastizační syntetická disperze</PRODUCTNAME>
+        <DESCRIPTION>TPO střešní a hydroizolační membrána s centrálně vloženým skleněným rounem.
+Tloušťka: 1,5 mmŠířka: 0,25 mDélka: 20 m</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/koster-tpo-1-5-stresni-folie-tloustka-1-5mm</URL>
+        <PRICE_VAT>3013.0</PRICE_VAT>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RT-8-KOESTER-TPO-Dach-und-Dichtungsbahn.jpg?v=1758009652</IMGURL>
+        <MANUFACTURER>Köster</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+          <DELIVERY_PRICE>250</DELIVERY_PRICE>
+          <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+        </DELIVERY>
+        <ITEM_ID>RT815</ITEM_ID>
+
+        
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+        
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
