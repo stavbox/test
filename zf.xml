@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 326 -->
-<!-- Created: 2025-09-22 00:00:18 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 328 -->
+<!-- Created: 2025-09-22 14:25:08 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
       <SHOPITEM>
@@ -1752,7 +1752,8 @@ Trvale plastická těsnicí hmota pro utěsnění průchodů potrubí a kabelů,
       <SHOPITEM>
         <PRODUCTNAME>Köster Polysil TG 500 · 1 kg · Penetrace na vlhké a zasolené podklady</PRODUCTNAME>
         <DESCRIPTION>Hluboce penetrující a zpevňující základní nátěr na vlhké a solí zatížené podklady. Díky speciálnímu složení obaluje a trvale deaktivuje solné krystaly.
-Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použití na zasolených a vlhkých podkladech vede k zmenšení objemu pórů a snížení pravděpodobnosti prostupu solných výkvětů do dalších vrstev. Zvyšuje také chemickou a mechanickou odolnost minerálních stavebních materiálů. V závislosti na typu podkladu, dokáže tento přípravek proniknout až do hloubky 2 cm. Díky speciálnímu složení dokáže obalit a trvale deaktivovat solnékrystaly.KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
+Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použití na zasolených a vlhkých podkladech vede k zmenšení objemu pórů a snížení pravděpodobnosti prostupu solných výkvětů do dalších vrstev. Zvyšuje také chemickou a mechanickou odolnost minerálních stavebních materiálů. V závislosti na typu podkladu, dokáže tento přípravek proniknout až do hloubky 2 cm. Díky speciálnímu složení dokáže obalit a trvale deaktivovat solnékrystaly.
+KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-polysil-tg-500-1kg</URL>
         <PRICE_VAT>389.0</PRICE_VAT>
         <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -1776,7 +1777,8 @@ Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použit�
       <SHOPITEM>
         <PRODUCTNAME>Köster Polysil TG 500 · 10 kg · Penetrace na vlhké a zasolené podklady</PRODUCTNAME>
         <DESCRIPTION>Hluboce penetrující a zpevňující základní nátěr na vlhké a solí zatížené podklady. Díky speciálnímu složení obaluje a trvale deaktivuje solné krystaly.
-Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použití na zasolených a vlhkých podkladech vede k zmenšení objemu pórů a snížení pravděpodobnosti prostupu solných výkvětů do dalších vrstev. Zvyšuje také chemickou a mechanickou odolnost minerálních stavebních materiálů. V závislosti na typu podkladu, dokáže tento přípravek proniknout až do hloubky 2 cm. Díky speciálnímu složení dokáže obalit a trvale deaktivovat solnékrystaly.KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
+Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použití na zasolených a vlhkých podkladech vede k zmenšení objemu pórů a snížení pravděpodobnosti prostupu solných výkvětů do dalších vrstev. Zvyšuje také chemickou a mechanickou odolnost minerálních stavebních materiálů. V závislosti na typu podkladu, dokáže tento přípravek proniknout až do hloubky 2 cm. Díky speciálnímu složení dokáže obalit a trvale deaktivovat solnékrystaly.
+KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/koster-polysil-tg-500-10kg</URL>
         <PRICE_VAT>2964.0</PRICE_VAT>
         <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -7799,6 +7801,59 @@ Tloušťka: 1,5 mmŠířka: 0,25 mDélka: 20 m</DESCRIPTION>
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
         
+        <CONDITION>new</CONDITION>
+      </SHOPITEM>
+    
+  
+      <SHOPITEM>
+        <PRODUCTNAME>Sika SikaGrout®-311 · 25 kg · Vysoce pevnostní zálivková hmota</PRODUCTNAME>
+        <DESCRIPTION>Vysoce pevnostní zálivková hmota.
+SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi tekuté konzistence, s expanzními vlastnostmi a s nízkým smrštěním.
+· Rychlý nárůst pevností
+· Vysoké konečné pevnosti
+· Redukce smrštění v plastickém i vytvrzeném stavu</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/sika-sikagrout-311-25kg</URL>
+        <PRICE_VAT>936.0</PRICE_VAT>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-311.png?v=1758528363</IMGURL>
+        <MANUFACTURER>Sika</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+          <DELIVERY_PRICE>250</DELIVERY_PRICE>
+          <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+        </DELIVERY>
+        <ITEM_ID>421137</ITEM_ID>
+
+        
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
+
+        <EAN>7612894868135</EAN>
+        <CONDITION>new</CONDITION>
+      </SHOPITEM>
+    
+  
+      <SHOPITEM>
+        <PRODUCTNAME>Sika Sikafloor®-2510 W · sv. šedý, 20kg · Epoxidový nátěr na vodní bázi</PRODUCTNAME>
+        <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
+Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
+· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
+Barva:  světle šedý (RAL7035ca)Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-svetle-sedy-20kg</URL>
+        <PRICE_VAT>8410.0</PRICE_VAT>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg.png?v=1758537698</IMGURL>
+        <MANUFACTURER>Sika</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+          <DELIVERY_PRICE>250</DELIVERY_PRICE>
+          <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+        </DELIVERY>
+        <ITEM_ID>756506</ITEM_ID>
+
+        
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
+
+        <EAN>7611237017100</EAN>
         <CONDITION>new</CONDITION>
       </SHOPITEM>
     
