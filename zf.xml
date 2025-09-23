@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 328 -->
-<!-- Created: 2025-09-23 00:00:17 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-09-23 11:09:53 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
       <SHOPITEM>
@@ -455,7 +455,7 @@ HADALAN® MBH 12E je transparentní epoxidová pryskyřice s širokospektrým v
 Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-mb-2k-8-3kg</URL>
         <PRICE_VAT>1474.0</PRICE_VAT>
-        <DELIVERY_DATE>8</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
@@ -3560,7 +3560,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-kse-100-5l</URL>
         <PRICE_VAT>2495.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
@@ -4495,7 +4495,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-clean-fp-5kg</URL>
         <PRICE_VAT>1570.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
@@ -7715,7 +7715,7 @@ Cena je za 1 metr. Dodáváme v kuse dle objednané délky.
 Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 500 · na míru · 1 m</DESCRIPTION>
         <URL>https://www.stavbox.cz/products/remmers-tape-vf-500-10m</URL>
         <PRICE_VAT>3512.0</PRICE_VAT>
-        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-VF-500_dl_sbx.jpg?v=1757338345</IMGURL>
         <MANUFACTURER>Remmers</MANUFACTURER>
         <DELIVERY>
