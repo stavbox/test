@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 328 -->
-<!-- Created: 2025-09-24 00:00:18 -->
+<!-- Total items: 329 -->
+<!-- Created: 2025-09-25 00:00:18 -->
 <!-- Trigger: mechanic/scheduler/daily -->
 <SHOP>
   
@@ -4959,18 +4959,32 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
   
       <SHOPITEM>
         <ITEM_ID>756506</ITEM_ID>
-        <PRODUCTNAME>Sika Sikafloor®-2510 W · sv. šedý, 20kg · Epoxidový nátěr na vodní bázi</PRODUCTNAME>
-        <PRODUCT>Sika Sikafloor®-2510 W · světle šedý · 20kg - </PRODUCT>
+        <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi</PRODUCTNAME>
+        <PRODUCT>Sika Sikafloor®-2510 W · 20kg - </PRODUCT>
         <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 · Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Barva:  světle šedý (RAL7035ca)Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-        <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-svetle-sedy-20kg</URL>
+Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-20kg</URL>
         <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg.png?v=1758537698</IMGURL>
         <PRICE_VAT>8410.0</PRICE_VAT>
         <DELIVERY_DATE>2</DELIVERY_DATE>
         <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
         <MANUFACTURER>Sika</MANUFACTURER>
+      </SHOPITEM>
+    
+  
+      <SHOPITEM>
+        <ITEM_ID>482201</ITEM_ID>
+        <PRODUCTNAME>Remmers Tape F · 50 m · šířka: 12cm · Armovací rouno pro hydroizolaci</PRODUCTNAME>
+        <PRODUCT>Remmers Tape F · 50 m · šířka: 12cm - </PRODUCT>
+        <DESCRIPTION>Armovací rouno pro 1K multifunkční stavební hydroizolace.</DESCRIPTION>
+        <URL>https://www.stavbox.cz/products/remmers-tape-f-50m-sirka-12cm</URL>
+        <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-F_dl_sbx.jpg?v=1758722181</IMGURL>
+        <PRICE_VAT>427.0</PRICE_VAT>
+        <DELIVERY_DATE>2</DELIVERY_DATE>
+        <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+        <MANUFACTURER>Remmers</MANUFACTURER>
       </SHOPITEM>
     
   
