@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 335 -->
-<!-- Created: 2025-09-30 00:00:17 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-09-30 12:42:35 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   <SHOPITEM>
@@ -1058,10 +1058,10 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
       
     
   <SHOPITEM>
-          <ITEM_ID>SBX2500105</ITEM_ID>
+          <ITEM_ID>TX202</ITEM_ID>
           <PRODUCTNAME>OEM TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l · tixotropní přísada pro epoxidy a polyuretany</PRODUCTNAME>
           <PRODUCT>OEM TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l - Tužidlo (tzv. peří)</PRODUCT>
-          <DESCRIPTION>Kbelík (tixotropní přísada pro epoxidy a polyuretany) peří</DESCRIPTION>
+          <DESCRIPTION>Tixotropní přísada pro epoxidy a polyuretany (tzv. &quot;peří&quot;).</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/oem-tx-special-5l</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/no-image-placeholder.jpg?v=1758281411</IMGURL>
           <PRICE_VAT>998.0</PRICE_VAT>
@@ -5088,7 +5088,7 @@ Balení: 300kg</DESCRIPTION>
     
   <SHOPITEM>
           <ITEM_ID>611403</ITEM_ID>
-          <PRODUCTNAME>Sika SikaFloor®-151 · 30kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaFloor®-151 · 1200kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
           <PRODUCT>Sika SikaFloor®-151 · 1200 kg - </PRODUCT>
           <DESCRIPTION>Víceúčelový epoxidový primer a spojovací můstek pro vyrovnávací stěrky a malty.
 Sikafloor®-151 je 2-komponentní víceúčelová epoxidová pryskyřice s plnivem, s nízkou viskozitou, pro penetraci a vyrovnání betonových a cementových podkladů. Je velmi vhodná pro interiérové použití díky nízkému zápachu.

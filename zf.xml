@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 335 -->
-<!-- Created: 2025-09-30 00:00:17 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-09-30 12:42:36 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   <SHOPITEM>
@@ -1678,10 +1678,10 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
     
   <SHOPITEM>
           <PRODUCTNAME>OEM TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l · tixotropní přísada pro epoxidy a polyuretany</PRODUCTNAME>
-          <DESCRIPTION>Kbelík (tixotropní přísada pro epoxidy a polyuretany) peří</DESCRIPTION>
+          <DESCRIPTION>Tixotropní přísada pro epoxidy a polyuretany (tzv. &quot;peří&quot;).</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/oem-tx-special-5l</URL>
           <PRICE_VAT>998.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/no-image-placeholder.jpg?v=1758281411</IMGURL>
           <MANUFACTURER>OEM</MANUFACTURER>
           <DELIVERY>
@@ -1689,7 +1689,7 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>SBX2500105</ITEM_ID>
+          <ITEM_ID>TX202</ITEM_ID>
 
           
 
@@ -2488,7 +2488,7 @@ Při použití KÖSTER Injection Gel S4 jako clonového vstřikování je třeba
 KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektážní pryskyřice bez rozpouštědel pro injektování trhlin. KÖSTER KB-Pox IN neobsahuje žádná plnidla ani změkčovadla, a proto se zabraňuje usazování. Díky vysoké propustnosti do pórovitých podkladů a jeho vynikající přilnavosti k betonu, kameni, zdivu a kovu, KÖSTER KB-Pox IN natrvalo utěsňuje praskliny a spoje a obnovuje strukturální integritu konstrukce. KÖSTER KB-Pox IN může být použit v trhlinách nasycených vodou.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-kb-pox-in-1kg-combipackage</URL>
           <PRICE_VAT>871.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Pox-IN-pryskyrice-pro-opravu-trhlin.jpg?v=1755854715</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -2512,7 +2512,7 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
 KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektážní pryskyřice bez rozpouštědel pro injektování trhlin. KÖSTER KB-Pox IN neobsahuje žádná plnidla ani změkčovadla, a proto se zabraňuje usazování. Díky vysoké propustnosti do pórovitých podkladů a jeho vynikající přilnavosti k betonu, kameni, zdivu a kovu, KÖSTER KB-Pox IN natrvalo utěsňuje praskliny a spoje a obnovuje strukturální integritu konstrukce. KÖSTER KB-Pox IN může být použit v trhlinách nasycených vodou.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-kb-pox-in-6kg-combipackage</URL>
           <PRICE_VAT>4414.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Pox-IN-pryskyrice-pro-opravu-trhlin.jpg?v=1755854715</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -8034,7 +8034,7 @@ Balení: 300kg</DESCRIPTION>
       
     
   <SHOPITEM>
-          <PRODUCTNAME>Sika SikaFloor®-151 · 30kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaFloor®-151 · 1200kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
           <DESCRIPTION>Víceúčelový epoxidový primer a spojovací můstek pro vyrovnávací stěrky a malty.
 Sikafloor®-151 je 2-komponentní víceúčelová epoxidová pryskyřice s plnivem, s nízkou viskozitou, pro penetraci a vyrovnání betonových a cementových podkladů. Je velmi vhodná pro interiérové použití díky nízkému zápachu.
 · vhodné pro interiérové aplikace díky nízkému zápachu· víceúčelový produkt - může být použit pro různé typy aplikací· zlepšuje ekologickou stopu u projektů
