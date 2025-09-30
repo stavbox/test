@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 335 -->
-<!-- Created: 2025-09-30 13:46:19 -->
+<!-- Created: 2025-09-30 14:32:16 -->
 <!-- Trigger: mechanic/user/trigger -->
 
 <SHOP>
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>301425</ITEM_ID>
           <PRODUCTNAME>Remmers MB 2K · 25 kg · bal. &quot;3+3&quot; · Multifunkční hydroizolační stěrka</PRODUCTNAME>
           <PRODUCT>Remmers MB 2K · 25 kg · balení &quot;3+3&quot; - Multifunkční hydroizolační stěrka</PRODUCT>
@@ -20,7 +21,8 @@ Právě jste našli, co jste hledali. Nejprodávanější hydroizolační stěrk
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072713</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol C [basic] · 12,5 l · Injektážní krém, silan/siloxan</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol C [basic] · 12,5 l - Injektážní krém</PRODUCT>
@@ -36,7 +38,8 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>031030</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol Standard · 30 kg · Penetrace a hydroizolace zdiva</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol Standard · 30 kg - Penetrace</PRODUCT>
@@ -52,7 +55,8 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>043025</ITEM_ID>
           <PRODUCTNAME>Remmers WP Sulfatex · 25 kg · Minerální hydroizolační stěrka</PRODUCTNAME>
           <PRODUCT>Remmers WP Sulfatex · 25 kg · šedý - Hydroizolační stěrka</PRODUCT>
@@ -68,7 +72,8 @@ Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>042625</ITEM_ID>
           <PRODUCTNAME>Remmers WP DS Levell · 25 kg · Těsnicí malta odolná vůči síranům</PRODUCTNAME>
           <PRODUCT>Remmers WP DS Levell · 25 kg · šedý - Těsnicí a vyrovnávací malta</PRODUCT>
@@ -84,7 +89,8 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040220</ITEM_ID>
           <PRODUCTNAME>Remmers SP Top White · 20 kg · Sanační omítka pro vlhké a zasolené zdivo</PRODUCTNAME>
           <PRODUCT>Remmers SP Top White · 20 kg · bílý - Sanační omítka</PRODUCT>
@@ -100,7 +106,8 @@ Sanační omítka pro vlhké a zasolené zdivo. Paropropustná, odolná vůči s
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>016101</ITEM_ID>
           <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 50 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
           <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 50 mm · 12,34 m2 (84 pásů) - Vnitřní tepelná izolace</PRODUCT>
@@ -117,7 +124,8 @@ Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  50 mm</D
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>021120</ITEM_ID>
           <PRODUCTNAME>Remmers iQ M Universal · 20 kg · Lepicí malta pro iQ-Therm 2.0 systém</PRODUCTNAME>
           <PRODUCT>Remmers iQ M Universal · 20 kg - Lepící a prodyšná malta</PRODUCT>
@@ -133,7 +141,8 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>298211</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive+ · 25 kg · Hydroizolace střech, balkonů</PRODUCTNAME>
           <PRODUCT>Remmers MB PUReactive+  · 25 kg - Hydroizolace střech a balkonů</PRODUCT>
@@ -149,7 +158,8 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>60230</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SNL · 30 l · Dodatečná hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SNL · 30 l - Hydrofobizační impregnace</PRODUCT>
@@ -165,7 +175,8 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>067405</ITEM_ID>
           <PRODUCTNAME>Remmers Salt IH · 5 kg · Inhibitor solí podle WTA</PRODUCTNAME>
           <PRODUCT>Remmers Salt IH · 5 kg - Penetrace pro zapouzdření solí</PRODUCT>
@@ -181,7 +192,8 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W236025</ITEM_ID>
           <PRODUCTNAME>Köster NB 4000 · 25 kg · Hydroizolační, trhliny překlenující stěrka</PRODUCTNAME>
           <PRODUCT>Köster NB 4000 · 25 kg - Hydroizolační stěrka</PRODUCT>
@@ -197,7 +209,8 @@ Polymerem modifikovaná minerální stěkra, která slouží jako hydroizolace s
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W221025</ITEM_ID>
           <PRODUCTNAME>Köster NB 1 Grey · 25 kg · Hydroizolační stěrka vodotěsná až do 13 bar</PRODUCTNAME>
           <PRODUCT>Köster NB 1 Grey · 25 kg - Hydroizolace proti tlakové vodě</PRODUCT>
@@ -214,7 +227,8 @@ KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodot
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M278010</ITEM_ID>
           <PRODUCTNAME>Köster Crisin Cream · 10 l · Silanový injektážní krém </PRODUCTNAME>
           <PRODUCT>Köster Crisin Cream · 10 l - Injektážní krém</PRODUCT>
@@ -232,7 +246,8 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M279030</ITEM_ID>
           <PRODUCTNAME>Köster Crisin 76 · 30 l · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
           <PRODUCT>Köster Crisin 76 · 30 l - </PRODUCT>
@@ -250,7 +265,8 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>BPHIC005</ITEM_ID>
           <PRODUCTNAME>Bauprotect HORIZONT-IN · 5 l · Injektážní krém vyroben v Německu</PRODUCTNAME>
           <PRODUCT>Bauprotect HORIZONT-IN injektážní krém · 5 l - Injektážní krém</PRODUCT>
@@ -266,7 +282,8 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402332</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
@@ -284,7 +301,8 @@ HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403773</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MBH 12 E · 9 kg · Multi-stavební, epoxidová pryskyřice</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MBH 12 E · 9 kg · bezbarvý - Epoxidová pryskyřice pro různorodé aplikace</PRODUCT>
@@ -302,7 +320,8 @@ HADALAN® MBH 12E je transparentní epoxidová pryskyřice s širokospektrým v
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>301408</ITEM_ID>
           <PRODUCTNAME>Remmers MB 2K · 8,3 kg · Multifunkční hydroizolační stěrka</PRODUCTNAME>
           <PRODUCT>Remmers MB 2K · 8,3 kg - Multifunkční hydroizolační stěrka</PRODUCT>
@@ -318,7 +337,8 @@ Nejprodávanější hydroizolační stěrka používaná profesionály i kutily 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>301411</ITEM_ID>
           <PRODUCTNAME>Remmers MB 2K · 25 kg · bal. &quot;1+1&quot; · Multifunkční hydroizolační stěrka</PRODUCTNAME>
           <PRODUCT>Remmers MB 2K · 25 kg · balení &quot;1+1&quot; - Multifunkční hydroizolační stěrka</PRODUCT>
@@ -334,7 +354,8 @@ Nejprodávanější hydroizolační stěrka používaná profesionály i kutily 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072705</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol C [basic] · 5 l · Injektážní krém, silan/siloxan</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol C [basic] · 5 l - Injektážní krém</PRODUCT>
@@ -350,7 +371,8 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072710</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol C [basic] · 10 l · Injektážní krém, silan/siloxan</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol C [basic] · 10 l - Injektážní krém</PRODUCT>
@@ -366,7 +388,8 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072755</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol C [basic] · 550 ml · Injektážní krém, silan/siloxan</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol C [basic] · 550 ml - Injektážní krém</PRODUCT>
@@ -382,7 +405,8 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040120</ITEM_ID>
           <PRODUCTNAME>Remmers SP Levell · 20 kg · Sanační jádrová omítka</PRODUCTNAME>
           <PRODUCT>Remmers SP Levell · 20 kg · šedá - Jádrová omítka sanační</PRODUCT>
@@ -399,7 +423,8 @@ Sanační porózní omítka pro vlhké zdivo. Absorbuje soli, paropropustná, WT
       
     
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>069113</ITEM_ID>
           <PRODUCTNAME>Remmers Injection Cream 80 · 12,5 l · Silanový krém pro injektáž zdiva</PRODUCTNAME>
           <PRODUCT>Remmers Injection Cream 80 · 12,5 l - Injektážní krém</PRODUCT>
@@ -415,7 +440,8 @@ Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká apl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>298210</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive+  · 10,5 kg · Hydroizolace střech, balkonů</PRODUCTNAME>
           <PRODUCT>Remmers MB PUReactive+  · 10,5 kg - Hydroizolace střech a balkonů</PRODUCT>
@@ -431,7 +457,8 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>300311</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive · 25 kg · Hydroizolace střech a balkonů</PRODUCTNAME>
           <PRODUCT>Remmers MB PUReactive · 25 kg - Hydroizolace střech a balkonů</PRODUCT>
@@ -447,7 +474,8 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>300801</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol MB · 1 ltr - Penetrace</PRODUCT>
@@ -463,7 +491,8 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>300805</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol MB · 5 l · Speciální penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol MB · 5 ltr - Penetrace</PRODUCT>
@@ -480,7 +509,8 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
       
     
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>300830</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol MB · 30 l · Speciální penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol MB · 30 ltr - Penetrace</PRODUCT>
@@ -496,7 +526,8 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>031005</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol Standard · 5 kg · Penetrace a hydroizolace zdiva</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol Standard · 5 kg - Penetrace</PRODUCT>
@@ -512,7 +543,8 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>031010</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol Standard · 10 kg · Penetrace a hydroizolace zdiva</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol Standard · 10 kg - Penetrace</PRODUCT>
@@ -528,7 +560,8 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040825</ITEM_ID>
           <PRODUCTNAME>Remmers SP Top Q2 · 25 kg · Sanační omítka podle WTA</PRODUCTNAME>
           <PRODUCT>Remmers SP Top Q2 · 25 kg · smetanově bílý - Fajnová omítka speciální</PRODUCT>
@@ -545,7 +578,8 @@ Fajnová sanační omítka. Vhodné pro interiér i exteriér. Nízká alkalita,
       
     
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>181001</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol · 1 kg · Zpevňující/vodoodpudivý koncentrát</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol · 1 kg - Penetrace</PRODUCT>
@@ -562,7 +596,8 @@ Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kie
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>181005</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol · 5 kg · Zpevňující/vodoodpudivý koncentrát</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol · 5 kg - Penetrace</PRODUCT>
@@ -579,7 +614,8 @@ Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kie
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>181010</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol · 10 kg · Zpevňující/vodoodpudivý koncentrát</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol · 10 kg - Penetrace</PRODUCT>
@@ -596,7 +632,8 @@ Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kie
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>181030</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol · 30 kg · Zpevňující/vodoodpudivý koncentrát</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol · 30 kg - Penetrace</PRODUCT>
@@ -613,7 +650,8 @@ Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kie
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>085110</ITEM_ID>
           <PRODUCTNAME>Remmers MB 1K rapid · 10 kg · Multifunkční hydroizolační stěrka (1K)</PRODUCTNAME>
           <PRODUCT>Remmers MB 1K rapid · 10 kg - Hydroizolační stěrka</PRODUCT>
@@ -629,7 +667,8 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>085125</ITEM_ID>
           <PRODUCTNAME>Remmers MB 1K rapid · 25 kg · Multifunkční hydroizolační stěrka (1K)</PRODUCTNAME>
           <PRODUCT>Remmers MB 1K rapid · 25 kg - Hydroizolační stěrka</PRODUCT>
@@ -645,7 +684,8 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>2752860</ITEM_ID>
           <PRODUCTNAME>Remmers MultiSil NUW · 600 ml · Alkoxy vytvrzující silikonový tmel</PRODUCTNAME>
           <PRODUCT>Remmers MultiSil NUW · 600 ml · manhattan - Silikonový tmel</PRODUCT>
@@ -661,7 +701,8 @@ Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání př
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040030</ITEM_ID>
           <PRODUCTNAME>Remmers SP Prep · 30 kg · Sanační omítkový podhoz</PRODUCTNAME>
           <PRODUCT>Remmers SP Prep · 30 kg · šedý - Omítkový podhoz</PRODUCT>
@@ -677,7 +718,8 @@ Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje na
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>023713</ITEM_ID>
           <PRODUCTNAME>Remmers Color SL · 12,5 l · bílý · Silikonová barva na zdivo</PRODUCTNAME>
           <PRODUCT>Remmers Color SL · 12,5 l · bílý - Barva na vnitřní stěny</PRODUCT>
@@ -693,7 +735,8 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>22202881</ITEM_ID>
           <PRODUCTNAME>Remmers Arte Mundit · 15 kg · Peelingová pasta na povrchové nečistoty</PRODUCTNAME>
           <PRODUCT>Remmers Arte Mundit · 15 kg - Pasta na bezvodé čištění povrchů</PRODUCT>
@@ -709,7 +752,8 @@ Bezvonný čistič pro interiéry památek. Odstraňuje nečistoty, šetrný k p
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>507101</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 120 · 10 m · šířka: 12cm · Těsnicí páska</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 120 · 10 m · šířka: 12cm - Těsnicí pásek</PRODUCT>
@@ -726,7 +770,8 @@ Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 120 · na mír
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>507102</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 120 · 50 m · šířka: 12cm · Těsnicí páska</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 120 · 50 m · šířka: 12cm - Těsnicí pásek</PRODUCT>
@@ -743,7 +788,8 @@ Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 120 · na mír
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>480301</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 250 XA · 25 m · šířka: 25cm · Těsnící páska, samolepicí</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 250 XA · 25 m · šířka: 25cm - Těsnicí pásek</PRODUCT>
@@ -760,7 +806,8 @@ Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 250 XA · na m
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>300501</ITEM_ID>
           <PRODUCTNAME>Remmers VZ MB · 1 l · Tekutý zpomalovač pro MB2K/Betofix</PRODUCTNAME>
           <PRODUCT>Remmers VZ MB · 1 l - Zpomalovač</PRODUCT>
@@ -776,7 +823,8 @@ Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapa
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>016001</ITEM_ID>
           <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 30 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
           <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 30 mm · 21,15 m2 (144 pásů) - Vnitřní tepelná izolace</PRODUCT>
@@ -793,7 +841,8 @@ Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  30 mm</D
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>016201</ITEM_ID>
           <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 80 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
           <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 80 mm · 7,05 m2 (48 pásů) - Vnitřní tepelná izolace</PRODUCT>
@@ -810,7 +859,8 @@ Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  80 mm</D
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>016301</ITEM_ID>
           <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 120 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
           <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 120 mm · 5,29 m2 (36 pásů) - Vnitřní tepelná izolace</PRODUCT>
@@ -827,7 +877,8 @@ Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  120 mm</
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>308005</ITEM_ID>
           <PRODUCTNAME>Remmers Color SP · 5 l · Vysoce paropropustná interiérová barva</PRODUCTNAME>
           <PRODUCT>Remmers Color SP · 5 l · bílý - Barva na vnitřní stěny</PRODUCT>
@@ -842,7 +893,8 @@ Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  120 mm</
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>308013</ITEM_ID>
           <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva</PRODUCTNAME>
           <PRODUCT>Remmers Color SP · 12,5 l · bílý - Barva na vnitřní stěny</PRODUCT>
@@ -857,7 +909,8 @@ Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  120 mm</
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>656910</ITEM_ID>
           <PRODUCTNAME>Remmers Color CL Historic · 10 kg · bílý · Historická vápenný nátěr</PRODUCTNAME>
           <PRODUCT>Remmers Color CL Historic · 10 kg · bílý - Čistě vápenný nátěr</PRODUCT>
@@ -873,7 +926,8 @@ Minerální barva pro památky. Paropropustná, odolná povětrnosti, vhodná pr
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>082325</ITEM_ID>
           <PRODUCTNAME>Remmers DS Protect · 25 m2 · Ochranný izolační pás</PRODUCTNAME>
           <PRODUCT>Remmers DS Protect · 25 m2 (2m x 12,5m) - Ochranná vrstva</PRODUCT>
@@ -891,7 +945,8 @@ Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana prot
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>082301</ITEM_ID>
           <PRODUCTNAME>Remmers DS Protect · 40 m2 · Ochranný izolační pás</PRODUCTNAME>
           <PRODUCT>Remmers DS Protect · 40 m2 (2m x 20m) - Ochranná vrstva</PRODUCT>
@@ -909,7 +964,8 @@ Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana prot
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>BPHIC020</ITEM_ID>
           <PRODUCTNAME>Bauprotect HORIZONT-IN · 20 l · Injektážní krém vyroben v Německu</PRODUCTNAME>
           <PRODUCT>Bauprotect HORIZONT-IN injektážní krém · 20 l - Injektážní krém</PRODUCT>
@@ -925,7 +981,8 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M278600</ITEM_ID>
           <PRODUCTNAME>Köster Crisin Cream · 600 ml · Silanový injektážní krém </PRODUCTNAME>
           <PRODUCT>Köster Crisin Cream · 600 ml (&quot;salám&quot;) - Injektážní krém</PRODUCT>
@@ -944,7 +1001,8 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
       
     
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403445</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® EBG 13E · 8,5 kg · Epoxidová pryskyřičná disperze (2K)</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® EBG 13E · 8,5 kg - Penetrace a pojivo</PRODUCT>
@@ -960,7 +1018,8 @@ HADALAN® EBG 13E je dvousložková vysoce reaktivní disperze epoxidové prysk
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>405692</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® FGM003 57M · 20 kg · Plnivo pro epoxidové a polyuretanové směsi</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® FGM003 57M · 20 kg · šedý - Plnivo pro epoxidové směsi</PRODUCT>
@@ -976,7 +1035,8 @@ HADALAN® FGM003 57M je speciální plnivo pro epoxidové a polyuretanové smě
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403674</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® FBA 32P · 7 kg · Hydroizolační nátěr pro balkony a terasy (stříbrošedý)</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® FBA 32P · 7 kg · stříbrošedý - Flexibilní jednosložková hydroizolace</PRODUCT>
@@ -993,7 +1053,8 @@ Barva: stříbrošedý (silbergrau ca. RAL 7001)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403599</ITEM_ID>
           <PRODUCTNAME>Hahne VESTEROL® MS 55HSP · 20 kg · Reprofilační malta na beton a zdivo</PRODUCTNAME>
           <PRODUCT>Hahne VESTEROL® MS 55HSP · 20 kg · světle šedý - Reprofilační a opravná malta</PRODUCT>
@@ -1009,7 +1070,8 @@ VESTEROL® MS 55HSP je univerzální reprofilační malta pro rychlé a snadné 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402233</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® FC240 22S · 310 ml · Těsnicí a lepicí hmota</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® FC240 22S · 310 ml · šedý - Lepící a těsnící tmel</PRODUCT>
@@ -1025,7 +1087,8 @@ HADALAN® FC240 22S je jednosložkový vysoce stabilní těsnící a lepící t
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403292</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® TOPCOAT G 32P · 2,5 kg · Ochranný lak na podlahy (transparentní)</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® TOPCOAT G 32P · 2,5 kg · transparentní s leskem - Ochranný lak pro vysokou zátěž</PRODUCT>
@@ -1043,7 +1106,8 @@ HADALAN® Topcoat G 32P je jednosložková, UV záření odolná a vzdušnou vl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403422</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® LF68 12P · 1,25 kg · Polyuretanové pojivo pro kamenné koberce</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® LF68 12P · 1,25 kg · bezbarvý - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
@@ -1061,7 +1125,8 @@ HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402738</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® LF68 12P · 30 kg · Polyuretanové pojivo pro kamenné koberce</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® LF68 12P · 30 kg · bezbarvý - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
@@ -1079,7 +1144,8 @@ HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>40253</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® GP 57DD · 500 g · Protiskluzná přísada (skleněné perly)</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® GP 57DD · 250 g - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
@@ -1095,7 +1161,8 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403346</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® APW 9ZH · 2,5 m · Profil pro stěny</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® APW 9ZH · 2,5 m · 10 ks - Svislý profil</PRODUCT>
@@ -1110,7 +1177,8 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>412041</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® TKP 9ZH · Balkonový profil 1,2m</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® TKP 9ZH · 10 x 1,2m - Stěnový profil</PRODUCT>
@@ -1125,7 +1193,8 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>TX202</ITEM_ID>
           <PRODUCTNAME>OEM TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l · tixotropní přísada pro epoxidy a polyuretany</PRODUCTNAME>
           <PRODUCT>OEM TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l - Tužidlo (tzv. peří)</PRODUCT>
@@ -1140,7 +1209,8 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>466901</ITEM_ID>
           <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm</PRODUCTNAME>
           <PRODUCT>Gloria 405 T Profiline · 5 l · vč. injektážní trubice 50 a 100 cm - Injektážní pumpa</PRODUCT>
@@ -1158,7 +1228,8 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>J250531</ITEM_ID>
           <PRODUCTNAME>Köster KB-Flex 200 · 530 ml · Těsnicí hmota proti tlakové vodě pro prostupy</PRODUCTNAME>
           <PRODUCT>Köster KB-Flex 200 · 850 g · 530 ml foilbag - Těsnění pro prostupy</PRODUCT>
@@ -1174,7 +1245,8 @@ Trvale plastická těsnicí hmota pro utěsnění průchodů potrubí a kabelů,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M111001</ITEM_ID>
           <PRODUCTNAME>Köster Polysil TG 500 · 1 kg · Penetrace na vlhké a zasolené podklady</PRODUCTNAME>
           <PRODUCT>Köster Polysil TG 500 · 1 kg - Penetrace</PRODUCT>
@@ -1191,7 +1263,8 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M111010</ITEM_ID>
           <PRODUCTNAME>Köster Polysil TG 500 · 10 kg · Penetrace na vlhké a zasolené podklady</PRODUCTNAME>
           <PRODUCT>Köster Polysil TG 500 · 10 kg - Penetrace</PRODUCT>
@@ -1208,7 +1281,8 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W219018</ITEM_ID>
           <PRODUCTNAME>Köster KD System · 18 kg · Rychlotuhnoucí hydroizolace proti aktivnímu průsaku</PRODUCTNAME>
           <PRODUCT>Köster KD System · 18 kg (7,5+7,5+3 kg) - Okamžitá trvalá ucpávka tekoucí vody</PRODUCT>
@@ -1228,7 +1302,8 @@ KÖSTER KD 3 tmel (3kg)Silicifikační kapalina s extrémně nízkou viskozitou.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W534025</ITEM_ID>
           <PRODUCTNAME>Köster WP Mortar / WU Mortar · 25 kg · Vodotěsná, rychlotuhnoucí malta</PRODUCTNAME>
           <PRODUCT>Köster WP Mortar / WU Mortar (Repair Mortar) · 25 kg - Těsnící a vyrovnávací malta</PRODUCT>
@@ -1244,7 +1319,8 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W736250</ITEM_ID>
           <PRODUCTNAME>Köster NB 4000 Spray Additive · 250 ml · Přísada pro stříkání NB 4000</PRODUCTNAME>
           <PRODUCT>Köster NB 4000 Spray Additive · 250 ml - Přídavek pro NB 4000</PRODUCT>
@@ -1259,7 +1335,8 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>427501</ITEM_ID>
           <PRODUCTNAME>Remmers Gewebewinkel PVC roh · Výztužný roh pro iQ-Therm 2.0 (2mm)</PRODUCTNAME>
           <PRODUCT>Remmers Gewebewinkel PVC roh · stahovací hrana 3mm · 2 m · 25 ks - PVC roh</PRODUCT>
@@ -1276,7 +1353,8 @@ Textilní roh pro systém iQ-Therm 2.0. Zpevňuje spoje, zvyšuje odolnost, ide�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>427901</ITEM_ID>
           <PRODUCTNAME>Remmers Gewebewinkel PVC roh · Výztužný roh pro iQ-Therm 2.0 (8mm)</PRODUCTNAME>
           <PRODUCT>Remmers Gewebewinkel PVC roh · stahovací hrana 8mm · 2 m · 25 ks - PVC roh</PRODUCT>
@@ -1293,7 +1371,8 @@ Textilní roh pro systém iQ-Therm 2.0. Zpevňuje spoje, zvyšuje odolnost, ide�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>11421030</ITEM_ID>
           <PRODUCTNAME>Remmers Stucco Man · 30 kg · Vápenná omítka pro ruční zpracování</PRODUCTNAME>
           <PRODUCT>Remmers Stucco Man · 30 kg - Jádrová vápenná omítka</PRODUCT>
@@ -1309,7 +1388,8 @@ Klasická vápenná ručně zpracovatelná omítka pro fasády, vnitřní stěny
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>042925</ITEM_ID>
           <PRODUCTNAME>Remmers WP Sulfatex rapid · 25 kg · Rychlovazná hydroizolační stěrka</PRODUCTNAME>
           <PRODUCT>Remmers WP Sulfatex rapid · 25 kg · šedý - Hydroizolační stěrka</PRODUCT>
@@ -1325,7 +1405,8 @@ Rychleschnoucí stěrka pro vnitřní izolaci. Odolná síranům, pružná, vhod
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>056405</ITEM_ID>
           <PRODUCTNAME>Remmers Fill RZ Historic · 5 kg · Štuková omítka, románský cement</PRODUCTNAME>
           <PRODUCT>Remmers Fill RZ Historic · 5 kg · šedobéžový - Minerální opravná štuková omítka</PRODUCT>
@@ -1341,7 +1422,8 @@ Historická malta pro spárování památek. Jemná zrnitost, paropropustná, od
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>067430</ITEM_ID>
           <PRODUCTNAME>Remmers Salt IH · 30 kg · Inhibitor solí podle WTA</PRODUCTNAME>
           <PRODUCT>Remmers Salt IH · 30 kg - Penetrace pro zapouzdření solí</PRODUCT>
@@ -1357,7 +1439,8 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M932100</ITEM_ID>
           <PRODUCTNAME>Köster Extension for Crisin Cream Cartridge prodlužovací trubka · 40cm</PRODUCTNAME>
           <PRODUCT>Köster Extension for Crisin Cream Cartridge prodlužovací trubka · 40 cm - Injektážní trubička prodloužení</PRODUCT>
@@ -1372,7 +1455,8 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M655025</ITEM_ID>
           <PRODUCTNAME>Köster Fine Plaster · 25 kg · Hladký povrchy na sanačních omítkách</PRODUCTNAME>
           <PRODUCT>Köster Fine Plaster · 25 kg - Fajnová omítka hydrofobní na sanační omítky</PRODUCT>
@@ -1388,7 +1472,8 @@ Jemná tenkovrstvá omítka pro hladké dekorativní povrchy na sanačních om�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>C515015</ITEM_ID>
           <PRODUCTNAME>Köster KB-Fix 5 · 15 kg · Vodotěsná, rychle vytvrzující malta</PRODUCTNAME>
           <PRODUCT>Köster KB-Fix 5 · 15 kg - Vodotěsná rychle vytvrzující malta</PRODUCT>
@@ -1404,7 +1489,8 @@ KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro ryc
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>C515007</ITEM_ID>
           <PRODUCTNAME>Köster KB-Fix 5 · 7,5 kg · Vodotěsná, rychle vytvrzující malta</PRODUCTNAME>
           <PRODUCT>Köster KB-Fix 5 · 7,5 kg - Vodotěsná rychle vytvrzující malta</PRODUCT>
@@ -1420,7 +1506,8 @@ KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro ryc
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M661025</ITEM_ID>
           <PRODUCTNAME>Köster Restoration Plaster Grey · 25 kg · Sanační omítka, šedá</PRODUCTNAME>
           <PRODUCT>Köster Restoration Plaster Grey · 25 kg · šedý - Sanační omítka šedá</PRODUCT>
@@ -1436,7 +1523,8 @@ Omítka odolná vůči solím a tlaku, určená pro sanaci silně vlhkého a sol
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M662025</ITEM_ID>
           <PRODUCTNAME>Köster Restoration Plaster White · 25 kg · Sanační omítka, bílá</PRODUCTNAME>
           <PRODUCT>Köster Restoration Plaster White · 25 kg · bílý - Sanační omítka bílá</PRODUCT>
@@ -1452,14 +1540,15 @@ Omítka odolná vůči solím a tlaku, určená pro sanaci silně vlhkého a sol
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M663025</ITEM_ID>
           <PRODUCTNAME>Köster Restoration Plaster White/Fast · 25 kg · Rychle tuhnoucí sanační omítka, bílá</PRODUCTNAME>
           <PRODUCT>Köster Restoration Plaster White/Fast · 25 kg · bílý - Sanační omítka rychle tuhnoucí</PRODUCT>
           <DESCRIPTION>Rychle tuhnoucí bílá sanační omítka odolná vůči soli a vlhkosti pro vnitřní i venkovní použití.
 KÖSTER Restoration Plaster White/Fast je rychle tuhnoucí, solím a tlaku odolná sanační omítka pro sanaci silně vlhkostí a solí zatížených podkladů. Díky své vysoké pórovitosti a hydrofobnosti umožňuje KÖSTER Restoration Plaster White/Fast bezvadné vysychání a odsolení zdiva i v případě vysokého obsahu soli. Zlepšuje izolační vlastnosti stěny a tím pomáhá předcházet tvorbě kondenzátu. KÖSTER Restoration Plaster White/Fast je bez lehkých plniv, a proto nevyžaduje žádnou další povrchovou úpravu před aplikací prodyšných barev nebo tapet, které jsou otevřené pro difúzi par.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-restoration-plaster-white-fast-25kg-bily</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/no-image-placeholder.jpg?v=1758281411</IMGURL>
+          <IMGURL></IMGURL>
           <PRICE_VAT>1512.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
@@ -1468,7 +1557,8 @@ KÖSTER Restoration Plaster White/Fast je rychle tuhnoucí, solím a tlaku odoln
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M664020</ITEM_ID>
           <PRODUCTNAME>Köster Restoration Plaster White/Light · 20 kg · Sanační omítka, nízká spotřeba, bílá</PRODUCTNAME>
           <PRODUCT>Köster Restoration Plaster White/Light · 20 kg · bílý - Sanační omítka lehčená</PRODUCT>
@@ -1484,7 +1574,8 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN201001</ITEM_ID>
           <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár.</PRODUCTNAME>
           <PRODUCT>Köster 2 IN 1 · 1 kg (combipackage) - PU injektážní hmota</PRODUCT>
@@ -1499,7 +1590,8 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN201005</ITEM_ID>
           <PRODUCTNAME>Köster 2 IN 1 · 5 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár.</PRODUCTNAME>
           <PRODUCT>Köster 2 IN 1 · 5 kg - PU injektážní hmota</PRODUCT>
@@ -1514,7 +1606,8 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN201020</ITEM_ID>
           <PRODUCTNAME>Köster 2 IN 1 · 20 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár.</PRODUCTNAME>
           <PRODUCT>Köster 2 IN 1 · 20 kg - PU injektážní hmota</PRODUCT>
@@ -1529,7 +1622,8 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M963045</ITEM_ID>
           <PRODUCTNAME>Köster Capillary Rods · 45 cm · 1ks · Kapilární tyče pro Mautrol a Crisin 76</PRODUCTNAME>
           <PRODUCT>Köster Capillary Rods · 45 cm · 1 ks - Patentovaná kapilární tyčinka</PRODUCT>
@@ -1544,7 +1638,8 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M963090</ITEM_ID>
           <PRODUCTNAME>Köster Capillary Rods · 90 cm · 1ks · Kapilární tyče pro Mautrol a Crisin 76</PRODUCTNAME>
           <PRODUCT>Köster Capillary Rods · 90 cm · 1 ks - Patentovaná kapilární tyčinka</PRODUCT>
@@ -1559,7 +1654,8 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN220001</ITEM_ID>
           <PRODUCTNAME>Köster IN 2 · 1 kg · PU injektážní pryskyřice, trvalé těsnění trhlin</PRODUCTNAME>
           <PRODUCT>Köster IN 2 · 1 kg (combipackage) - PU injektážní hmota</PRODUCT>
@@ -1575,7 +1671,8 @@ KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsa
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN220008</ITEM_ID>
           <PRODUCTNAME>Köster IN 2 · 8 kg · PU injektážní pryskyřice, trvalé těsnění trhlin</PRODUCTNAME>
           <PRODUCT>Köster IN 2 · 8 kg - PU injektážní hmota</PRODUCT>
@@ -1591,7 +1688,8 @@ KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsa
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN220040</ITEM_ID>
           <PRODUCTNAME>Köster IN 2 · 40 kg · PU injektážní pryskyřice, trvalé těsnění trhlin</PRODUCTNAME>
           <PRODUCT>Köster IN 2 · 40 kg - PU injektážní hmota</PRODUCT>
@@ -1607,7 +1705,8 @@ KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsa
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN250010</ITEM_ID>
           <PRODUCTNAME>Köster IN 5 · 10 kg · PU injektážní pryskyřice, elastické těsnění trhlin</PRODUCTNAME>
           <PRODUCT>Köster IN 5 · 10 kg - PU injektážní hmota</PRODUCT>
@@ -1623,7 +1722,8 @@ KÖSTER IN 5 je 2složkový polyuretan bez obsahu rozpouštědel s nízkou visko
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN290021</ITEM_ID>
           <PRODUCTNAME>Köster Injection Gel G4 · 21,4 kg · Akrylový gel pro injektáže zdiva</PRODUCTNAME>
           <PRODUCT>Köster Injection Gel G4 · 21,4 kg (20+1+0,4 kg) - Injektážní akrylátový gel pro sanaci zdiva a betonu</PRODUCT>
@@ -1639,7 +1739,8 @@ Pružný akrylový gel na vodní bázi s velmi nízkou počáteční viskozitou 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN294021</ITEM_ID>
           <PRODUCTNAME>Köster Injection Gel S4 · 21,4 kg · Akrylový gel, zastavení aktivních průsaků</PRODUCTNAME>
           <PRODUCT>Köster Injection Gel S4 · 21,4 kg (20+1+0,4 kg) - Injektážní akrylátový gel pro sanaci zdiva a betonu</PRODUCT>
@@ -1658,7 +1759,8 @@ Při použití KÖSTER Injection Gel S4 jako clonového vstřikování je třeba
       
     
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN231001</ITEM_ID>
           <PRODUCTNAME>Köster KB-Pox IN · 1 kg · Epoxidová pryskyřice pro injektování trhlin</PRODUCTNAME>
           <PRODUCT>Köster KB-Pox IN · 1 kg (combipackage) - Pryskyřice pro opravu trhlin</PRODUCT>
@@ -1674,7 +1776,8 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN231006</ITEM_ID>
           <PRODUCTNAME>Köster KB-Pox IN · 6 kg · Epoxidová pryskyřice pro injektování trhlin</PRODUCTNAME>
           <PRODUCT>Köster KB-Pox IN · 6 kg (combipackage) - Pryskyřice pro opravu trhlin</PRODUCT>
@@ -1690,7 +1793,8 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN918001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · 13x90 mm · Injektážní pakr (CH)</PRODUCTNAME>
           <PRODUCT>Köster One-Day-Site Packer · 13 mm x 90 mm CH (cone-head) - Injektážní šroubovací pakr</PRODUCT>
@@ -1706,7 +1810,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN919001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · 13x120 mm · Injektážní pakr (CH)</PRODUCTNAME>
           <PRODUCT>Köster One-Day-Site Packer · 13 mm x 120 mm CH (cone-head) - Injektážní šroubovací pakr</PRODUCT>
@@ -1722,7 +1827,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN921001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · 13x90 mm · Injektážní pakr (PH)</PRODUCTNAME>
           <PRODUCT>Köster One-Day-Site Packer · 13 mm x 90 mm PH (pan-head) - Injektážní šroubovací pakr</PRODUCT>
@@ -1738,7 +1844,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN922001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · 13x120 mm · Injektážní pakr (PH)</PRODUCTNAME>
           <PRODUCT>Köster One-Day-Site Packer · 13 mm x 120 mm PH (pan-head) - Injektážní šroubovací pakr</PRODUCT>
@@ -1756,7 +1863,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
     
   
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN912001</ITEM_ID>
           <PRODUCTNAME>Köster Superpacker · 10 mm x 85 mm · Injektážní pakr (CH)</PRODUCTNAME>
           <PRODUCT>Köster Superpacker · 10 mm x 85 mm CH (cone-head) - Injektážní superpakr</PRODUCT>
@@ -1772,7 +1880,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>IN913001</ITEM_ID>
           <PRODUCTNAME>Köster Superpacker · 10 mm x 115 mm · Injektážní pakr (CH)</PRODUCTNAME>
           <PRODUCT>Köster Superpacker · 10 mm x 115 mm CH (cone-head) - Injektážní superpakr</PRODUCT>
@@ -1788,7 +1897,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403360</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® APT 9ZH · 2,5 m · Profil pro schody</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® APT 9ZH · 2,5 m · 10 ks - Svislý profil</PRODUCT>
@@ -1803,7 +1913,8 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402868</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · hňedo-šedá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · hňedo-šedá - </PRODUCT>
@@ -1826,7 +1937,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403193</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · světle béžová · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · světle béžová - </PRODUCT>
@@ -1849,7 +1961,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402509</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · zelená · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · zelená - </PRODUCT>
@@ -1872,7 +1985,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402523</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · bílá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · bílá - </PRODUCT>
@@ -1895,7 +2009,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402516</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · rose · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · rose - </PRODUCT>
@@ -1918,7 +2033,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403186</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · terakota · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · terakota - </PRODUCT>
@@ -1941,7 +2057,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403544</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · bordo · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · bordo - </PRODUCT>
@@ -1964,7 +2081,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402769</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · světle šedá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · světle šedá - </PRODUCT>
@@ -1987,7 +2105,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403629</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · antracit · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · antracit - </PRODUCT>
@@ -2010,7 +2129,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402493</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · šedá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · šedá - </PRODUCT>
@@ -2033,7 +2153,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402691</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · černá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · černá - </PRODUCT>
@@ -2056,7 +2177,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX25012125</ITEM_ID>
           <PRODUCTNAME>OEM Křemičitý písek · 0,1-0,5mm · 25 kg</PRODUCTNAME>
           <PRODUCT>OEM Křemičitý písek · 0,1-0,5 mm · 25 kg - Křemičitý písek</PRODUCT>
@@ -2071,7 +2193,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX25012225</ITEM_ID>
           <PRODUCTNAME>OEM Křemičitý písek · 0,4-0,8mm · 25 kg</PRODUCTNAME>
           <PRODUCT>OEM Křemičitý písek · 0,4-0,8 mm · 25 kg - Křemičitý písek</PRODUCT>
@@ -2086,7 +2209,8 @@ Na beton a cementové potěry
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040525</ITEM_ID>
           <PRODUCTNAME>Remmers WP DS [basic] · 25 kg · Tuhá minerální těsnicí stěrka</PRODUCTNAME>
           <PRODUCT>Remmers WP DS [basic] · 25 kg · šedý - Minerální těsnicí stěrka pro novostavby</PRODUCT>
@@ -2104,7 +2228,8 @@ Cementová malta pro horizontální izolaci zdiva. Odolná tlakové vodě, síra
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>023705</ITEM_ID>
           <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo</PRODUCTNAME>
           <PRODUCT>Remmers Color SL · 5 l · bílý - Barva na vnitřní stěny</PRODUCT>
@@ -2120,7 +2245,8 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>22820</ITEM_ID>
           <PRODUCTNAME>Remmers iQ-Top · 20 kg · Omítka a lepidlo pro systém iQ-Therm 2.0</PRODUCTNAME>
           <PRODUCT>Remmers iQ-Top · 20 kg · starobílá - Omítka pro regulaci klimatu</PRODUCT>
@@ -2136,7 +2262,8 @@ Omítka pro systém vnitřní izolace IQ Term 2.0. Paropropustná, vysoce kapil
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>60201</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SNL · 1 l · Dodatečná hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SNL · 1 l - Hydrofobizační impregnace</PRODUCT>
@@ -2152,7 +2279,8 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>60205</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SNL · 5 l · Dodatečná hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SNL · 5 l - Hydrofobizační impregnace</PRODUCT>
@@ -2168,7 +2296,8 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>60210</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SNL · 10 l · Dodatečná hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SNL · 10 l - Hydrofobizační impregnace</PRODUCT>
@@ -2184,7 +2313,8 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>61405</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil WS · 5 l · Vodou ředitelná hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil WS · 5 l - Hydrofobizační impregnace</PRODUCT>
@@ -2200,7 +2330,8 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>61430</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil WS · 30 l · Vodou ředitelná hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil WS · 30 l - Hydrofobizační impregnace</PRODUCT>
@@ -2216,7 +2347,8 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>11421225</ITEM_ID>
           <PRODUCTNAME>Remmers Stucco Fine · 25 kg · Jemná vápenná omítka</PRODUCTNAME>
           <PRODUCT>Remmers Stucco Fine · 25 kg - Fajnová vápenná omítka</PRODUCT>
@@ -2233,7 +2365,8 @@ Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie C
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>71101</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil FC · 0,75 l · Krémová hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil FC · 0,75 l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
@@ -2249,7 +2382,8 @@ Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>71105</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil FC · 5 l · Krémová hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil FC · 5 l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
@@ -2265,7 +2399,8 @@ Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>71113</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil FC · 12,5 l · Krémová hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil FC · 12,5 l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
@@ -2281,7 +2416,8 @@ Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>298405</ITEM_ID>
           <PRODUCTNAME>Remmers Color SA plus · 5 l · Protiplísňová interiérová barva</PRODUCTNAME>
           <PRODUCT>Remmers Color SA plus · 5 l · bílý - Interiérová barva s mikrostříbrem proti plísním</PRODUCT>
@@ -2297,7 +2433,8 @@ Barva s dlouhodobou ochranou proti plísním. Paropropustná, odolná vlhkosti, 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>298413</ITEM_ID>
           <PRODUCTNAME>Remmers Color SA plus · 12,5 l · Protiplísňová interiérová barva</PRODUCTNAME>
           <PRODUCT>Remmers Color SA plus · 12,5 l · bílý - Interiérová barva s mikrostříbrem proti plísním</PRODUCT>
@@ -2313,7 +2450,8 @@ Barva s dlouhodobou ochranou proti plísním. Paropropustná, odolná vlhkosti, 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>108705</ITEM_ID>
           <PRODUCTNAME>Remmers Betofix KHB · 5 kg · Antikorozní ochrana</PRODUCTNAME>
           <PRODUCT>Remmers Betofix KHB · 5 kg · šedý - Minerální ochrana před korozí a adhezní můstek</PRODUCT>
@@ -2329,7 +2467,8 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>108725</ITEM_ID>
           <PRODUCTNAME>Remmers Betofix KHB · 25 kg · Antikorozní ochrana</PRODUCTNAME>
           <PRODUCT>Remmers Betofix KHB · 25 kg · šedý - Minerální ochrana před korozí a adhezní můstek</PRODUCT>
@@ -2345,7 +2484,8 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>051925</ITEM_ID>
           <PRODUCTNAME>Remmers VM Fill Rapid · 25 kg · Rychlá lepicí malta, štuková omítka</PRODUCTNAME>
           <PRODUCT>Remmers VM Fill Rapid · 25 kg · starobílá - Rychle tuhnoucí filcovatelná lepicí a opravná malta</PRODUCT>
@@ -2361,7 +2501,8 @@ Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnos
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>60830</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SL · 30 l · Hydrofobní impregnace pro vápenaté přírodní kameny</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SL · 30 l - Hydrofobní impregnace pro vápenec</PRODUCT>
@@ -2377,7 +2518,8 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>60805</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SL · 5 l · Hydrofobní impregnace pro vápenaté přírodní kameny</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SL · 5 l - Hydrofobní impregnace pro vápenec</PRODUCT>
@@ -2393,7 +2535,8 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071905</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 100 · 5 l · Zpevňovač kamene, nížší koncentrace</PRODUCTNAME>
           <PRODUCT>Remmers KSE 100 · 5 l - Zpevňovač kamene na organokřemičité báz</PRODUCT>
@@ -2409,7 +2552,8 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071930</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 100 · 30 l · Zpevňovač kamene, nížší koncentrace</PRODUCTNAME>
           <PRODUCT>Remmers KSE 100 · 30 l - Zpevňovač kamene na organokřemičité báz</PRODUCT>
@@ -2425,7 +2569,8 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX5071M</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 120 · na míru (/m) · šířka: 12cm · Těsnicí páska</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 120 · na míru · 1m · šířka: 12cm - Těsnicí pásek</PRODUCT>
@@ -2442,7 +2587,8 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>109325</ITEM_ID>
           <PRODUCTNAME>Remmers Betofix R2 · 25 kg ·Rychlá opravná malta</PRODUCTNAME>
           <PRODUCT>Remmers Betofix R2 · 25 kg - Minerální ochrana před korozí a adhezní můstek</PRODUCT>
@@ -2459,7 +2605,8 @@ Rychleschnoucí malta pro opravy betonu. Vysoká přilnavost, odolná mrazu, vho
       
     
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>104625</ITEM_ID>
           <PRODUCTNAME>Remmers FM ZF · 25 kg · Spárovací malta bez cementu</PRODUCTNAME>
           <PRODUCT>Remmers FM ZF · 25 kg - Spárovací malta bez cementu</PRODUCT>
@@ -2475,7 +2622,8 @@ Vápenná malta pro spárování cihelných fasád. Jemná zrnitost, odolná pov
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX466701Z</ITEM_ID>
           <PRODUCTNAME>Gloria 410 T Profiline · 10 l · včetně injektážní trubice · zápůjčka</PRODUCTNAME>
           <PRODUCT>Gloria 410 T Profiline · 10 l · vč. injektážní trubice 50 a 100 cm · zápůjčka - Injektážní pumpa</PRODUCT>
@@ -2493,7 +2641,8 @@ Zápůjční podmínky:🕒 Účtujeme za každých započatých 24 hodin zápů
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M261039</ITEM_ID>
           <PRODUCTNAME>Köster Mautrol 2C · 39,5 kg · Hydrofobizující injektáž a zpevněni zdiva</PRODUCTNAME>
           <PRODUCT>Köster Mautrol 2C · 39,5 kg (36 + 3,5 kg) - PU injektážní hmota</PRODUCT>
@@ -2509,7 +2658,8 @@ KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M261262</ITEM_ID>
           <PRODUCTNAME>Köster Mautrol 2C · 262 kg · Hydrofobizující injektáž a zpevněni zdiva</PRODUCTNAME>
           <PRODUCT>Köster Mautrol 2C · 262 kg (240 + 22 kg) - PU injektážní hmota</PRODUCT>
@@ -2525,7 +2675,8 @@ KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>466701</ITEM_ID>
           <PRODUCTNAME>Gloria 410 T Profiline · 10 l · včetně injektážní trubice 50 a 100 cm</PRODUCTNAME>
           <PRODUCT>Gloria 410 T Profiline · 10 l · vč. injektážní trubice 50 a 100 cm - Injektážní pumpa</PRODUCT>
@@ -2543,7 +2694,8 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX466901Z</ITEM_ID>
           <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm · zápůjčka</PRODUCTNAME>
           <PRODUCT>Gloria 405 T Profiline · 5 l · vč. injektážní trubice 50 a 100 cm · zápůjčka - Injektážní pumpa</PRODUCT>
@@ -2561,7 +2713,8 @@ Zápůjční podmínky:🕒 Účtujeme za každých započatých 24 hodin zápů
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M279005</ITEM_ID>
           <PRODUCTNAME>Köster Crisin 76 · 5 l · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
           <PRODUCT>Köster Crisin 76 · 5 l - </PRODUCT>
@@ -2579,7 +2732,8 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M279010</ITEM_ID>
           <PRODUCTNAME>Köster Crisin 76 · 10 l · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
           <PRODUCT>Köster Crisin 76 · 10 l - </PRODUCT>
@@ -2597,7 +2751,8 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M279200</ITEM_ID>
           <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
           <PRODUCT>Köster Crisin 76 · 200 ml - </PRODUCT>
@@ -2615,7 +2770,8 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M930001</ITEM_ID>
           <PRODUCTNAME>Köster Suction Angle plastový rohovník · 1 ks · pro Crisin 76</PRODUCTNAME>
           <PRODUCT>Köster Suction Angle plastový rohovník · 1 ks · opakovaně použitelný - </PRODUCT>
@@ -2630,7 +2786,8 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072005</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 300 · 5 l · Zpevňovač kamene, vysoká koncentrace</PRODUCTNAME>
           <PRODUCT>Remmers KSE 300 · 5 l - Zpevňovač kamene, vysoká koncentrace</PRODUCT>
@@ -2646,7 +2803,8 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072030</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 300 · 30 l · Zpevňovač kamene, vysoká koncentrace</PRODUCTNAME>
           <PRODUCT>Remmers KSE 300 · 30 l - Zpevňovač kamene, vysoká koncentrace</PRODUCT>
@@ -2662,7 +2820,8 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>106525</ITEM_ID>
           <PRODUCTNAME>Remmers FM SAN · 25 kg · Vápenocementová sanační malta</PRODUCTNAME>
           <PRODUCT>Remmers FM SAN · 25 kg · betonově šedá - Vápenocementová sanační malta</PRODUCT>
@@ -2678,7 +2837,8 @@ Spárovací malta pro cihly, odolná solím a síranům. Paropropustná, pro san
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M673012</ITEM_ID>
           <PRODUCTNAME>Köster Thermal Insulation/Restoration Plaster · 12,5 kg · Sanační, protiplísňová a zateplující omítka</PRODUCTNAME>
           <PRODUCT>Köster Thermal Insulation/Restoration Plaster · 12,5 kg - </PRODUCT>
@@ -2694,7 +2854,8 @@ Spárovací malta pro cihly, odolná solím a síranům. Paropropustná, pro san
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W530025</ITEM_ID>
           <PRODUCTNAME>Köster Repair Mortar · 25 kg · Vodotěsná opravná malta</PRODUCTNAME>
           <PRODUCT>Köster Repair Mortar · 25 kg - </PRODUCT>
@@ -2711,7 +2872,8 @@ KÖSTER Repair Mortar je vodotěsná opravná malta s vynikající přilnavost�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>074615-MF10003</ITEM_ID>
           <PRODUCTNAME>Remmers RM N · 15 kg · speciální odstín · starobílá · Restaurátorská malta</PRODUCTNAME>
           <PRODUCT>Remmers RM N · 15 kg · speciální odstín · starobílá - Restaurátorská malta</PRODUCT>
@@ -2727,7 +2889,8 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>M154025</ITEM_ID>
           <PRODUCTNAME>Köster Restoration Plaster Key Coarse · 25 kg · Kontaktní nástřik</PRODUCTNAME>
           <PRODUCT>Köster Restoration Plaster Key Coarse · 25 kg - </PRODUCT>
@@ -2743,7 +2906,8 @@ Rychleschnoucí kontaktní nástřik s polymerními přísadami pro přípravu 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>109625</ITEM_ID>
           <PRODUCTNAME>Remmers Betofix R4 · 25 kg · Rychlá opravná malta se statickou funkcí</PRODUCTNAME>
           <PRODUCT>Remmers Betofix R4 · 25 kg - PCC malta</PRODUCT>
@@ -2759,7 +2923,8 @@ Rychleschnoucí malta pro opravy betonu se statickou funkcí. Vysoká přilnavos
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>064105</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · 5 l · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SNL geruchsneutral · 5 l - Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCT>
@@ -2776,7 +2941,8 @@ Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>064130</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · 30 l · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SNL geruchsneutral · 30 l - Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCT>
@@ -2792,7 +2958,8 @@ Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>064005</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil AS · 5 l · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil AS · 5 l - Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCT>
@@ -2808,7 +2975,8 @@ Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává p
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>064030</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil AS · 30 l · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil AS · 30 l - Ochrana fasád před deštěm a zelenáním</PRODUCT>
@@ -2824,7 +2992,8 @@ Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává p
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>061705</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil OFS · 5 l · Impregnace pro snadnou údržbu povrchů</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil OFS · 5 l - Impregnace pro snadnou údržbu povrchů</PRODUCT>
@@ -2840,7 +3009,8 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>061730</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil OFS · 30 l · Impregnace pro snadnou údržbu povrchů</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil OFS · 30 l - Impregnace pro snadnou údržbu povrchů</PRODUCT>
@@ -2856,7 +3026,8 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>065505</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil AG · 5 l · Impregnace proti řasám</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil AG · 5 l - Impregnace proti řasám</PRODUCT>
@@ -2872,7 +3043,8 @@ Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paro
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>065530</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil AG · 30 l · Impregnace proti řasám</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil AG · 30 l - Impregnace proti řasám</PRODUCT>
@@ -2888,7 +3060,8 @@ Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paro
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>031220</ITEM_ID>
           <PRODUCTNAME>Remmers BSP 3 · 20 kg · Tekutá minerální výplňová a injektážní malta</PRODUCTNAME>
           <PRODUCT>Remmers BSP 3 · 20 kg - Tekutá minerální výplňová a injektážní malta</PRODUCT>
@@ -2904,7 +3077,8 @@ Minerální malta pro injektáž zdiva. Nízká viskozita, odolná síranům, WT
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>101001</ITEM_ID>
           <PRODUCTNAME>Remmers WP RH Rapid · 1 kg · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
           <PRODUCT>Remmers WP RH Rapid · 1 kg - Rychle tuhnoucí výplňová malta</PRODUCT>
@@ -2920,7 +3094,8 @@ Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje t
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>101005</ITEM_ID>
           <PRODUCTNAME>Remmers WP RH Rapid · 5 kg · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
           <PRODUCT>Remmers WP RH Rapid · 5 kg - Rychle tuhnoucí výplňová malta</PRODUCT>
@@ -2936,7 +3111,8 @@ Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje t
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>101015</ITEM_ID>
           <PRODUCTNAME>Remmers WP RH Rapid · 15 kg (3x5 kg) · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
           <PRODUCT>Remmers WP RH Rapid · 15 kg (3 x 5 kg) - Rychle tuhnoucí výplňová malta</PRODUCT>
@@ -2952,7 +3128,8 @@ Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje t
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>061605</ITEM_ID>
           <PRODUCTNAME>Remmers Antihygro · 5 l · Ochranný prostředek pro přírodní horniny</PRODUCTNAME>
           <PRODUCT>Remmers Antihygro · 5 l - Ochranný prostředek pro přírodní horniny</PRODUCT>
@@ -2968,7 +3145,8 @@ Ochranný prostředek pro kámen s jílovými minerály. Snižuje hygrické bobt
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>061630</ITEM_ID>
           <PRODUCTNAME>Remmers Antihygro · 30 l · Ochranný prostředek pro přírodní horniny</PRODUCTNAME>
           <PRODUCT>Remmers Antihygro · 30 l - Ochranný prostředek pro přírodní horniny</PRODUCT>
@@ -2984,7 +3162,8 @@ Ochranný prostředek pro kámen s jílovými minerály. Snižuje hygrické bobt
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>067105</ITEM_ID>
           <PRODUCTNAME>Remmers Clean SL · 5 kg · Čistící roztok na stěny a podlahy</PRODUCTNAME>
           <PRODUCT>Remmers Clean SL · 5 kg - Čistící roztok na stěny a podlahy</PRODUCT>
@@ -3000,7 +3179,8 @@ Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>066601</ITEM_ID>
           <PRODUCTNAME>Remmers Clean FP · 1 kg · Čisticí pasta pro fasády</PRODUCTNAME>
           <PRODUCT>Remmers Clean FP · 1 kg - Čisticí pasta pro fasády</PRODUCT>
@@ -3016,7 +3196,8 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>066605</ITEM_ID>
           <PRODUCTNAME>Remmers Clean FP · 5 kg · Čisticí pasta pro fasády</PRODUCTNAME>
           <PRODUCT>Remmers Clean FP · 5 kg - Čisticí pasta pro fasády</PRODUCT>
@@ -3032,7 +3213,8 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>066630</ITEM_ID>
           <PRODUCTNAME>Remmers Clean FP · 30 kg · Čisticí pasta pro fasády</PRODUCTNAME>
           <PRODUCT>Remmers Clean FP · 30 kg - Čisticí pasta pro fasády</PRODUCT>
@@ -3048,7 +3230,8 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>181310</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol iK · 10 kg · Hydrofobizující siloxanový koncentrát</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol iK · 10 kg - Hydrofobizující siloxanový koncentrát</PRODUCT>
@@ -3064,7 +3247,8 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>181330</ITEM_ID>
           <PRODUCTNAME>Remmers Kiesol iK · 30 kg · Hydrofobizující siloxanový koncentrát</PRODUCTNAME>
           <PRODUCT>Remmers Kiesol iK · 30 kg - Hydrofobizující siloxanový koncentrát</PRODUCT>
@@ -3080,7 +3264,8 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>2087130</ITEM_ID>
           <PRODUCTNAME>Remmers BIT 2K [basic] · 30 l · Asfaltový silnovrstvý nátěr</PRODUCTNAME>
           <PRODUCT>Remmers BIT 2K [basic] · 30 l - Asfaltový silnovrstvý nátěr</PRODUCT>
@@ -3096,7 +3281,8 @@ Dvousložkový bitumenový nátěr bez rozpouštědel. Překlenuje trhliny, odol
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>063905</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil BI · 5 l · Hydrofobní impregnace betonu</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil BI · 5 l - Hydrofobní impregnace betonu</PRODUCT>
@@ -3112,7 +3298,8 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>063930</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil BI · 30 l · Hydrofobní impregnace betonu</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil BI · 30 l - Hydrofobní impregnace betonu</PRODUCT>
@@ -3128,7 +3315,8 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>107205</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro S F · 5 kg · Minerální zpevňující penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro S F · 5 kg - Minerální zpevňující penetrace</PRODUCT>
@@ -3144,7 +3332,8 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>107230</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro S F · 30 kg · Minerální zpevňující penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro S F · 30 kg - Minerální zpevňující penetrace</PRODUCT>
@@ -3160,7 +3349,8 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072505</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro HF · 5 l · Hloubková zpevňující penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro HF · 5 l - Hloubková zpevňující penetrace</PRODUCT>
@@ -3176,7 +3366,8 @@ Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydro
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>072530</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro HF · 30 l · Hloubková zpevňující penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro HF · 30 l - Hloubková zpevňující penetrace</PRODUCT>
@@ -3192,7 +3383,8 @@ Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydro
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>062405</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro S HF · 5 l · Minerální hydrofobní penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro S HF · 5 l - Minerální hydrofobní penetrace</PRODUCT>
@@ -3208,7 +3400,8 @@ Silikátová penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobn�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>065405</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 300 HV · 5 l · Zpevňovač vápence</PRODUCTNAME>
           <PRODUCT>Remmers KSE 300 HV · 5 l - Zpevňovač vápence</PRODUCT>
@@ -3226,7 +3419,8 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>065430</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 300 HV · 30 l · Zpevňovač vápence</PRODUCTNAME>
           <PRODUCT>Remmers KSE 300 HV · 30 l - Zpevňovač vápence</PRODUCT>
@@ -3247,7 +3441,8 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071301</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 500 STE · 1 l · Elastifikovaný zpevňovač kamene</PRODUCTNAME>
           <PRODUCT>Remmers KSE 500 STE · 1 l - Elastifikovaný zpevňovač kamene</PRODUCT>
@@ -3263,7 +3458,8 @@ Silikátový zpevňovač pro přírodní kámen. Vysoká pevnost, hluboká penet
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071303</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 500 STE · 2,5 l · Elastifikovaný zpevňovač kamene</PRODUCTNAME>
           <PRODUCT>Remmers KSE 500 STE · 2,5 l - Elastifikovaný zpevňovač kamene</PRODUCT>
@@ -3282,7 +3478,8 @@ Silikátový zpevňovač pro přírodní kámen. Vysoká pevnost, hluboká penet
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071405</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 300 E · 5 l · Elastický zpevňovač</PRODUCTNAME>
           <PRODUCT>Remmers KSE 300 E · 5 l - Elastický zpevňovač</PRODUCT>
@@ -3301,7 +3498,8 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071430</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 300 E · 30 l · Elastický zpevňovač</PRODUCTNAME>
           <PRODUCT>Remmers KSE 300 E · 30 l - Elastický zpevňovač</PRODUCT>
@@ -3320,7 +3518,8 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>2087210</ITEM_ID>
           <PRODUCTNAME>Remmers BIT 1K [basic] · 10 l · Bitumenový nátěr (1K)</PRODUCTNAME>
           <PRODUCT>Remmers BIT 1K [basic] · 10 l - Bitumenová stěrka</PRODUCT>
@@ -3336,7 +3535,8 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>2087230</ITEM_ID>
           <PRODUCTNAME>Remmers BIT 1K [basic] · 30 l · Bitumenový nátěr (1K)</PRODUCTNAME>
           <PRODUCT>Remmers BIT 1K [basic] · 30 l - Bitumenová stěrka</PRODUCT>
@@ -3352,7 +3552,8 @@ Jednosložkový (1K) bitumenový nátěr, bezrozpouštědlový, modifikovaný pl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>2088830</ITEM_ID>
           <PRODUCTNAME>Remmers BIT K2 · 30 l · Silnovrstvá izolace (2K)</PRODUCTNAME>
           <PRODUCT>Remmers BIT K2 · 30 l - Silnovrstvá izolace</PRODUCT>
@@ -3368,7 +3569,8 @@ Dvousložková (2K) bitumenová izolace s polystyrenem, přemosťující trhliny
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>11420930</ITEM_ID>
           <PRODUCTNAME>Remmers Stucco Prep · 30 kg · Vápenná malta pro památkové objekty</PRODUCTNAME>
           <PRODUCT>Remmers Stucco Prep · 30 kg - Omítkový vápenný podhoz</PRODUCT>
@@ -3385,7 +3587,8 @@ Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie C
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>284205</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro F · 5 l · Zpevňující penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro F · 5 l - Zpevňující penetrace</PRODUCT>
@@ -3401,7 +3604,8 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>284230</ITEM_ID>
           <PRODUCTNAME>Remmers Primer Hydro F · 30 l · Zpevňující penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer Hydro F · 30 l - Zpevňující penetrace</PRODUCT>
@@ -3417,7 +3621,8 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>136801</ITEM_ID>
           <PRODUCTNAME>Remmers AGE · 0,75 l · Odstraňovač nátěrů a graffiti</PRODUCTNAME>
           <PRODUCT>Remmers AGE · 0,75 l - Odstraňovač nátěrů a graffiti</PRODUCT>
@@ -3433,7 +3638,8 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>136805</ITEM_ID>
           <PRODUCTNAME>Remmers AGE · 5 l · Odstraňovač nátěrů a graffiti</PRODUCTNAME>
           <PRODUCT>Remmers AGE · 5 l - Odstraňovač nátěrů a graffiti</PRODUCT>
@@ -3449,7 +3655,8 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>136825</ITEM_ID>
           <PRODUCTNAME>Remmers AGE · 25 l · Odstraňovač nátěrů a graffiti</PRODUCTNAME>
           <PRODUCT>Remmers AGE · 25 l - Odstraňovač nátěrů a graffiti</PRODUCT>
@@ -3465,7 +3672,8 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>067201</ITEM_ID>
           <PRODUCTNAME>Remmers Clean AC [basic] · 1 kg · Kyselý čistič fasád</PRODUCTNAME>
           <PRODUCT>Remmers Clean AC [basic] · 1 kg - Kyselý čistič fasád</PRODUCT>
@@ -3481,7 +3689,8 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>067205</ITEM_ID>
           <PRODUCTNAME>Remmers Clean AC [basic] · 5 kg · Kyselý čistič fasád</PRODUCTNAME>
           <PRODUCT>Remmers Clean AC [basic] · 5 kg - Kyselý čistič fasád</PRODUCT>
@@ -3497,7 +3706,8 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>067210</ITEM_ID>
           <PRODUCTNAME>Remmers Clean AC [basic] · 10 kg · Kyselý čistič fasád</PRODUCTNAME>
           <PRODUCT>Remmers Clean AC [basic] · 10 kg - Kyselý čistič fasád</PRODUCT>
@@ -3513,7 +3723,8 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>283405</ITEM_ID>
           <PRODUCTNAME>Remmers CEM Rapid · 5 kg · Rychle tuhnoucí cement</PRODUCTNAME>
           <PRODUCT>Remmers CEM Rapid · 5 kg - Rychle tuhnoucí cement</PRODUCT>
@@ -3529,7 +3740,8 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>283415</ITEM_ID>
           <PRODUCTNAME>Remmers CEM Rapid · 15 kg · Rychle tuhnoucí cement</PRODUCTNAME>
           <PRODUCT>Remmers CEM Rapid · 15 kg (3 x 5 kg) - Rychle tuhnoucí cement</PRODUCT>
@@ -3545,7 +3757,8 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>640005</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA · 5 l · bílý · Akrylová fasádní barva</PRODUCTNAME>
           <PRODUCT>Remmers Color LA · 5 l · bílý - Akrylová fasádní barva</PRODUCT>
@@ -3561,7 +3774,8 @@ Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>640013</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA · 12,5 l · bílý · Akrylová fasádní barva</PRODUCTNAME>
           <PRODUCT>Remmers Color LA · 12,5 l · bílý - Akrylová fasádní barva</PRODUCT>
@@ -3577,7 +3791,8 @@ Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>056010</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Fill · 10 kg · bílý · Výplňová barva</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Fill · 10 kg · bílý - Výplňová barva</PRODUCT>
@@ -3593,7 +3808,8 @@ Akrylová výplňová barva pro cihlové fasády starých budov. Překlenuje mik
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>647605</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Historic · 5 l · Historická barva, speciální odstíny</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Historic · 5 l · speciální odstíny - Historická barva, speciální odstíny</PRODUCT>
@@ -3609,7 +3825,8 @@ Lazurovací &quot;pravý&quot; silikonový nátěr pro památkově chráněné o
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>647613</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Historic · 12,5 l · Historická barva, spec. odstíny</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Historic · 12,5 l · speciální odstíny - Historická barva, speciální odstíny</PRODUCT>
@@ -3627,7 +3844,8 @@ Lazurovací &quot;pravý&quot; silikonový nátěr pro památkově chráněné o
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>641505</ITEM_ID>
           <PRODUCTNAME>Remmers Color SF · 5 l · Bílá silikonová fasádní barva s ochranou proti plísním a řasám</PRODUCTNAME>
           <PRODUCT>Remmers Color SF · 5 l · bílá - Silikonová fasádní barva s ochranou proti plísním a řasám</PRODUCT>
@@ -3644,7 +3862,8 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>641513</ITEM_ID>
           <PRODUCTNAME>Remmers Color SF · 12,5 l · Bílá silikonová fasádní barva, ochranou proti plísním a řasám</PRODUCTNAME>
           <PRODUCT>Remmers Color SF · 12,5 l · bílá - Silikonová fasádní barva s ochranou proti plísním a řasám</PRODUCT>
@@ -3663,7 +3882,8 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>642013</ITEM_ID>
           <PRODUCTNAME>Remmers Color SF · 12,5 l · Silikonová fasádní barva, ochranou proti plísním a řasám</PRODUCTNAME>
           <PRODUCT>Remmers Color SF · 12,5 l · speciální odstíny - Silikonová fasádní barva s ochranou proti plísním a řasám</PRODUCT>
@@ -3680,7 +3900,8 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>642005</ITEM_ID>
           <PRODUCTNAME>Remmers Color SF · 5 l · Silikonová fasádní barva s ochranou proti plísním a řasám</PRODUCTNAME>
           <PRODUCT>Remmers Color SF · 5 l · speciální odstíny - Silikonová fasádní barva s ochranou proti plísním a řasám</PRODUCT>
@@ -3697,7 +3918,8 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>044515</ITEM_ID>
           <PRODUCTNAME>Remmers WP Flex 1K · 15 kg · Pružná těsnící malta</PRODUCTNAME>
           <PRODUCT>Remmers WP Flex 1K · 15 kg - Pružná těsnící malta</PRODUCT>
@@ -3713,7 +3935,8 @@ Jednosložková (1K) pružná těsnící malta pro izolaci pod keramické obklad
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>656610</ITEM_ID>
           <PRODUCTNAME>Remmers Color CL Fill Historic · 10 kg · Výplňová barva</PRODUCTNAME>
           <PRODUCT>Remmers Color CL Fill Historic · 10 kg - Výplňová barva pro historické fasády</PRODUCT>
@@ -3729,7 +3952,8 @@ Minerální interiérová výplňová barva pro památkové a ekologické prosto
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>656210</ITEM_ID>
           <PRODUCTNAME>Remmers CL Fill Q3 Historic · 10 kg · Vápenná stěrka</PRODUCTNAME>
           <PRODUCT>Remmers CL Fill Q3 Historic · 10 kg - Vápenná stěrka</PRODUCT>
@@ -3745,7 +3969,8 @@ Vápenná stěrka pro památkové a ekologické interiérové prostory. Připrav
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>656410</ITEM_ID>
           <PRODUCTNAME>Remmers CL Fill Q4 Historic · 10 kg · Vápenná stěrka</PRODUCTNAME>
           <PRODUCT>Remmers CL Fill Q4 Historic · 10 kg - Vápenná stěrka</PRODUCT>
@@ -3761,7 +3986,8 @@ Vápenná stěrka pro památkové a ekologické interiérové prostory. Připrav
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071505</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 500 E · 5 l · Elastický zpevňovač kamene</PRODUCTNAME>
           <PRODUCT>Remmers KSE 500 E · 5 l - Elastický zpevňovač kamene</PRODUCT>
@@ -3777,7 +4003,8 @@ Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071530</ITEM_ID>
           <PRODUCTNAME>Remmers KSE 500 E · 30 l · Elastický zpevňovač kamene</PRODUCTNAME>
           <PRODUCT>Remmers KSE 500 E · 30 l - Elastický zpevňovač kamene</PRODUCT>
@@ -3793,7 +4020,8 @@ Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>057103</ITEM_ID>
           <PRODUCTNAME>Remmers KSE Filler A · 3 kg · světle šedá · Plnivo pro Remmers KSE</PRODUCTNAME>
           <PRODUCT>Remmers KSE Filler A · 3 kg · světle šedá - Plnivo pro Remmers KSE</PRODUCT>
@@ -3809,7 +4037,8 @@ Výplňový tmel na bázi KSE pro restaurování památek. Zpevňuje kámen, vyp
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>057202</ITEM_ID>
           <PRODUCTNAME>Remmers KSE Filler B · 2 kg · bílá · Plnivo pro Remmers KSE</PRODUCTNAME>
           <PRODUCT>Remmers KSE Filler B · 2 kg · bílá - Plnivo pro Remmers KSE</PRODUCT>
@@ -3825,7 +4054,8 @@ Hrubý tmel na bázi KSE pro památky. Vyplňuje větší póry a trhliny v kame
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071005</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil IC · 5 l · Impregnace betonu a železobetonu při stavbě mostů, silnic a budov</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil IC · 5 l - Impregnace betonu a železobetonu</PRODUCT>
@@ -3841,7 +4071,8 @@ Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071030</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil IC · 30 l · Impregnace betonu a železobetonu při stavbě mostů, silnic a budov</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil IC · 30 l - Impregnace betonu a železobetonu</PRODUCT>
@@ -3857,7 +4088,8 @@ Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>100825</ITEM_ID>
           <PRODUCTNAME>Remmers Betofix Fill · 25 kg · PCC jemná stěrka pro vyrovnání betonových povrchů</PRODUCTNAME>
           <PRODUCT>Remmers Betofix Fill · 25 kg - PCC jemná stěrka pro vyrovnání betonových povrchů</PRODUCT>
@@ -3873,7 +4105,8 @@ Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům,
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>641005</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Add Transparent · 5 l · bezbarvý · Ředicí aditivum</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Add Transparent · 5 l · bezbarvý - Ředicí aditivum</PRODUCT>
@@ -3889,7 +4122,8 @@ Transparentní silikonová barva pro památkové fasády. Zvyšuje vodoodpudivos
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>641013</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Add Transparent · 12,5 l · bezbarvý · Ředicí aditivum</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Add Transparent · 12,5 l · bezbarvý - Ředicí aditivum</PRODUCT>
@@ -3905,7 +4139,8 @@ Transparentní silikonová barva pro památkové fasády. Zvyšuje vodoodpudivos
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>647105</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Fill Historic · 5 l · spec. odstíny · Plnící barva</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Fill Historic · 5 l · speciální odstíny - Plnící barva historická</PRODUCT>
@@ -3921,7 +4156,8 @@ Akrylová výplňová barva pro cihlové fasády památek. Překlenuje mikrotrhl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>647113</ITEM_ID>
           <PRODUCTNAME>Remmers Color LA Fill Historic · 12,5 l · spec. odstíny · Plnící barva</PRODUCTNAME>
           <PRODUCT>Remmers Color LA Fill Historic · 12,5 l · speciální odstíny - Plnící barva historická</PRODUCT>
@@ -3938,7 +4174,8 @@ Akrylová výplňová barva pro cihlové fasády památek. Překlenuje mikrotrhl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>070413</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil C 40 · 12,5l · Hydrofobní impregnace pro betonové konstrukce a omítky</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil C 40 · 12,5 l - Hydrofobní impregnace</PRODUCT>
@@ -3954,7 +4191,8 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>650005</ITEM_ID>
           <PRODUCTNAME>Remmers Color PA · 5 l · bílá · Akrylová barva na fasády a betonové povrchy</PRODUCTNAME>
           <PRODUCT>Remmers Color PA · 5 l · bílá - Akrylová barva na fasády a betonové povrchy</PRODUCT>
@@ -3970,7 +4208,8 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>650013</ITEM_ID>
           <PRODUCTNAME>Remmers Color PA · 12,5 l · bílá · Akrylová barva na fasády a betonové povrchy</PRODUCTNAME>
           <PRODUCT>Remmers Color PA · 12,5 l · bílá - Akrylová barva na fasády a betonové povrchy</PRODUCT>
@@ -3986,7 +4225,8 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>105020</ITEM_ID>
           <PRODUCTNAME>Remmers SP Top SL [basic] · 20 kg · Protiplísňová omítka</PRODUCTNAME>
           <PRODUCT>Remmers SP Top SL [basic]· 20 kg - Protiplísňová omítka</PRODUCT>
@@ -4002,7 +4242,8 @@ Kapilárně aktivní omítka pro sanaci plísní na zdivu a stropech. Vysoká na
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040920</ITEM_ID>
           <PRODUCTNAME>Remmers SP Fill Q3 · 20 kg · Minerální štuková a tmelicí omítka</PRODUCTNAME>
           <PRODUCT>Remmers SP Fill Q3 · 20 kg - Minerální štuková a tmelicí omítka</PRODUCT>
@@ -4021,7 +4262,8 @@ Jemná minerální omítka a tmel pro sanaci zdiva. Kapilárně aktivní, paropr
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>409263</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® PUR TOP 32P · 2,5 kg · polomatný · Ochranný nátěr</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® PUR TOP 32P · 2,5 kg · polomatný - </PRODUCT>
@@ -4037,7 +4279,8 @@ HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížen�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402202</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® PUR TOP 32P · 2,5 kg · lesklý · Ochranný nátěr</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® PUR TOP 32P · 2,5 kg · lesklý - </PRODUCT>
@@ -4053,7 +4296,8 @@ HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížen�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>057625</ITEM_ID>
           <PRODUCTNAME>Remmers Historic Oberputz · 25 kg · Objektová vrchní omítka</PRODUCTNAME>
           <PRODUCT>Remmers Historic Oberputz · 25 kg - Objektová vrchní omítka</PRODUCT>
@@ -4069,7 +4313,8 @@ Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odoln
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>056306</ITEM_ID>
           <PRODUCTNAME>Remmers RM RZ Historic · 6 kg · Rychlovazná malta na bázi románského cementu</PRODUCTNAME>
           <PRODUCT>Remmers RM RZ Historic · 6 kg · béžovo-lísková - Rychlovazná malta na bázi románského cementu</PRODUCT>
@@ -4085,7 +4330,8 @@ Rychlovazná malta z románského cementu pro štuky a spáry památek. Paroprop
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>040420</ITEM_ID>
           <PRODUCTNAME>Remmers SP Top Rapid · 20 kg · Rychleschnoucí sanační omítka</PRODUCTNAME>
           <PRODUCT>Remmers SP Top Rapid · 20 kg · starobílá - Rychleschnoucí sanační omítka</PRODUCT>
@@ -4101,7 +4347,8 @@ Rychleschnoucí sanační omítka pro vlhké a zasolené zdivo podle WTA. Paropr
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>066101</ITEM_ID>
           <PRODUCTNAME>Remmers Clean Galena max · 1 kg · Čistič historického kamene</PRODUCTNAME>
           <PRODUCT>Remmers Clean Galena max · 1 kg - Čistič historického kamene</PRODUCT>
@@ -4117,7 +4364,8 @@ Vodný čistič pro historický kámen. Odstraňuje špínu, mastnotu, šetrný 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>066125</ITEM_ID>
           <PRODUCTNAME>Remmers Clean Galena max · 25 kg · Čistič historického kamene</PRODUCTNAME>
           <PRODUCT>Remmers Clean Galena max · 25 kg - Čistič historického kamene</PRODUCT>
@@ -4133,7 +4381,8 @@ Vodný čistič pro historický kámen. Odstraňuje špínu, mastnotu, šetrný 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>107020</ITEM_ID>
           <PRODUCTNAME>Remmers Entsalzungskompresse · 20 kg · Odsolovací malta</PRODUCTNAME>
           <PRODUCT>Remmers Entsalzungskompresse · 20 kg - Odsolovací malta</PRODUCT>
@@ -4149,7 +4398,8 @@ Odsolovací maltová směs pro historický kámen a zdivo. Efektivně odstraňuj
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>40373</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® FBA 32P · 7 kg · Hydroizolační nátěr pro balkony a terasy (štěrkově šedý)</PRODUCTNAME>
           <PRODUCT>Hahne HADALAN® FBA 32P · 7 kg · štěrkově šedý - Flexibilní jednosložková hydroizolace</PRODUCT>
@@ -4166,7 +4416,8 @@ Barva: štěrkově šedá (kieselgrau ca. RAL 7032)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403131</ITEM_ID>
           <PRODUCTNAME>Hahne INTRASIT® SE-SL 18DD · 5 kg · Sanační roztok pro pro šetrnou likvidaci plísní</PRODUCTNAME>
           <PRODUCT>Hahne INTRASIT® SE-SL 18DD · 5 kg - </PRODUCT>
@@ -4182,7 +4433,8 @@ INTRASIT® SE-SL 18DD je vysoce koncentrovaný čisticí roztok, který se použ
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>402806</ITEM_ID>
           <PRODUCTNAME>Hahne HADALAN® PU-Injekt 12P · 2 l · Polyuretanová injektážní pryskyřice pro spárování bez smrštění.</PRODUCTNAME>
           <PRODUCT>Hahne INTRASIT® PU-Injekt 12P · 2 l - </PRODUCT>
@@ -4200,7 +4452,8 @@ INTRASIT® PU-Injekt 12P je dvousložková nízkovizkózní polyuretanová prys
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>022001</ITEM_ID>
           <PRODUCTNAME>Remmers ZM HF [basic] · 1 kg · Přísada do malty</PRODUCTNAME>
           <PRODUCT>Remmers ZM HF [basic] · 1 kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
@@ -4218,7 +4471,8 @@ Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>022005</ITEM_ID>
           <PRODUCTNAME>Remmers ZM HF [basic] · 5 kg · Přísada do malty</PRODUCTNAME>
           <PRODUCT>Remmers ZM HF [basic] · 5 kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
@@ -4236,7 +4490,8 @@ Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>022010</ITEM_ID>
           <PRODUCTNAME>Remmers ZM HF [basic] · 10 kg · Přísada do malty</PRODUCTNAME>
           <PRODUCT>Remmers ZM HF [basic] · 10 kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
@@ -4254,7 +4509,8 @@ Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>107716</ITEM_ID>
           <PRODUCTNAME>Remmers Kompressenputz · 16 kg · Odsolovací/obětovaná omítka dle WTA</PRODUCTNAME>
           <PRODUCT>Remmers Kompressenputz · 16 kg - Odsolovací omítka/obětovaná omítka dle WTA</PRODUCT>
@@ -4272,7 +4528,8 @@ Obětovaná omítka pro zasolené podklady, odsolení a snížení vlhkosti neje
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>102725</ITEM_ID>
           <PRODUCTNAME>Remmers FM NB [basic] · 25 kg ·  Vápenocementová spárovací malta (antracitová)</PRODUCTNAME>
           <PRODUCT>Remmers FM NB [basic] · 25 kg · antracitová - Vápenocementová spárovací malta pro novostavby</PRODUCT>
@@ -4291,7 +4548,8 @@ Odstín: břidlicová 24-4 (Schiefer 24-4)
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>103325</ITEM_ID>
           <PRODUCTNAME>Remmers FM NB [basic] · 25 kg · Vápenocementová spárovací malta (břidlicová)</PRODUCTNAME>
           <PRODUCT>Remmers FM NB [basic] · 25 kg · břidlicová - Vápenocementová spárovací malta pro novostavby</PRODUCT>
@@ -4310,7 +4568,8 @@ Odstín: břidlicová 24-4 (Schiefer 24-4)
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071201</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil FC Plus · 0,75 l · Krémová impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil FC Plus · 0,75 l - Krémová hydrofilní impregnace</PRODUCT>
@@ -4326,7 +4585,8 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>071205</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil FC Plus · 5 l · Krémová impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil FC Plus · 5 l - Krémová hydrofilní impregnace</PRODUCT>
@@ -4342,7 +4602,8 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>11004101</ITEM_ID>
           <PRODUCTNAME>Remmers BFA Koncentrát · 1 l · Likvidace organických nečistot</PRODUCTNAME>
           <PRODUCT>Remmers BFA Koncentrát · 1 l - Likvidace řas, plísní, mechů a bakterií ze stavebních materiálů</PRODUCT>
@@ -4358,7 +4619,8 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>11004105</ITEM_ID>
           <PRODUCTNAME>Remmers BFA Koncentrát · 5  · Likvidace organických nečistot</PRODUCTNAME>
           <PRODUCT>Remmers BFA Koncentrát · 5 l - Likvidace řas, plísní, mechů a bakterií ze stavebních materiálů</PRODUCT>
@@ -4374,7 +4636,8 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>097801</ITEM_ID>
           <PRODUCTNAME>Remmers V 101 · 1 · Čisticí prostředek</PRODUCTNAME>
           <PRODUCT>Remmers V 101 · 1 l - Originální doporučený Čisticí prostředek</PRODUCT>
@@ -4390,7 +4653,8 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>097805</ITEM_ID>
           <PRODUCTNAME>Remmers V 101 · 5 · Čisticí prostředek</PRODUCTNAME>
           <PRODUCT>Remmers V 101 · 5 l - Originální doporučený Čisticí prostředek</PRODUCT>
@@ -4406,7 +4670,8 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>097810</ITEM_ID>
           <PRODUCTNAME>Remmers V 101 · 10 · Čisticí prostředek</PRODUCTNAME>
           <PRODUCT>Remmers V 101 · 10 l - Originální doporučený čisticí prostředek</PRODUCT>
@@ -4422,7 +4687,8 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>097830</ITEM_ID>
           <PRODUCTNAME>Remmers V 101 · 30 l · Čisticí prostředek</PRODUCTNAME>
           <PRODUCT>Remmers V 101 · 30 l - Originální doporučený čisticí prostředek</PRODUCT>
@@ -4438,7 +4704,8 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>043525</ITEM_ID>
           <PRODUCTNAME>Remmers FM FS 1,0 · 25 kg · Plošné spárování cihel</PRODUCTNAME>
           <PRODUCT>Remmers FM FS 1,0 · 25 kg · olivově šedá - Plošné spárování cihelného zdiva</PRODUCT>
@@ -4455,7 +4722,8 @@ Oprava fasád z cihel / klinkrů pomocí systému těsnicích cementových malt 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>051725</ITEM_ID>
           <PRODUCTNAME>Remmers VM Fill · 25 kg · Lepicí a výztužná malta.</PRODUCTNAME>
           <PRODUCT>Remmers VM Fill · 25 kg · starobílá - Univerzální lepicí a výztužná malta</PRODUCT>
@@ -4472,7 +4740,8 @@ Malta pro lepení, armování a opravu popraskaných omítek a tepelně izolačn
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>081901</ITEM_ID>
           <PRODUCTNAME>Remmers DS Protect AL · 2m · 1ks · Dekorativní ochrana pro DS Protect</PRODUCTNAME>
           <PRODUCT>Remmers DS Protect AL · 2 m · 1 ks - Ukončující lišta pro DS Protect</PRODUCT>
@@ -4488,7 +4757,8 @@ Dekorativní ochrana drenážního prvku DS Protect. Flexibilní, Odolná vůči
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>081801</ITEM_ID>
           <PRODUCTNAME>Remmers DS Protect Clip · 50 ks · Držák pro DS Protect AL</PRODUCTNAME>
           <PRODUCT>Remmers DS Protect Clip · 50 ks - Držák pro DS Protect a DS Protect AL</PRODUCT>
@@ -4504,7 +4774,8 @@ Samotěsnící držák pro DS Protect AL,  flexibilní, odolný vůči UV zář
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>299720</ITEM_ID>
           <PRODUCTNAME>Remmers SL Fill Q3 · 20 kg · Protiplísňová stěrka</PRODUCTNAME>
           <PRODUCT>Remmers SL Fill Q3 · 20 kg - Jemná protiplísňová stěrka</PRODUCT>
@@ -4520,7 +4791,8 @@ Vyhlazení protiplísňových sanačních systémů. Difuzně otevřený a kapil
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>021020</ITEM_ID>
           <PRODUCTNAME>Remmers SL Fill Q4 · 20 kg · Protiplísňová stěrka</PRODUCTNAME>
           <PRODUCT>Remmers SL Fill Q4 · 20 kg - Jemná protiplísňová stěrka</PRODUCT>
@@ -4536,7 +4808,8 @@ Vyhlazení protiplísňových sanačních systémů. Difuzně otevřený a kapil
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>388001</ITEM_ID>
           <PRODUCTNAME>Remmers Tex 4/100 · 50 m · Armovací síťovina</PRODUCTNAME>
           <PRODUCT>Remmers Tex 4/100 · 50 m - Armovací sklotextilní síťovina potažená polymerními plasty</PRODUCT>
@@ -4552,7 +4825,8 @@ Trvale elastický, odolný vůči prorůstání kořenů, odolný alkáliím, Pr
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>023601</ITEM_ID>
           <PRODUCTNAME>Remmers Tex 6,5/100 · 50 m · Armovací síťovina</PRODUCTNAME>
           <PRODUCT>Remmers Tex 6,5/100 · 50 m - Armovací sklotextilní síťovina potažená polymerními plasty</PRODUCT>
@@ -4569,7 +4843,8 @@ Trvale elastický, odolný vůči prorůstání kořenů, odolný alkáliím, Pr
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>294025</ITEM_ID>
           <PRODUCTNAME>Remmers MB 2K [eco] · 25 kg · Multifunkční eco hydroizolace</PRODUCTNAME>
           <PRODUCT>Remmers MB 2K [eco] · 25 kg - Dvousložková multifunkční hydroizolace budov na bázi obnovitelných surovin</PRODUCT>
@@ -4585,7 +4860,8 @@ Génius mezi hydroizolacemi na eco bázi. Chrání proti tlakové vodě a solím
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>060405</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SN · 5 l · Hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SN · 5 l - Bezbarvá hydrofobní impregnace pro plochy v blízkosti citlivých materiálů</PRODUCT>
@@ -4601,7 +4877,8 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>060430</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SN · 30 l · Hydrofobní impregnace</PRODUCTNAME>
           <PRODUCT>Remmers Funcosil SN · 30 l - Bezbarvá hydrofobní impregnace pro plochy v blízkosti citlivých materiálů</PRODUCT>
@@ -4617,7 +4894,8 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>687323</ITEM_ID>
           <PRODUCTNAME>Remmers IG Acryl 3K · 22,95 kg · Akrylátový gel</PRODUCTNAME>
           <PRODUCT>Remmers IG Acryl 3K · 22,95 kg - Akrylátový gel</PRODUCT>
@@ -4633,7 +4911,8 @@ Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Id
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>687501</ITEM_ID>
           <PRODUCTNAME>Remmers IG Acryl 3K Mixcan (20l) · Akrylátový gel</PRODUCTNAME>
           <PRODUCT>Remmers IG Acryl 3K Mixcan (20l) - Akrylátový gel</PRODUCT>
@@ -4649,7 +4928,8 @@ Třísložkový, pružný, expanzivní a nízkoviskózní akrylátový gel. Ide�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>687701</ITEM_ID>
           <PRODUCTNAME>Remmers IG Acryl 3K Comp. S · 1 kg · Akrylátový gel</PRODUCTNAME>
           <PRODUCT>Remmers IG Acryl 3K Comp. S · 1 kg - Akrylátový gel</PRODUCT>
@@ -4665,7 +4945,8 @@ Třísložkový, pružný, expanzivní a nízkoviskózní akrylátový gel. Ide�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>753083</ITEM_ID>
           <PRODUCTNAME>Remmers Primer PUR · 0,25 l · PUR penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer PUR · 0,25 l - Penetrace na bázi PUR pryskyřice v organickém ředidle</PRODUCT>
@@ -4681,7 +4962,8 @@ Používá se jako základ pro všechny těsnicí hmoty PUR / MS a zálivkové h
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>753085</ITEM_ID>
           <PRODUCTNAME>Remmers Primer PUR · 1 l · PUR penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer PUR · 1 l - Penetrace na bázi PUR pryskyřice v organickém ředidle</PRODUCT>
@@ -4697,7 +4979,8 @@ Používá se jako základ pro všechny těsnicí hmoty PUR / MS a zálivkové h
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>064230</ITEM_ID>
           <PRODUCTNAME>Remmers Primer H · 30 l · Hydrofobní penetrace</PRODUCTNAME>
           <PRODUCT>Remmers Primer H · 30 l - Penetrace s hydrofobním účinkem</PRODUCT>
@@ -4713,7 +4996,8 @@ Hydrofobní penetrace pro vyrovnání savosti, která pronikne do hloubky. Odol
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>750512</ITEM_ID>
           <PRODUCTNAME>Remmers MS 150 · 290 ml · Elastický těsnicí tmel</PRODUCTNAME>
           <PRODUCT>Remmers MS 150 · 290 ml · betonově šedá - MS polymerový těsnicí tmel</PRODUCT>
@@ -4729,7 +5013,8 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>750559</ITEM_ID>
           <PRODUCTNAME>Remmers MS 150 · 600 ml · Elastický těsnicí tmel</PRODUCTNAME>
           <PRODUCT>Remmers MS 150 · 600 ml · betonově šedá - MS polymerový těsnicí tmel</PRODUCT>
@@ -4745,7 +5030,8 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>781010</ITEM_ID>
           <PRODUCTNAME>Remmers Stopaq · 10 kg · Těsnící bobtnavý tmel</PRODUCTNAME>
           <PRODUCT>Remmers Stopaq · 10 kg - Trvale plastická bobtnavá těsnicí hmota</PRODUCT>
@@ -4761,7 +5047,8 @@ Na trvalé plastické utěsnění kabelů, rozvodů a potrubí. Při zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>781025</ITEM_ID>
           <PRODUCTNAME>Remmers Stopaq · 25x310 ml · Těsnící bobtnavý tmel</PRODUCTNAME>
           <PRODUCT>Remmers Stopaq · 25x310 ml - Trvale plastická bobtnavá těsnicí hmota</PRODUCT>
@@ -4777,7 +5064,8 @@ Na trvalé plastické utěsnění kabelů, rozvodů a potrubí. Při zatížení
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>063013</ITEM_ID>
           <PRODUCTNAME>Remmers Color SH · 12,5 l · Minerální barva pískovcová</PRODUCTNAME>
           <PRODUCT>Remmers Color SH · 12,5 l · bílý - Minerální barva s jemnozrnnou strukturou</PRODUCT>
@@ -4793,7 +5081,8 @@ Nátěr s pískovcovou strukturou. Optimální přídržnost Dobrá odolnost vů
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>2087325</ITEM_ID>
           <PRODUCTNAME>Remmers PBD 1K S · 25 kg · Silnovrstvá izolace</PRODUCTNAME>
           <PRODUCT>Remmers PBD 1K S · 25 kg - Plastem modifikovaná silnovrstvá izolace na bázi živice</PRODUCT>
@@ -4809,7 +5098,8 @@ Jednosložková stříkatelná silnovrstvá izolace nabázi živice, plněná pr
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>051325</ITEM_ID>
           <PRODUCTNAME>Remmers SLP Fix · 25 kg · Lepící malta</PRODUCTNAME>
           <PRODUCT>Remmers SLP Fix · 25 kg - Lepící malta pro protiplísňové izolační desky</PRODUCT>
@@ -4825,7 +5115,8 @@ Lepicí a armovací malta pro protiplísňové systémy. Minerální stavební m
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>501701</ITEM_ID>
           <PRODUCTNAME>Remmers Tape XA 100 · 25 m · šířka: 10cm · Butylová těsnicí páska</PRODUCTNAME>
           <PRODUCT>Remmers Tape XA 100 · 25 m · šířka: 10cm - Samolepicí butylová těsnicí páska potažená rounem</PRODUCT>
@@ -4841,7 +5132,8 @@ Samolepicí butylová těsnicí páska potažená rounem pro interiér i exteri�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>500301</ITEM_ID>
           <PRODUCTNAME>Remmers Tape XA 250 · 10 m · šířka: 25cm · Butylová těsnicí páska</PRODUCTNAME>
           <PRODUCT>Remmers Tape XA 250 · 10 m · šířka: 25cm - Samolepicí butylová těsnicí páska potažená rounem</PRODUCT>
@@ -4857,7 +5149,8 @@ Samolepicí butylová těsnicí páska potažená rounem pro interiér i exteri�
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>429801</ITEM_ID>
           <PRODUCTNAME>Remmers Collomix DLX 120 HF míchadlo · 120 mm · Speciální míchadlo</PRODUCTNAME>
           <PRODUCT>Remmers Collomix DLX 120 HF míchadlo · 120 mm - Míchadlo se dvěma lopatkami</PRODUCT>
@@ -4873,7 +5166,8 @@ Speciální míchadlo. Intenzivní proud materiálu zabraňuje tvorbě hrudek. P
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>428601</ITEM_ID>
           <PRODUCTNAME>Remmers Collomix DLX 152 HF míchadlo · 152 mm · Speciální míchadlo</PRODUCTNAME>
           <PRODUCT>Remmers Collomix DLX 152 HF míchadlo · 152 mm - Míchadlo se dvěma lopatkami</PRODUCT>
@@ -4889,7 +5183,8 @@ Speciální míchadlo. Intenzivní proud materiálu zabraňuje tvorbě hrudek. P
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>051125</ITEM_ID>
           <PRODUCTNAME>Remmers Stucco GZ · 25 kg ·  Malta na štukové prvky</PRODUCTNAME>
           <PRODUCT>Remmers Stucco GZ · 25 kg · světle šedá - Malta na vytváření nebo eliminaci štukových prvků</PRODUCT>
@@ -4905,7 +5200,8 @@ Rychle tuhnoucí malta pro tažení jader štukových prvků. Vytváření nebo 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>052125</ITEM_ID>
           <PRODUCTNAME>Remmers Stucco GF · 25 kg · Malta na štukové prvky</PRODUCTNAME>
           <PRODUCT>Remmers Stucco GF · 25 kg · světle šedá - Malta na vytváření nebo eliminaci štukových prvků</PRODUCT>
@@ -4921,7 +5217,8 @@ Rychle tuhnoucí malta pro tažení jader štukových prvků. Vytváření nebo 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>051225</ITEM_ID>
           <PRODUCTNAME>Remmers Stucco FZ · 25 kg · Štuková malta jemná</PRODUCTNAME>
           <PRODUCT>Remmers Stucco FZ · 25 kg · starobílá - Malta pro jemně strukturovaný povrch štuků</PRODUCT>
@@ -4937,7 +5234,8 @@ Vodoodpudivý malta pro jemně strukturovaný povrch nových a starých štuků.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX4803M</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 250 XA · na míru (/m) · šířka: 25cm · Těsnící páska, samolepicí</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 250 XA · na míru · 1m · šířka: 25cm - Těsnicí pásek</PRODUCT>
@@ -4954,7 +5252,8 @@ Flexibilní těsnící páska na míru - pro těsnění spojů v izolacích, s 3
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>403667</ITEM_ID>
           <PRODUCTNAME>Hahne INTRASIT® SE-SF 70A · 15 l · Sanační barva s dlouhodobým účinkem</PRODUCTNAME>
           <PRODUCT>Hahne INTRASIT® SE-SF 70A · 15 l - </PRODUCT>
@@ -4972,7 +5271,8 @@ INTRASIT® SE-SF 70A je speciální barva na bázi organických silikátů s vy
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W721009</ITEM_ID>
           <PRODUCTNAME>Köster NB 1 Flex · 9 kg · Tekutá přísada pro Köster NB 1</PRODUCTNAME>
           <PRODUCT>Köster NB 1 Flex · 9 kg - </PRODUCT>
@@ -4989,7 +5289,8 @@ KÖSTER NB 1 Flex je disperze karboxylovaného styren-butadienlatexu. Latex je k
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>J236310</ITEM_ID>
           <PRODUCTNAME>Köster MS Joint Sealant · 310 ml · tuhnoucí, elastický tmel (1K), šedý</PRODUCTNAME>
           <PRODUCT>Köster MS Joint Sealant Grey · 310 ml · šedý - </PRODUCT>
@@ -5006,7 +5307,8 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>J236600</ITEM_ID>
           <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), šedý</PRODUCTNAME>
           <PRODUCT>Köster MS Joint Sealant Grey · 600 ml · šedý - </PRODUCT>
@@ -5023,7 +5325,8 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>J236310W</ITEM_ID>
           <PRODUCTNAME>Köster MS Joint Sealant · 310 ml · tuhnoucí, elastický tmel (1K), bílý</PRODUCTNAME>
           <PRODUCT>Köster MS Joint Sealant White · 310 ml · bílý - </PRODUCT>
@@ -5040,7 +5343,8 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>J236600W</ITEM_ID>
           <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), bílý</PRODUCTNAME>
           <PRODUCT>Köster MS Joint Sealant White · 600 ml · bílý - </PRODUCT>
@@ -5057,7 +5361,8 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>C536025</ITEM_ID>
           <PRODUCTNAME>Köster Repair Mortar R4 · 25 kg · Opravná malta na beton</PRODUCTNAME>
           <PRODUCT>Köster Repair Mortar R4 · 25 kg - </PRODUCT>
@@ -5073,7 +5378,8 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>401601</ITEM_ID>
           <PRODUCTNAME>Hahne ÖKOPLAST® 1K 20B · 30 l · Bitumenová hydroizolace s polystyrenem</PRODUCTNAME>
           <PRODUCT>Hahne ÖKOPLAST® 1K 20B · 30 l - </PRODUCT>
@@ -5089,7 +5395,8 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>412409</ITEM_ID>
           <PRODUCTNAME>Hahne ÖKOPLAST® 2K 20B · 30 kg · Dvousložková bitumenová hydroizolace</PRODUCTNAME>
           <PRODUCT>Hahne ÖKOPLAST® 2K 20B · 30 kg (24+6 kg) - </PRODUCT>
@@ -5109,7 +5416,8 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
     
   
   
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W710005</ITEM_ID>
           <PRODUCTNAME>Köster SB Bonding Emulsion · 5 kg · Elastizační syntetická disperze</PRODUCTNAME>
           <PRODUCT>Köster SB Bonding Emulsion · 5 kg - </PRODUCT>
@@ -5125,7 +5433,8 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W710010</ITEM_ID>
           <PRODUCTNAME>Köster SB Bonding Emulsion · 10 kg · Elastizační syntetická disperze</PRODUCTNAME>
           <PRODUCT>Köster SB Bonding Emulsion · 10 kg - </PRODUCT>
@@ -5141,7 +5450,8 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>W903030</ITEM_ID>
           <PRODUCTNAME>Köster SD 3-250 · 30 m2 (2x15 m) · Drenážní a ochranná fólie</PRODUCTNAME>
           <PRODUCT>Köster SD Protection and Drainage Sheet 3-250 · 30 m2 (2x15 m) role - </PRODUCT>
@@ -5158,7 +5468,8 @@ KÖSTER Protection and Drainage Sheet 3-250 je složená ze 3 vrstev, vysoce kva
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>480501</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 250 · 50m · šířka: 25cm · Těsnicí páska, butylová</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 250 · 50 m · šířka: 25cm - Samolepicí butylová těsnicí páska potažená rounem</PRODUCT>
@@ -5174,7 +5485,8 @@ Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 250 · na mír
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX4805M</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 250 · na míru (/m) · šířka: 25cm · Těsnicí páska, butylová</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 250 · na míru · 1m · šířka: 25cm - Samolepicí butylová těsnicí páska potažená rounem</PRODUCT>
@@ -5191,7 +5503,8 @@ Cena je za 1 metr. Dodáváme v kuse dle objednané délky.
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>507501</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 500 · 10m · šířka: 50cm · Těsnicí páska, butylová</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 500 · 10 m · šířka: 50cm - Samolepicí butylová těsnicí páska potažená rounem</PRODUCT>
@@ -5207,7 +5520,8 @@ Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 500 · na mír
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>SBX5075M</ITEM_ID>
           <PRODUCTNAME>Remmers Tape VF 500 · na míru (/m) · šířka: 50cm · Těsnicí páska, butylová</PRODUCTNAME>
           <PRODUCT>Remmers Tape VF 500 · na míru · 1m · šířka: 50cm - Samolepicí butylová těsnicí páska potažená rounem</PRODUCT>
@@ -5223,7 +5537,8 @@ Cena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>CT227010</ITEM_ID>
           <PRODUCTNAME>Köster CT 227 1C Silane · 10 kg · Podlahový ochranný nátěr</PRODUCTNAME>
           <PRODUCT>Köster CT 227 1C Silane · 10 kg - </PRODUCT>
@@ -5239,7 +5554,8 @@ Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, 
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>RT815</ITEM_ID>
           <PRODUCTNAME>Köster TPO 1.5 · TPO fólie no ploché střechy, tloušťka: 1,5mm</PRODUCTNAME>
           <PRODUCT>Köster TPO 1.5 · střešní fólie · 1,5 mm x 0,25 m x 20 m - </PRODUCT>
@@ -5255,7 +5571,8 @@ Tloušťka: 1,5 mmŠířka: 0,25 mDélka: 20 m</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>421137</ITEM_ID>
           <PRODUCTNAME>Sika SikaGrout®-311 · 25 kg · Vysoce pevnostní zálivková hmota</PRODUCTNAME>
           <PRODUCT>Sika SikaGrout®-311 · 25 kg - </PRODUCT>
@@ -5274,7 +5591,8 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>756506</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Švětle šedý (RAL 7035)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-2510 W · 20 kg · Švětle šedý (RAL 7035) - </PRODUCT>
@@ -5290,7 +5608,8 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7611237017100</EAN>
         </SHOPITEM>
-      <SHOPITEM>
+      
+        <SHOPITEM>
           <ITEM_ID>761565</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Stěrkový šedý (RAL 7032)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-2510 W · 20 kg · Stěrkový šedý (RAL 7032) - </PRODUCT>
@@ -5308,7 +5627,8 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>482201</ITEM_ID>
           <PRODUCTNAME>Remmers Tape F · 50 m · šířka: 12cm · Armovací rouno pro hydroizolaci</PRODUCTNAME>
           <PRODUCT>Remmers Tape F · 50 m · šířka: 12cm - </PRODUCT>
@@ -5323,7 +5643,8 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>747873</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-2510 W · 5kg · Epoxidový nátěr na vodní bázi · Švětle šedý (RAL 7035)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-2510 W · 5 kg · Švětle šedý (RAL 7035) - </PRODUCT>
@@ -5339,7 +5660,8 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895893624</EAN>
         </SHOPITEM>
-      <SHOPITEM>
+      
+        <SHOPITEM>
           <ITEM_ID>761447</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-2510 W · 5kg · Epoxidový nátěr na vodní bázi · Stěrkový šedý (RAL 7032)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-2510 W · 5 kg · Stěrkový šedý (RAL 7032) - </PRODUCT>
@@ -5357,7 +5679,8 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>644388</ITEM_ID>
           <PRODUCTNAME>Sika SikaFloor®-151 · 10kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
           <PRODUCT>Sika SikaFloor®-151 · 10 kg - </PRODUCT>
@@ -5375,7 +5698,8 @@ Balení: 10kg</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>579488</ITEM_ID>
           <PRODUCTNAME>Sika SikaFloor®-151 · 30kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
           <PRODUCT>Sika SikaFloor®-151 · 30 kg - </PRODUCT>
@@ -5393,7 +5717,8 @@ Balení: 30kg (komp.A: 25,5kg, komp.B: 4,5kg)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>646089</ITEM_ID>
           <PRODUCTNAME>Sika SikaFloor®-151 · 300kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
           <PRODUCT>Sika SikaFloor®-151 · 300 kg - </PRODUCT>
@@ -5411,7 +5736,8 @@ Balení: 300kg</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>611403</ITEM_ID>
           <PRODUCTNAME>Sika SikaFloor®-151 · 1200kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
           <PRODUCT>Sika SikaFloor®-151 · 1200 kg - </PRODUCT>
@@ -5429,7 +5755,8 @@ Balení: 1200kg (komp.A: 4x255kg, komp.B: 180kg)</DESCRIPTION>
         </SHOPITEM>
       
     
-  <SHOPITEM>
+  
+        <SHOPITEM>
           <ITEM_ID>566324</ITEM_ID>
           <PRODUCTNAME>Sika SikaFiber® Force-50 · 5kg · Makrovlákna do betonu 50 mm</PRODUCTNAME>
           <PRODUCT>Sika SikaFiber® Force-50 · 5 kg - </PRODUCT>
