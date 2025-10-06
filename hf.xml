@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 337 -->
-<!-- Created: 2025-10-06 15:37:42 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2025-10-07 00:00:18 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -5793,16 +5793,16 @@ SikaFiber® Force-50 jsou 50 mm dlouhá polyolefínová makrovlákna na použit�
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10404935827793</ITEM_ID>
-          <PRODUCTNAME>Sika SikaFloor®-151 · 10kg · Epoxidový primer 2K pro beton</PRODUCTNAME>
+          <ITEM_ID>851383</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva</PRODUCTNAME>
           <PRODUCT>Sika SikaFloor®-305 W · 10 kg - </PRODUCT>
           <DESCRIPTION>2-komponentní, polyuretanová, barevná, matná pečeticí vrstva, na vodní bázi.
 Sikafloor®-305 W je 2-komponentní, barevná, matná polyuretanová pečeticí vrstva, s nízkým obsahem VOC, na bázi vody. Je součástí systému Sika ComfortFloor®.
 · Na vodní bázi· Nízký zápach· Dobrá odolnost vůči UV záření
-Balení: 10kg</DESCRIPTION>
+Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor305w-01-1x1-00016199.jpg?v=1759756435</IMGURL>
-          <PRICE_VAT>3666.3</PRICE_VAT>
+          <PRICE_VAT>10500.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
