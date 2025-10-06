@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 335 -->
-<!-- Created: 2025-10-06 08:05:20 -->
+<!-- Total items: 336 -->
+<!-- Created: 2025-10-06 10:49:05 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -7517,7 +7517,7 @@ Samolepicí butylová těsnicí páska potažená rounem pro interiér i exteri�
           <DESCRIPTION>Míchací zařízení.
 Speciální míchadlo. Intenzivní proud materiálu zabraňuje tvorbě hrudek. Pro míchání materiálů s tendencí ke shlukování při nízké a střední viskozitě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-collomix-dlx-120-hf-120mm</URL>
-          <PRICE_VAT>1350.0</PRICE_VAT>
+          <PRICE_VAT>1047.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Collomix-michadlo-se-dvema-lopatkami.jpg?v=1755886453</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7541,7 +7541,7 @@ Speciální míchadlo. Intenzivní proud materiálu zabraňuje tvorbě hrudek. P
           <DESCRIPTION>Míchací zařízení.
 Speciální míchadlo. Intenzivní proud materiálu zabraňuje tvorbě hrudek. Pro míchání materiálů s tendencí ke shlukování při nízké a střední viskozitě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-collomix-dlx-152-hf-152mm</URL>
-          <PRICE_VAT>1790.0</PRICE_VAT>
+          <PRICE_VAT>1390.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Collomix-michadlo-se-dvema-lopatkami.jpg?v=1755886453</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8414,7 +8414,32 @@ SikaFiber® Force-50 jsou 50 mm dlouhá polyolefínová makrovlákna na použit�
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Köster ruční injektážní pumpa · bez manometru</PRODUCTNAME>
+          <DESCRIPTION>Pro malé injekční projekty nebo obtížně přístupné oblasti. Provozní tlak max. 10 bar, výkon přibližně 2 cm³ na jeden průchod.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-hand-pump-wo-manometer</URL>
+          <PRICE_VAT>2215.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/1207501-Handpump-without-manometer_opt.jpg?v=1759737722</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>IN953001</ITEM_ID>
 
-    <!-- Total ACTIVE items: 327 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Ostatní izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Dílna | Ruční nářadí | Zednické nářadí | Ostatní zednické nářadí</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 328 -->
 
 </SHOP>
