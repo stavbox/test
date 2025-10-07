@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 337 -->
-<!-- Created: 2025-10-07 10:08:59 -->
+<!-- Total items: 339 -->
+<!-- Created: 2025-10-07 16:15:55 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -12,7 +12,7 @@ Právě jste našli, co jste hledali. Nejprodávanější hydroizolační stěrk
 Balení &quot;3+3&quot;: 3x3,5kg (komp. A) + 3x4,8kg (komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k-25kg-3-3</URL>
           <PRICE_VAT>3908.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka_round_best_seller_left.webp?v=1758792188</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -3729,7 +3729,7 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100-30l</URL>
           <PRICE_VAT>12745.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5722,7 +5722,7 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
 Jednosložková (1K) pružná těsnící malta pro izolaci pod keramické obklady. Přemosťuje trhliny, odolná vodě, splňuje DIN 18534, ideální pro novostavby, rychlé schnutí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-flex-1k-15kg</URL>
           <PRICE_VAT>2109.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Flex-1K-15kg-pruzna-tesnici-malta.jpg?v=1755877081</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8466,7 +8466,61 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaFloor®-304 W · 7,5kg · Matná polyuretanová vrstva</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní polyuretanová matná uzavírací vrstva, součást řady Sika Comfortfloor®.
+Sikafloor®-304 W je 2-komponentní polyuretanová uzavírací vrstva s matným vzhledem, s velmi nízkým obsahem VOC, na vodní bázi.
+· Na vodní bázi· Velmi nízký zápach· Dobrá odolnost vůči UV záření a žloutnutí
+Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-304-w-7-5kg</URL>
+          <PRICE_VAT>10500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-304-W-00580944_1-1.jpg?v=1759829877</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>717762</ITEM_ID>
 
-    <!-- Total ACTIVE items: 329 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Umělé povrchy</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaFloor®-304 W · 7,5kg · Matná polyuretanová vrstva</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
+Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
+· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-3310-20-kg</URL>
+          <PRICE_VAT>10360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-3310_opt.jpg?v=1759837115</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10406469239121</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Umělé povrchy</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 331 -->
 
 </SHOP>

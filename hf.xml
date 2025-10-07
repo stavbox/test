@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 337 -->
-<!-- Created: 2025-10-07 10:08:59 -->
+<!-- Total items: 339 -->
+<!-- Created: 2025-10-07 16:15:54 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -5811,7 +5811,45 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>717762</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-304 W · 7,5kg · Matná polyuretanová vrstva</PRODUCTNAME>
+          <PRODUCT>Sika SikaFloor®-304 W · 7,5 kg - </PRODUCT>
+          <DESCRIPTION>2-komponentní polyuretanová matná uzavírací vrstva, součást řady Sika Comfortfloor®.
+Sikafloor®-304 W je 2-komponentní polyuretanová uzavírací vrstva s matným vzhledem, s velmi nízkým obsahem VOC, na vodní bázi.
+· Na vodní bázi· Velmi nízký zápach· Dobrá odolnost vůči UV záření a žloutnutí
+Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-304-w-7-5kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-304-W-00580944_1-1.jpg?v=1759829877</IMGURL>
+          <PRICE_VAT>10500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10406469239121</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-304 W · 7,5kg · Matná polyuretanová vrstva</PRODUCTNAME>
+          <PRODUCT>Sika SikaFloor®-3310 · 20 kg - </PRODUCT>
+          <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
+Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
+· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-3310-20-kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-3310_opt.jpg?v=1759837115</IMGURL>
+          <PRICE_VAT>10360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
 
-    <!-- Total ACTIVE items: 329 -->
+    <!-- Total ACTIVE items: 331 -->
 
 </SHOP>
