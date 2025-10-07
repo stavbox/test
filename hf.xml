@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 339 -->
-<!-- Created: 2025-10-07 16:15:54 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2025-10-08 00:00:18 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -5831,16 +5831,67 @@ Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10406469239121</ITEM_ID>
-          <PRODUCTNAME>Sika SikaFloor®-304 W · 7,5kg · Matná polyuretanová vrstva</PRODUCTNAME>
-          <PRODUCT>Sika SikaFloor®-3310 · 20 kg - </PRODUCT>
+          <ITEM_ID>703957</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · Pastel</PRODUCTNAME>
+          <PRODUCT>Sika SikaFloor®-3310 · 20 kg · Pastel - </PRODUCT>
           <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
 Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
 · Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
 Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-3310-20-kg</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-3310_opt.jpg?v=1759837115</IMGURL>
-          <PRICE_VAT>10360.0</PRICE_VAT>
+          <PRICE_VAT>8363.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>851381</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · Bright</PRODUCTNAME>
+          <PRODUCT>Sika SikaFloor®-3310 · 20 kg · Bright - </PRODUCT>
+          <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
+Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
+· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-3310_opt.jpg?v=1759837115</IMGURL>
+          <PRICE_VAT>8441.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>697377</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · RAL 7035 (světle šedý)</PRODUCTNAME>
+          <PRODUCT>Sika SikaFloor®-3310 · 20 kg · RAL 7035 (světle šedý) - </PRODUCT>
+          <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
+Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
+· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-3310_opt.jpg?v=1759837115</IMGURL>
+          <PRICE_VAT>8286.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>722877</ITEM_ID>
+          <PRODUCTNAME>Sika SikaFloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · RAL 7032 (stěrkový šedý)</PRODUCTNAME>
+          <PRODUCT>Sika SikaFloor®-3310 · 20 kg · RAL 7032 (stěrkový šedý) - </PRODUCT>
+          <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
+Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
+· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-3310_opt.jpg?v=1759837115</IMGURL>
+          <PRICE_VAT>8286.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -5850,6 +5901,6 @@ Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
     
   
 
-    <!-- Total ACTIVE items: 331 -->
+    <!-- Total ACTIVE items: 334 -->
 
 </SHOP>
