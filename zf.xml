@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 346 -->
-<!-- Created: 2025-10-14 11:10:41 -->
+<!-- Total items: 347 -->
+<!-- Created: 2025-10-14 12:36:55 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -10053,7 +10053,33 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color LA · 12,5l · standardní odstíny · Akrylová fasádní barva</PRODUCTNAME>
+          <DESCRIPTION>Akrylová fasádní barva.
+Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti, vodoodpudivá, paropropustná, ideální pro renovaci fasád historických staveb.
+Barva: kolekce barevných odstínůProsím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-la-12-5l-kolekce-barevnych-odstinu</URL>
+          <PRICE_VAT>5370.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>643013</ITEM_ID>
 
-    <!-- Total ACTIVE items: 392 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 393 -->
 
 </SHOP>
