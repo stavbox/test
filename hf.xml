@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 348 -->
-<!-- Created: 2025-10-20 00:00:18 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-10-20 11:01:08 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -3080,22 +3080,6 @@ Minerální malta pro injektáž zdiva. Nízká viskozita, odolná síranům, WT
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>101001</ITEM_ID>
-          <PRODUCTNAME>Remmers WP RH Rapid · 1 kg · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
-          <PRODUCT>Remmers WP RH Rapid · 1 kg - Rychle tuhnoucí výplňová malta</PRODUCT>
-          <DESCRIPTION>Rychle tuhnoucí výplňová malta.
-Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje trhliny, WTA certifikát. Rychlé opravy vlhkých míst, průsaků a výronů vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid-1kg</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-RH-Rapid-1kg-rychle-tuhnouci-vyplnova-malta.jpg?v=1755863739</IMGURL>
-          <PRICE_VAT>220.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <EAN>4004707013222</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>101005</ITEM_ID>
@@ -6931,6 +6915,6 @@ Barva: speciální odstínyPro barvení podle barevné škály RAL.Prosím, kont
     
   
 
-    <!-- Total ACTIVE items: 394 -->
+    <!-- Total ACTIVE items: 393 -->
 
 </SHOP>

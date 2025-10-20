@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total items: 348 -->
-<!-- Created: 2025-10-20 00:00:18 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-10-20 11:01:08 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -12,7 +12,7 @@ Právě jste našli, co jste hledali. Nejprodávanější hydroizolační stěrk
 Balení &quot;3+3&quot;: 3x3,5kg (komp. A) + 3x4,8kg (komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k-25kg-3-3</URL>
           <PRICE_VAT>3908.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka_round_best_seller_left.webp?v=1758792188</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -87,7 +87,7 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
 Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny a základy před vlhkostními škodami a solnou degradací.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -112,7 +112,7 @@ Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny 
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -526,7 +526,7 @@ Balení &quot;1+1&quot;: 1x10,6kg (komp. A) + 1x14,4kg (komp. B)</DESCRIPTION>
 Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c-5l</URL>
           <PRICE_VAT>5255.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4499,30 +4499,6 @@ Minerální malta pro injektáž zdiva. Nízká viskozita, odolná síranům, WT
       
     
   
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers WP RH Rapid · 1 kg · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
-          <DESCRIPTION>Rychle tuhnoucí výplňová malta.
-Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje trhliny, WTA certifikát. Rychlé opravy vlhkých míst, průsaků a výronů vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid-1kg</URL>
-          <PRICE_VAT>220.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-RH-Rapid-1kg-rychle-tuhnouci-vyplnova-malta.jpg?v=1755863739</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>101001</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
-
-          <EAN>4004707013222</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <PRODUCTNAME>Remmers WP RH Rapid · 5 kg · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
@@ -6719,7 +6695,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat-1l</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8209,7 +8185,7 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
           <DESCRIPTION>Armovací rouno pro 1K multifunkční stavební hydroizolace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-f-50m-sirka-12cm</URL>
           <PRICE_VAT>427.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-F_dl_sbx.jpg?v=1758722181</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10106,6 +10082,6 @@ Barva: speciální odstínyPro barvení podle barevné škály RAL.Prosím, kont
     
   
 
-    <!-- Total ACTIVE items: 394 -->
+    <!-- Total ACTIVE items: 393 -->
 
 </SHOP>
