@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 361 -->
-<!-- Created: 2025-11-04 13:58:49 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 362 -->
+<!-- Created: 2025-11-05 00:00:34 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -11516,7 +11516,34 @@ Dvousložkový vodou ředitelný epoxidový nátěr pro garáže, dílny, sklady
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox HS 10 · 25 kg · Hybridní vyrovnávací hmota</PRODUCTNAME>
+          <DESCRIPTION>Hybridní vyrovnávací hmota s technologií Hybrid Active Dry pro vrstvy 1-10 mm.
+Kombinuje výhody nízkého napětí vyrovnávací hmoty na bázi síranu vápenatého s rychlým vysycháním cementových systémů. Díky inovativní technologii Hybrid Aktiv Dry je vyrovnávka připravena k převrstvení již po 6 hodinách. Navíc SCHÖNOX HS 10 nabízí vynikající aplikační vlastnosti.
+Katalog - Podlahová technika SCHÖNOX
+Katalog - Hybridní stěrky SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-hs-10-25kg</URL>
+          <PRICE_VAT>1015.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-hs10_opt.jpg?v=1762267620</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>546385</ITEM_ID>
 
-    <!-- Total ACTIVE items: 450 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
+
+          <EAN>7612895406688</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 451 -->
 
 </SHOP>
