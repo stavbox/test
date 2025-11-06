@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 366 -->
-<!-- Created: 2025-11-06 10:13:05 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 367 -->
+<!-- Created: 2025-11-07 00:00:31 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -3397,7 +3397,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zachovává paropropustnost, nízká viskozita, snadná aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws-30l</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4606,7 +4606,7 @@ Ochranný prostředek pro kámen s jílovými minerály. Snižuje hygrické bobt
 Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, mastnotu, šetrný k povrchu, ideální pro staré budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-sl-5kg</URL>
           <PRICE_VAT>5210.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-SL-5kg-cistici-roztok-na-steny-a-podlahy.jpg?v=1755863980</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -11651,7 +11651,34 @@ Katalog - Hybridní stěrky SCHÖNOX</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® Garage · 6kg · Odolný epoxidový nátěr do garáže</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
+Sikafloor® Garage je 2-komponentní, barevný epoxidový podlahový nátěr na vodní bázi. Vytváří jednolitý, chemicky odolný, hladký a lesklý povrch nenáročný na údržbu. Je vhodný pro normální až střední zatížení, vnitřní i vnější použití.
+· Nízké emise VOC· Dobrá mechanická odolnost· Dobrá chemická odolnost
+Balení: 6kg (4,38kg komp. A + 1,62kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-garage-6kg</URL>
+          <PRICE_VAT>3470.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Garage_opt.jpg?v=1762436378</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>846488</ITEM_ID>
 
-    <!-- Total ACTIVE items: 455 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Umělé povrchy</CATEGORYTEXT>
+
+          <EAN>7612655132925</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 456 -->
 
 </SHOP>
