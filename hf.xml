@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 367 -->
-<!-- Created: 2025-11-11 14:19:49 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 368 -->
+<!-- Created: 2025-11-12 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -8004,7 +8004,23 @@ Balení: 6kg (4,38kg komp. A + 1,62kg komp. B)</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>10560</ITEM_ID>
+          <PRODUCTNAME>Sika Color Chips · 400g · Vločky pro podlahy</PRODUCTNAME>
+          <PRODUCT>Sika Color Chips · 400 g - </PRODUCT>
+          <DESCRIPTION>Barevné minerální vločky pro dotvoření designově zajímavých povrchů podlah Sikafloor.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-color-chips-400g</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Color-Chips-Mix_opt.jpg?v=1762871755</IMGURL>
+          <PRICE_VAT>653.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
 
-    <!-- Total ACTIVE items: 456 -->
+    <!-- Total ACTIVE items: 457 -->
 
 </SHOP>
