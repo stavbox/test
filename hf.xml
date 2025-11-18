@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 373 -->
-<!-- Created: 2025-11-18 12:41:25 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 374 -->
+<!-- Created: 2025-11-19 00:00:47 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -8110,7 +8110,25 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>483277</ITEM_ID>
+          <PRODUCTNAME>Schönox KH FIX · 5kg · Rychlá penetrace na sádrové podklady</PRODUCTNAME>
+          <PRODUCT>Schönox KH FIX · 5 kg - </PRODUCT>
+          <DESCRIPTION>Speciální disperzní penetrační nátěr odolný proti hydrolýze k okamžitému použití.
+S vysokou penetrací. Pro minerální podklady jako ochrana proti vlhkosti, penetrační nátěr a pro snížení savosti. Zvláště vhodná jako penetrační nátěr na podklady na bázi síranu vápenatého s krátkou dobou schnutí. Pro vnitřní i vnější použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-kh-fix-5kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh-fix.jpg?v=1763477168</IMGURL>
+          <PRICE_VAT>1495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>4016447016609</EAN>
+        </SHOPITEM>
+      
+    
+  
 
-    <!-- Total ACTIVE items: 462 -->
+    <!-- Total ACTIVE items: 463 -->
 
 </SHOP>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 373 -->
-<!-- Created: 2025-11-18 12:41:25 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 374 -->
+<!-- Created: 2025-11-19 00:00:47 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -1241,7 +1241,7 @@ Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty
 Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  80 mm</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0-80mm</URL>
           <PRICE_VAT>14167.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5343,7 +5343,7 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
 Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výkvěty, špínu, rzi. Šetrný k podkladu, ideální pro renovaci historických staveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic-1l</URL>
           <PRICE_VAT>389.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -11832,7 +11832,33 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox KH FIX · 5kg · Rychlá penetrace na sádrové podklady</PRODUCTNAME>
+          <DESCRIPTION>Speciální disperzní penetrační nátěr odolný proti hydrolýze k okamžitému použití.
+S vysokou penetrací. Pro minerální podklady jako ochrana proti vlhkosti, penetrační nátěr a pro snížení savosti. Zvláště vhodná jako penetrační nátěr na podklady na bázi síranu vápenatého s krátkou dobou schnutí. Pro vnitřní i vnější použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-kh-fix-5kg</URL>
+          <PRICE_VAT>1495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh-fix.jpg?v=1763477168</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>483277</ITEM_ID>
 
-    <!-- Total ACTIVE items: 462 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4016447016609</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 463 -->
 
 </SHOP>
