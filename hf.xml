@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 374 -->
-<!-- Created: 2025-11-19 00:00:47 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 378 -->
+<!-- Created: 2025-11-19 15:03:02 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -8128,7 +8128,79 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>483542</ITEM_ID>
+          <PRODUCTNAME>Schönox KH FIX · 1kg · Rychlá penetrace na sádrové podklady</PRODUCTNAME>
+          <PRODUCT>Schönox KH FIX · 1 kg - </PRODUCT>
+          <DESCRIPTION>Speciální disperzní penetrační nátěr odolný proti hydrolýze k okamžitému použití.
+S vysokou penetrací. Pro minerální podklady jako ochrana proti vlhkosti, penetrační nátěr a pro snížení savosti. Zvláště vhodná jako penetrační nátěr na podklady na bázi síranu vápenatého s krátkou dobou schnutí. Pro vnitřní i vnější použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-kh-fix-1kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh-fix.jpg?v=1763477168</IMGURL>
+          <PRICE_VAT>348.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>4016447016593</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>481111</ITEM_ID>
+          <PRODUCTNAME>Schönox DE · 25kg · Rychletuhnoucí potěr s nízkými emisemi</PRODUCTNAME>
+          <PRODUCT>Schönox DE · 25 kg - </PRODUCT>
+          <DESCRIPTION>Tenkovrstvý potěr s velmi nízkými emisemi.
+SCHÖNOX DE je rychle tvrdnoucí samonivelační potěr pro přípravu spřažených potěrů s tloušťkou vrstvy 3 - 60 mm. SCHÖNOX DE se vyznačuje malým smrštěním. Po přidání 4,5 l vody na 25,0 kg prášku je SCHÖNOX DE připravený k použití. Pro vnitřní použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-de-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-de.jpg?v=1763528339</IMGURL>
+          <PRICE_VAT>990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895173009</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>487438</ITEM_ID>
+          <PRODUCTNAME>Schönox iFLOOR SET · 125m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
+          <PRODUCT>Schönox iFLOOR SET · 125 m2 - </PRODUCT>
+          <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
+Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ifloor-set-125m2</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-ifloor.jpg?v=1763538221</IMGURL>
+          <PRICE_VAT>6125.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>4016447019037</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>487437</ITEM_ID>
+          <PRODUCTNAME>Schönox iFLOOR SET · 125m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
+          <PRODUCT>Schönox iFLOOR SET · 50 m2 - </PRODUCT>
+          <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
+Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ifloor-set-50m2</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-ifloor.jpg?v=1763538221</IMGURL>
+          <PRICE_VAT>3285.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>4016447019846</EAN>
+        </SHOPITEM>
+      
+    
+  
 
-    <!-- Total ACTIVE items: 463 -->
+    <!-- Total ACTIVE items: 467 -->
 
 </SHOP>
