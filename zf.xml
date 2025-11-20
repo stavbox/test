@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 378 -->
-<!-- Created: 2025-11-20 11:23:39 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 380 -->
+<!-- Created: 2025-11-21 00:00:35 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -935,7 +935,7 @@ Siloxanový koncentrát pro bezrozpouštědlovou horizontální izolaci zdiva, n
 Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kiesol Standard.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-30kg</URL>
           <PRICE_VAT>11213.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-1kg-penetrace.jpg?v=1755759440</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1061,7 +1061,7 @@ Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje na
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl-12-5l-bily</URL>
           <PRICE_VAT>3174.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1241,7 +1241,7 @@ Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty
 Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  80 mm</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0-80mm</URL>
           <PRICE_VAT>14167.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5440,7 +5440,7 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-cem-rapid-15kg-3x5kg</URL>
           <PRICE_VAT>1345.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -11962,7 +11962,59 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · 15l · Utěsnění a vytvrzení beton. podlah</PRODUCTNAME>
+          <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
+Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
+Balení: 15l kanystr</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12-15l</URL>
+          <PRICE_VAT>4340.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>405149</ITEM_ID>
 
-    <!-- Total ACTIVE items: 467 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          <EAN>7612894794229</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · 5l · Utěsnění a vytvrzení beton. podlah</PRODUCTNAME>
+          <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
+Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
+Balení: 5l kanystr</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-proseal-12-5l</URL>
+          <PRICE_VAT>1545.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>422871</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          <EAN>7612894878028</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 469 -->
 
 </SHOP>
