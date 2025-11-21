@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 380 -->
-<!-- Created: 2025-11-21 00:00:35 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 382 -->
+<!-- Created: 2025-11-21 11:42:08 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -8184,7 +8184,7 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>487437</ITEM_ID>
-          <PRODUCTNAME>Schönox iFLOOR SET · 125m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
+          <PRODUCTNAME>Schönox iFLOOR SET · 50m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
           <PRODUCT>Schönox iFLOOR SET · 50 m2 - Disperzní lepidlo na vinylové podlahy</PRODUCT>
           <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
 Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
@@ -8225,7 +8225,7 @@ Balení: 15l kanystr</DESCRIPTION>
           <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
 Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
 Balení: 5l kanystr</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-proseal-12-5l</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12-5l</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
           <PRICE_VAT>1545.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8236,7 +8236,45 @@ Balení: 5l kanystr</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>477661</ITEM_ID>
+          <PRODUCTNAME>Sika Level-01 Primer · 1kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
+          <PRODUCT>Sika® Level-01 Primer · 1 kg - </PRODUCT>
+          <DESCRIPTION>Hloubková penetrace na minerální podklady.
+Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
+· Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
+Balení: 1kg kanystr</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-level-01-primer-1kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
+          <PRICE_VAT>4340.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895155821</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>442584</ITEM_ID>
+          <PRODUCTNAME>Sika Level-01 Primer · 5kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
+          <PRODUCT>Sika® Level-01 Primer · 5 kg - </PRODUCT>
+          <DESCRIPTION>Hloubková penetrace na minerální podklady.
+Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
+· Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
+Balení: 5kg kanystr</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika®-level-01-primer-5kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
+          <PRICE_VAT>1305.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894983876</EAN>
+        </SHOPITEM>
+      
+    
+  
 
-    <!-- Total ACTIVE items: 469 -->
+    <!-- Total ACTIVE items: 471 -->
 
 </SHOP>

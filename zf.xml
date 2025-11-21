@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 380 -->
-<!-- Created: 2025-11-21 00:00:35 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 382 -->
+<!-- Created: 2025-11-21 11:42:08 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -112,7 +112,7 @@ Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny 
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4531,7 +4531,7 @@ Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje t
 Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje trhliny, WTA certifikát. Rychlé opravy vlhkých míst, průsaků a výronů vody.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid-15kg-3x5kg</URL>
           <PRICE_VAT>1405.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-RH-Rapid-1kg-rychle-tuhnouci-vyplnova-malta.jpg?v=1755863739</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -11937,7 +11937,7 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Schönox iFLOOR SET · 125m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
+          <PRODUCTNAME>Schönox iFLOOR SET · 50m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
           <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
 Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
 Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
@@ -11993,7 +11993,7 @@ Balení: 15l kanystr</DESCRIPTION>
           <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
 Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
 Balení: 5l kanystr</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-proseal-12-5l</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12-5l</URL>
           <PRICE_VAT>1545.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
@@ -12014,7 +12014,61 @@ Balení: 5l kanystr</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Level-01 Primer · 1kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
+          <DESCRIPTION>Hloubková penetrace na minerální podklady.
+Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
+· Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
+Balení: 1kg kanystr</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-level-01-primer-1kg</URL>
+          <PRICE_VAT>4340.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>477661</ITEM_ID>
 
-    <!-- Total ACTIVE items: 469 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>7612895155821</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Level-01 Primer · 5kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
+          <DESCRIPTION>Hloubková penetrace na minerální podklady.
+Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
+· Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
+Balení: 5kg kanystr</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika®-level-01-primer-5kg</URL>
+          <PRICE_VAT>1305.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>442584</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>7612894983876</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 471 -->
 
 </SHOP>
