@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 382 -->
-<!-- Created: 2025-11-26 00:00:44 -->
+<!-- Total items: 383 -->
+<!-- Created: 2025-11-27 00:00:37 -->
 <!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -290,7 +290,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
           <DESCRIPTION>Dvousložková (2K), vysoce flexibilní, trhliny překlenující, minerální silnovrstvá hydroizolace (FDP). S rychlou odolnosti proti dešti a možností následného omítání. Radon těsná.
 Polymerem modifikovaná minerální stěkra, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
-          <PRICE_VAT>3500.0</PRICE_VAT>
+          <PRICE_VAT>4235.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -12068,7 +12068,147 @@ Balení: 5kg kanystr</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,20 m</PRODUCTNAME>
+          <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
+Balení: 50 m (role), různé šířky</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472154128721</URL>
+          <PRICE_VAT>1220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>415601</ITEM_ID>
 
-    <!-- Total ACTIVE items: 471 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          <EAN>4004707261067</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,25 m</PRODUCTNAME>
+          <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
+Balení: 50 m (role), různé šířky</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472154161489</URL>
+          <PRICE_VAT>1525.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>415501</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,35 m</PRODUCTNAME>
+          <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
+Balení: 50 m (role), různé šířky</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472160977233</URL>
+          <PRICE_VAT>2135.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>415401</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          <EAN>4004707261043</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,50 m</PRODUCTNAME>
+          <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
+Balení: 50 m (role), různé šířky</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472161010001</URL>
+          <PRICE_VAT>3050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>415301</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,75 m</PRODUCTNAME>
+          <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
+Balení: 50 m (role), různé šířky</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472161042769</URL>
+          <PRICE_VAT>4575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>415201</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          <EAN>4004707261029</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 1,00 m</PRODUCTNAME>
+          <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
+Balení: 50 m (role), různé šířky</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472167760209</URL>
+          <PRICE_VAT>6100.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          <EAN>4004707257718</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 477 -->
 
 </SHOP>
