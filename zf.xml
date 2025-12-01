@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 383 -->
-<!-- Created: 2025-12-01 09:29:38 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total items: 386 -->
+<!-- Created: 2025-12-02 00:00:29 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -8129,7 +8129,7 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Švětle šedý (RAL 7035)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 · Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
@@ -8154,7 +8154,7 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Stěrkový šedý (RAL 7032)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 · Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
@@ -12208,7 +12208,256 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A+B · stěrkový šedý (RAL 7032) · 28kg</PRODUCTNAME>
+          <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
+Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
+✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-tc-681?variant=52514194489681</URL>
+          <PRICE_VAT>26300.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-TC-681_opt.jpg?v=1764596319</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799783</ITEM_ID>
 
-    <!-- Total ACTIVE items: 477 -->
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612894961881</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A+B · světle šedý (RAL 7035) · 28kg</PRODUCTNAME>
+          <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
+Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
+✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-tc-681?variant=52514194522449</URL>
+          <PRICE_VAT>26535.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-TC-681_opt.jpg?v=1764596319</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799778</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>4049499045846</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A · stěrkový šedý (RAL 7032) · 16,8kg</PRODUCTNAME>
+          <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
+Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
+✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-tc-681?variant=52514194555217</URL>
+          <PRICE_VAT>14050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-TC-681_opt.jpg?v=1764596319</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799139</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612894958799</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A · CG1 · 16,8kg</PRODUCTNAME>
+          <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
+Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
+✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-tc-681?variant=52514194587985</URL>
+          <PRICE_VAT>14460.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-TC-681_opt.jpg?v=1764596319</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>800426</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612894855531</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. B · 11,2kg</PRODUCTNAME>
+          <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
+Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
+✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-tc-681?variant=52514838249809</URL>
+          <PRICE_VAT>12250.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-TC-681_opt.jpg?v=1764596319</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799099</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7611237020032</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® M 880 · bílá · PUR stěrka pro garážové podlahy · komp. A+B · 24kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková (2K) PU nosná stěrka s rychlým vytvrzením i za nízkých teplot, pro parkovací plochy a hydroizolační systémy.
+Sikafloor® M 880 je rychle vytvrzující otěruvzdorná stěrka pro použití v hydroizolačních systémech na parkovištích. Jedná se o dvousložkový polyuretan bez rozpouštědel, který je mírně tixotropní, takže jej lze aplikovat na rampy bez nutnosti přidání tixotropní přísady i na vodorovné povrchy. Má nízkou spotřebu pro ekonomické použití a vykazuje vynikající vazbu na hydroizolační membránu. Sikafloor® M 880 je mírně elastický, takže se může přizpůsobit určitému pohybu podlahy.
+✅ Rychlé vytvrzování při nízkých teplotách✅ Vynikající vazba na hydroizolační membrány✅ Mírně tixotropní pro aplikaci na rampy
+Barva: bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-m-880-bila?variant=52516349935953</URL>
+          <PRICE_VAT>10555.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-M-880_opt.jpg?v=1764617410</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799963</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>4049499045334</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® M 880 · bílá · PUR stěrka pro garážové podlahy · komp. A · 16,44kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková (2K) PU nosná stěrka s rychlým vytvrzením i za nízkých teplot, pro parkovací plochy a hydroizolační systémy.
+Sikafloor® M 880 je rychle vytvrzující otěruvzdorná stěrka pro použití v hydroizolačních systémech na parkovištích. Jedná se o dvousložkový polyuretan bez rozpouštědel, který je mírně tixotropní, takže jej lze aplikovat na rampy bez nutnosti přidání tixotropní přísady i na vodorovné povrchy. Má nízkou spotřebu pro ekonomické použití a vykazuje vynikající vazbu na hydroizolační membránu. Sikafloor® M 880 je mírně elastický, takže se může přizpůsobit určitému pohybu podlahy.
+✅ Rychlé vytvrzování při nízkých teplotách✅ Vynikající vazba na hydroizolační membrány✅ Mírně tixotropní pro aplikaci na rampy
+Barva: bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-m-880-bila?variant=52516349968721</URL>
+          <PRICE_VAT>7510.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-M-880_opt.jpg?v=1764617410</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>798995</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7611237019913</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® M 880 · bílá · PUR stěrka pro garážové podlahy · komp. B · 7,56kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková (2K) PU nosná stěrka s rychlým vytvrzením i za nízkých teplot, pro parkovací plochy a hydroizolační systémy.
+Sikafloor® M 880 je rychle vytvrzující otěruvzdorná stěrka pro použití v hydroizolačních systémech na parkovištích. Jedná se o dvousložkový polyuretan bez rozpouštědel, který je mírně tixotropní, takže jej lze aplikovat na rampy bez nutnosti přidání tixotropní přísady i na vodorovné povrchy. Má nízkou spotřebu pro ekonomické použití a vykazuje vynikající vazbu na hydroizolační membránu. Sikafloor® M 880 je mírně elastický, takže se může přizpůsobit určitému pohybu podlahy.
+✅ Rychlé vytvrzování při nízkých teplotách✅ Vynikající vazba na hydroizolační membrány✅ Mírně tixotropní pro aplikaci na rampy
+Barva: bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-m-880-bila?variant=52516350001489</URL>
+          <PRICE_VAT>3045.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-M-880_opt.jpg?v=1764617410</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>798996</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7611237019920</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-10 W · Ošetření a utěsnění betonových povrchů · 15 l</PRODUCTNAME>
+          <DESCRIPTION>Přípravek pro ošetření, utěsnění a snížení prašnosti betonových povrchů.
+Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové disperze, určený pro ochranu a ošetření stávajících, či čerstvých betonových povrchů.
+✅ Dodatečné vytvrzení povrchových vrstev betonu✅ Zvýšená odolnost vůči abrazi✅ Snížení prašnosti (sprašování) povrchových vrstev</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-10-w?variant=52516512170321</URL>
+          <PRICE_VAT>2890.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-ProSeal-10-W_opt.jpg?v=1764620171</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>404608</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612894791815</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-10 W · Ošetření a utěsnění betonových povrchů · 200 l</PRODUCTNAME>
+          <DESCRIPTION>Přípravek pro ošetření, utěsnění a snížení prašnosti betonových povrchů.
+Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové disperze, určený pro ochranu a ošetření stávajících, či čerstvých betonových povrchů.
+✅ Dodatečné vytvrzení povrchových vrstev betonu✅ Zvýšená odolnost vůči abrazi✅ Snížení prašnosti (sprašování) povrchových vrstev</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-10-w?variant=52516512203089</URL>
+          <PRICE_VAT>28850.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-ProSeal-10-W_opt.jpg?v=1764620171</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>406360</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612894800524</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 487 -->
 
 </SHOP>
