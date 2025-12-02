@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 386 -->
-<!-- Created: 2025-12-02 00:00:29 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total items: 391 -->
+<!-- Created: 2025-12-02 22:39:32 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -14,7 +14,7 @@ Právě jste našli, co jste hledali. Nejprodávanější hydroizolační stěrk
 Balení &quot;3+3&quot;: 3x3,5kg (komp. A) + 3x4,8kg (komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k-25kg-3-3</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka_round_best_seller_left.webp?v=1758792188</IMGURL>
-          <PRICE_VAT>3908.0</PRICE_VAT>
+          <PRICE_VAT>3905.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5804,7 +5804,7 @@ Sikafloor®-304 W je 2-komponentní polyuretanová uzavírací vrstva s matným 
 · Na vodní bázi· Velmi nízký zápach· Dobrá odolnost vůči UV záření a žloutnutí
 Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-304-w-7-5kg</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-304-W-00580944_1-1.jpg?v=1759829877</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-304-W_opt.jpg?v=1764682843</IMGURL>
           <PRICE_VAT>10500.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
@@ -8535,7 +8535,481 @@ Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové 
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>653964</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® 2350 ESD · Disipativní epoxidový nátěr pro podlahy · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® 2350 ESD · 30 kg · RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní elektrostaticky disipativní epoxidový podlahový nátěr.
+Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky disipativní podlahový nátěr na bázi epoxidové pryskyřice.
+✅ Spolehlivá dlouhodobá vodivost✅ Splňuje požadavky ESD✅ Nízké emise VOC
+Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518119637329</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
+          <PRICE_VAT>13240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895863788</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>653621</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® 2350 ESD · Disipativní epoxidový nátěr pro podlahy · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® 2350 ESD · 30 kg · RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní elektrostaticky disipativní epoxidový podlahový nátěr.
+Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky disipativní podlahový nátěr na bázi epoxidové pryskyřice.
+✅ Spolehlivá dlouhodobá vodivost✅ Splňuje požadavky ESD✅ Nízké emise VOC
+Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518159810897</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
+          <PRICE_VAT>13240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>653962</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® 2350 ESD · Disipativní epoxidový nátěr pro podlahy · RAL 7040 (okenní šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® 2350 ESD · 30 kg · RAL 7040 (okenní šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní elektrostaticky disipativní epoxidový podlahový nátěr.
+Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky disipativní podlahový nátěr na bázi epoxidové pryskyřice.
+✅ Spolehlivá dlouhodobá vodivost✅ Splňuje požadavky ESD✅ Nízké emise VOC
+Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518159843665</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
+          <PRICE_VAT>14260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>667389</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® 2350 ESD · Disipativní epoxidový nátěr pro podlahy · RAL 7047 (telešedá 4)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® 2350 ESD · 30 kg · RAL 7047 (telešedá 4) - </PRODUCT>
+          <DESCRIPTION>2-komponentní elektrostaticky disipativní epoxidový podlahový nátěr.
+Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky disipativní podlahový nátěr na bázi epoxidové pryskyřice.
+✅ Spolehlivá dlouhodobá vodivost✅ Splňuje požadavky ESD✅ Nízké emise VOC
+Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518159876433</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
+          <PRICE_VAT>23860.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655027542</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>712350</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® 2350 ESD · Disipativní epoxidový nátěr pro podlahy · RAL 9002 (šedobílá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® 2350 ESD · 30 kg · RAL 9002 (šedobílá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní elektrostaticky disipativní epoxidový podlahový nátěr.
+Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky disipativní podlahový nátěr na bázi epoxidové pryskyřice.
+✅ Spolehlivá dlouhodobá vodivost✅ Splňuje požadavky ESD✅ Nízké emise VOC
+Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518159909201</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
+          <PRICE_VAT>23860.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895863085</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>568619</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-220 W Conductive · 6kg · Vodivý penetrační nátěr</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-220 W Conductive · 6 kg - </PRODUCT>
+          <DESCRIPTION>2komponentní, elektrostaticky vodivý epoxidový penetrační nátěr.
+Sikafloor®-220 W Conductive je 2komponentní, vysoce elektrostaticky vodivý penetrační nátěr, vodní disperze epoxidové pryskyřice. Sikafloor®-220 W Conductive je součást různých podlahových systémů. Více informací naleznete v kapitole Informace o systému.
+✅ Elektrostaticky vysoce vodivý✅ Snadno aplikovatelný✅ Ekonomický (nízká spotřeba)
+Balení: 6kg (komp. A 4,98kg + komp. B 1,02kg)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-220-w-conductive-6kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-220-W-Conductive_opt.jpg?v=1764654767</IMGURL>
+          <PRICE_VAT>3720.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895516806</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>812686</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2600 · Epoxidové pojivo pro samonivelační podlahy · 30kg · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2600 · 30kg · RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+✅ Snadná aplikace✅ Ekonomické řešení✅ Vodotěsný/ odolný vůči kapalinám
+Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215426897</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
+          <PRICE_VAT>11500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655049285</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>768005</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2600 · Epoxidové pojivo pro samonivelační podlahy · 30kg · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2600 · 30kg · RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+✅ Snadná aplikace✅ Ekonomické řešení✅ Vodotěsný/ odolný vůči kapalinám
+Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215459665</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
+          <PRICE_VAT>11295.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>852628</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2600 · Epoxidové pojivo pro samonivelační podlahy · 30kg · bright (světlá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2600 · 30kg · bright (světlá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+✅ Snadná aplikace✅ Ekonomické řešení✅ Vodotěsný/ odolný vůči kapalinám
+Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215492433</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
+          <PRICE_VAT>11470.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655147714</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>852629</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2600 · Epoxidové pojivo pro samonivelační podlahy · 30kg · pastel (pastelová)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2600 · 30kg · pastel (pastelová) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+✅ Snadná aplikace✅ Ekonomické řešení✅ Vodotěsný/ odolný vůči kapalinám
+Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215525201</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
+          <PRICE_VAT>10950.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655147806</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>622583</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2600 · Epoxidové pojivo pro samonivelační podlahy · 825kg · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2600 · 825kg · RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+✅ Snadná aplikace✅ Ekonomické řešení✅ Vodotěsný/ odolný vůči kapalinám
+Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215557969</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
+          <PRICE_VAT>258750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>596554</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2600 · Epoxidové pojivo pro samonivelační podlahy · 825kg · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2600 · 825kg · RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na bázi epoxidové pryskyřice, pro zhotovení samonivelačních podlahových nátěrů.
+✅ Snadná aplikace✅ Ekonomické řešení✅ Vodotěsný/ odolný vůči kapalinám
+Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521284010321</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
+          <PRICE_VAT>258750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>161860</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-262 AS N · Vodivý samonivelační epoxidový nátěr · RAL 1001 (béžová)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-262 AS N · 25 kg · RAL 1001 (béžová) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, hladký, elektrostaticky vodivý, samonivelační podlahový nátěr.
+Sikafloor®-262 AS N je 2-komponentní, samonivelační, barevný nátěr, na bázi epoxidových pryskyřic.
+✅ Elektrostaticky vodivý✅ Dobrá odolnost vůči chemikáliím✅ Dobrá mechanická odolnost
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-262-as-n-25kg?variant=52522083582289</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-262-as-n-25kg_opt.jpg?v=1764685677</IMGURL>
+          <PRICE_VAT>9995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895868417</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>533679</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-262 AS N · Vodivý samonivelační epoxidový nátěr · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-262 AS N · 25 kg · RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, hladký, elektrostaticky vodivý, samonivelační podlahový nátěr.
+Sikafloor®-262 AS N je 2-komponentní, samonivelační, barevný nátěr, na bázi epoxidových pryskyřic.
+✅ Elektrostaticky vodivý✅ Dobrá odolnost vůči chemikáliím✅ Dobrá mechanická odolnost
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-262-as-n-25kg?variant=52522083615057</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-262-as-n-25kg_opt.jpg?v=1764685677</IMGURL>
+          <PRICE_VAT>9315.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895553726</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>533678</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-262 AS N · Vodivý samonivelační epoxidový nátěr · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-262 AS N · 25 kg · RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, hladký, elektrostaticky vodivý, samonivelační podlahový nátěr.
+Sikafloor®-262 AS N je 2-komponentní, samonivelační, barevný nátěr, na bázi epoxidových pryskyřic.
+✅ Elektrostaticky vodivý✅ Dobrá odolnost vůči chemikáliím✅ Dobrá mechanická odolnost
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-262-as-n-25kg?variant=52522083647825</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-262-as-n-25kg_opt.jpg?v=1764685677</IMGURL>
+          <PRICE_VAT>9315.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895501475</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>533700</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-262 AS N · Vodivý samonivelační epoxidový nátěr · RAL 7037 (prachová šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-262 AS N · 25 kg · RAL 7037 (prachová šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, hladký, elektrostaticky vodivý, samonivelační podlahový nátěr.
+Sikafloor®-262 AS N je 2-komponentní, samonivelační, barevný nátěr, na bázi epoxidových pryskyřic.
+✅ Elektrostaticky vodivý✅ Dobrá odolnost vůči chemikáliím✅ Dobrá mechanická odolnost
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-262-as-n-25kg?variant=52522083680593</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-262-as-n-25kg_opt.jpg?v=1764685677</IMGURL>
+          <PRICE_VAT>9995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>150375</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-262 AS N · Vodivý samonivelační epoxidový nátěr · RAL 7040 (okenní šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-262 AS N · 25 kg · RAL 7040 (okenní šedá) - </PRODUCT>
+          <DESCRIPTION>2-komponentní, hladký, elektrostaticky vodivý, samonivelační podlahový nátěr.
+Sikafloor®-262 AS N je 2-komponentní, samonivelační, barevný nátěr, na bázi epoxidových pryskyřic.
+✅ Elektrostaticky vodivý✅ Dobrá odolnost vůči chemikáliím✅ Dobrá mechanická odolnost
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-262-as-n-25kg?variant=52522083713361</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-262-as-n-25kg_opt.jpg?v=1764685677</IMGURL>
+          <PRICE_VAT>9995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895868660</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>538743</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 30kg (AB) / RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 30kg (AB) / RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
 
-    <!-- Total ACTIVE items: 487 -->
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524561138001</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>10220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895856551</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>538742</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 30kg (AB) / RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 30kg (AB) / RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680773969</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>10220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895856568</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>545341</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 30kg (AB) / Vícebarevná světlá</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 30kg (AB) / Vícebarevná světlá - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680806737</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>12195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895856544</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>549852</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 279kg (AB) / RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 279kg (AB) / RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524561170769</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>79650.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895873602</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>549809</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 279kg (AB) / RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 279kg (AB) / RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680839505</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>80200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895873619</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>549945</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 837kg (3A+B) / RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 837kg (3A+B) / RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524561203537</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>234150.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895870946</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>550117</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-264 N · Hladká epoxidová stěrka a nátěr · 837kg (3A+B) / RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-264 N · 837kg (3A+B) / RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+
+Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové pryskyřice, který múže poskytnout odolný, jednolitý, nízkoúdržbový, hladký leský povrch, nebo protiskluzný povrch při prosypání pískem různé zrnitosti. Pro střední až těžké podmínky opotřebení. Na vnitřní použití.
+
+
+
+
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
+Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680905041</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-N_opt.jpg?v=1764708421</IMGURL>
+          <PRICE_VAT>234150.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895870830</EAN>
+        </SHOPITEM>
+      
+    
+  
+
+    <!-- Total ACTIVE items: 511 -->
 
 </SHOP>
