@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total items: 391 -->
-<!-- Created: 2025-12-03 00:00:35 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 511 -->
+<!-- Total individual products: 380 -->
+<!-- Created: 2025-12-03 12:32:08 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -13123,7 +13124,5 @@ Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
       
     
   
-
-    <!-- Total ACTIVE items: 511 -->
 
 </SHOP>
