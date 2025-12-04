@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 511 -->
 <!-- Total individual products: 380 -->
-<!-- Created: 2025-12-04 14:34:49 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2025-12-05 00:00:37 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -8204,7 +8204,7 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>405149</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · 15l · Utěsnění a vytvrzení beton. podlah</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® ProSeal-12 · 15 l - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® ProSeal-12 · 15 l - Akrylátový lak</PRODUCT>
           <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
 Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
 Balení: 15l kanystr</DESCRIPTION>
@@ -8222,7 +8222,7 @@ Balení: 15l kanystr</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>422871</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · 5l · Utěsnění a vytvrzení beton. podlah</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® ProSeal-12 · 5 l - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® ProSeal-12 · 5 l - Akrylátový lak</PRODUCT>
           <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
 Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
 Balení: 5l kanystr</DESCRIPTION>
@@ -8240,7 +8240,7 @@ Balení: 5l kanystr</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>477661</ITEM_ID>
           <PRODUCTNAME>Sika Level-01 Primer · 1kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
-          <PRODUCT>Sika® Level-01 Primer · 1 kg - </PRODUCT>
+          <PRODUCT>Sika® Level-01 Primer · 1 kg - Hloubková penetrace</PRODUCT>
           <DESCRIPTION>Hloubková penetrace na minerální podklady.
 Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
 · Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
@@ -8259,7 +8259,7 @@ Balení: 1kg kanystr</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>442584</ITEM_ID>
           <PRODUCTNAME>Sika Level-01 Primer · 5kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
-          <PRODUCT>Sika® Level-01 Primer · 5 kg - </PRODUCT>
+          <PRODUCT>Sika® Level-01 Primer · 5 kg - Hloubková penetrace</PRODUCT>
           <DESCRIPTION>Hloubková penetrace na minerální podklady.
 Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
 · Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
@@ -8278,7 +8278,7 @@ Balení: 5kg kanystr</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>415601</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,20 m</PRODUCTNAME>
-          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,20 m - </PRODUCT>
+          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,20 m - Armovací vložka</PRODUCT>
           <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472154128721</URL>
@@ -8293,7 +8293,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>415501</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,25 m</PRODUCTNAME>
-          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,25 m - </PRODUCT>
+          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,25 m - Armovací vložka</PRODUCT>
           <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472154161489</URL>
@@ -8308,7 +8308,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>415401</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,35 m</PRODUCTNAME>
-          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,35 m - </PRODUCT>
+          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,35 m - Armovací vložka</PRODUCT>
           <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472160977233</URL>
@@ -8323,7 +8323,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>415301</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,50 m</PRODUCTNAME>
-          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,50 m - </PRODUCT>
+          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,50 m - Armovací vložka</PRODUCT>
           <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472161010001</URL>
@@ -8338,7 +8338,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>415201</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 0,75 m</PRODUCTNAME>
-          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,75 m - </PRODUCT>
+          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 0,75 m - Armovací vložka</PRODUCT>
           <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472161042769</URL>
@@ -8353,7 +8353,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>402001</ITEM_ID>
           <PRODUCTNAME>Remmers MB PUReactive F · 50m · Armovací rouno pro tekuté hydroizolace · 1,00 m</PRODUCTNAME>
-          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 1,00 m - </PRODUCT>
+          <PRODUCT>Remmers MB PUReactive F · 50 m (role) · 1,00 m - Armovací vložka</PRODUCT>
           <DESCRIPTION>Nosná vložka pro MB PUReactive a MB PUReactive TX.
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472167760209</URL>
@@ -8370,7 +8370,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>799783</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A+B · stěrkový šedý (RAL 7032) · 28kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A+B · stěrkový šedý (RAL 7032) · 28kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A+B · stěrkový šedý (RAL 7032) · 28kg - Polyuretanový vrchní nátěr s UV ochranou</PRODUCT>
           <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
 Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
 ✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
@@ -8386,7 +8386,7 @@ Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých tep
           <SHOPITEM>
           <ITEM_ID>799778</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A+B · světle šedý (RAL 7035) · 28kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A+B · světle šedý (RAL 7035) · 28kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A+B · světle šedý (RAL 7035) · 28kg - Polyuretanový vrchní nátěr s UV ochranou</PRODUCT>
           <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
 Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
 ✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
@@ -8402,7 +8402,7 @@ Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých tep
           <SHOPITEM>
           <ITEM_ID>799139</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A · stěrkový šedý (RAL 7032) · 16,8kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A · stěrkový šedý (RAL 7032) · 16,8kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A · stěrkový šedý (RAL 7032) · 16,8kg - Polyuretanový vrchní nátěr s UV ochranou</PRODUCT>
           <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
 Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
 ✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
@@ -8418,7 +8418,7 @@ Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých tep
           <SHOPITEM>
           <ITEM_ID>800426</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. A · CG1 · 16,8kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A · CG1 · 16,8kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. A · CG1 · 16,8kg - Polyuretanový vrchní nátěr s UV ochranou</PRODUCT>
           <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
 Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
 ✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
@@ -8434,7 +8434,7 @@ Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých tep
           <SHOPITEM>
           <ITEM_ID>799099</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® TC 681 · Rychlý lesklý nátěr na parkovací plochy · komp. B · 11,2kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. B · 11,2kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® TC 681 (bývalý MSeal TC 681) · komp. B · 11,2kg - Polyuretanový vrchní nátěr s UV ochranou</PRODUCT>
           <DESCRIPTION>Vodou ředitelný dvousložkový (2K) polyuretanový vrchní nátěr.
 Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých teplotách vytvrzující, UV stabilní, nežloutnoucí, elastický vrchní nátěr s lesklým povrchem na prosypávané nátěry. Sikafloor® TC 681 obsahuje rozpouštědla.
 ✅ Rychlé tvrdnutí✅ Krátká doba &quot;připravenosti k provozu&quot;✅ Vynikající mechanické vlastnosti✅ Odolné proti opotřebení✅ Elastické</DESCRIPTION>
@@ -8452,7 +8452,7 @@ Sikafloor® TC 681 je dvousložkový, pigmentovaný, rychle a při nízkých tep
           <SHOPITEM>
           <ITEM_ID>799963</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® M 880 · bílá · PUR stěrka pro garážové podlahy · komp. A+B · 24kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® M 880 (bývalý MSeal M 880) · bílá · komp. A+B · 24kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® M 880 (bývalý MSeal M 880) · bílá · komp. A+B · 24kg - Polyuretanová flexibilní stěrka rychletvrdnoucí</PRODUCT>
           <DESCRIPTION>Dvousložková (2K) PU nosná stěrka s rychlým vytvrzením i za nízkých teplot, pro parkovací plochy a hydroizolační systémy.
 Sikafloor® M 880 je rychle vytvrzující otěruvzdorná stěrka pro použití v hydroizolačních systémech na parkovištích. Jedná se o dvousložkový polyuretan bez rozpouštědel, který je mírně tixotropní, takže jej lze aplikovat na rampy bez nutnosti přidání tixotropní přísady i na vodorovné povrchy. Má nízkou spotřebu pro ekonomické použití a vykazuje vynikající vazbu na hydroizolační membránu. Sikafloor® M 880 je mírně elastický, takže se může přizpůsobit určitému pohybu podlahy.
 ✅ Rychlé vytvrzování při nízkých teplotách✅ Vynikající vazba na hydroizolační membrány✅ Mírně tixotropní pro aplikaci na rampy
@@ -8469,7 +8469,7 @@ Barva: bílá</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>798995</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® M 880 · bílá · PUR stěrka pro garážové podlahy · komp. A · 16,44kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® M 880 (bývalý MSeal M 880) · bílá · komp. A · 16,44kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® M 880 (bývalý MSeal M 880) · bílá · komp. A · 16,44kg - Polyuretanová flexibilní stěrka rychletvrdnoucí</PRODUCT>
           <DESCRIPTION>Dvousložková (2K) PU nosná stěrka s rychlým vytvrzením i za nízkých teplot, pro parkovací plochy a hydroizolační systémy.
 Sikafloor® M 880 je rychle vytvrzující otěruvzdorná stěrka pro použití v hydroizolačních systémech na parkovištích. Jedná se o dvousložkový polyuretan bez rozpouštědel, který je mírně tixotropní, takže jej lze aplikovat na rampy bez nutnosti přidání tixotropní přísady i na vodorovné povrchy. Má nízkou spotřebu pro ekonomické použití a vykazuje vynikající vazbu na hydroizolační membránu. Sikafloor® M 880 je mírně elastický, takže se může přizpůsobit určitému pohybu podlahy.
 ✅ Rychlé vytvrzování při nízkých teplotách✅ Vynikající vazba na hydroizolační membrány✅ Mírně tixotropní pro aplikaci na rampy
@@ -8486,7 +8486,7 @@ Barva: bílá</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>798996</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® M 880 · bílá · PUR stěrka pro garážové podlahy · komp. B · 7,56kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® M 880 (bývalý MSeal M 880) · bílá · komp. B · 7,56kg - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® M 880 (bývalý MSeal M 880) · bílá · komp. B · 7,56kg - Polyuretanová flexibilní stěrka rychletvrdnoucí</PRODUCT>
           <DESCRIPTION>Dvousložková (2K) PU nosná stěrka s rychlým vytvrzením i za nízkých teplot, pro parkovací plochy a hydroizolační systémy.
 Sikafloor® M 880 je rychle vytvrzující otěruvzdorná stěrka pro použití v hydroizolačních systémech na parkovištích. Jedná se o dvousložkový polyuretan bez rozpouštědel, který je mírně tixotropní, takže jej lze aplikovat na rampy bez nutnosti přidání tixotropní přísady i na vodorovné povrchy. Má nízkou spotřebu pro ekonomické použití a vykazuje vynikající vazbu na hydroizolační membránu. Sikafloor® M 880 je mírně elastický, takže se může přizpůsobit určitému pohybu podlahy.
 ✅ Rychlé vytvrzování při nízkých teplotách✅ Vynikající vazba na hydroizolační membrány✅ Mírně tixotropní pro aplikaci na rampy
@@ -8505,7 +8505,7 @@ Barva: bílá</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>404608</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® ProSeal-10 W · Ošetření a utěsnění betonových povrchů · 15 l</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® ProSeal-10 W · 15 l - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® ProSeal-10 W · 15 l - Ochranná disperze</PRODUCT>
           <DESCRIPTION>Přípravek pro ošetření, utěsnění a snížení prašnosti betonových povrchů.
 Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové disperze, určený pro ochranu a ošetření stávajících, či čerstvých betonových povrchů.
 ✅ Dodatečné vytvrzení povrchových vrstev betonu✅ Zvýšená odolnost vůči abrazi✅ Snížení prašnosti (sprašování) povrchových vrstev</DESCRIPTION>
@@ -8521,7 +8521,7 @@ Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové 
           <SHOPITEM>
           <ITEM_ID>406360</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® ProSeal-10 W · Ošetření a utěsnění betonových povrchů · 200 l</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® ProSeal-10 W · 200 l - </PRODUCT>
+          <PRODUCT>Sika Sikafloor® ProSeal-10 W · 200 l - Ochranná disperze</PRODUCT>
           <DESCRIPTION>Přípravek pro ošetření, utěsnění a snížení prašnosti betonových povrchů.
 Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové disperze, určený pro ochranu a ošetření stávajících, či čerstvých betonových povrchů.
 ✅ Dodatečné vytvrzení povrchových vrstev betonu✅ Zvýšená odolnost vůči abrazi✅ Snížení prašnosti (sprašování) povrchových vrstev</DESCRIPTION>
