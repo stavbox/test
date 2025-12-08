@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 513 -->
-<!-- Total individual products: 369 -->
-<!-- Created: 2025-12-08 15:57:28 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 512 -->
+<!-- Total individual products: 368 -->
+<!-- Created: 2025-12-09 00:00:50 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -286,16 +286,33 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
     
   
           <SHOPITEM>
-          <ITEM_ID>402332</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce · 125kg</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý · 125kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
+          <ITEM_ID>403422</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® LF68 12P · Polyuretanové pojivo pro kamenné koberce · 1,25kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® LF68 12P · bezbarvý · 1,25kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
           <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
 
 HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg?variant=52564907196753</URL>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p?variant=52564907196753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
-          <PRICE_VAT>7139.0</PRICE_VAT>
+          <PRICE_VAT>1815.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <EAN>4004637403421</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>402332</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® LF68 12P · Polyuretanové pojivo pro kamenné koberce · 5kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® LF68 12P · bezbarvý · 5kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
+          <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
+
+HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p?variant=52564907229521</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
+          <PRICE_VAT>7135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
@@ -303,37 +320,20 @@ HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>402333</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce · 5kg</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý · 5kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
+          <ITEM_ID>402738</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® LF68 12P · Polyuretanové pojivo pro kamenné koberce · 30kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® LF68 12P · bezbarvý · 30kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
           <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
 
 HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg?variant=52564907229521</URL>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p?variant=52564907262289</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
-          <PRICE_VAT>7139.0</PRICE_VAT>
+          <PRICE_VAT>39420.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
-          
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <ITEM_ID>402334</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce · 30kg</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý · 30kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
-          <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
-
-HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg?variant=52564907262289</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
-          <PRICE_VAT>7139.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Hahne</MANUFACTURER>
-          
+          <EAN>4004637402738</EAN>
         </SHOPITEM>
       
     
@@ -1154,44 +1154,6 @@ HADALAN® Topcoat G 32P je jednosložková, UV záření odolná a vzdušnou vl
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637403292</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>403422</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 1,25 kg · Polyuretanové pojivo pro kamenné koberce</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® LF68 12P · 1,25 kg · bezbarvý - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
-          <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
-
-HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-1-25kg-bezbarvy</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
-          <PRICE_VAT>1815.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Hahne</MANUFACTURER>
-          <EAN>4004637403421</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>402738</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 30 kg · Polyuretanové pojivo pro kamenné koberce</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® LF68 12P · 30 kg · bezbarvý - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
-          <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
-
-HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-30kg-bezbarvy</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
-          <PRICE_VAT>39420.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Hahne</MANUFACTURER>
-          <EAN>4004637402738</EAN>
         </SHOPITEM>
       
     
@@ -9006,6 +8968,23 @@ Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895870830</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>403384</ITEM_ID>
+          <PRODUCTNAME>Hahne IMBERAL® RSB 55Z · Rychlá izolace pro základy a mokré prostory</PRODUCTNAME>
+          <PRODUCT>Hahne IMBERAL® RSB 55Z · 25 kg - 1K bitumenová hydroizolace</PRODUCT>
+          <DESCRIPTION>Reaktivní, rychlá stavební izolace, flexibilní.
+IMBERAL® RSB 55Z je dvousložková (2K) rychleschnoucí hydroizolační a těsnící hmota bez obsahu bitumenu. Mezi její významné vlastnosti patří vysoká flexibilita i za studených podmínek, vysoká odolnost vůči vodním tlakům a schopnost překlenout trhliny. Po namíchání obou složek je tento výrobek velmi snadno zpracovatelný a rychle vyzrává.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-imberal-rsb-55z-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/IMBERAL_RSB_55Z_opt.jpg?v=1765209196</IMGURL>
+          <PRICE_VAT>4810.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <EAN>4004637403384</EAN>
         </SHOPITEM>
       
     
