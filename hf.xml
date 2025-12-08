@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 511 -->
-<!-- Total individual products: 380 -->
-<!-- Created: 2025-12-08 00:00:37 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 513 -->
+<!-- Total individual products: 369 -->
+<!-- Created: 2025-12-08 15:57:28 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -287,19 +287,53 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
   
           <SHOPITEM>
           <ITEM_ID>402332</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
+          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce · 125kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý · 125kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
           <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
 
 HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg</URL>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg?variant=52564907196753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
           <PRICE_VAT>7139.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402332</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>402333</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce · 5kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý · 5kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
+          <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
+
+HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg?variant=52564907229521</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
+          <PRICE_VAT>7139.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>402334</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® LF68 12P · 5 kg · Polyuretanové pojivo pro kamenné koberce · 30kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® LF68 12P · 5 kg · bezbarvý · 30kg - Polyuretanové pojivo pro kamenné koberce</PRODUCT>
+          <DESCRIPTION>Polyuretanové pojivo pro obklady z přírodního kamene a dekorativního křemene
+
+HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou odolnost vůči světelnému a mechanickému zatížení. Je bez zápachu a vyzrává vzdušnou vlhkostí. Po vytvrdnutí utváří transparentní elastický film, který má vysokou pevnost a odolnost vůči povětrnostním vlivům jako je např. sluneční záření, déšť, mráz a střídání teplot. Mezi další význačné vlastnosti patří vysoká otěruvzdornost a protiskluznost. Povrch je odolný vůči znečišťování a velmi snadno se udržuje.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-5kg?variant=52564907262289</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
+          <PRICE_VAT>7139.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          
         </SHOPITEM>
       
     
@@ -1040,15 +1074,29 @@ HADALAN® FGM003 57M je speciální plnivo pro epoxidové a polyuretanové smě
     
   
           <SHOPITEM>
-          <ITEM_ID>403674</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® FBA 32P · 7 kg · Hydroizolační nátěr pro balkony a terasy (stříbrošedý)</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® FBA 32P · 7 kg · stříbrošedý - Flexibilní jednosložková hydroizolace</PRODUCT>
+          <ITEM_ID>40373</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® FBA 32P · 7 kg · Hydroizolační nátěr pro balkony a terasy · štěrkově šedá (ca. RAL 7035)</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® FBA 32P · 7 kg · štěrkově šedá (ca. RAL 7035) - Flexibilní jednosložková hydroizolace</PRODUCT>
           <DESCRIPTION>Flexibilní jednosložková hydroizolace pro balkony a terasy.
-HADALAN® FBA 32P je jednosložková polyuretanová nátěrová pryskyřice s nízkým obsahem rozpouštědel. Po vyzrání utváří vysoce elastickou membránu, která překlenuje trhliny. Má velmi dobrou odolnost proti oděru a je flexibilní i v chladných podmínkách.
-Barva: stříbrošedý (silbergrau ca. RAL 7001)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-fba-32p-7kg</URL>
+HADALAN® FBA 32P je jednosložková polyuretanová nátěrová pryskyřice s nízkým obsahem rozpouštědel. Po vyzrání utváří vysoce elastickou membránu, která překlenuje trhliny. Má velmi dobrou odolnost proti oděru a je flexibilní i v chladných podmínkách.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-fba-32p-7kg?variant=52564401422673</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-FBA-32P-7kg-flexibilni-jednoslozkova-hydroiozlace.jpg?v=1755784553</IMGURL>
           <PRICE_VAT>6225.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>403674</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® FBA 32P · 7 kg · Hydroizolační nátěr pro balkony a terasy · stříbrošedý (ca. RAL 7001) - doprodej</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® FBA 32P · 7 kg · stříbrošedý (ca. RAL 7001) - doprodej - Flexibilní jednosložková hydroizolace</PRODUCT>
+          <DESCRIPTION>Flexibilní jednosložková hydroizolace pro balkony a terasy.
+HADALAN® FBA 32P je jednosložková polyuretanová nátěrová pryskyřice s nízkým obsahem rozpouštědel. Po vyzrání utváří vysoce elastickou membránu, která překlenuje trhliny. Má velmi dobrou odolnost proti oděru a je flexibilní i v chladných podmínkách.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-fba-32p-7kg?variant=52564401389905</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-FBA-32P-7kg-flexibilni-jednoslozkova-hydroiozlace.jpg?v=1755784553</IMGURL>
+          <PRICE_VAT>6095.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
@@ -1120,7 +1168,7 @@ HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p-1-25kg-bezbarvy</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
-          <PRICE_VAT>7139.0</PRICE_VAT>
+          <PRICE_VAT>1815.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
@@ -1919,260 +1967,229 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
   
           <SHOPITEM>
           <ITEM_ID>402868</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · hňedo-šedá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · hňedo-šedá - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · hňedo-šedá</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · hňedo-šedá - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-hnedo-seda-mramorove-kamenky-pro-kamenne-koberce.jpg?v=1755857263</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299008849</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402868</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>403193</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · světle béžová · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · světle béžová - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · světle béžová</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · světle béžová - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-svetle-bezova</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-svetle-bezova-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755857543</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299041617</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637403193</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>402509</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · zelená · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · zelená - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · zelená</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · zelená - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-zelena</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-zelena-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755857615</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299074385</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402509</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>402523</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · bílá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · bílá - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · bílá</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · bílá - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-bila</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-bila-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755857763</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299107153</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402523</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>402516</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · rose · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · rose - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · rose</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · rose - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-rose</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-rose-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755857811</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299139921</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402516</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>403186</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · terakota · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · terakota - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · terakota</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · terakota - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-terakota</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-terakota-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755857850</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299172689</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637403186</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>403544</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · bordo · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · bordo - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · bordo</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · bordo - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-bordo</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-bordo-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755858255</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299205457</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637403544</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>402769</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · světle šedá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · světle šedá - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · světle šedá</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · světle šedá - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-svetle-seda</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-svetle-seda-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755858599</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299238225</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402769</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>403629</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · antracit · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · antracit - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · antracit</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · antracit - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-antracit</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-antracit-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755858637</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299270993</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637403629</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>402493</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · šedá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · šedá - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · šedá</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · šedá - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-seda</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-seda-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755858699</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299303761</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402493</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>402691</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · černá · Mramorové kameny na balkony, terasy</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · černá - </PRODUCT>
-          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm
+          <PRODUCTNAME>Hahne HADALAN® MST 89M · 25 kg · Mramorové kameny na balkony, terasy · černá</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® MST 89M · 25 kg · černá - Mramorové kameny</PRODUCT>
+          <DESCRIPTION>Mramorové kameny pro dekorativní úpravu povrchu, 2 - 4 mm.
 Oblasti použití:
 
 Na balkony, terasy a ochozy bazénů
 Vnitřní dekorativní podlahy
 Venkovní i vnitřní schodiště
 Na beton a cementové potěry
-
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-cerna</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-MST-89M-25kg-cerna-mramorove-kameny-pro-kamenne-koberce.jpg?v=1755858733</IMGURL>
-          <PRICE_VAT>1482.0</PRICE_VAT>
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-mst-89m-25kg-hnedo-seda?variant=52563299336529</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_MST_89M_40286-8_BraunGrau_opt.jpg?v=1765202093</IMGURL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
@@ -4387,24 +4404,6 @@ Odsolovací maltová směs pro historický kámen a zdivo. Efektivně odstraňuj
     
   
           <SHOPITEM>
-          <ITEM_ID>40373</ITEM_ID>
-          <PRODUCTNAME>Hahne HADALAN® FBA 32P · 7 kg · Hydroizolační nátěr pro balkony a terasy (štěrkově šedý)</PRODUCTNAME>
-          <PRODUCT>Hahne HADALAN® FBA 32P · 7 kg · štěrkově šedý - Flexibilní jednosložková hydroizolace</PRODUCT>
-          <DESCRIPTION>Flexibilní jednosložková hydroizolace pro balkony a terasy.
-HADALAN® FBA 32P je jednosložková polyuretanová nátěrová pryskyřice s nízkým obsahem rozpouštědel. Po vyzrání utváří vysoce elastickou membránu, která překlenuje trhliny. Má velmi dobrou odolnost proti oděru a je flexibilní i v chladných podmínkách.
-Barva: štěrkově šedá (kieselgrau ca. RAL 7032)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-fba-32p-7kg-sterkove-sedy</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-FBA-32P-7kg-flexibilni-jednoslozkova-hydroiozlace.jpg?v=1755784553</IMGURL>
-          <PRICE_VAT>6225.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Hahne</MANUFACTURER>
-          
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <ITEM_ID>403131</ITEM_ID>
           <PRODUCTNAME>Hahne INTRASIT® SE-SL 18DD · 5 kg · Sanační roztok pro pro šetrnou likvidaci plísní</PRODUCTNAME>
           <PRODUCT>Hahne INTRASIT® SE-SL 18DD · 5 kg - </PRODUCT>
@@ -5370,11 +5369,11 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
           <SHOPITEM>
           <ITEM_ID>401601</ITEM_ID>
           <PRODUCTNAME>Hahne ÖKOPLAST® 1K 20B · 30 l · Bitumenová hydroizolace s polystyrenem</PRODUCTNAME>
-          <PRODUCT>Hahne ÖKOPLAST® 1K 20B · 30 l - </PRODUCT>
+          <PRODUCT>Hahne ÖKOPLAST® 1K 20B · 30 l - 1K bitumenová hydroizolace</PRODUCT>
           <DESCRIPTION>Silné bitumenové povlaky pro hydroizolaci staveb, plněné polystyrenem.
 ÖKOPLAST® 1K 20B je silnovrstvá polystyrenem nastavená a trhliny překlenující bitumenová izolační hmota, která může být použita, buď jako jednosložková anebo jako dvousložková. Je odolná vůči agresivním látkám s běžným výskytem v půdách. Není škodlivá vůči podzemním vodám. S certifikací na radon.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-okoplast-1k-20b-30l</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-OKOPLAST-1K-20B-30l-jednoslozkova-bitumenova-izolacni-hmota-s-polystyrenem.jpg?v=1755887299</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/OKOPLAST_1K_20B_opt.jpg?v=1765202279</IMGURL>
           <PRICE_VAT>3410.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
@@ -5387,13 +5386,13 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
           <SHOPITEM>
           <ITEM_ID>412409</ITEM_ID>
           <PRODUCTNAME>Hahne ÖKOPLAST® 2K 20B · 30 kg · Dvousložková bitumenová hydroizolace</PRODUCTNAME>
-          <PRODUCT>Hahne ÖKOPLAST® 2K 20B · 30 kg (24+6 kg) - </PRODUCT>
+          <PRODUCT>Hahne ÖKOPLAST® 2K 20B · 30 kg (24+6 kg) - 2K bitumenová hydroizolace</PRODUCT>
           <DESCRIPTION>Dvousložková (2K) bitumenová silnovrstvá stavební hydoizolace, s výztužnými vlákny.
 
 ÖKOPLAST® 2K 20B je dvousložková silnovrstvá a trhliny překlenující bitumenová izolační hmota s výztužným vláknem. Je odolná vůči agresivním látkám s běžným výskytem v půdách. Není škodlivá vůči podzemním vodám. S certifikátem na radon.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-okoplast-2k-20b-30kg</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-OKOPLAST-2K-20B-dvouslozkova-bitumenova-izolacni-hmota-s-vyztuznym-vlaknem.jpg?v=1755887409</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/OKOPLAST_2K_20B_opt.jpg?v=1765202395</IMGURL>
           <PRICE_VAT>3410.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
