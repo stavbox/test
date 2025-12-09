@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 512 -->
-<!-- Total individual products: 368 -->
-<!-- Created: 2025-12-09 00:00:50 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 515 -->
+<!-- Total individual products: 370 -->
+<!-- Created: 2025-12-09 13:08:24 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -216,7 +216,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
 Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, odolná vodě a hnilobě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-plus-25kg</URL>
           <PRICE_VAT>6480.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-PUReactive-plus-25kg-hydroizolace-strech-a-balkonu.jpg?v=1755778142</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -292,7 +292,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
 Polymerem modifikovaná minerální stěkra, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -1112,7 +1112,7 @@ Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje na
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl-12-5l-bily</URL>
           <PRICE_VAT>3174.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -3385,7 +3385,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zachovává paropropustnost, nízká viskozita, snadná aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws-30l</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5331,7 +5331,7 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
 Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výkvěty, špínu, rzi. Šetrný k podkladu, ideální pro renovaci historických staveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic-1l</URL>
           <PRICE_VAT>389.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -13087,7 +13087,7 @@ Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Hahne IMBERAL® RSB 55Z · Rychlá izolace pro základy a mokré prostory</PRODUCTNAME>
+          <PRODUCTNAME>Hahne IMBERAL® RSB 55Z · Rychleschnoucí hydroizolace bez bitumenu</PRODUCTNAME>
           <DESCRIPTION>Reaktivní, rychlá stavební izolace, flexibilní.
 IMBERAL® RSB 55Z je dvousložková (2K) rychleschnoucí hydroizolační a těsnící hmota bez obsahu bitumenu. Mezi její významné vlastnosti patří vysoká flexibilita i za studených podmínek, vysoká odolnost vůči vodním tlakům a schopnost překlenout trhliny. Po namíchání obou složek je tento výrobek velmi snadno zpracovatelný a rychle vyzrává.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-imberal-rsb-55z-25kg</URL>
@@ -13106,6 +13106,81 @@ IMBERAL® RSB 55Z je dvousložková (2K) rychleschnoucí hydroizolační a těsn
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004637403384</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Hahne IMBERAL® Aquarol 10D · Penetrační nátěr pro zpevnění podkladu · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální podkladový nátěr pro sanaci zdiva na minerální podklady.Německý patent P 41 03 773.1-09 – Hydroizolace budov
+IMBERA® Aquarol 10D je červeně zbarvená penetrace, která díky svým speciálním chemickým a fyzikální vlastnostem splňuje velmi náročné požadavky na přípravu stavebních povrchů před aplikací hydroizolačních materiálů při izolování spodních staveb. Navazuje povrchový prach a cementové zbytky k minerálnímu povrchu podkladních konstrukcí. Chemická reakce vznikající mezi podkladem a emulzí zpevňuje povrchy běžných stavebních materiálů a tvoří ideální základ pro následnou aplikaci hydroizolačních stěrek. Snižuje nasákavost podkladu a snižuje riziko poškození působením tlaků vodních par obsažených ve stavebních konstrukcích.
+IMBERAL® Aquarol 10D je penetrace obzvláště vhodná pod jednosložkové a dvousložkové silné bitumenové nátěry a pružné těsnící hydroizolační hmoty, jako jsou např. INTRASIT® 1KFlex 54Z, INTRASIT® Poly-C1 54Z/-C2 55Z a IMBERAL® RSB 55Z.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-imberal-aquarol-10d-5kg?variant=52569469485393</URL>
+          <PRICE_VAT>1100.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/IMBERAL_Aquarol_10D_opt.jpg?v=1765268170</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>401113</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4004637401113</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Hahne IMBERAL® Aquarol 10D · Penetrační nátěr pro zpevnění podkladu · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální podkladový nátěr pro sanaci zdiva na minerální podklady.Německý patent P 41 03 773.1-09 – Hydroizolace budov
+IMBERA® Aquarol 10D je červeně zbarvená penetrace, která díky svým speciálním chemickým a fyzikální vlastnostem splňuje velmi náročné požadavky na přípravu stavebních povrchů před aplikací hydroizolačních materiálů při izolování spodních staveb. Navazuje povrchový prach a cementové zbytky k minerálnímu povrchu podkladních konstrukcí. Chemická reakce vznikající mezi podkladem a emulzí zpevňuje povrchy běžných stavebních materiálů a tvoří ideální základ pro následnou aplikaci hydroizolačních stěrek. Snižuje nasákavost podkladu a snižuje riziko poškození působením tlaků vodních par obsažených ve stavebních konstrukcích.
+IMBERAL® Aquarol 10D je penetrace obzvláště vhodná pod jednosložkové a dvousložkové silné bitumenové nátěry a pružné těsnící hydroizolační hmoty, jako jsou např. INTRASIT® 1KFlex 54Z, INTRASIT® Poly-C1 54Z/-C2 55Z a IMBERAL® RSB 55Z.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-imberal-aquarol-10d-5kg?variant=52569469518161</URL>
+          <PRICE_VAT>3965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/IMBERAL_Aquarol_10D_opt.jpg?v=1765268170</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>401106</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4004637401106</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Hahne PROLASTIC® 55Z · 26kg · Vysoce flexibilní, prémiová hydroizolace</PRODUCTNAME>
+          <DESCRIPTION>Vysoce flexibilní polymerová hydroizolace (FPD) s širokospektrým stavebním použitím a prémiové kvality.
+PROLASTIC® 55Z je dvousložková (2K) rychleschnoucí hydroizolace špičkových parametrů, která je vhodná pro náročné a složité stavby. Hmota neobsahuje bitumeny. Mezi její významné vlastnosti patří extrémně nízká spotřeba při zachování špičkových izolačních parametrů, rychlosti zrání a vysoké flexibility i za studených podmínek (přemostění trhlin &amp;gt; 2 mm). Materiál má široké využití od izolací spodních staveb, přes balkony a terasy až po bazény, jímky, koupelny a vlhké provozy. Materiál PROLASTIC® 55Z kombinuje aplikační výhody minerálních hydroizolací s vysokou flexibilitou, která je charakteristická pro silnovrstvé bitumenové stěrky.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-prolastic-55z-26kg</URL>
+          <PRICE_VAT>5345.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PROLASTIC_55Z_opt.jpg?v=1765270385</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>405395</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637405395</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
