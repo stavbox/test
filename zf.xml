@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 515 -->
 <!-- Total individual products: 370 -->
-<!-- Created: 2025-12-13 00:00:37 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-12-13 09:31:09 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -449,7 +449,7 @@ HADALAN® LF68 12P je jednosložkové polyuretanové pojivo, které má vysokou
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-hadalan-lf68-12p?variant=52564907229521</URL>
           <PRICE_VAT>7135.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-LF68-12P-polyuretanove-pojivo.jpg?v=1755784733</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
