@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 518 -->
-<!-- Total individual products: 370 -->
-<!-- Created: 2025-12-14 17:54:28 -->
+<!-- Total products+variants: 519 -->
+<!-- Total individual products: 363 -->
+<!-- Created: 2025-12-14 20:51:54 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -1490,31 +1490,6 @@ Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana prot
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Bauprotect HORIZONT-IN · 20 l · Injektážní krém vyroben v Německu</PRODUCTNAME>
-          <DESCRIPTION>Injektážní krém sloužící pro utvoření vysoce spolehlivé horizontální bariéry proti vzlínající vlhkosti ve zdivu s certifikací WTA.
-HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-20l</URL>
-          <PRICE_VAT>13310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
-          <MANUFACTURER>Bauprotect</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>BPHIC020</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <PRODUCTNAME>Köster Crisin Cream · 600 ml · Silanový injektážní krém </PRODUCTNAME>
           <DESCRIPTION>Bezrozpouštědlová koncetrovaná pryskyřice na bázi silanu (obsah účinné látky min. 85%), která utváří vysoce funkční a spolehlivou horizontální clonu proti vzlínající vlhkosti.
 KÖSTER Crisin Cream má tu jedinečnost, že voda obsažená v materiálu je jen příměsí a je obklopená účinnou složkou. U běžných krémových materiálů je to zcela opačně. V praxi to znamená, že malé kapičky vody jsou obaleny silně účinnou pryskyřicí na bázi silanů. Díky této unikátní a patentované vlastnosti je nežádoucí vlhkost okamžitě aktivně vytlačována ze zdiva.
@@ -2472,33 +2447,10 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
       
     
   
-          <SHOPITEM>
-          <PRODUCTNAME>Köster Capillary Rods · 45 cm · 1ks · Kapilární tyče pro Mautrol a Crisin 76</PRODUCTNAME>
-          <DESCRIPTION>Patentovaný injekční knot pro rovnoměrné rozdělení KÖSTER Mautrol Liquid Sealant a KÖSTER Crisin 76</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-capillary-rods-45cm</URL>
-          <PRICE_VAT>90.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Capillary-Rods-patentovana-kapilarni-tycinka.jpg?v=1755854252</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>M963045</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4026906110670</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <PRODUCTNAME>Köster Capillary Rods · 90 cm · 1ks · Kapilární tyče pro Mautrol a Crisin 76</PRODUCTNAME>
-          <DESCRIPTION>Patentovaný injekční knot pro rovnoměrné rozdělení KÖSTER Mautrol Liquid Sealant a KÖSTER Crisin 76</DESCRIPTION>
+          <DESCRIPTION>Patentovaný injekční knot pro rovnoměrné rozdělení KÖSTER Mautrol Liquid Sealant a KÖSTER Crisin 76.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-capillary-rods-90cm</URL>
           <PRICE_VAT>165.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -2724,10 +2676,10 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster One-Day-Site Packer · 13x90 mm · Injektážní pakr (CH)</PRODUCTNAME>
+          <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x90mm CH (cone-head)</PRODUCTNAME>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer-13mm-x-90mm-ch</URL>
+          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288008529</URL>
           <PRICE_VAT>98.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x90mm-CH.jpg?v=1755854994</IMGURL>
@@ -2746,41 +2698,14 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster One-Day-Site Packer · 13x120 mm · Injektážní pakr (CH)</PRODUCTNAME>
+          <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x90mm PH (pan-head)</PRODUCTNAME>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer-13mm-x-120mm-ch</URL>
-          <PRICE_VAT>104.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x120mm-CH.jpg?v=1755855125</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>IN919001</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
-
-          <EAN>4026906134737</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Köster One-Day-Site Packer · 13x90 mm · Injektážní pakr (PH)</PRODUCTNAME>
-          <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
-KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer-13mm-x-90mm-ph</URL>
+          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288041297</URL>
           <PRICE_VAT>113.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x90mm-PH.jpg?v=1755855178</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x90mm-CH.jpg?v=1755854994</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -2796,16 +2721,37 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster One-Day-Site Packer · 13x120 mm · Injektážní pakr (PH)</PRODUCTNAME>
+          <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x120mm CH (cone-head)</PRODUCTNAME>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer-13mm-x-120mm-ph</URL>
+          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288074065</URL>
+          <PRICE_VAT>104.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x90mm-CH.jpg?v=1755854994</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>IN919001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební technika | Příslušenství pro stavební techniku</CATEGORYTEXT>
+
+          <EAN>4026906134737</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x120mm PH (pan-head)</PRODUCTNAME>
+          <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
+KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288106833</URL>
           <PRICE_VAT>122.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x120mm-PH.jpg?v=1755855232</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-One-Day-Site-Packer-13x90mm-CH.jpg?v=1755854994</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -2826,10 +2772,9 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
   
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster Superpacker · 10 mm x 85 mm · Injektážní pakr (CH)</PRODUCTNAME>
-          <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
-KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-superpacker-10mm-x-85mm-ch</URL>
+          <PRODUCTNAME>Köster Superpacker · injektážní pakr · 10x85mm CH (cone-head)</PRODUCTNAME>
+          <DESCRIPTION>Jednorázový injektážní pakr pro KÖSTER injektážní pryskyřice a gely a Mautrol 2C.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-superpacker?variant=52604349022545</URL>
           <PRICE_VAT>81.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Superpacker-10x85mm-CH.jpg?v=1755855412</IMGURL>
@@ -2848,16 +2793,13 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster Superpacker · 10 mm x 115 mm · Injektážní pakr (CH)</PRODUCTNAME>
-          <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
-KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-superpacker-10mm-x-115mm-ch</URL>
+          <PRODUCTNAME>Köster Superpacker · injektážní pakr · 10x115mm CH (cone-head)</PRODUCTNAME>
+          <DESCRIPTION>Jednorázový injektážní pakr pro KÖSTER injektážní pryskyřice a gely a Mautrol 2C.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-superpacker?variant=52604349055313</URL>
           <PRICE_VAT>95.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Superpacker-10x115mm-CH.jpg?v=1755855469</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Superpacker-10x85mm-CH.jpg?v=1755855412</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -4069,12 +4011,12 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
+          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 200ml</PRODUCTNAME>
           <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
 KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
-Mechanizmus tvorby hydroizolace probíhá dvoufázově. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
+Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
 Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml</URL>
+          <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718416209</URL>
           <PRICE_VAT>378.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
@@ -4090,6 +4032,81 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4026906101753</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 5l</PRODUCTNAME>
+          <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
+KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
+Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
+Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718448977</URL>
+          <PRICE_VAT>378.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>M279201</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 10l</PRODUCTNAME>
+          <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
+KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
+Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
+Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718481745</URL>
+          <PRICE_VAT>378.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>M279202</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 30l</PRODUCTNAME>
+          <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
+KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
+Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
+Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718514513</URL>
+          <PRICE_VAT>378.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>M279203</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -10137,11 +10154,11 @@ KÖSTER PU Primer 120 podporuje přilnavost polyuretanových tmelů k neporézn
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster MS-Flexfolie · 2x4kg · Elastická MS hydroizolace bez rozpouštědel</PRODUCTNAME>
+          <PRODUCTNAME>Köster MS-Flexfolie · Elastická MS hydroizolace bez rozpouštědel · 2x4kg</PRODUCTNAME>
           <DESCRIPTION>Velmi snadno použitelný, jednosložkový, rychle vytvrzující, vysoce elastický, UV odolný hydroizolační nátěr s velmi dobrou přilnavostí k různorodým podkladům.
 KÖSTER MS-Flexfolie je ekologický, jednosložkový, tekutý, elastický, trhliny přemosťující hydroizolační materiál prémiové kvality, který je na bázi MS Polymerové technologie. Vyznačuje se výbornou přilnavostí k široké škále stavebních materiálů a lze jej aplikovat na suché nebo mírně vlhké podklady. Nanáší se tekutý a tedy bezešvý, což výrazně usnadňuje aplikaci na komplikované architektonické detaily. Vyznačuje se vysokou UV odolností a stabilitou a proto je vhodný pro vnitřní i venkovní aplikace. Nátěr po aplikaci vytvrzuje a je velmi brzy odolný proti dešti.
 KÖSTER MS-Flexfolie neobsahuje rozpouštědla, a proto netrpí odpařováním rozpouštědla při procesu vytvrzování, což vede k smršťování a následnému praskání. KÖSTER MS-Flexfolie neobsahuje isokyanát, který při kontaktu s vlhkostí, uvolňuje oxid uhličitý, což má za následek tvorbu bublin a kráterů, které vedou k následným defektům. To umožňuje jeho použití na mírně vlhké podklady, na rozdíl od běžných rozpouštědlových PU nátěrů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-ms-flexfolie-2x4kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-ms-flexfolie?variant=52604158443857</URL>
           <PRICE_VAT>4075.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MS-Flexfolie.jpg?v=1761141802</IMGURL>
@@ -10161,14 +10178,12 @@ KÖSTER MS-Flexfolie neobsahuje rozpouštědla, a proto netrpí odpařováním r
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster MS-Flexfolie · 25kg · Elastická MS hydroizolace bez rozpouštědel</PRODUCTNAME>
+          <PRODUCTNAME>Köster MS-Flexfolie · Elastická MS hydroizolace bez rozpouštědel · 25kg</PRODUCTNAME>
           <DESCRIPTION>Velmi snadno použitelný, jednosložkový, rychle vytvrzující, vysoce elastický, UV odolný hydroizolační nátěr s velmi dobrou přilnavostí k různorodým podkladům.
 KÖSTER MS-Flexfolie je ekologický, jednosložkový, tekutý, elastický, trhliny přemosťující hydroizolační materiál prémiové kvality, který je na bázi MS Polymerové technologie. Vyznačuje se výbornou přilnavostí k široké škále stavebních materiálů a lze jej aplikovat na suché nebo mírně vlhké podklady. Nanáší se tekutý a tedy bezešvý, což výrazně usnadňuje aplikaci na komplikované architektonické detaily. Vyznačuje se vysokou UV odolností a stabilitou a proto je vhodný pro vnitřní i venkovní aplikace. Nátěr po aplikaci vytvrzuje a je velmi brzy odolný proti dešti.
 KÖSTER MS-Flexfolie neobsahuje rozpouštědla, a proto netrpí odpařováním rozpouštědla při procesu vytvrzování, což vede k smršťování a následnému praskání. KÖSTER MS-Flexfolie neobsahuje isokyanát, který při kontaktu s vlhkostí, uvolňuje oxid uhličitý, což má za následek tvorbu bublin a kráterů, které vedou k následným defektům. To umožňuje jeho použití na mírně vlhké podklady, na rozdíl od běžných rozpouštědlových PU nátěrů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-ms-flexfolie-25kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-ms-flexfolie?variant=52604158476625</URL>
           <PRICE_VAT>11370.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MS-Flexfolie.jpg?v=1761141802</IMGURL>
