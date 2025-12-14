@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 519 -->
-<!-- Total individual products: 363 -->
-<!-- Created: 2025-12-14 20:51:54 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 516 -->
+<!-- Total individual products: 360 -->
+<!-- Created: 2025-12-15 00:00:34 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -359,33 +359,6 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4026906131057</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 30 l · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
-          <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
-KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
-Mechanizmus tvorby hydroizolace probíhá dvoufázově. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
-Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-crisin-76-30l</URL>
-          <PRICE_VAT>49040.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>M279030</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4026906175129</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -3957,61 +3930,7 @@ Zápůjční podmínky:🕒 Účtujeme za každých započatých 24 hodin zápů
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 5 l · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
-          <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
-KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
-Mechanizmus tvorby hydroizolace probíhá dvoufázově. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
-Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-crisin-76-5l</URL>
-          <PRICE_VAT>8325.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>M279005</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4026906101777</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 10 l · Injektáž, vytlačuje vodu ze všech kapilár</PRODUCTNAME>
-          <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
-KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
-Mechanizmus tvorby hydroizolace probíhá dvoufázově. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
-Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-crisin-76-10l</URL>
-          <PRICE_VAT>16516.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>M279010</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4026906153516</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 200ml</PRODUCTNAME>
+          <PRODUCTNAME>Köster Crisin 76 · Injektáž, vytlačuje vodu ze všech kapilár · 200ml</PRODUCTNAME>
           <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
 KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
 Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
@@ -4036,13 +3955,13 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 5l</PRODUCTNAME>
+          <PRODUCTNAME>Köster Crisin 76 · Injektáž, vytlačuje vodu ze všech kapilár · 5l</PRODUCTNAME>
           <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
 KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
 Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
 Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718448977</URL>
-          <PRICE_VAT>378.0</PRICE_VAT>
+          <PRICE_VAT>8325.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -4051,23 +3970,23 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>M279201</ITEM_ID>
+          <ITEM_ID>M279005</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-          
+          <EAN>4026906101777</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 10l</PRODUCTNAME>
+          <PRODUCTNAME>Köster Crisin 76 · Injektáž, vytlačuje vodu ze všech kapilár · 10l</PRODUCTNAME>
           <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
 KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
 Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
 Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718481745</URL>
-          <PRICE_VAT>378.0</PRICE_VAT>
+          <PRICE_VAT>16515.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -4076,23 +3995,23 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>M279202</ITEM_ID>
+          <ITEM_ID>M279010</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-          
+          <EAN>4026906153516</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Köster Crisin 76 · 200 ml · Injektáž, vytlačuje vodu ze všech kapilár · 30l</PRODUCTNAME>
+          <PRODUCTNAME>Köster Crisin 76 · Injektáž, vytlačuje vodu ze všech kapilár · 30l</PRODUCTNAME>
           <DESCRIPTION>Koncentrovaná bezrozpouštědlová syntetická pryskyřice, která utváří horizontální zábranu proti vzlínající vlhkosti ve stavebních konstrukcích. Její funkčnost je zaručena nezávisle na obsahu vlhkosti a kontaminace solí.
 KÖSTER Crisin 76 je bezrozpouštědlová koncentrovaná tekutá syntetická pryskyřice. Proniká samovolně, rychle a masivně hluboko do struktury zdiva až do nejmenších kapilár a pórů. Tento unikátní jev je způsoben velmi nízkou hustotou a nízkou viskozitou (povrchovým napětím). Hodnoty těchto veličin jsou příznivější než u vody. Díky tomu tento materiál aktivně a samovolně vytlačuje vodu ze všech kapilár a trvale jí nahrazuje.
 Mechanizmus tvorby hydroizolace probíhá dvoufázově:1. V první fázi, tedy okamžitě po vstupu do kapilárního systému, dochází k hydrofobizaci povrchu.2. V další fázi dochází k zúžení nebo k úplnému vyplnění kapilárních dutiny elastickým a vodotěsným filmem. Vytvrzování vstřikovaného produktu je nezávislé na sušení zdiva. Po úplném vytvrzení KÖSTER Crisin 76 zůstává pružný, nerozkládá se, působí neutrálně a neovlivňuje ocelovou výztuž.
 Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči všem obvyklým žíravinám ve zdivu, jako jsou kyseliny, zásady a soli.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-crisin-76-200ml?variant=52604718514513</URL>
-          <PRICE_VAT>378.0</PRICE_VAT>
+          <PRICE_VAT>49040.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crising-76-synteticka-pryskyrice-pro-injektaz-zdiva.jpg?v=1755861920</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -4101,12 +4020,12 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>M279203</ITEM_ID>
+          <ITEM_ID>M279030</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-          
+          <EAN>4026906175129</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -4114,7 +4033,8 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
   
           <SHOPITEM>
           <PRODUCTNAME>Köster Suction Angle plastový rohovník · 1 ks · pro Crisin 76</PRODUCTNAME>
-          <DESCRIPTION>Plastový rohovník pro beztlakovou a materiálově úspornou realizaci vodorovných bariér proti vzlínající vlhkosti pomocí systému KÖSTER Suction Angle. Opakovaně použitelný.</DESCRIPTION>
+          <DESCRIPTION>Plastový rohovník pro beztlakovou a materiálově úspornou realizaci vodorovných bariér proti vzlínající vlhkosti pomocí systému KÖSTER Suction Angle.
+Opakovaně použitelný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-suction-angle-plastovy-rohovnik</URL>
           <PRICE_VAT>140.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
