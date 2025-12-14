@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 517 -->
-<!-- Total individual products: 371 -->
-<!-- Created: 2025-12-14 00:00:47 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 518 -->
+<!-- Total individual products: 370 -->
+<!-- Created: 2025-12-14 17:54:28 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -392,10 +392,11 @@ Během aplikace a po úplném vytvrzení je KÖSTER Crisin 76 odolný vůči vš
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Bauprotect HORIZONT-IN · 5 l · Injektážní krém vyroben v Německu</PRODUCTNAME>
+          <PRODUCTNAME>Bauprotect HORIZONT-IN · 5 l · Injektážní krém vyroben v Německu · 5l</PRODUCTNAME>
           <DESCRIPTION>Injektážní krém sloužící pro utvoření vysoce spolehlivé horizontální bariéry proti vzlínající vlhkosti ve zdivu s certifikací WTA.
+Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-5l</URL>
+          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-5l?variant=52603952988497</URL>
           <PRICE_VAT>3630.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
@@ -406,6 +407,30 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
           <ITEM_ID>BPHIC005</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Bauprotect HORIZONT-IN · 5 l · Injektážní krém vyroben v Německu · 20l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní krém sloužící pro utvoření vysoce spolehlivé horizontální bariéry proti vzlínající vlhkosti ve zdivu s certifikací WTA.
+Vyroben v Německu 🇩🇪
+HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-5l?variant=52603953021265</URL>
+          <PRICE_VAT>13300.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
+          <MANUFACTURER>Bauprotect</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>BPHIC020</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
@@ -1518,7 +1543,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
   
           <SHOPITEM>
           <PRODUCTNAME>Köster Caulking Gun · vytlačovací pistole na 310ml/600ml &quot;salámy&quot;  · na 310ml salámy</PRODUCTNAME>
-          <DESCRIPTION>Caulking gun for tubular bags (sausages) and cartridges, for example KÖSTER Crisin Cream 600 ml and KÖSTER KB-Flex 200 in 530 ml cartridges.</DESCRIPTION>
+          <DESCRIPTION>Vytlačovací pistole na foliové sáčky (tzv. „salámy“) a kartuše, například pro Köster MS Joint Sealant.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-caulking-gun?variant=52596852818257</URL>
           <PRICE_VAT>700.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -1539,7 +1564,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
       
           <SHOPITEM>
           <PRODUCTNAME>Köster Caulking Gun · vytlačovací pistole na 310ml/600ml &quot;salámy&quot;  · na 600ml salámy</PRODUCTNAME>
-          <DESCRIPTION>Caulking gun for tubular bags (sausages) and cartridges, for example KÖSTER Crisin Cream 600 ml and KÖSTER KB-Flex 200 in 530 ml cartridges.</DESCRIPTION>
+          <DESCRIPTION>Vytlačovací pistole na foliové sáčky (tzv. „salámy“) a kartuše, například pro Köster MS Joint Sealant.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-caulking-gun?variant=52596852851025</URL>
           <PRICE_VAT>1100.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -6227,10 +6252,10 @@ Jemná minerální omítka a tmel pro sanaci zdiva. Kapilárně aktivní, paropr
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Hahne HADALAN® PUR TOP 32P · 2,5 kg · polomatný · Ochranný nátěr</PRODUCTNAME>
+          <PRODUCTNAME>Hahne HADALAN® PUR TOP 32P · 2,5 kg · Ochranný nátěr · polomatný</PRODUCTNAME>
           <DESCRIPTION>Ochranný a uzavírací nátěr pro venkovní oblasti.
 HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížení odolná nátěrová pryskyřice. Po vyzrání utváří barevný vysoce elastický a mechanickému zatížení odolný film, který překlenuje trhliny.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-pur-top-32p-2-5kg</URL>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-pur-top-32p-2-5kg?variant=52603738882385</URL>
           <PRICE_VAT>3460.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-PUR-Top-32P-2-5kg-ochranny-a-uzaviraci-nater.jpg?v=1755878530</IMGURL>
@@ -6249,13 +6274,11 @@ HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížen�
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Hahne HADALAN® PUR TOP 32P · 2,5 kg · lesklý · Ochranný nátěr</PRODUCTNAME>
+          <PRODUCTNAME>Hahne HADALAN® PUR TOP 32P · 2,5 kg · Ochranný nátěr · lesklý</PRODUCTNAME>
           <DESCRIPTION>Ochranný a uzavírací nátěr pro venkovní oblasti.
 HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížení odolná nátěrová pryskyřice. Po vyzrání utváří barevný vysoce elastický a mechanickému zatížení odolný film, který překlenuje trhliny.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/hahne-hadalan-pur-top-32p-2-5kg-polomatny</URL>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-pur-top-32p-2-5kg?variant=52603738915153</URL>
           <PRICE_VAT>3460.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-PUR-Top-32P-2-5kg-ochranny-a-uzaviraci-nater.jpg?v=1755878530</IMGURL>
