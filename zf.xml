@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 517 -->
-<!-- Total individual products: 358 -->
-<!-- Created: 2025-12-15 18:12:55 -->
+<!-- Total products+variants: 518 -->
+<!-- Total individual products: 354 -->
+<!-- Created: 2025-12-15 20:58:45 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -2193,60 +2193,10 @@ Jemná tenkovrstvá omítka pro hladké dekorativní povrchy na sanačních om�
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster KB-Fix 5 · 15 kg · Vodotěsná, rychle vytvrzující malta · 15kg</PRODUCTNAME>
+          <PRODUCTNAME>Köster KB-Fix 5 · Vodotěsná, rychle vytvrzující malta · 7,5kg</PRODUCTNAME>
           <DESCRIPTION>Rychle tuhnoucí malta pro rychlou instalaci.
 KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro rychlé instalace.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-kb-fix-5-15kg?variant=52614524240209</URL>
-          <PRICE_VAT>1725.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>C515015</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4026906051539</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Köster KB-Fix 5 · 15 kg · Vodotěsná, rychle vytvrzující malta · 7kg</PRODUCTNAME>
-          <DESCRIPTION>Rychle tuhnoucí malta pro rychlou instalaci.
-KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro rychlé instalace.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-kb-fix-5-15kg?variant=52614524272977</URL>
-          <PRICE_VAT>1725.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>C515016</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Köster KB-Fix 5 · 7,5 kg · Vodotěsná, rychle vytvrzující malta</PRODUCTNAME>
-          <DESCRIPTION>Rychle tuhnoucí malta pro rychlou instalaci.
-KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro rychlé instalace.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-kb-fix-5-7-5kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-kb-fix-5?variant=52614524272977</URL>
           <PRICE_VAT>970.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
@@ -2263,6 +2213,30 @@ KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro ryc
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4026906140004</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster KB-Fix 5 · Vodotěsná, rychle vytvrzující malta · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Rychle tuhnoucí malta pro rychlou instalaci.
+KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro rychlé instalace.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-kb-fix-5?variant=52614524240209</URL>
+          <PRICE_VAT>1725.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>C515015</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4026906051539</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -2373,9 +2347,9 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár.</PRODUCTNAME>
+          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár. · 1kg</PRODUCTNAME>
           <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage</URL>
+          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage?variant=52615279903057</URL>
           <PRICE_VAT>1735.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
@@ -2391,6 +2365,50 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4026906156043</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár. · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage?variant=52615279935825</URL>
+          <PRICE_VAT>1735.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>IN201002</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár. · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage?variant=52615279968593</URL>
+          <PRICE_VAT>1735.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>IN201003</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -2470,10 +2488,10 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster IN 2 · 1 kg · PU injektážní pryskyřice, trvalé těsnění trhlin</PRODUCTNAME>
+          <PRODUCTNAME>Köster IN 2 · PU injektážní pryskyřice, trvalé těsnění trhlin · 1kg</PRODUCTNAME>
           <DESCRIPTION>Elastická dvousložková (2K) polyuretanová injektážní pryskyřice.
 KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsahu rozpouštědel pro injektáž trhlin. Je trvale elastický a umožňuje tak trvalé utěsnění trhlin a spár i v případě pohybu trhliny.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-in-2-1kg-combipackage</URL>
+          <URL>https://www.stavbox.cz/products/koster-in-2?variant=52614662586705</URL>
           <PRICE_VAT>845.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-IN-2-PU-injektazni-hmota.jpg?v=1755854407</IMGURL>
@@ -2492,14 +2510,12 @@ KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsa
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster IN 2 · 8 kg · PU injektážní pryskyřice, trvalé těsnění trhlin</PRODUCTNAME>
+          <PRODUCTNAME>Köster IN 2 · PU injektážní pryskyřice, trvalé těsnění trhlin · 8kg</PRODUCTNAME>
           <DESCRIPTION>Elastická dvousložková (2K) polyuretanová injektážní pryskyřice.
 KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsahu rozpouštědel pro injektáž trhlin. Je trvale elastický a umožňuje tak trvalé utěsnění trhlin a spár i v případě pohybu trhliny.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-in-2-8kg</URL>
-          <PRICE_VAT>5062.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/koster-in-2?variant=52614662619473</URL>
+          <PRICE_VAT>5060.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-IN-2-PU-injektazni-hmota.jpg?v=1755854407</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -2517,13 +2533,11 @@ KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsa
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster IN 2 · 40 kg · PU injektážní pryskyřice, trvalé těsnění trhlin</PRODUCTNAME>
+          <PRODUCTNAME>Köster IN 2 · PU injektážní pryskyřice, trvalé těsnění trhlin · 40kg</PRODUCTNAME>
           <DESCRIPTION>Elastická dvousložková (2K) polyuretanová injektážní pryskyřice.
 KÖSTER IN 2 je dvousložková polyuretanová injektážní pryskyřice bez obsahu rozpouštědel pro injektáž trhlin. Je trvale elastický a umožňuje tak trvalé utěsnění trhlin a spár i v případě pohybu trhliny.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-in-2-40kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-in-2?variant=52614662652241</URL>
           <PRICE_VAT>20860.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-IN-2-PU-injektazni-hmota.jpg?v=1755854407</IMGURL>
@@ -7860,10 +7874,10 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
   
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster SB Bonding Emulsion · 5 kg · Elastizační syntetická disperze</PRODUCTNAME>
+          <PRODUCTNAME>Köster SB Bonding Emulsion · Elastizační syntetická disperze · 5kg</PRODUCTNAME>
           <DESCRIPTION>Elastizační syntetická disperze pro univerzální použití v maltách, omítkách, těsnicích suspenzích a betonu.
 KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina pro všechny cementové malty, omítky a těsnicí hmoty. KÖSTER SB Bonding Emulsion neobsahuje rozpouštědla, změkčovadla a plniva. Když se syntetická kapalina přidá do systémů na minerální bázi, zvyšuje elasticitu a pružnost a snižuje absorpci vody. KÖSTER SB Bonding Emulsion je voděodolná, což znamená, že po aplikaci ji nelze smýt ani spláchnout.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion-5kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion?variant=52615066321233</URL>
           <PRICE_VAT>1530.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-bonding-emulsion.png?v=1756382256</IMGURL>
@@ -7882,14 +7896,12 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster SB Bonding Emulsion · 10 kg · Elastizační syntetická disperze</PRODUCTNAME>
+          <PRODUCTNAME>Köster SB Bonding Emulsion · Elastizační syntetická disperze · 10kg</PRODUCTNAME>
           <DESCRIPTION>Elastizační syntetická disperze pro univerzální použití v maltách, omítkách, těsnicích suspenzích a betonu.
 KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina pro všechny cementové malty, omítky a těsnicí hmoty. KÖSTER SB Bonding Emulsion neobsahuje rozpouštědla, změkčovadla a plniva. Když se syntetická kapalina přidá do systémů na minerální bázi, zvyšuje elasticitu a pružnost a snižuje absorpci vody. KÖSTER SB Bonding Emulsion je voděodolná, což znamená, že po aplikaci ji nelze smýt ani spláchnout.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion-10kg</URL>
-          <PRICE_VAT>3013.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion?variant=52615066354001</URL>
+          <PRICE_VAT>3015.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-bonding-emulsion.png?v=1756382256</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
