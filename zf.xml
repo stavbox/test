@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 516 -->
 <!-- Total individual products: 360 -->
-<!-- Created: 2025-12-15 00:00:34 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-12-15 11:10:33 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -3676,7 +3676,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100-5l</URL>
           <PRICE_VAT>2495.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
