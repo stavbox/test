@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 516 -->
-<!-- Total individual products: 360 -->
-<!-- Created: 2025-12-15 11:10:33 -->
+<!-- Total products+variants: 517 -->
+<!-- Total individual products: 359 -->
+<!-- Created: 2025-12-15 15:45:43 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -2599,10 +2599,10 @@ Při použití KÖSTER Injection Gel S4 jako clonového vstřikování je třeba
   
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster KB-Pox IN · 1 kg · Epoxidová pryskyřice pro injektování trhlin</PRODUCTNAME>
+          <PRODUCTNAME>Köster KB-Pox IN · Epoxidová pryskyřice pro injektování trhlin · 1kg (0,76+0,24 kg)</PRODUCTNAME>
           <DESCRIPTION>Epoxidová pryskyřice pro lepení trhlin a zpevnění struktury podkladu.
 KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektážní pryskyřice bez rozpouštědel pro injektování trhlin. KÖSTER KB-Pox IN neobsahuje žádná plnidla ani změkčovadla, a proto se zabraňuje usazování. Díky vysoké propustnosti do pórovitých podkladů a jeho vynikající přilnavosti k betonu, kameni, zdivu a kovu, KÖSTER KB-Pox IN natrvalo utěsňuje praskliny a spoje a obnovuje strukturální integritu konstrukce. KÖSTER KB-Pox IN může být použit v trhlinách nasycených vodou.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-kb-pox-in-1kg-combipackage</URL>
+          <URL>https://www.stavbox.cz/products/koster-kb-pox-in?variant=52612692771153</URL>
           <PRICE_VAT>871.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Pox-IN-pryskyrice-pro-opravu-trhlin.jpg?v=1755854715</IMGURL>
@@ -2613,6 +2613,29 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
           <ITEM_ID>IN231001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4026906100923</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster KB-Pox IN · Epoxidová pryskyřice pro injektování trhlin · 6kg (4,55+1,45 kg)</PRODUCTNAME>
+          <DESCRIPTION>Epoxidová pryskyřice pro lepení trhlin a zpevnění struktury podkladu.
+KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektážní pryskyřice bez rozpouštědel pro injektování trhlin. KÖSTER KB-Pox IN neobsahuje žádná plnidla ani změkčovadla, a proto se zabraňuje usazování. Díky vysoké propustnosti do pórovitých podkladů a jeho vynikající přilnavosti k betonu, kameni, zdivu a kovu, KÖSTER KB-Pox IN natrvalo utěsňuje praskliny a spoje a obnovuje strukturální integritu konstrukce. KÖSTER KB-Pox IN může být použit v trhlinách nasycených vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-kb-pox-in?variant=52612692803921</URL>
+          <PRICE_VAT>4415.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Pox-IN-pryskyrice-pro-opravu-trhlin.jpg?v=1755854715</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>IN231006</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
@@ -3368,7 +3391,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zachovává paropropustnost, nízká viskozita, snadná aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws-30l</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -3824,10 +3847,10 @@ Zápůjční podmínky:🕒 Účtujeme za každých započatých 24 hodin zápů
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster Mautrol 2C · 39,5 kg · Hydrofobizující injektáž a zpevněni zdiva</PRODUCTNAME>
+          <PRODUCTNAME>Köster Mautrol 2C · Hydrofobizující injektáž a zpevněni zdiva · 39,5kg (36+3,5 kg)</PRODUCTNAME>
           <DESCRIPTION>2-komponentní injektážní hmota na bázi silikonátů a esterů pro vytvoření horizontálních bariér a pro zpevnění zdiva
 KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na bázi silikonátů a esterů, která slouží pro velmi účinnou horizontální injektáž silně vlhkého a zasoleného zdiva.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-mautrol-2c-39-5kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-mautrol-2c?variant=52612582441297</URL>
           <PRICE_VAT>8265.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koste-Mautrol-2C-PU-injektazni-hmota.jpg?v=1755861681</IMGURL>
@@ -3846,13 +3869,11 @@ KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Köster Mautrol 2C · 262 kg · Hydrofobizující injektáž a zpevněni zdiva</PRODUCTNAME>
+          <PRODUCTNAME>Köster Mautrol 2C · Hydrofobizující injektáž a zpevněni zdiva · 262kg (240+22 kg)</PRODUCTNAME>
           <DESCRIPTION>2-komponentní injektážní hmota na bázi silikonátů a esterů pro vytvoření horizontálních bariér a pro zpevnění zdiva
 KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na bázi silikonátů a esterů, která slouží pro velmi účinnou horizontální injektáž silně vlhkého a zasoleného zdiva.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-mautrol-2c-262kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-mautrol-2c?variant=52612582474065</URL>
           <PRICE_VAT>51990.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koste-Mautrol-2C-PU-injektazni-hmota.jpg?v=1755861681</IMGURL>
@@ -5433,7 +5454,7 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-cem-rapid-15kg-3x5kg</URL>
           <PRICE_VAT>1345.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5989,7 +6010,7 @@ Transparentní silikonová barva pro památkové fasády. Zvyšuje vodoodpudivos
 Transparentní silikonová barva pro památkové fasády. Zvyšuje vodoodpudivost, paropropustná, odolná UV záření, ideální pro historické budovy a omítky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-add-transparent-12-5l-bezbarvy</URL>
           <PRICE_VAT>6622.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Add-Transparent-12-5l-redici-additivum.jpg?v=1755877913</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
