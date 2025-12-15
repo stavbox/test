@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 517 -->
-<!-- Total individual products: 359 -->
-<!-- Created: 2025-12-15 15:45:43 -->
+<!-- Total individual products: 358 -->
+<!-- Created: 2025-12-15 18:12:54 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -1498,17 +1498,32 @@ Jemná tenkovrstvá omítka pro hladké dekorativní povrchy na sanačních om�
   
           <SHOPITEM>
           <ITEM_ID>C515015</ITEM_ID>
-          <PRODUCTNAME>Köster KB-Fix 5 · 15 kg · Vodotěsná, rychle vytvrzující malta</PRODUCTNAME>
-          <PRODUCT>Köster KB-Fix 5 · 15 kg - Vodotěsná rychle vytvrzující malta</PRODUCT>
+          <PRODUCTNAME>Köster KB-Fix 5 · 15 kg · Vodotěsná, rychle vytvrzující malta · 15kg</PRODUCTNAME>
+          <PRODUCT>Köster KB-Fix 5 · 15 kg · 15kg - Vodotěsná rychle vytvrzující malta</PRODUCT>
           <DESCRIPTION>Rychle tuhnoucí malta pro rychlou instalaci.
 KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro rychlé instalace.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-kb-fix-5-15kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-kb-fix-5-15kg?variant=52614524240209</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
           <PRICE_VAT>1725.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906051539</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>C515016</ITEM_ID>
+          <PRODUCTNAME>Köster KB-Fix 5 · 15 kg · Vodotěsná, rychle vytvrzující malta · 7kg</PRODUCTNAME>
+          <PRODUCT>Köster KB-Fix 5 · 15 kg · 7kg - Vodotěsná rychle vytvrzující malta</PRODUCT>
+          <DESCRIPTION>Rychle tuhnoucí malta pro rychlou instalaci.
+KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro rychlé instalace.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-kb-fix-5-15kg?variant=52614524272977</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
+          <PRICE_VAT>1725.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          
         </SHOPITEM>
       
     
@@ -1792,23 +1807,6 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
           <URL>https://www.stavbox.cz/products/koster-kb-pox-in?variant=52612692803921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Pox-IN-pryskyrice-pro-opravu-trhlin.jpg?v=1755854715</IMGURL>
           <PRICE_VAT>4415.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <EAN>4026906100923</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>IN231006</ITEM_ID>
-          <PRODUCTNAME>Köster KB-Pox IN · 6 kg · Epoxidová pryskyřice pro injektování trhlin</PRODUCTNAME>
-          <PRODUCT>Köster KB-Pox IN · 6 kg (combipackage) - Pryskyřice pro opravu trhlin</PRODUCT>
-          <DESCRIPTION>Epoxidová pryskyřice pro lepení trhlin a zpevnění struktury podkladu.
-KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektážní pryskyřice bez rozpouštědel pro injektování trhlin. KÖSTER KB-Pox IN neobsahuje žádná plnidla ani změkčovadla, a proto se zabraňuje usazování. Díky vysoké propustnosti do pórovitých podkladů a jeho vynikající přilnavosti k betonu, kameni, zdivu a kovu, KÖSTER KB-Pox IN natrvalo utěsňuje praskliny a spoje a obnovuje strukturální integritu konstrukce. KÖSTER KB-Pox IN může být použit v trhlinách nasycených vodou.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-kb-pox-in-6kg-combipackage</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Pox-IN-pryskyrice-pro-opravu-trhlin.jpg?v=1755854715</IMGURL>
-          <PRICE_VAT>4414.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
