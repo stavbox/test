@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 518 -->
-<!-- Total individual products: 354 -->
-<!-- Created: 2025-12-15 20:58:45 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 516 -->
+<!-- Total individual products: 351 -->
+<!-- Created: 2025-12-16 00:00:39 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -232,19 +232,36 @@ KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodot
   
           <SHOPITEM>
           <ITEM_ID>M278010</ITEM_ID>
-          <PRODUCTNAME>Köster Crisin Cream · 10 l · Silanový injektážní krém </PRODUCTNAME>
-          <PRODUCT>Köster Crisin Cream · 10 l - Injektážní krém</PRODUCT>
+          <PRODUCTNAME>Köster Crisin Cream · Silanový injektážní krém  · 10l</PRODUCTNAME>
+          <PRODUCT>Köster Crisin Cream · 10l - Injektážní krém</PRODUCT>
           <DESCRIPTION>Bezrozpouštědlová koncetrovaná pryskyřice na bázi silanu (obsah účinné látky min. 85%), která utváří vysoce funkční a spolehlivou horizontální clonu proti vzlínající vlhkosti.
 KÖSTER Crisin Cream má tu jedinečnost, že voda obsažená v materiálu je jen příměsí a je obklopená účinnou složkou. U běžných krémových materiálů je to zcela opačně. V praxi to znamená, že malé kapičky vody jsou obaleny silně účinnou pryskyřicí na bázi silanů. Díky této unikátní a patentované vlastnosti je nežádoucí vlhkost okamžitě aktivně vytlačována ze zdiva.
 Tento materiál má přirozenou schopnost aktivního pronikání a penetrování do povrchu i těch nejmenších kapilárních struktur a to mnohem snáze a výrazněji než běžné krémové produkty, ve kterých je aktivní složka rozpuštěná ve vodném roztoku.
 Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u běžných receptur nejdříve k jejich naředění vodou obsaženou v materiálu, což způsobuje reakci vedoucí ke srážení účinných látek. Patentovaná receptura KÖSTER Crisin Cream nezpůsobuje žádnou reakci se solí.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-crisin-cream-10l</URL>
+          <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419789649</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
-          <PRICE_VAT>13177.0</PRICE_VAT>
+          <PRICE_VAT>13175.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906131057</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>M278600</ITEM_ID>
+          <PRODUCTNAME>Köster Crisin Cream · Silanový injektážní krém  · 600ml (salám)</PRODUCTNAME>
+          <PRODUCT>Köster Crisin Cream · 600ml (salám) - Injektážní krém</PRODUCT>
+          <DESCRIPTION>Bezrozpouštědlová koncetrovaná pryskyřice na bázi silanu (obsah účinné látky min. 85%), která utváří vysoce funkční a spolehlivou horizontální clonu proti vzlínající vlhkosti.
+KÖSTER Crisin Cream má tu jedinečnost, že voda obsažená v materiálu je jen příměsí a je obklopená účinnou složkou. U běžných krémových materiálů je to zcela opačně. V praxi to znamená, že malé kapičky vody jsou obaleny silně účinnou pryskyřicí na bázi silanů. Díky této unikátní a patentované vlastnosti je nežádoucí vlhkost okamžitě aktivně vytlačována ze zdiva.
+Tento materiál má přirozenou schopnost aktivního pronikání a penetrování do povrchu i těch nejmenších kapilárních struktur a to mnohem snáze a výrazněji než běžné krémové produkty, ve kterých je aktivní složka rozpuštěná ve vodném roztoku.
+Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u běžných receptur nejdříve k jejich naředění vodou obsaženou v materiálu, což způsobuje reakci vedoucí ke srážení účinných látek. Patentovaná receptura KÖSTER Crisin Cream nezpůsobuje žádnou reakci se solí.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419822417</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
+          <PRICE_VAT>835.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <EAN>4026906145733</EAN>
         </SHOPITEM>
       
     
@@ -1001,25 +1018,6 @@ Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana prot
     
   
           <SHOPITEM>
-          <ITEM_ID>M278600</ITEM_ID>
-          <PRODUCTNAME>Köster Crisin Cream · 600 ml · Silanový injektážní krém </PRODUCTNAME>
-          <PRODUCT>Köster Crisin Cream · 600 ml (&quot;salám&quot;) - Injektážní krém</PRODUCT>
-          <DESCRIPTION>Bezrozpouštědlová koncetrovaná pryskyřice na bázi silanu (obsah účinné látky min. 85%), která utváří vysoce funkční a spolehlivou horizontální clonu proti vzlínající vlhkosti.
-KÖSTER Crisin Cream má tu jedinečnost, že voda obsažená v materiálu je jen příměsí a je obklopená účinnou složkou. U běžných krémových materiálů je to zcela opačně. V praxi to znamená, že malé kapičky vody jsou obaleny silně účinnou pryskyřicí na bázi silanů. Díky této unikátní a patentované vlastnosti je nežádoucí vlhkost okamžitě aktivně vytlačována ze zdiva.
-Tento materiál má přirozenou schopnost aktivního pronikání a penetrování do povrchu i těch nejmenších kapilárních struktur a to mnohem snáze a výrazněji než běžné krémové produkty, ve kterých je aktivní složka rozpuštěná ve vodném roztoku.
-Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u běžných receptur nejdříve k jejich naředění vodou obsaženou v materiálu, což způsobuje reakci vedoucí ke srážení účinných látek. Patentovaná receptura KÖSTER Crisin Cream nezpůsobuje žádnou reakci se solí.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-crisin-cream-600ml</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-600ml-injektazni-krem.jpg?v=1755759154</IMGURL>
-          <PRICE_VAT>834.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          <EAN>4026906145733</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <ITEM_ID>J989002</ITEM_ID>
           <PRODUCTNAME>Köster Caulking Gun · vytlačovací pistole na 310ml/600ml &quot;salámy&quot;  · na 310ml salámy</PRODUCTNAME>
           <PRODUCT>Köster Caulking Gun · vytlačovací pistole · na 310ml salámy - Doplňky</PRODUCT>
@@ -1598,10 +1596,10 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
   
           <SHOPITEM>
           <ITEM_ID>IN201001</ITEM_ID>
-          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár. · 1kg</PRODUCTNAME>
-          <PRODUCT>Köster 2 IN 1 · 1 kg (combipackage) · 1kg - PU injektážní hmota</PRODUCT>
+          <PRODUCTNAME>Köster 2 IN 1 · PU-injektážní pryskyřice pro injektáž trhlin a spár · 1kg</PRODUCTNAME>
+          <PRODUCT>Köster 2 IN 1 · 1kg - PU injektážní hmota</PRODUCT>
           <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage?variant=52615279903057</URL>
+          <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279903057</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
           <PRICE_VAT>1735.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -1611,59 +1609,27 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>IN201002</ITEM_ID>
-          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár. · 5kg</PRODUCTNAME>
-          <PRODUCT>Köster 2 IN 1 · 1 kg (combipackage) · 5kg - PU injektážní hmota</PRODUCT>
-          <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage?variant=52615279935825</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
-          <PRICE_VAT>1735.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <ITEM_ID>IN201003</ITEM_ID>
-          <PRODUCTNAME>Köster 2 IN 1 · 1 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár. · 20kg</PRODUCTNAME>
-          <PRODUCT>Köster 2 IN 1 · 1 kg (combipackage) · 20kg - PU injektážní hmota</PRODUCT>
-          <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-2-in-1-1kg-combipackage?variant=52615279968593</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
-          <PRICE_VAT>1735.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Köster</MANUFACTURER>
-          
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <ITEM_ID>IN201005</ITEM_ID>
-          <PRODUCTNAME>Köster 2 IN 1 · 5 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár.</PRODUCTNAME>
-          <PRODUCT>Köster 2 IN 1 · 5 kg - PU injektážní hmota</PRODUCT>
+          <PRODUCTNAME>Köster 2 IN 1 · PU-injektážní pryskyřice pro injektáž trhlin a spár · 5kg</PRODUCTNAME>
+          <PRODUCT>Köster 2 IN 1 · 5kg - PU injektážní hmota</PRODUCT>
           <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-2-in-1-5kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279935825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
-          <PRICE_VAT>3593.0</PRICE_VAT>
+          <PRICE_VAT>3595.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906061477</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>IN201020</ITEM_ID>
-          <PRODUCTNAME>Köster 2 IN 1 · 20 kg · PU-injektážní pryskyřice pro injektáž trhlin a spár.</PRODUCTNAME>
-          <PRODUCT>Köster 2 IN 1 · 20 kg - PU injektážní hmota</PRODUCT>
+          <PRODUCTNAME>Köster 2 IN 1 · PU-injektážní pryskyřice pro injektáž trhlin a spár · 20kg</PRODUCTNAME>
+          <PRODUCT>Köster 2 IN 1 · 20kg - PU injektážní hmota</PRODUCT>
           <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-2-in-1-20kg</URL>
+          <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279968593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
-          <PRICE_VAT>11616.0</PRICE_VAT>
+          <PRICE_VAT>11615.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -1825,7 +1791,7 @@ KÖSTER KB Pox IN je dvousložková (2K) nízko viskózní epoxidová injektáž
           <SHOPITEM>
           <ITEM_ID>IN918001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x90mm CH (cone-head)</PRODUCTNAME>
-          <PRODUCT>Köster One-Day-Site Packer · 13x90mm CH (cone-head) - Injektážní šroubovací pakr</PRODUCT>
+          <PRODUCT>Köster One-Day-Site Packer · 1 ks · 13x90mm CH (cone-head) - Injektážní šroubovací pakr</PRODUCT>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288008529</URL>
@@ -1840,7 +1806,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <SHOPITEM>
           <ITEM_ID>IN921001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x90mm PH (pan-head)</PRODUCTNAME>
-          <PRODUCT>Köster One-Day-Site Packer · 13x90mm PH (pan-head) - Injektážní šroubovací pakr</PRODUCT>
+          <PRODUCT>Köster One-Day-Site Packer · 1 ks · 13x90mm PH (pan-head) - Injektážní šroubovací pakr</PRODUCT>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288041297</URL>
@@ -1855,7 +1821,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <SHOPITEM>
           <ITEM_ID>IN919001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x120mm CH (cone-head)</PRODUCTNAME>
-          <PRODUCT>Köster One-Day-Site Packer · 13x120mm CH (cone-head) - Injektážní šroubovací pakr</PRODUCT>
+          <PRODUCT>Köster One-Day-Site Packer · 1 ks · 13x120mm CH (cone-head) - Injektážní šroubovací pakr</PRODUCT>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288074065</URL>
@@ -1870,7 +1836,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <SHOPITEM>
           <ITEM_ID>IN922001</ITEM_ID>
           <PRODUCTNAME>Köster One-Day-Site Packer · Injektážní pakr (jednorázový) · 13x120mm PH (pan-head)</PRODUCTNAME>
-          <PRODUCT>Köster One-Day-Site Packer · 13x120mm PH (pan-head) - Injektážní šroubovací pakr</PRODUCT>
+          <PRODUCT>Köster One-Day-Site Packer · 1 ks · 13x120mm PH (pan-head) - Injektážní šroubovací pakr</PRODUCT>
           <DESCRIPTION>Jednorázový injektážní pakr pro pryskyřice a gely Köster (2 IN 1, IN 2, IN 5, GEL S4/G4, Mautrol 2C, KB-FIX 5, KB-POX IN). Vysoká odolnost proti vytržení.
 KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění kužel, který zajišťuje, že kotevní tlak je vyvíjen hluboko do vrtaného otvoru. Tím se zvyšuje odolnost proti vytržení a snižuje se riziko, že packer praskne stěny vrtaného otvoru. Dodatečný jednosměrný ventil na spodní straně KÖSTER One Day Site Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním Packer a pojistný kroužek, který udržuje gumové těsnění pod konstantním tlakem, umožňují odstranění klíče před vytvrzením injekčního materiálu a zajišťují instalaci „za jeden den“.Čtyři žebra a dva hřebeny na gumovém těsnění zabraňují otáčení ucpávky během utahování a tím usnadňují optimální upevnění ucpávky ve vrtu. Ucpávky KÖSTER One Day Site nemají předem stanovený bod zlomu. Klíče se po použití odšroubují.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-one-day-site-packer?variant=52604288106833</URL>
@@ -1889,7 +1855,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <SHOPITEM>
           <ITEM_ID>IN912001</ITEM_ID>
           <PRODUCTNAME>Köster Superpacker · injektážní pakr · 10x85mm CH (cone-head)</PRODUCTNAME>
-          <PRODUCT>Köster Superpacker · 10x85mm CH (cone-head) - Injektážní superpakr</PRODUCT>
+          <PRODUCT>Köster Superpacker · 1 ks · 10x85mm CH (cone-head) - Injektážní superpakr</PRODUCT>
           <DESCRIPTION>Jednorázový injektážní pakr pro KÖSTER injektážní pryskyřice a gely a Mautrol 2C.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-superpacker?variant=52604349022545</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Superpacker-10x85mm-CH.jpg?v=1755855412</IMGURL>
@@ -1903,7 +1869,7 @@ KÖSTER One Day Site Packer vytváří v oblasti zeleného gumového těsnění 
           <SHOPITEM>
           <ITEM_ID>IN913001</ITEM_ID>
           <PRODUCTNAME>Köster Superpacker · injektážní pakr · 10x115mm CH (cone-head)</PRODUCTNAME>
-          <PRODUCT>Köster Superpacker · 10x115mm CH (cone-head) - Injektážní superpakr</PRODUCT>
+          <PRODUCT>Köster Superpacker · 1 ks · 10x115mm CH (cone-head) - Injektážní superpakr</PRODUCT>
           <DESCRIPTION>Jednorázový injektážní pakr pro KÖSTER injektážní pryskyřice a gely a Mautrol 2C.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-superpacker?variant=52604349055313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Superpacker-10x85mm-CH.jpg?v=1755855412</IMGURL>
@@ -5388,7 +5354,7 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
           <DESCRIPTION>Elastizační syntetická disperze pro univerzální použití v maltách, omítkách, těsnicích suspenzích a betonu.
 KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina pro všechny cementové malty, omítky a těsnicí hmoty. KÖSTER SB Bonding Emulsion neobsahuje rozpouštědla, změkčovadla a plniva. Když se syntetická kapalina přidá do systémů na minerální bázi, zvyšuje elasticitu a pružnost a snižuje absorpci vody. KÖSTER SB Bonding Emulsion je voděodolná, což znamená, že po aplikaci ji nelze smýt ani spláchnout.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion?variant=52615066321233</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-bonding-emulsion.png?v=1756382256</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-Bonding-Emulsion_opt.jpg?v=1765831310</IMGURL>
           <PRICE_VAT>1530.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
@@ -5403,7 +5369,7 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
           <DESCRIPTION>Elastizační syntetická disperze pro univerzální použití v maltách, omítkách, těsnicích suspenzích a betonu.
 KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina pro všechny cementové malty, omítky a těsnicí hmoty. KÖSTER SB Bonding Emulsion neobsahuje rozpouštědla, změkčovadla a plniva. Když se syntetická kapalina přidá do systémů na minerální bázi, zvyšuje elasticitu a pružnost a snižuje absorpci vody. KÖSTER SB Bonding Emulsion je voděodolná, což znamená, že po aplikaci ji nelze smýt ani spláchnout.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion?variant=52615066354001</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-bonding-emulsion.png?v=1756382256</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-Bonding-Emulsion_opt.jpg?v=1765831310</IMGURL>
           <PRICE_VAT>3015.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
@@ -5421,7 +5387,7 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
 2 m x 15 m, 30 m².
 KÖSTER Protection and Drainage Sheet 3-250 je složená ze 3 vrstev, vysoce kvalitní ochranná a drenážní fólie z černého HD-PE s filtračním rounem vyrobeným z polypropylenu a černou klouzavou fólií na zadní straně. Prostřednictvím prostoru uvnitř může dojít k bezpečnému odvedení průsakové vody nebo zadržené průsakové vody do odvodňovacího potrubí.Produkt je odolný vůči prohnití, je odolný vůči nárazům a kořenům, zachovává svůj tvar a je odolný vůči agresivní vodě, jakož i proti bakteriím a houbám. nemá negativní vliv na pitnou vodu a má vysokou pevnost v tlaku.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-sd-protection-and-drainage-sheet-3-250-30m2-2x15m-role</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-SD-3-250-30m2-drenazni-a-ochranna-folie.jpg?v=1756973612</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SD-Protection-and-Drainage-Sheet_opt.jpg?v=1765832011</IMGURL>
           <PRICE_VAT>8820.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
@@ -5524,7 +5490,7 @@ Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, 
           <DESCRIPTION>TPO střešní a hydroizolační membrána s centrálně vloženým skleněným rounem.
 Tloušťka: 1,5 mmŠířka: 0,25 mDélka: 20 m</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-tpo-1-5-stresni-folie-tloustka-1-5mm</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RT-8-KOESTER-TPO-Dach-und-Dichtungsbahn.jpg?v=1758009652</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/TPO-folie_opt.jpg?v=1765831791</IMGURL>
           <PRICE_VAT>3013.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
