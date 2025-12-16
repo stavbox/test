@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 516 -->
+<!-- Total products+variants: 517 -->
 <!-- Total individual products: 348 -->
-<!-- Created: 2025-12-16 11:28:48 -->
+<!-- Created: 2025-12-16 14:10:21 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -1857,12 +1857,12 @@ Trvale plastická těsnicí hmota pro utěsnění průchodů potrubí a kabelů,
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster Polysil TG 500 · 1 kg · Penetrace na vlhké a zasolené podklady</PRODUCTNAME>
+          <PRODUCTNAME>Köster Polysil TG 500 · Penetrace na vlhké a zasolené podklady · 1kg</PRODUCTNAME>
           <DESCRIPTION>Hluboce penetrující a zpevňující základní nátěr na vlhké a solí zatížené podklady. Díky speciálnímu složení obaluje a trvale deaktivuje solné krystaly.
 Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použití na zasolených a vlhkých podkladech vede k zmenšení objemu pórů a snížení pravděpodobnosti prostupu solných výkvětů do dalších vrstev. Zvyšuje také chemickou a mechanickou odolnost minerálních stavebních materiálů. V závislosti na typu podkladu, dokáže tento přípravek proniknout až do hloubky 2 cm. Díky speciálnímu složení dokáže obalit a trvale deaktivovat solnékrystaly.
 KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-polysil-tg-500-1kg</URL>
-          <PRICE_VAT>389.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
+          <PRICE_VAT>390.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
@@ -1877,6 +1877,30 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>4026906040113</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster Polysil TG 500 · Penetrace na vlhké a zasolené podklady · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Hluboce penetrující a zpevňující základní nátěr na vlhké a solí zatížené podklady. Díky speciálnímu složení obaluje a trvale deaktivuje solné krystaly.
+Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použití na zasolených a vlhkých podkladech vede k zmenšení objemu pórů a snížení pravděpodobnosti prostupu solných výkvětů do dalších vrstev. Zvyšuje také chemickou a mechanickou odolnost minerálních stavebních materiálů. V závislosti na typu podkladu, dokáže tento přípravek proniknout až do hloubky 2 cm. Díky speciálnímu složení dokáže obalit a trvale deaktivovat solnékrystaly.
+KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388101457</URL>
+          <PRICE_VAT>2965.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>M111010</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4026906040441</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -6914,7 +6938,7 @@ Vyhlazení protiplísňových sanačních systémů. Difuzně otevřený a kapil
 Vyhlazení protiplísňových sanačních systémů. Difuzně otevřený a kapilárně aktivníOdolný vlhkosti, dobrá vyhlazovací vlastnost a přilnavost.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sl-fill-q4-20kg</URL>
           <PRICE_VAT>2444.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
