@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 516 -->
+<!-- Total products+variants: 519 -->
 <!-- Total individual products: 351 -->
-<!-- Created: 2025-12-16 00:00:40 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-12-16 09:11:03 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -7667,11 +7667,11 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), šedý</PRODUCTNAME>
+          <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), šedý · Bílý / 310ml</PRODUCTNAME>
           <DESCRIPTION>Vysoce elastický, jednosložkový spárovací tmel s technologií na bázi MS polymerů.
 Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a isokyanáty. Používá se pro všechny typy spárování ve stavebnictví. Podkladním materiálem může být např. beton, zdivo, hliníkové kompozitní panely okenních rámy nebo fasády z přírodního kamene. Je odolný vůči olejům, mořské vodě, čisticím prostředkům a různým chemikáliím, hydrolýze, solím a mrazu. Je také odolný proti dešti do 30 minut po aplikaci a lze jej aplikovat pod vodou.
 · jednosložkový (1K) materiál připravený k použití· bezešvý vrstva s jednoduchou aplikací· vysokoviskózní konzistence pro plochy se sklonem a vertikální plochy· přilnavost na různých podkladech· vynikající odolnost proti povětrnostním vlivům a ultrafialovému záření· ekologický produkt</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/koster-ms-joint-sealant-grey-600ml-sedy</URL>
+          <URL>https://www.stavbox.cz/products/koster-ms-joint-sealant-grey-600ml-sedy?variant=52617465495889</URL>
           <PRICE_VAT>445.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-MS-Joint-Sealant-jednoslozkovy-sparovaci-tmel-na-bazi-MS-polymeru.jpg?v=1755886982</IMGURL>
@@ -7687,6 +7687,78 @@ Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a i
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>4026906135185</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), šedý · Bílý / 600ml</PRODUCTNAME>
+          <DESCRIPTION>Vysoce elastický, jednosložkový spárovací tmel s technologií na bázi MS polymerů.
+Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a isokyanáty. Používá se pro všechny typy spárování ve stavebnictví. Podkladním materiálem může být např. beton, zdivo, hliníkové kompozitní panely okenních rámy nebo fasády z přírodního kamene. Je odolný vůči olejům, mořské vodě, čisticím prostředkům a různým chemikáliím, hydrolýze, solím a mrazu. Je také odolný proti dešti do 30 minut po aplikaci a lze jej aplikovat pod vodou.
+· jednosložkový (1K) materiál připravený k použití· bezešvý vrstva s jednoduchou aplikací· vysokoviskózní konzistence pro plochy se sklonem a vertikální plochy· přilnavost na různých podkladech· vynikající odolnost proti povětrnostním vlivům a ultrafialovému záření· ekologický produkt</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-ms-joint-sealant-grey-600ml-sedy?variant=52617465528657</URL>
+          <PRICE_VAT>445.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-MS-Joint-Sealant-jednoslozkovy-sparovaci-tmel-na-bazi-MS-polymeru.jpg?v=1755886982</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>J236601</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), šedý · Šedý / 310ml</PRODUCTNAME>
+          <DESCRIPTION>Vysoce elastický, jednosložkový spárovací tmel s technologií na bázi MS polymerů.
+Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a isokyanáty. Používá se pro všechny typy spárování ve stavebnictví. Podkladním materiálem může být např. beton, zdivo, hliníkové kompozitní panely okenních rámy nebo fasády z přírodního kamene. Je odolný vůči olejům, mořské vodě, čisticím prostředkům a různým chemikáliím, hydrolýze, solím a mrazu. Je také odolný proti dešti do 30 minut po aplikaci a lze jej aplikovat pod vodou.
+· jednosložkový (1K) materiál připravený k použití· bezešvý vrstva s jednoduchou aplikací· vysokoviskózní konzistence pro plochy se sklonem a vertikální plochy· přilnavost na různých podkladech· vynikající odolnost proti povětrnostním vlivům a ultrafialovému záření· ekologický produkt</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-ms-joint-sealant-grey-600ml-sedy?variant=52617465561425</URL>
+          <PRICE_VAT>445.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-MS-Joint-Sealant-jednoslozkovy-sparovaci-tmel-na-bazi-MS-polymeru.jpg?v=1755886982</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>J236602</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Köster MS Joint Sealant · 600 ml · tuhnoucí, elastický tmel (1K), šedý · Šedý / 600ml</PRODUCTNAME>
+          <DESCRIPTION>Vysoce elastický, jednosložkový spárovací tmel s technologií na bázi MS polymerů.
+Přilne k mnoha povrchům, neobsahuje rozpouštědla, silikon, vodu, bitumen a isokyanáty. Používá se pro všechny typy spárování ve stavebnictví. Podkladním materiálem může být např. beton, zdivo, hliníkové kompozitní panely okenních rámy nebo fasády z přírodního kamene. Je odolný vůči olejům, mořské vodě, čisticím prostředkům a různým chemikáliím, hydrolýze, solím a mrazu. Je také odolný proti dešti do 30 minut po aplikaci a lze jej aplikovat pod vodou.
+· jednosložkový (1K) materiál připravený k použití· bezešvý vrstva s jednoduchou aplikací· vysokoviskózní konzistence pro plochy se sklonem a vertikální plochy· přilnavost na různých podkladech· vynikající odolnost proti povětrnostním vlivům a ultrafialovému záření· ekologický produkt</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-ms-joint-sealant-grey-600ml-sedy?variant=52617465594193</URL>
+          <PRICE_VAT>445.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-MS-Joint-Sealant-jednoslozkovy-sparovaci-tmel-na-bazi-MS-polymeru.jpg?v=1755886982</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>J236603</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
