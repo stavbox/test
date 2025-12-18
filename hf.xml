@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 518 -->
-<!-- Total individual products: 347 -->
-<!-- Created: 2025-12-18 16:28:11 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 516 -->
+<!-- Total individual products: 344 -->
+<!-- Created: 2025-12-19 00:00:51 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -5513,48 +5513,29 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
     
   
           <SHOPITEM>
-          <ITEM_ID>756506</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035) / 20kg (13,6+6,4 kg)</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · 20 kg · Světle šedý (RAL 7035) / 20kg (13,6+6,4 kg) - </PRODUCT>
+          <ITEM_ID>761447</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032) / 5kg (3,4+1,6 kg)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · Štěrkový šedý (RAL 7032) / 5kg (3,4+1,6 kg) - </PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-20kg?variant=51951626027345</URL>
+· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300616529</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
-          <PRICE_VAT>8405.0</PRICE_VAT>
+          <PRICE_VAT>3303.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7611237017100</EAN>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <ITEM_ID>747873</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035) / 5kg (3,4+1,6 kg)</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · 20 kg · Světle šedý (RAL 7035) / 5kg (3,4+1,6 kg) - </PRODUCT>
-          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
-Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-20kg?variant=52639300583761</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
-          <PRICE_VAT>3299.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612895893624</EAN>
+          <EAN>7612895928401</EAN>
         </SHOPITEM>
       
           <SHOPITEM>
           <ITEM_ID>761565</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032) / 20kg (13,6+6,4 kg)</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · 20 kg · Štěrkový šedý (RAL 7032) / 20kg (13,6+6,4 kg) - </PRODUCT>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032) / 20kg (13,6+6,4 kg)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · Štěrkový šedý (RAL 7032) / 20kg (13,6+6,4 kg) - </PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-20kg?variant=51952893690193</URL>
+· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=51952893690193</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
           <PRICE_VAT>8410.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -5564,20 +5545,35 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>761447</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 20kg · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032) / 5kg (3,4+1,6 kg)</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · 20 kg · Štěrkový šedý (RAL 7032) / 5kg (3,4+1,6 kg) - </PRODUCT>
+          <ITEM_ID>747873</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035) / 5kg (3,4+1,6 kg)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · Světle šedý (RAL 7035) / 5kg (3,4+1,6 kg) - </PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-20kg?variant=52639300616529</URL>
+· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300583761</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
-          <PRICE_VAT>3303.0</PRICE_VAT>
+          <PRICE_VAT>3299.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612895928401</EAN>
+          <EAN>7612895893624</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>756506</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035) / 20kg (13,6+6,4 kg)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · Světle šedý (RAL 7035) / 20kg (13,6+6,4 kg) - </PRODUCT>
+          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
+Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
+· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=51951626027345</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
+          <PRICE_VAT>8405.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7611237017100</EAN>
         </SHOPITEM>
       
     
@@ -5594,42 +5590,6 @@ Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269513</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>747873</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 5kg · Epoxidový nátěr na vodní bázi · Švětle šedý (RAL 7035)</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · 5 kg · Švětle šedý (RAL 7035) - </PRODUCT>
-          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
-Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-5kg?variant=51967316099409</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
-          <PRICE_VAT>3299.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612895893624</EAN>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <ITEM_ID>761447</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · 5kg · Epoxidový nátěr na vodní bázi · Stěrkový šedý (RAL 7032)</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · 5 kg · Stěrkový šedý (RAL 7032) - </PRODUCT>
-          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
-Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím
-Balení: 20kg (komp. A: 13,6kg, komp. B: 6,4kg)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w-5kg?variant=51967316132177</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
-          <PRICE_VAT>3303.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612895928401</EAN>
         </SHOPITEM>
       
     
@@ -6071,37 +6031,35 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>705312</ITEM_ID>
-          <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · 22 kg · Tekutá hydroizolace pro vlhké prostory</PRODUCTNAME>
-          <PRODUCT>Sika Sikalastic®-260 Stop Aqua · 22 kg - </PRODUCT>
-          <DESCRIPTION>Tekutá izolace na bázi pryskyřice.
-Sikalastic®-260 Stop Aqua je 1-komponentní vrstva na bázi pryskyřice, aplikovaná v tekutém stavu, určená do vlhkých prostor, připravená k aplikaci. Výrobek zajišťuje plnohodnotnou hydroizolační vrstvu připravenou pro aplikaci obkladů a dlažeb.
-· Bezesparý· Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.· 1-komponentní materiál připravený k použití</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikalastic-260-22kg</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-260-Stop-Aqua-7kg_opt.jpg?v=1760002046</IMGURL>
-          <PRICE_VAT>3085.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612895786469</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <ITEM_ID>705803</ITEM_ID>
-          <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · 7 kg · Tekutá hydroizolace pro vlhké prostory</PRODUCTNAME>
-          <PRODUCT>Sika Sikalastic®-260 Stop Aqua · 7 kg - </PRODUCT>
+          <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · Tekutá hydroizolace pro vlhké prostory · 7kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-260 Stop Aqua · 7kg - </PRODUCT>
           <DESCRIPTION>Tekutá izolace na bázi pryskyřice.
 Sikalastic®-260 Stop Aqua je 1-komponentní vrstva na bázi pryskyřice, aplikovaná v tekutém stavu, určená do vlhkých prostor, připravená k aplikaci. Výrobek zajišťuje plnohodnotnou hydroizolační vrstvu připravenou pro aplikaci obkladů a dlažeb.
-· Bezesparý· Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.· 1-komponentní materiál připravený k použití</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikalastic-260-stop-aqua-7kg</URL>
+✅ Bezesparý✅ Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.✅ 1-komponentní materiál připravený k použití</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-260-stop-aqua?variant=52639467766097</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-260-Stop-Aqua-7kg_opt.jpg?v=1760002046</IMGURL>
           <PRICE_VAT>1135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>705312</ITEM_ID>
+          <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · Tekutá hydroizolace pro vlhké prostory · 22kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-260 Stop Aqua · 22kg - </PRODUCT>
+          <DESCRIPTION>Tekutá izolace na bázi pryskyřice.
+Sikalastic®-260 Stop Aqua je 1-komponentní vrstva na bázi pryskyřice, aplikovaná v tekutém stavu, určená do vlhkých prostor, připravená k aplikaci. Výrobek zajišťuje plnohodnotnou hydroizolační vrstvu připravenou pro aplikaci obkladů a dlažeb.
+✅ Bezesparý✅ Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.✅ 1-komponentní materiál připravený k použití</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-260-stop-aqua?variant=52639467798865</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-260-Stop-Aqua-7kg_opt.jpg?v=1760002046</IMGURL>
+          <PRICE_VAT>3085.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895786469</EAN>
         </SHOPITEM>
       
     
@@ -6935,12 +6893,11 @@ KÖSTER MS-Flexfolie neobsahuje rozpouštědla, a proto netrpí odpařováním r
   
           <SHOPITEM>
           <ITEM_ID>54864</ITEM_ID>
-          <PRODUCTNAME>Sikaflex®-521 UV · 300 ml · STP tmel odolný UV a povětrnosti · Bílý</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-521 UV · 300 ml · Bílý - </PRODUCT>
+          <PRODUCTNAME>Sikaflex®-521 UV · STP tmel odolný UV a povětrnosti · Bílý / 300ml (kartuše)</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-521 UV · Bílý / 300ml (kartuše) - </PRODUCT>
           <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
 Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
-· Odolný proti stárnutí a povětrnostním vlivům· Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy· Bez izokyanátů a bez rozpouštědel
-Balení: 300ml (kartuše)</DESCRIPTION>
+✅ Odolný proti stárnutí a povětrnostním vlivům✅ Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy✅ Bez izokyanátů a bez rozpouštědel</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52182065250641</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
           <PRICE_VAT>271.0</PRICE_VAT>
@@ -6951,13 +6908,28 @@ Balení: 300ml (kartuše)</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>62139</ITEM_ID>
-          <PRODUCTNAME>Sikaflex®-521 UV · 300 ml · STP tmel odolný UV a povětrnosti · Světle šedý</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-521 UV · 300 ml · Světle šedý - </PRODUCT>
+          <ITEM_ID>61352</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-521 UV · STP tmel odolný UV a povětrnosti · Bílý / 600ml (monoporce)</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-521 UV · Bílý / 600ml (monoporce) - </PRODUCT>
           <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
 Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
-· Odolný proti stárnutí a povětrnostním vlivům· Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy· Bez izokyanátů a bez rozpouštědel
-Balení: 300ml (kartuše)</DESCRIPTION>
+✅ Odolný proti stárnutí a povětrnostním vlivům✅ Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy✅ Bez izokyanátů a bez rozpouštědel</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52639615549777</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
+          <PRICE_VAT>387.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894177220</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62139</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-521 UV · STP tmel odolný UV a povětrnosti · Světle šedý / 300ml (kartuše)</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-521 UV · Světle šedý / 300ml (kartuše) - </PRODUCT>
+          <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
+Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
+✅ Odolný proti stárnutí a povětrnostním vlivům✅ Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy✅ Bez izokyanátů a bez rozpouštědel</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52182119579985</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
           <PRICE_VAT>271.0</PRICE_VAT>
@@ -6968,50 +6940,13 @@ Balení: 300ml (kartuše)</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>60179</ITEM_ID>
-          <PRODUCTNAME>Sikaflex®-521 UV · 300 ml · STP tmel odolný UV a povětrnosti · Černý</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-521 UV · 300 ml · Černý - </PRODUCT>
-          <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
-Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
-· Odolný proti stárnutí a povětrnostním vlivům· Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy· Bez izokyanátů a bez rozpouštědel
-Balení: 300ml (kartuše)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52182119612753</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
-          <PRICE_VAT>271.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612894141818</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>61352</ITEM_ID>
-          <PRODUCTNAME>Sikaflex®-521 UV · 600 ml · STP tmel odolný UV a povětrnosti · Bílý</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-521 UV · 600 ml · Bílý - </PRODUCT>
-          <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
-Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
-· Odolný proti stárnutí a povětrnostním vlivům· Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy· Bez izokyanátů a bez rozpouštědel
-Balení: 600ml (monoporce)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-600ml?variant=52182303474001</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
-          <PRICE_VAT>387.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612894177220</EAN>
-        </SHOPITEM>
-      
-          <SHOPITEM>
           <ITEM_ID>70268</ITEM_ID>
-          <PRODUCTNAME>Sikaflex®-521 UV · 600 ml · STP tmel odolný UV a povětrnosti · Světle šedý</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-521 UV · 600 ml · Světle šedý - </PRODUCT>
+          <PRODUCTNAME>Sikaflex®-521 UV · STP tmel odolný UV a povětrnosti · Světle šedý / 600ml (monoporce)</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-521 UV · Světle šedý / 600ml (monoporce) - </PRODUCT>
           <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
 Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
-· Odolný proti stárnutí a povětrnostním vlivům· Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy· Bez izokyanátů a bez rozpouštědel
-Balení: 600ml (monoporce)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-600ml?variant=52182303506769</URL>
+✅ Odolný proti stárnutí a povětrnostním vlivům✅ Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy✅ Bez izokyanátů a bez rozpouštědel</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52639615582545</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
           <PRICE_VAT>387.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -7021,14 +6956,29 @@ Balení: 600ml (monoporce)</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>66108</ITEM_ID>
-          <PRODUCTNAME>Sikaflex®-521 UV · 600 ml · STP tmel odolný UV a povětrnosti · Černý</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-521 UV · 600 ml · Černý - </PRODUCT>
+          <ITEM_ID>60179</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-521 UV · STP tmel odolný UV a povětrnosti · Černý / 300ml (kartuše)</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-521 UV · Černý / 300ml (kartuše) - </PRODUCT>
           <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
 Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
-· Odolný proti stárnutí a povětrnostním vlivům· Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy· Bez izokyanátů a bez rozpouštědel
-Balení: 600ml (monoporce)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-600ml?variant=52182303539537</URL>
+✅ Odolný proti stárnutí a povětrnostním vlivům✅ Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy✅ Bez izokyanátů a bez rozpouštědel</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52182119612753</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
+          <PRICE_VAT>271.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894141818</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>66108</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-521 UV · STP tmel odolný UV a povětrnosti · Černý / 600ml (monoporce)</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-521 UV · Černý / 600ml (monoporce) - </PRODUCT>
+          <DESCRIPTION>Lepící tmel na bázi STP, odolný povětrnostním vlivům se širokým rozsahem adheze
+Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnostním vlivům, který vykazuje dobrou adhezi k široké škále povrchů, jako jsou kovy, ABS, PC, FRP a dřevo, obvykle bez potřeby zvláštní přípravy povrchu. Tento víceúčelový produkt je vhodný pro vnitřní i vnější aplikace. 
+✅ Odolný proti stárnutí a povětrnostním vlivům✅ Dobrá adheze k různým podkladům bez nutnosti speciální předúpravy✅ Bez izokyanátů a bez rozpouštědel</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52639615615313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
           <PRICE_VAT>387.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
