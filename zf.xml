@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 516 -->
-<!-- Total individual products: 344 -->
-<!-- Created: 2025-12-19 00:00:51 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 526 -->
+<!-- Total individual products: 343 -->
+<!-- Created: 2025-12-19 12:40:12 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -11885,11 +11885,33 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · 15l · Utěsnění a vytvrzení beton. podlah</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · Utěsnění a vytvrzení betonových podlah · 5l</PRODUCTNAME>
           <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
-Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
-Balení: 15l kanystr</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12-15l</URL>
+Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12?variant=52645252104529</URL>
+          <PRICE_VAT>1545.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>422871</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          <EAN>7612894878028</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · Utěsnění a vytvrzení betonových podlah · 15l</PRODUCTNAME>
+          <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
+Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12?variant=52645252137297</URL>
           <PRICE_VAT>4340.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
@@ -11911,38 +11933,11 @@ Balení: 15l kanystr</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · 5l · Utěsnění a vytvrzení beton. podlah</PRODUCTNAME>
-          <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
-Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.
-Balení: 5l kanystr</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12-5l</URL>
-          <PRICE_VAT>1545.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>422871</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
-
-          <EAN>7612894878028</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Level-01 Primer · 1kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
+          <PRODUCTNAME>Sika Level-01 Primer · Hloubková akrylátová penetrace podlah · 1kg</PRODUCTNAME>
           <DESCRIPTION>Hloubková penetrace na minerální podklady.
 Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
-· Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
-Balení: 1kg kanystr</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-level-01-primer-1kg</URL>
+✅ Proniká hluboko do struktury podkladu✅ Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě✅ Zlepšuje soudržnost s podkladem a následnou vrstvou</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-level-01-primer?variant=52645301059921</URL>
           <PRICE_VAT>275.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
@@ -11961,15 +11956,12 @@ Balení: 1kg kanystr</DESCRIPTION>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Sika Level-01 Primer · 5kg · Hloubková akrylátová penetrace podlah</PRODUCTNAME>
+          <PRODUCTNAME>Sika Level-01 Primer · Hloubková akrylátová penetrace podlah · 5kg</PRODUCTNAME>
           <DESCRIPTION>Hloubková penetrace na minerální podklady.
 Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
-· Proniká hluboko do struktury podkladu· Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě· Zlepšuje soudržnost s podkladem a následnou vrstvou
-Balení: 5kg kanystr</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-level-01-primer-5kg</URL>
+✅ Proniká hluboko do struktury podkladu✅ Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě✅ Zlepšuje soudržnost s podkladem a následnou vrstvou</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-level-01-primer?variant=52645301092689</URL>
           <PRICE_VAT>1305.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
@@ -12824,8 +12816,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524561138001</URL>
           <PRICE_VAT>10220.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -12857,8 +12848,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680773969</URL>
           <PRICE_VAT>10220.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -12890,8 +12880,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680806737</URL>
           <PRICE_VAT>12195.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -12923,8 +12912,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524561170769</URL>
           <PRICE_VAT>79650.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -12956,8 +12944,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680839505</URL>
           <PRICE_VAT>80200.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -12989,8 +12976,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524561203537</URL>
           <PRICE_VAT>234150.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -13022,8 +13008,7 @@ Sikafloor®-264 N je 2komponentní, barevný nátěr na bázi epoxidové prysky
 
 
 
-✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace
-Balení: 25kg (21kg komp. A + 4kg komp. B)</DESCRIPTION>
+✅ Jednolitý a hygienický✅ Dobrá chemická a mechanická odolnost✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-n?variant=52524680905041</URL>
           <PRICE_VAT>234150.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -13140,6 +13125,298 @@ PROLASTIC® 55Z je dvousložková (2K) rychleschnoucí hydroizolace špičkovýc
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004637405395</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7032 (štěrková šedá) / 10kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645432099153</URL>
+          <PRICE_VAT>5110.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>834921</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655102508</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7032 (štěrková šedá) / 30kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381636433</URL>
+          <PRICE_VAT>10425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>829966</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655094544</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7032 (štěrková šedá) / 295kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381734737</URL>
+          <PRICE_VAT>99950.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>843446</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655127600</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7032 (štěrková šedá) / 885kg (3A+B)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381800273</URL>
+          <PRICE_VAT>293800.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>841389</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655121073</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7035 (světle šedá) / 10kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645432131921</URL>
+          <PRICE_VAT>4685.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>834801</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655101907</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7035 (světle šedá) / 30kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381669201</URL>
+          <PRICE_VAT>10425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>821383</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655076175</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7035 (světle šedá) / 295kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381767505</URL>
+          <PRICE_VAT>99950.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>843431</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655127327</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · RAL 7035 (světle šedá) / 885kg (3A+B)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381833041</URL>
+          <PRICE_VAT>293800.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>839087</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655115317</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · Vícebarevná světlá / 30kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645381701969</URL>
+          <PRICE_VAT>12865.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>839928</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655117533</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · Pastel / 30kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645432230225</URL>
+          <PRICE_VAT>10920.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>837441</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612655107466</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
