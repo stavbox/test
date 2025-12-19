@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 526 -->
-<!-- Total individual products: 343 -->
-<!-- Created: 2025-12-19 12:40:12 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total individual products: 338 -->
+<!-- Created: 2025-12-20 00:00:36 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -10238,12 +10238,11 @@ Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnos
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 1001 (béžová)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 1001 (béžová) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52203892375889</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52203892375889</URL>
           <PRICE_VAT>5200.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10263,12 +10262,59 @@ Balení: 6kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 3016 (korálová červená)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 1001 (béžová) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52203892408657</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268043601</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10438835274065</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 1011 (hnědobéžová) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646336495953</URL>
+          <PRICE_VAT>13305.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>590925</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612895526751</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 3016 (korálová červená) / 6kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52203892408657</URL>
           <PRICE_VAT>5200.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10288,12 +10334,35 @@ Balení: 6kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 6001 (smaragdová zelená)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 5010 (enziánová modrá) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52203892441425</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646336561489</URL>
+          <PRICE_VAT>13305.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>60106</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894141177</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 6001 (smaragdová zelená) / 6kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52203892441425</URL>
           <PRICE_VAT>5200.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10313,339 +10382,11 @@ Balení: 6kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7001 (stříbrošedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 6001 (smaragdová zelená) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204082364753</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>36814</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4003923147940</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7016 (antracitová šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204085477713</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>50327</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894052848</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7023 (betonová šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204088426833</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>50328</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894052855</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7030 (kamenná šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204090884433</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>50329</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894052862</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7035 (světle šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204094849361</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>36815</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4003923147957</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7037 (prachová šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204101402961</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>33917</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>4003923131505</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7038 (achátová šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204105269585</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>61362</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894177343</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7040 (okenní šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204107104593</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>71264</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894253436</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7044 (hedvábná šedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204111757649</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>84451</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894354027</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 6kg · Elastický PUR nátěr odolný UV · RAL 7045 (telešedá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 6kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-6kg?variant=52204113232209</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>59317</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894098488</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 1001 (béžová)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209144145</URL>
-          <PRICE_VAT>13055.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>50331</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894052886</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 1011 (hnědobéžová)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204214190417</URL>
-          <PRICE_VAT>13310.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>590925</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612895526751</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 5010 (enziánová modrá)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209176913</URL>
-          <PRICE_VAT>13310.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>60106</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-
-          <EAN>7612894141177</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 6001 (smaragdová zelená)</PRODUCTNAME>
-          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
-Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209209681</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268109137</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10665,12 +10406,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7001 (stříbrošedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7001 (stříbrošedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209242449</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204082364753</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>36814</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4003923147940</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7001 (stříbrošedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268141905</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10690,12 +10454,59 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7023 (betonová šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7016 (antracitová šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209307985</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204085477713</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>50327</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894052848</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7023 (betonová šedá) / 6kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204088426833</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>50328</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894052855</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7023 (betonová šedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268207441</URL>
           <PRICE_VAT>15600.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10715,12 +10526,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7030 (kamenná šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7030 (kamenná šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209340753</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204090884433</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>50329</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894052862</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7030 (kamenná šedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268240209</URL>
           <PRICE_VAT>15600.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10740,12 +10574,11 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7032 (štěrková šedá) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204226150737</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646503121233</URL>
           <PRICE_VAT>11405.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10765,12 +10598,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7035 (světle šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209373521</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204094849361</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>36815</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4003923147957</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7035 (světle šedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268272977</URL>
           <PRICE_VAT>11405.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10790,12 +10646,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7037 (prachová šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7037 (prachová šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209406289</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204101402961</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>33917</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4003923131505</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7037 (prachová šedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268305745</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10815,12 +10694,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7038 (achátová šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7038 (achátová šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209439057</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204105269585</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>61362</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894177343</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7038 (achátová šedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268338513</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10840,12 +10742,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7043 (dopravní šedá B)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7040 (okenní šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209471825</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204107104593</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>71264</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894253436</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7043 (dopravní šedá B) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52647098319185</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10865,12 +10790,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7044 (hedvábná šedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7044 (hedvábná šedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209504593</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204111757649</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>84451</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894354027</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7044 (hedvábná šedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268404049</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10890,12 +10838,35 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7045 (telešedá)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7045 (telešedá) / 6kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204209537361</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204113232209</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>59317</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894098488</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7045 (telešedá) / 18kg</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
+Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268436817</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10915,12 +10886,11 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7046 (telešedá 2)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7046 (telešedá 2) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204227920209</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52647049101649</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10940,12 +10910,11 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 7047 (telešedá 4)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 7047 (telešedá 4) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204227952977</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52647049167185</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -10965,12 +10934,11 @@ Balení: 18kg</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-400 N · 18kg · Elastický PUR nátěr odolný UV · RAL 9001 (krémová)</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-400 N Elastic · Elastický PUR nátěr odolný UV · RAL 9001 (krémová) / 18kg</PRODUCTNAME>
           <DESCRIPTION>1komponentní polyuretanový vysoce elastický nátěr.
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
-· Vysoce elastický· Překlenuje trhliny· Hydroizolační
-Balení: 18kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-18kg?variant=52204227985745</URL>
+✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52647049232721</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
@@ -11677,11 +11645,59 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Schönox KH · 10kg · Univerzální penetrace bez rozpouštědel</PRODUCTNAME>
+          <PRODUCTNAME>Schönox KH · Univerzální penetrace bez rozpouštědel · 1kg</PRODUCTNAME>
           <DESCRIPTION>Syntetická pryskyřičná disperze bez obsahu rozpouštědel.
 Jednosložková penetrace odolná proti zmýdelnění, sloužící ke snížení savosti a zvýšení adheze cementových podkladů a rovněž k ochraně sádrových podkladů proti vlhkosti. Pro vnitřní i vnější použití.
 Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-kh-10kg</URL>
+          <URL>https://www.stavbox.cz/products/schonox-kh?variant=52646151684433</URL>
+          <PRICE_VAT>420.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh.jpg?v=1763392974</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>483343</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4016447001209</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox KH · Univerzální penetrace bez rozpouštědel · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Syntetická pryskyřičná disperze bez obsahu rozpouštědel.
+Jednosložková penetrace odolná proti zmýdelnění, sloužící ke snížení savosti a zvýšení adheze cementových podkladů a rovněž k ochraně sádrových podkladů proti vlhkosti. Pro vnitřní i vnější použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-kh?variant=52646151717201</URL>
+          <PRICE_VAT>1360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh.jpg?v=1763392974</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>483275</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4016447010607</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox KH · Univerzální penetrace bez rozpouštědel · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Syntetická pryskyřičná disperze bez obsahu rozpouštědel.
+Jednosložková penetrace odolná proti zmýdelnění, sloužící ke snížení savosti a zvýšení adheze cementových podkladů a rovněž k ochraně sádrových podkladů proti vlhkosti. Pro vnitřní i vnější použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-kh?variant=52646151749969</URL>
           <PRICE_VAT>2340.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh.jpg?v=1763392974</IMGURL>
@@ -11703,89 +11719,11 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Schönox KH · 5kg · Univerzální penetrace bez rozpouštědel</PRODUCTNAME>
-          <DESCRIPTION>Syntetická pryskyřičná disperze bez obsahu rozpouštědel.
-Jednosložková penetrace odolná proti zmýdelnění, sloužící ke snížení savosti a zvýšení adheze cementových podkladů a rovněž k ochraně sádrových podkladů proti vlhkosti. Pro vnitřní i vnější použití.
-Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-kh-5kg</URL>
-          <PRICE_VAT>1360.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh.jpg?v=1763392974</IMGURL>
-          <MANUFACTURER>Schönox</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>483275</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          <EAN>4016447010607</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Schönox KH · 1kg · Univerzální penetrace bez rozpouštědel</PRODUCTNAME>
-          <DESCRIPTION>Syntetická pryskyřičná disperze bez obsahu rozpouštědel.
-Jednosložková penetrace odolná proti zmýdelnění, sloužící ke snížení savosti a zvýšení adheze cementových podkladů a rovněž k ochraně sádrových podkladů proti vlhkosti. Pro vnitřní i vnější použití.
-Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-kh-1kg</URL>
-          <PRICE_VAT>420.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh.jpg?v=1763392974</IMGURL>
-          <MANUFACTURER>Schönox</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>483343</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          <EAN>4016447001209</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Schönox KH FIX · 5kg · Rychlá penetrace na sádrové podklady</PRODUCTNAME>
+          <PRODUCTNAME>Schönox KH FIX · Rychlá penetrace na sádrové podklady · 1kg</PRODUCTNAME>
           <DESCRIPTION>Speciální disperzní penetrační nátěr odolný proti hydrolýze k okamžitému použití.
 S vysokou penetrací. Pro minerální podklady jako ochrana proti vlhkosti, penetrační nátěr a pro snížení savosti. Zvláště vhodná jako penetrační nátěr na podklady na bázi síranu vápenatého s krátkou dobou schnutí. Pro vnitřní i vnější použití.
 Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-kh-fix-5kg</URL>
-          <PRICE_VAT>1495.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh-fix.jpg?v=1763477168</IMGURL>
-          <MANUFACTURER>Schönox</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>483277</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          <EAN>4016447016609</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Schönox KH FIX · 1kg · Rychlá penetrace na sádrové podklady</PRODUCTNAME>
-          <DESCRIPTION>Speciální disperzní penetrační nátěr odolný proti hydrolýze k okamžitému použití.
-S vysokou penetrací. Pro minerální podklady jako ochrana proti vlhkosti, penetrační nátěr a pro snížení savosti. Zvláště vhodná jako penetrační nátěr na podklady na bázi síranu vápenatého s krátkou dobou schnutí. Pro vnitřní i vnější použití.
-Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-kh-fix-1kg</URL>
+          <URL>https://www.stavbox.cz/products/schonox-kh-fix?variant=52646111510865</URL>
           <PRICE_VAT>348.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh-fix.jpg?v=1763477168</IMGURL>
@@ -11801,6 +11739,30 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>4016447016593</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox KH FIX · Rychlá penetrace na sádrové podklady · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální disperzní penetrační nátěr odolný proti hydrolýze k okamžitému použití.
+S vysokou penetrací. Pro minerální podklady jako ochrana proti vlhkosti, penetrační nátěr a pro snížení savosti. Zvláště vhodná jako penetrační nátěr na podklady na bázi síranu vápenatého s krátkou dobou schnutí. Pro vnitřní i vnější použití.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-kh-fix?variant=52646111543633</URL>
+          <PRICE_VAT>1495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-kh-fix.jpg?v=1763477168</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>483277</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4016447016609</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -11833,37 +11795,11 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Schönox iFLOOR SET · 125m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
+          <PRODUCTNAME>Schönox iFLOOR SET · Válečkové lepidlo pro designové podlahy · 50m2</PRODUCTNAME>
           <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
 Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
 Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-ifloor-set-125m2</URL>
-          <PRICE_VAT>6125.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-ifloor.jpg?v=1763538221</IMGURL>
-          <MANUFACTURER>Schönox</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>487438</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          <EAN>4016447019037</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Schönox iFLOOR SET · 50m2 · Válečkové lepidlo pro designové podlahy</PRODUCTNAME>
-          <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
-Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
-Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/schonox-ifloor-set-50m2</URL>
+          <URL>https://www.stavbox.cz/products/schonox-ifloor-set?variant=52646096404817</URL>
           <PRICE_VAT>3285.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-ifloor.jpg?v=1763538221</IMGURL>
@@ -11879,6 +11815,30 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>4016447019846</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox iFLOOR SET · Válečkové lepidlo pro designové podlahy · 125m2</PRODUCTNAME>
+          <DESCRIPTION>Disperzní lepidlo pro lepení vinylových dílců, nanášené válečkem.
+Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spojů. Používá se pro vodorovné lepení vinylových krytin. Výhodou je nízká spotřeba, aplikace válečkem a okamžitá zatížitelnost. Lepidlo doporučujeme používat pouze na testované krytiny. Vyžádejte si seznam atestovaných doporučení.
+Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ifloor-set?variant=52646096437585</URL>
+          <PRICE_VAT>6125.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-ifloor.jpg?v=1763538221</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>487438</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4016447019037</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
