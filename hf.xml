@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 526 -->
-<!-- Total individual products: 338 -->
-<!-- Created: 2025-12-20 00:00:35 -->
+<!-- Total individual products: 318 -->
+<!-- Created: 2025-12-21 00:00:41 -->
 <!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
@@ -105,24 +105,6 @@ Sanační omítka pro vlhké a zasolené zdivo. Paropropustná, odolná vůči s
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707090803</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>016101</ITEM_ID>
-          <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 50 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
-          <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 50 mm · 12,34 m2 (84 pásů) - Vnitřní tepelná izolace</PRODUCT>
-          <DESCRIPTION>Kapilárně aktivní pásy z tuhé PUR pěny pro vnitřní zateplení s kapilárním přenosem vody.
-Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty, reguluje vlhkost, vhodný pro sanaci izolaci starších budov, kde není možné izolovat zvenčí.
-Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  50 mm</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0-50mm</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
-          <PRICE_VAT>17923.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <EAN>4004707269421</EAN>
         </SHOPITEM>
       
     
@@ -878,50 +860,66 @@ Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapa
   
           <SHOPITEM>
           <ITEM_ID>016001</ITEM_ID>
-          <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 30 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
-          <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 30 mm · 21,15 m2 (144 pásů) - Vnitřní tepelná izolace</PRODUCT>
+          <PRODUCTNAME>Remmers iQ-Therm 2.0 · Bezpečné a ověřené vnitřní zateplení · 30 mm  (11,02 m2 · 75 pásů)</PRODUCTNAME>
+          <PRODUCT>Remmers iQ-Therm 2.0 · 30 mm  (11,02 m2 · 75 pásů) - Vnitřní tepelná izolace</PRODUCT>
           <DESCRIPTION>Kapilárně aktivní pásy z tuhé PUR pěny pro vnitřní zateplení s kapilárním přenosem vody.
 Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty, reguluje vlhkost, vhodný pro sanaci izolaci starších budov, kde není možné izolovat zvenčí.
-Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  30 mm</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0-30mm</URL>
+ 
+Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653697401169</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
-          <PRICE_VAT>19312.0</PRICE_VAT>
+          <PRICE_VAT>10060.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269414</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <ITEM_ID>016201</ITEM_ID>
-          <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 80 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
-          <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 80 mm · 7,05 m2 (48 pásů) - Vnitřní tepelná izolace</PRODUCT>
+          <ITEM_ID>016101</ITEM_ID>
+          <PRODUCTNAME>Remmers iQ-Therm 2.0 · Bezpečné a ověřené vnitřní zateplení · 50 mm (6,61 m2 · 45 pásů)</PRODUCTNAME>
+          <PRODUCT>Remmers iQ-Therm 2.0 · 50 mm (6,61 m2 · 45 pásů) - Vnitřní tepelná izolace</PRODUCT>
           <DESCRIPTION>Kapilárně aktivní pásy z tuhé PUR pěny pro vnitřní zateplení s kapilárním přenosem vody.
 Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty, reguluje vlhkost, vhodný pro sanaci izolaci starších budov, kde není možné izolovat zvenčí.
-Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  80 mm</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0-80mm</URL>
+ 
+Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653697433937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
-          <PRICE_VAT>14167.0</PRICE_VAT>
+          <PRICE_VAT>9600.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <EAN>4004707269421</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>016201</ITEM_ID>
+          <PRODUCTNAME>Remmers iQ-Therm 2.0 · Bezpečné a ověřené vnitřní zateplení · 80 mm (3,97 m2 · 27 pásů)</PRODUCTNAME>
+          <PRODUCT>Remmers iQ-Therm 2.0 · 80 mm (3,97 m2 · 27 pásů) - Vnitřní tepelná izolace</PRODUCT>
+          <DESCRIPTION>Kapilárně aktivní pásy z tuhé PUR pěny pro vnitřní zateplení s kapilárním přenosem vody.
+Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty, reguluje vlhkost, vhodný pro sanaci izolaci starších budov, kde není možné izolovat zvenčí.
+ 
+Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653698416977</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
+          <PRICE_VAT>7975.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269438</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>016301</ITEM_ID>
-          <PRODUCTNAME>Remmers iQ-Therm 2.0 · tloušťka 120 mm  · Bezpečné a ověřené vnitřní zateplení</PRODUCTNAME>
-          <PRODUCT>Remmers iQ-Therm 2.0 · tloušťka 120 mm · 5,29 m2 (36 pásů) - Vnitřní tepelná izolace</PRODUCT>
+          <PRODUCTNAME>Remmers iQ-Therm 2.0 · Bezpečné a ověřené vnitřní zateplení · 120 mm (2,64 m2 · 18 pásů)</PRODUCTNAME>
+          <PRODUCT>Remmers iQ-Therm 2.0 · 120 mm (2,64 m2 · 18 pásů) - Vnitřní tepelná izolace</PRODUCT>
           <DESCRIPTION>Kapilárně aktivní pásy z tuhé PUR pěny pro vnitřní zateplení s kapilárním přenosem vody.
 Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty, reguluje vlhkost, vhodný pro sanaci izolaci starších budov, kde není možné izolovat zvenčí.
-Rozměry pásu:· délka x šířka:  1175 mm x 125 mm· tloušťka:  120 mm</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0-120mm</URL>
+ 
+Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653699072337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
-          <PRICE_VAT>16185.0</PRICE_VAT>
+          <PRICE_VAT>8075.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -2319,47 +2317,43 @@ Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie C
   
           <SHOPITEM>
           <ITEM_ID>71101</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil FC · 0,75 l · Krémová hydrofobní impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil FC · 0,75 l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil FC · Krémová hydrofobní impregnace · 0,75l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil FC · 0,75l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
           <DESCRIPTION>Krémová hydrofobní impregnace.
 Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par. Rychle odolný po 60 min.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-0-75l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc?variant=52652510380369</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
-          <PRICE_VAT>1785.0</PRICE_VAT>
+          <PRICE_VAT>1520.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707053983</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>71105</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil FC · 5 l · Krémová hydrofobní impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil FC · 5 l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil FC · Krémová hydrofobní impregnace · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil FC · 5l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
           <DESCRIPTION>Krémová hydrofobní impregnace.
 Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par. Rychle odolný po 60 min.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc?variant=52652510413137</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
-          <PRICE_VAT>5707.0</PRICE_VAT>
+          <PRICE_VAT>5960.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707052184</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>71113</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil FC · 12,5 l · Krémová hydrofobní impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil FC · 12,5 l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil FC · Krémová hydrofobní impregnace · 12,5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil FC · 12,5l - Oleofobní a hydrofobní ochranný prostředek</PRODUCT>
           <DESCRIPTION>Krémová hydrofobní impregnace.
 Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par. Rychle odolný po 60 min.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-12-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc?variant=52652510445905</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
-          <PRICE_VAT>13436.0</PRICE_VAT>
+          <PRICE_VAT>14030.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -2454,35 +2448,33 @@ Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnos
     
   
           <SHOPITEM>
-          <ITEM_ID>60830</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil SL · 30 l · Hydrofobní impregnace pro vápenaté přírodní kameny</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SL · 30 l - Hydrofobní impregnace pro vápenec</PRODUCT>
-          <DESCRIPTION>Hydrofobní impregnace pro vápenaté přírodní kameny.
-Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-sl-30l</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
-          <PRICE_VAT>9258.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <EAN>4004707010887</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <ITEM_ID>60805</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil SL · 5 l · Hydrofobní impregnace pro vápenaté přírodní kameny</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SL · 5 l - Hydrofobní impregnace pro vápenec</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil SL · Hydrofobní impregnace pro vápenaté přírodní kameny · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil SL · 5l - Hydrofobní impregnace pro vápenec</PRODUCT>
           <DESCRIPTION>Hydrofobní impregnace pro vápenaté přírodní kameny.
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-sl-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031588177</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <PRICE_VAT>2338.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010870</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>60830</ITEM_ID>
+          <PRODUCTNAME>Remmers Funcosil SL · Hydrofobní impregnace pro vápenaté přírodní kameny · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil SL · 30l - Hydrofobní impregnace pro vápenec</PRODUCT>
+          <DESCRIPTION>Hydrofobní impregnace pro vápenaté přírodní kameny.
+Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031620945</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
+          <PRICE_VAT>9260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <EAN>4004707010887</EAN>
         </SHOPITEM>
       
     
@@ -2889,29 +2881,28 @@ Rychleschnoucí malta pro opravy betonu se statickou funkcí. Vysoká přilnavos
   
           <SHOPITEM>
           <ITEM_ID>064105</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · 5 l · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SNL geruchsneutral · 5 l - Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil SNL geruchsneutral · 5l - Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCT>
           <DESCRIPTION>Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu.
 Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, hluboká penetrace, UV odolná, pro staré budovy.
  </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-geruchsneutral-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-geruchsneutral?variant=52652657443153</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-Geruchsneutral-5l-hydrofobni-impregnace.jpg?v=1755863259</IMGURL>
-          <PRICE_VAT>1852.0</PRICE_VAT>
+          <PRICE_VAT>1850.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707011174</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>064130</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · 30 l · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SNL geruchsneutral · 30 l - Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil SNL geruchsneutral · 30l - Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu</PRODUCT>
           <DESCRIPTION>Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu.
-Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, hluboká penetrace, UV odolná, pro staré budovy.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-geruchsneutral-30l</URL>
+Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, hluboká penetrace, UV odolná, pro staré budovy.
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-geruchsneutral?variant=52652657475921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-Geruchsneutral-5l-hydrofobni-impregnace.jpg?v=1755863259</IMGURL>
           <PRICE_VAT>13270.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2924,11 +2915,11 @@ Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly,
   
           <SHOPITEM>
           <ITEM_ID>064005</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil AS · 5 l · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil AS · 5 l - Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil AS · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil AS · 5l - Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCT>
           <DESCRIPTION>Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu.
 Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává paropropustnost, odolná UV záření a povětrnosti. Zvýrazňuje barvu.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-as-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-as?variant=52652845728081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AS-5l-ochrana-fasad-pred-destem-a-zelenanim.jpg?v=1755863343</IMGURL>
           <PRICE_VAT>2795.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2937,15 +2928,13 @@ Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává p
           <EAN>4004707011150</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>064030</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil AS · 30 l · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil AS · 30 l - Ochrana fasád před deštěm a zelenáním</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil AS · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil AS · 30l - Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu</PRODUCT>
           <DESCRIPTION>Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu.
 Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává paropropustnost, odolná UV záření a povětrnosti. Zvýrazňuje barvu.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-as-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-as?variant=52652845760849</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AS-5l-ochrana-fasad-pred-destem-a-zelenanim.jpg?v=1755863343</IMGURL>
           <PRICE_VAT>15195.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2958,11 +2947,11 @@ Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává p
   
           <SHOPITEM>
           <ITEM_ID>061705</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil OFS · 5 l · Impregnace pro snadnou údržbu povrchů</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil OFS · 5 l - Impregnace pro snadnou údržbu povrchů</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil OFS · Impregnace pro snadnou údržbu povrchů · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil OFS · 5l - Impregnace pro snadnou údržbu povrchů</PRODUCT>
           <DESCRIPTION>Impregnace pro snadnou údržbu povrchů.
 Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopískové cihly, přírodní kámen, terakota a betonové dlaždice. Vysoká vodoodpudivost, odolná UV záření, zachovává paropropustnost.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052723537</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <PRICE_VAT>2135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2971,15 +2960,13 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
           <EAN>4004707038065</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>061730</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil OFS · 30 l · Impregnace pro snadnou údržbu povrchů</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil OFS · 30 l - Impregnace pro snadnou údržbu povrchů</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil OFS · Impregnace pro snadnou údržbu povrchů · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil OFS · 30l - Impregnace pro snadnou údržbu povrchů</PRODUCT>
           <DESCRIPTION>Impregnace pro snadnou údržbu povrchů.
 Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopískové cihly, přírodní kámen, terakota a betonové dlaždice. Vysoká vodoodpudivost, odolná UV záření, zachovává paropropustnost.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052756305</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <PRICE_VAT>11730.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2992,28 +2979,26 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
   
           <SHOPITEM>
           <ITEM_ID>065505</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil AG · 5 l · Impregnace proti řasám</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil AG · 5 l - Impregnace proti řasám</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil AG · Impregnace proti řasám · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil AG · 5l - Impregnace proti řasám</PRODUCT>
           <DESCRIPTION>Impregnace proti řasám.
 Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paropropustná, Odpuzujíci olej, mastnotu a nečistoty.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-ag-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-ag?variant=52652557631825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AG-5l-impregnace-proti-rasam.jpg?v=1755863510</IMGURL>
-          <PRICE_VAT>6796.0</PRICE_VAT>
+          <PRICE_VAT>6795.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707011297</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>065530</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil AG · 30 l · Impregnace proti řasám</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil AG · 30 l - Impregnace proti řasám</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil AG · Impregnace proti řasám · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil AG · 30l - Impregnace proti řasám</PRODUCT>
           <DESCRIPTION>Impregnace proti řasám.
 Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paropropustná, Odpuzujíci olej, mastnotu a nečistoty.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-ag-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-ag?variant=52652557664593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AG-5l-impregnace-proti-rasam.jpg?v=1755863510</IMGURL>
           <PRICE_VAT>39175.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -3180,11 +3165,11 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
   
           <SHOPITEM>
           <ITEM_ID>181310</ITEM_ID>
-          <PRODUCTNAME>Remmers Kiesol iK · 10 kg · Hydrofobizující siloxanový koncentrát</PRODUCTNAME>
-          <PRODUCT>Remmers Kiesol iK · 10 kg - Hydrofobizující siloxanový koncentrát</PRODUCT>
+          <PRODUCTNAME>Remmers Kiesol iK · Hydrofobizující siloxanový koncentrát · 10kg</PRODUCTNAME>
+          <PRODUCT>Remmers Kiesol iK · 10kg - Hydrofobizující siloxanový koncentrát</PRODUCT>
           <DESCRIPTION>Hydrofobizující siloxanový koncentrát.
 Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WTA certifikát, pro izolaci proti vlhkosti až do 95 % nasycení.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-ik-10kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-ik?variant=52652381110609</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-iK-30kg-hydrofobizujici-siloxanovy-koncentrat.jpg?v=1755864215</IMGURL>
           <PRICE_VAT>16830.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -3193,15 +3178,13 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
           <EAN>4004707094221</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>181330</ITEM_ID>
-          <PRODUCTNAME>Remmers Kiesol iK · 30 kg · Hydrofobizující siloxanový koncentrát</PRODUCTNAME>
-          <PRODUCT>Remmers Kiesol iK · 30 kg - Hydrofobizující siloxanový koncentrát</PRODUCT>
+          <PRODUCTNAME>Remmers Kiesol iK · Hydrofobizující siloxanový koncentrát · 30kg</PRODUCTNAME>
+          <PRODUCT>Remmers Kiesol iK · 30kg - Hydrofobizující siloxanový koncentrát</PRODUCT>
           <DESCRIPTION>Hydrofobizující siloxanový koncentrát.
 Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WTA certifikát, pro izolaci proti vlhkosti až do 95 % nasycení.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-ik-30kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-ik?variant=52652381143377</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-iK-30kg-hydrofobizujici-siloxanovy-koncentrat.jpg?v=1755864215</IMGURL>
           <PRICE_VAT>48050.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -3231,28 +3214,26 @@ Dvousložkový bitumenový nátěr bez rozpouštědel. Překlenuje trhliny, odol
   
           <SHOPITEM>
           <ITEM_ID>063905</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil BI · 5 l · Hydrofobní impregnace betonu</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil BI · 5 l - Hydrofobní impregnace betonu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil BI · Hydrofobní impregnace betonu · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil BI · 5l - Hydrofobní impregnace betonu</PRODUCT>
           <DESCRIPTION>Hydrofobní impregnace betonu.
 Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáliím, redukuje korozi výztuže, pro dopravní stavby.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-bi-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-bi?variant=52652992921937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-BI-5l-hydrofobni-impregnace-betonu.jpg?v=1755864792</IMGURL>
-          <PRICE_VAT>2913.0</PRICE_VAT>
+          <PRICE_VAT>2910.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707034395</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>063930</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil BI · 30 l · Hydrofobní impregnace betonu</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil BI · 30 l - Hydrofobní impregnace betonu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil BI · Hydrofobní impregnace betonu · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil BI · 30l - Hydrofobní impregnace betonu</PRODUCT>
           <DESCRIPTION>Hydrofobní impregnace betonu.
 Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáliím, redukuje korozi výztuže, pro dopravní stavby.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-bi-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-bi?variant=52652992954705</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-BI-5l-hydrofobni-impregnace-betonu.jpg?v=1755864792</IMGURL>
           <PRICE_VAT>15450.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -4004,11 +3985,11 @@ Hrubý tmel na bázi KSE pro památky. Vyplňuje větší póry a trhliny v kame
   
           <SHOPITEM>
           <ITEM_ID>071005</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil IC · 5 l · Impregnace betonu a železobetonu při stavbě mostů, silnic a budov</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil IC · 5 l - Impregnace betonu a železobetonu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil IC · Impregnace betonu a železobetonu při stavbě mostů, silnic a budov · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil IC · 5l - Impregnace betonu a železobetonu</PRODUCT>
           <DESCRIPTION>Impregnace betonu a železobetonu při stavbě mostů, silnic a budov.
 Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace, odolná alkáliím, chrání před solí a vodou, ideální pro mosty a silnice.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-ic-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-ic?variant=52653014810961</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-IC-5l-impregnace-betonu-a-zelezobetonu.jpg?v=1755877653</IMGURL>
           <PRICE_VAT>8832.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -4017,15 +3998,13 @@ Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace,
           <EAN>4004707049115</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>071030</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil IC · 30 l · Impregnace betonu a železobetonu při stavbě mostů, silnic a budov</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil IC · 30 l - Impregnace betonu a železobetonu</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil IC · Impregnace betonu a železobetonu při stavbě mostů, silnic a budov · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil IC · 30l - Impregnace betonu a železobetonu</PRODUCT>
           <DESCRIPTION>Impregnace betonu a železobetonu při stavbě mostů, silnic a budov.
 Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace, odolná alkáliím, chrání před solí a vodou, ideální pro mosty a silnice.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-ic-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-ic?variant=52653014843729</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-IC-5l-impregnace-betonu-a-zelezobetonu.jpg?v=1755877653</IMGURL>
           <PRICE_VAT>51535.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -4382,51 +4361,47 @@ INTRASIT® PU-Injekt 12P je dvousložková nízkovizkózní polyuretanová prysk
   
           <SHOPITEM>
           <ITEM_ID>022001</ITEM_ID>
-          <PRODUCTNAME>Remmers ZM HF [basic] · 1 kg · Přísada do malty</PRODUCTNAME>
-          <PRODUCT>Remmers ZM HF [basic] · 1 kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
+          <PRODUCTNAME>Remmers ZM HF [basic] · Přísada do malty · 1kg</PRODUCTNAME>
+          <PRODUCT>Remmers ZM HF [basic] · 1kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
           <DESCRIPTION>Přísada do malty.
 
 Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti v tlaku a při ohybu.  Zhotovení adhezních prvků a penetrační nátěr pro beton a anhydrit.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic-1-kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic?variant=52652231131473</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-ZM-HF-10kg-prisada-do-malty.jpg?v=1755879409</IMGURL>
-          <PRICE_VAT>503.0</PRICE_VAT>
+          <PRICE_VAT>505.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010252</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>022005</ITEM_ID>
-          <PRODUCTNAME>Remmers ZM HF [basic] · 5 kg · Přísada do malty</PRODUCTNAME>
-          <PRODUCT>Remmers ZM HF [basic] · 5 kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
+          <PRODUCTNAME>Remmers ZM HF [basic] · Přísada do malty · 5kg</PRODUCTNAME>
+          <PRODUCT>Remmers ZM HF [basic] · 5kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
           <DESCRIPTION>Přísada do malty.
 
-Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti v tlaku a při ohybu. Zhotovení adhezních prvků a penetrační nátěr pro beton a anhydrit.
+Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti v tlaku a při ohybu.  Zhotovení adhezních prvků a penetrační nátěr pro beton a anhydrit.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic-5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic?variant=52652231164241</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-ZM-HF-10kg-prisada-do-malty.jpg?v=1755879409</IMGURL>
-          <PRICE_VAT>2333.0</PRICE_VAT>
+          <PRICE_VAT>2335.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010269</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>022010</ITEM_ID>
-          <PRODUCTNAME>Remmers ZM HF [basic] · 10 kg · Přísada do malty</PRODUCTNAME>
-          <PRODUCT>Remmers ZM HF [basic] · 10 kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
+          <PRODUCTNAME>Remmers ZM HF [basic] · Přísada do malty · 10kg</PRODUCTNAME>
+          <PRODUCT>Remmers ZM HF [basic] · 10kg - Přísada do malty pro zlepšení vlastností</PRODUCT>
           <DESCRIPTION>Přísada do malty.
 
 Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti v tlaku a při ohybu.  Zhotovení adhezních prvků a penetrační nátěr pro beton a anhydrit.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic-10kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic?variant=52652231197009</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-ZM-HF-10kg-prisada-do-malty.jpg?v=1755879409</IMGURL>
           <PRICE_VAT>4675.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -4498,11 +4473,11 @@ Odstín: břidlicová 24-4 (Schiefer 24-4)
   
           <SHOPITEM>
           <ITEM_ID>071201</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil FC Plus · 0,75 l · Krémová impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil FC Plus · 0,75 l - Krémová hydrofilní impregnace</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil FC Plus · Krémová impregnace · 0,75l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil FC Plus · 0,75l - Krémová hydrofilní impregnace</PRODUCT>
           <DESCRIPTION>Krémová impregnace.
 Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určené pro porézní, minerální stavební materiály.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus-0-75l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638929233</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-Plus-5l-kremova-hydrofilni-impregnace.jpg?v=1755879706</IMGURL>
           <PRICE_VAT>1335.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -4511,17 +4486,15 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
           <EAN>4004707071178</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>071205</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil FC Plus · 5 l · Krémová impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil FC Plus · 5 l - Krémová hydrofilní impregnace</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil FC Plus · Krémová impregnace · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil FC Plus · 5l - Krémová hydrofilní impregnace</PRODUCT>
           <DESCRIPTION>Krémová impregnace.
 Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určené pro porézní, minerální stavební materiály.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638962001</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-Plus-5l-kremova-hydrofilni-impregnace.jpg?v=1755879706</IMGURL>
-          <PRICE_VAT>6446.0</PRICE_VAT>
+          <PRICE_VAT>6445.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4566,64 +4539,58 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
   
           <SHOPITEM>
           <ITEM_ID>097801</ITEM_ID>
-          <PRODUCTNAME>Remmers V 101 · 1 · Čisticí prostředek</PRODUCTNAME>
-          <PRODUCT>Remmers V 101 · 1 l - Originální doporučený Čisticí prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers V 101 · Čisticí prostředek · 1l</PRODUCTNAME>
+          <PRODUCT>Remmers V 101 · 1l - Originální doporučený Čisticí prostředek</PRODUCT>
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-v-101-1l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
-          <PRICE_VAT>408.0</PRICE_VAT>
+          <PRICE_VAT>325.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707013048</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>097805</ITEM_ID>
-          <PRODUCTNAME>Remmers V 101 · 5 · Čisticí prostředek</PRODUCTNAME>
-          <PRODUCT>Remmers V 101 · 5 l - Originální doporučený Čisticí prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers V 101 · Čisticí prostředek · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers V 101 · 5l - Originální doporučený Čisticí prostředek</PRODUCT>
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-v-101-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176638289</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
-          <PRICE_VAT>2990.0</PRICE_VAT>
+          <PRICE_VAT>2390.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707013055</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>097810</ITEM_ID>
-          <PRODUCTNAME>Remmers V 101 · 10 · Čisticí prostředek</PRODUCTNAME>
-          <PRODUCT>Remmers V 101 · 10 l - Originální doporučený čisticí prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers V 101 · Čisticí prostředek · 10l</PRODUCTNAME>
+          <PRODUCT>Remmers V 101 · 10l - Originální doporučený Čisticí prostředek</PRODUCT>
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-v-101-10l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176671057</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
-          <PRICE_VAT>5936.0</PRICE_VAT>
+          <PRICE_VAT>4750.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707049597</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>097830</ITEM_ID>
-          <PRODUCTNAME>Remmers V 101 · 30 l · Čisticí prostředek</PRODUCTNAME>
-          <PRODUCT>Remmers V 101 · 30 l - Originální doporučený čisticí prostředek</PRODUCT>
+          <PRODUCTNAME>Remmers V 101 · Čisticí prostředek · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers V 101 · 30l - Originální doporučený Čisticí prostředek</PRODUCT>
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-v-101-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176703825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
-          <PRICE_VAT>16623.0</PRICE_VAT>
+          <PRICE_VAT>13295.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4791,11 +4758,11 @@ Génius mezi hydroizolacemi na eco bázi. Chrání proti tlakové vodě a solím
   
           <SHOPITEM>
           <ITEM_ID>060405</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil SN · 5 l · Hydrofobní impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SN · 5 l - Bezbarvá hydrofobní impregnace pro plochy v blízkosti citlivých materiálů</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil SN · Hydrofobní impregnace · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil SN · 5l - Bezbarvá hydrofobní impregnace pro plochy v blízkosti citlivých materiálů</PRODUCT>
           <DESCRIPTION>Hydrofobní impregnace.
 Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící plochy citlivé k organickým ředidlům. Zlepšuje razuvzdornost, prodyšná, proniká do hloubky, UV odolná.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-sn-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936200529</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SN-5l-bezbarva-hydrofobni-impregnace.jpg?v=1755880822</IMGURL>
           <PRICE_VAT>3033.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -4804,17 +4771,15 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
           <EAN>4004707010825</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>060430</ITEM_ID>
-          <PRODUCTNAME>Remmers Funcosil SN · 30 l · Hydrofobní impregnace</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SN · 30 l - Bezbarvá hydrofobní impregnace pro plochy v blízkosti citlivých materiálů</PRODUCT>
+          <PRODUCTNAME>Remmers Funcosil SN · Hydrofobní impregnace · 30l</PRODUCTNAME>
+          <PRODUCT>Remmers Funcosil SN · 30l - Bezbarvá hydrofobní impregnace pro plochy v blízkosti citlivých materiálů</PRODUCT>
           <DESCRIPTION>Hydrofobní impregnace.
 Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící plochy citlivé k organickým ředidlům. Zlepšuje razuvzdornost, prodyšná, proniká do hloubky, UV odolná.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-sn-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936233297</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SN-5l-bezbarva-hydrofobni-impregnace.jpg?v=1755880822</IMGURL>
-          <PRICE_VAT>16873.0</PRICE_VAT>
+          <PRICE_VAT>16870.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5818,8 +5783,8 @@ Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <PRODUCT>Sika Sikafloor®-327 · 20 kg · RAL 7035 (světle šedý) - </PRODUCT>
           <DESCRIPTION>2komponentní, polyuretanová, houževnatě elastická podlahová stěrka pro vnitřní použití, pro dekorativní a průmyslové podlahy.
 Sikafloor®-327 je 2komponentní, houževnatě elastická, barevná, samonivelační polyuretanová pryskyřice, bez obsahu rozpouštědel a s nízkým obsahem VOC.
-· Velmi nízký obsah VOC· Bez obsahu rozpouštědel· Dobré mechanické vlastnosti 
-· Pružná a houževnatě elastická· Ekonomická· Bez obsahu rozpouštědel
+✅ Velmi nízký obsah VOC✅ Bez obsahu rozpouštědel✅ Dobré mechanické vlastnosti 
+✅ Pružná a houževnatě elastická✅ Ekonomická✅ Bez obsahu rozpouštědel
 Balení: 20kg (16,2kg komp. A + 3,8kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-327-20kg?variant=52062491050321</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-327-pack-16.2kg_opt.jpg?v=1759906129</IMGURL>
@@ -5836,8 +5801,8 @@ Balení: 20kg (16,2kg komp. A + 3,8kg komp. B)</DESCRIPTION>
           <PRODUCT>Sika Sikafloor®-327 · 20 kg · RAL 7044 (hedvábný šedý) - </PRODUCT>
           <DESCRIPTION>2komponentní, polyuretanová, houževnatě elastická podlahová stěrka pro vnitřní použití, pro dekorativní a průmyslové podlahy.
 Sikafloor®-327 je 2komponentní, houževnatě elastická, barevná, samonivelační polyuretanová pryskyřice, bez obsahu rozpouštědel a s nízkým obsahem VOC.
-· Velmi nízký obsah VOC· Bez obsahu rozpouštědel· Dobré mechanické vlastnosti 
-· Pružná a houževnatě elastická· Ekonomická· Bez obsahu rozpouštědel
+✅ Velmi nízký obsah VOC✅ Bez obsahu rozpouštědel✅ Dobré mechanické vlastnosti 
+✅ Pružná a houževnatě elastická✅ Ekonomická✅ Bez obsahu rozpouštědel
 Balení: 20kg (16,2kg komp. A + 3,8kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-327-20kg?variant=52062491083089</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-327-pack-16.2kg_opt.jpg?v=1759906129</IMGURL>
@@ -5849,13 +5814,13 @@ Balení: 20kg (16,2kg komp. A + 3,8kg komp. B)</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10407331332433</ITEM_ID>
+          <ITEM_ID>531424</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-327 · 20kg · Elastická PUR podlaha bez VOC · RAL 7047 (telešedý 4)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-327 · 20 kg · RAL 7047 (telešedý 4) - </PRODUCT>
           <DESCRIPTION>2komponentní, polyuretanová, houževnatě elastická podlahová stěrka pro vnitřní použití, pro dekorativní a průmyslové podlahy.
 Sikafloor®-327 je 2komponentní, houževnatě elastická, barevná, samonivelační polyuretanová pryskyřice, bez obsahu rozpouštědel a s nízkým obsahem VOC.
-· Velmi nízký obsah VOC· Bez obsahu rozpouštědel· Dobré mechanické vlastnosti 
-· Pružná a houževnatě elastická· Ekonomická· Bez obsahu rozpouštědel
+✅ Velmi nízký obsah VOC✅ Bez obsahu rozpouštědel✅ Dobré mechanické vlastnosti 
+✅ Pružná a houževnatě elastická✅ Ekonomická✅ Bez obsahu rozpouštědel
 Balení: 20kg (16,2kg komp. A + 3,8kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-327-20kg?variant=52062491115857</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-327-pack-16.2kg_opt.jpg?v=1759906129</IMGURL>
