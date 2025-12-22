@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 529 -->
+<!-- Total products+variants: 531 -->
 <!-- Total individual products: 295 -->
-<!-- Created: 2025-12-22 00:00:36 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-12-22 08:54:59 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -3544,17 +3544,47 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
   
           <SHOPITEM>
           <ITEM_ID>136801</ITEM_ID>
-          <PRODUCTNAME>Remmers AGE · 0,75 l · Odstraňovač nátěrů a graffiti</PRODUCTNAME>
-          <PRODUCT>Remmers AGE · 0,75 l - Odstraňovač nátěrů a graffiti</PRODUCT>
+          <PRODUCTNAME>Remmers AGE · 0,75 l · Odstraňovač nátěrů a graffiti · 075l</PRODUCTNAME>
+          <PRODUCT>Remmers AGE · 0,75 l · 075l - Odstraňovač nátěrů a graffiti</PRODUCT>
           <DESCRIPTION>Odstraňovač nátěrů a graffiti.
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-age-0-75l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-age-0-75l?variant=52657613930833</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <PRICE_VAT>887.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707040822</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>136802</ITEM_ID>
+          <PRODUCTNAME>Remmers AGE · 0,75 l · Odstraňovač nátěrů a graffiti · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers AGE · 0,75 l · 5l - Odstraňovač nátěrů a graffiti</PRODUCT>
+          <DESCRIPTION>Odstraňovač nátěrů a graffiti.
+Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-age-0-75l?variant=52657613963601</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
+          <PRICE_VAT>887.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>136803</ITEM_ID>
+          <PRODUCTNAME>Remmers AGE · 0,75 l · Odstraňovač nátěrů a graffiti · 25l</PRODUCTNAME>
+          <PRODUCT>Remmers AGE · 0,75 l · 25l - Odstraňovač nátěrů a graffiti</PRODUCT>
+          <DESCRIPTION>Odstraňovač nátěrů a graffiti.
+Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-age-0-75l?variant=52657613996369</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
+          <PRICE_VAT>887.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
         </SHOPITEM>
       
     
