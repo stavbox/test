@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 536 -->
-<!-- Total individual products: 286 -->
-<!-- Created: 2025-12-22 10:43:42 -->
+<!-- Total products+variants: 538 -->
+<!-- Total individual products: 285 -->
+<!-- Created: 2025-12-22 12:11:32 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -757,23 +757,6 @@ Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje na
     
   
           <SHOPITEM>
-          <ITEM_ID>023713</ITEM_ID>
-          <PRODUCTNAME>Remmers Color SL · 12,5 l · bílý · Silikonová barva na zdivo</PRODUCTNAME>
-          <PRODUCT>Remmers Color SL · 12,5 l · bílý - Barva na vnitřní stěny</PRODUCT>
-          <DESCRIPTION>Silikonová barva na zdivo.
-Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sl-12-5l-bily</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
-          <PRICE_VAT>3174.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <EAN>4004707228794</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
           <ITEM_ID>22202881</ITEM_ID>
           <PRODUCTNAME>Remmers Arte Mundit · 15 kg · Peelingová pasta na povrchové nečistoty</PRODUCTNAME>
           <PRODUCT>Remmers Arte Mundit · 15 kg - Pasta na bezvodé čištění povrchů</PRODUCT>
@@ -949,16 +932,62 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>308013</ITEM_ID>
-          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva</PRODUCTNAME>
-          <PRODUCT>Remmers Color SP · 12,5 l · bílý - Barva na vnitřní stěny</PRODUCT>
-          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily</URL>
+          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · bílá / 5</PRODUCTNAME>
+          <PRODUCT>Remmers Color SP · 12,5 l · bílý · bílá / 5 - Barva na vnitřní stěny</PRODUCT>
+          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182698833</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <PRICE_VAT>2570.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707228626</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>308014</ITEM_ID>
+          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · bílá / 125l</PRODUCTNAME>
+          <PRODUCT>Remmers Color SP · 12,5 l · bílý · bílá / 125l - Barva na vnitřní stěny</PRODUCT>
+          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182731601</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
+          <PRICE_VAT>2570.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>308015</ITEM_ID>
+          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · speciální odstíny / 5</PRODUCTNAME>
+          <PRODUCT>Remmers Color SP · 12,5 l · bílý · speciální odstíny / 5 - Barva na vnitřní stěny</PRODUCT>
+          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182764369</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
+          <PRICE_VAT>2570.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>308016</ITEM_ID>
+          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · speciální odstíny / 125l</PRODUCTNAME>
+          <PRODUCT>Remmers Color SP · 12,5 l · bílý · speciální odstíny / 125l - Barva na vnitřní stěny</PRODUCT>
+          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182797137</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
+          <PRICE_VAT>2570.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
         </SHOPITEM>
       
     
@@ -2179,11 +2208,11 @@ Cementová malta pro horizontální izolaci zdiva. Odolná tlakové vodě, síra
   
           <SHOPITEM>
           <ITEM_ID>023705</ITEM_ID>
-          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · bílá / 5l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color SL · Silikonová barva na zdivo · bílá / 5l</PRODUCTNAME>
           <PRODUCT>Remmers Color SL · bílá / 5l - Barva na vnitřní stěny</PRODUCT>
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991647569</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991647569</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <PRICE_VAT>1375.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -2193,48 +2222,48 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>023706</ITEM_ID>
-          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · bílá / 125l</PRODUCTNAME>
-          <PRODUCT>Remmers Color SL · bílá / 125l - Barva na vnitřní stěny</PRODUCT>
+          <ITEM_ID>023713</ITEM_ID>
+          <PRODUCTNAME>Remmers Color SL · Silikonová barva na zdivo · bílá / 12,5l</PRODUCTNAME>
+          <PRODUCT>Remmers Color SL · bílá / 12,5l - Barva na vnitřní stěny</PRODUCT>
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991680337</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991680337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
-          <PRICE_VAT>1375.0</PRICE_VAT>
+          <PRICE_VAT>3175.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
-          
+          <EAN>4004707228794</EAN>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>023707</ITEM_ID>
-          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · speciální odstíny / 5l</PRODUCTNAME>
+          <ITEM_ID>023805</ITEM_ID>
+          <PRODUCTNAME>Remmers Color SL · Silikonová barva na zdivo · speciální odstíny / 5l</PRODUCTNAME>
           <PRODUCT>Remmers Color SL · speciální odstíny / 5l - Barva na vnitřní stěny</PRODUCT>
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991713105</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991713105</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
-          <PRICE_VAT>1375.0</PRICE_VAT>
+          <PRICE_VAT>2110.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
-          
+          <EAN>4004707109529</EAN>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>023708</ITEM_ID>
-          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · speciální odstíny / 125l</PRODUCTNAME>
-          <PRODUCT>Remmers Color SL · speciální odstíny / 125l - Barva na vnitřní stěny</PRODUCT>
+          <ITEM_ID>023813</ITEM_ID>
+          <PRODUCTNAME>Remmers Color SL · Silikonová barva na zdivo · speciální odstíny / 12,5l</PRODUCTNAME>
+          <PRODUCT>Remmers Color SL · speciální odstíny / 12,5l - Barva na vnitřní stěny</PRODUCT>
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991745873</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991745873</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
-          <PRICE_VAT>1375.0</PRICE_VAT>
+          <PRICE_VAT>4420.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
-          
+          <EAN>4004707228770</EAN>
         </SHOPITEM>
       
     
