@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 530 -->
-<!-- Total individual products: 291 -->
-<!-- Created: 2025-12-22 09:48:16 -->
+<!-- Total products+variants: 536 -->
+<!-- Total individual products: 286 -->
+<!-- Created: 2025-12-22 10:43:42 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -3190,10 +3190,10 @@ Cementová malta pro horizontální izolaci zdiva. Odolná tlakové vodě, síra
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · bílá / 5l</PRODUCTNAME>
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991647569</URL>
           <PRICE_VAT>1375.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
@@ -3209,6 +3209,75 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
 
           <EAN>4004707109413</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · bílá / 125l</PRODUCTNAME>
+          <DESCRIPTION>Silikonová barva na zdivo.
+Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991680337</URL>
+          <PRICE_VAT>1375.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>023706</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · speciální odstíny / 5l</PRODUCTNAME>
+          <DESCRIPTION>Silikonová barva na zdivo.
+Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991713105</URL>
+          <PRICE_VAT>1375.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>023707</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color SL · 5 l · bílý · Silikonová barva na zdivo · speciální odstíny / 125l</PRODUCTNAME>
+          <DESCRIPTION>Silikonová barva na zdivo.
+Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sl-5l-bily?variant=52657991745873</URL>
+          <PRICE_VAT>1375.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>023708</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -5278,11 +5347,11 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Clean AC [basic] · 1 kg · Kyselý čistič fasád</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Clean AC [basic] · Kyselý čistič fasád · 1kg</PRODUCTNAME>
           <DESCRIPTION>Kyselý čistič fasád.
 Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výkvěty, špínu, rzi. Šetrný k podkladu, ideální pro renovaci historických staveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic-1l</URL>
-          <PRICE_VAT>389.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic?variant=52657777246545</URL>
+          <PRICE_VAT>390.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5299,14 +5368,12 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Clean AC [basic] · 5 kg · Kyselý čistič fasád</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Clean AC [basic] · Kyselý čistič fasád · 5kg</PRODUCTNAME>
           <DESCRIPTION>Kyselý čistič fasád.
 Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výkvěty, špínu, rzi. Šetrný k podkladu, ideální pro renovaci historických staveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic-5kg</URL>
-          <PRICE_VAT>1718.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic?variant=52657777279313</URL>
+          <PRICE_VAT>1715.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5323,14 +5390,12 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Clean AC [basic] · 10 kg · Kyselý čistič fasád</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Clean AC [basic] · Kyselý čistič fasád · 10kg</PRODUCTNAME>
           <DESCRIPTION>Kyselý čistič fasád.
 Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výkvěty, špínu, rzi. Šetrný k podkladu, ideální pro renovaci historických staveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic-10kg</URL>
-          <PRICE_VAT>4287.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic?variant=52657777312081</URL>
+          <PRICE_VAT>4285.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5350,10 +5415,10 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers CEM Rapid · 5 kg · Rychle tuhnoucí cement</PRODUCTNAME>
+          <PRODUCTNAME>Remmers CEM Rapid · Rychle tuhnoucí cement · 5kg</PRODUCTNAME>
           <DESCRIPTION>Rychle tuhnoucí cement.
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-cem-rapid-5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-cem-rapid?variant=52657759453521</URL>
           <PRICE_VAT>540.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
@@ -5372,13 +5437,11 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers CEM Rapid · 15 kg · Rychle tuhnoucí cement</PRODUCTNAME>
+          <PRODUCTNAME>Remmers CEM Rapid · Rychle tuhnoucí cement · 15kg (3x5 kg)</PRODUCTNAME>
           <DESCRIPTION>Rychle tuhnoucí cement.
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-cem-rapid-15kg-3x5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-cem-rapid?variant=52657759486289</URL>
           <PRICE_VAT>1345.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
@@ -6106,11 +6169,11 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color PA · 5 l · bílá · Akrylová barva na fasády a betonové povrchy</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color PA · Akrylová barva na fasády a betonové povrchy · bílá / 5l</PRODUCTNAME>
           <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
 Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-pa-5l-bila</URL>
-          <PRICE_VAT>2444.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843142993</URL>
+          <PRICE_VAT>2445.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -6128,13 +6191,11 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color PA · 12,5 l · bílá · Akrylová barva na fasády a betonové povrchy</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color PA · Akrylová barva na fasády a betonové povrchy · bílá / 12,5l</PRODUCTNAME>
           <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
 Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-pa-12-5l-bila</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843175761</URL>
           <PRICE_VAT>5490.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
@@ -6150,6 +6211,98 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
 
           <EAN>4004707228138</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color PA · Akrylová barva na fasády a betonové povrchy · barevné odstíny RFK / 5l</PRODUCTNAME>
+          <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
+Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843208529</URL>
+          <PRICE_VAT>2495.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>653005</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
+
+          <EAN>4004707029087</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color PA · Akrylová barva na fasády a betonové povrchy · barevné odstíny RFK / 12,5l</PRODUCTNAME>
+          <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
+Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843241297</URL>
+          <PRICE_VAT>5650.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>653013</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
+
+          <EAN>4004707228114</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color PA · Akrylová barva na fasády a betonové povrchy · speciální odstíny RAL / 5l</PRODUCTNAME>
+          <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
+Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843274065</URL>
+          <PRICE_VAT>2895.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>652905</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
+
+          <EAN>4004707029032</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Color PA · Akrylová barva na fasády a betonové povrchy · speciální odstíny RAL / 12,5l</PRODUCTNAME>
+          <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
+Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843306833</URL>
+          <PRICE_VAT>6635.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>652913</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
+
+          <EAN>4004707228121</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -6698,10 +6851,10 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers BFA Koncentrát · 1 l · Likvidace organických nečistot · 1l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers BFA Koncentrát · Likvidace organických nečistot · 1l</PRODUCTNAME>
           <DESCRIPTION>Likvidace organických nečistot.
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat-1l?variant=52657692377425</URL>
+          <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
@@ -6720,34 +6873,10 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers BFA Koncentrát · 1 l · Likvidace organických nečistot · 5l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers BFA Koncentrát · Likvidace organických nečistot · 5l</PRODUCTNAME>
           <DESCRIPTION>Likvidace organických nečistot.
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat-1l?variant=52657692410193</URL>
-          <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>11004102</ITEM_ID>
-
-          
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers BFA Koncentrát · 5  · Likvidace organických nečistot</PRODUCTNAME>
-          <DESCRIPTION>Likvidace organických nečistot.
-Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1125.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
