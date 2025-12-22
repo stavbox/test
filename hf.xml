@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 538 -->
-<!-- Total individual products: 271 -->
-<!-- Created: 2025-12-22 20:50:26 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 537 -->
+<!-- Total individual products: 269 -->
+<!-- Created: 2025-12-23 00:00:51 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -129,13 +129,13 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
   
           <SHOPITEM>
           <ITEM_ID>067405</ITEM_ID>
-          <PRODUCTNAME>Remmers Salt IH · 5 kg · Inhibitor solí podle WTA · 5kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Salt IH · Inhibitor solí podle WTA · 5kg</PRODUCTNAME>
           <PRODUCT>Remmers Salt IH · 5kg - Penetrace pro zapouzdření solí</PRODUCT>
           <DESCRIPTION>Inhibitor solí podle WTA.
 Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-salt-ih-5kg?variant=52662913597777</URL>
+          <URL>https://www.stavbox.cz/products/remmers-salt-ih?variant=52662913597777</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
-          <PRICE_VAT>1118.0</PRICE_VAT>
+          <PRICE_VAT>1120.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -143,18 +143,18 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>067406</ITEM_ID>
-          <PRODUCTNAME>Remmers Salt IH · 5 kg · Inhibitor solí podle WTA · 30kg</PRODUCTNAME>
+          <ITEM_ID>067430</ITEM_ID>
+          <PRODUCTNAME>Remmers Salt IH · Inhibitor solí podle WTA · 30kg</PRODUCTNAME>
           <PRODUCT>Remmers Salt IH · 30kg - Penetrace pro zapouzdření solí</PRODUCT>
           <DESCRIPTION>Inhibitor solí podle WTA.
 Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-salt-ih-5kg?variant=52662913630545</URL>
+          <URL>https://www.stavbox.cz/products/remmers-salt-ih?variant=52662913630545</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
-          <PRICE_VAT>1118.0</PRICE_VAT>
+          <PRICE_VAT>6355.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
-          
+          <EAN>4004707011549</EAN>
         </SHOPITEM>
       
     
@@ -1440,23 +1440,6 @@ Historická malta pro spárování památek. Jemná zrnitost, paropropustná, od
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707255936</EAN>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <ITEM_ID>067430</ITEM_ID>
-          <PRODUCTNAME>Remmers Salt IH · 30 kg · Inhibitor solí podle WTA</PRODUCTNAME>
-          <PRODUCT>Remmers Salt IH · 30 kg - Penetrace pro zapouzdření solí</PRODUCT>
-          <DESCRIPTION>Inhibitor solí podle WTA.
-Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-salt-ih-30kg</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
-          <PRICE_VAT>6356.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <EAN>4004707011549</EAN>
         </SHOPITEM>
       
     
@@ -3087,30 +3070,28 @@ Minerální malta pro injektáž zdiva. Nízká viskozita, odolná síranům, WT
   
           <SHOPITEM>
           <ITEM_ID>101005</ITEM_ID>
-          <PRODUCTNAME>Remmers WP RH Rapid · 5 kg · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
-          <PRODUCT>Remmers WP RH Rapid · 5 kg - Rychle tuhnoucí výplňová malta</PRODUCT>
+          <PRODUCTNAME>Remmers WP RH Rapid · Rychle tuhnoucí výplňová malta · 5kg</PRODUCTNAME>
+          <PRODUCT>Remmers WP RH Rapid · 5kg - Rychle tuhnoucí výplňová malta</PRODUCT>
           <DESCRIPTION>Rychle tuhnoucí výplňová malta.
 Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje trhliny, WTA certifikát. Rychlé opravy vlhkých míst, průsaků a výronů vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid-5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid?variant=52662965207377</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-RH-Rapid-1kg-rychle-tuhnouci-vyplnova-malta.jpg?v=1755863739</IMGURL>
-          <PRICE_VAT>872.0</PRICE_VAT>
+          <PRICE_VAT>920.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707013239</EAN>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
           <ITEM_ID>101015</ITEM_ID>
-          <PRODUCTNAME>Remmers WP RH Rapid · 15 kg (3x5 kg) · Rychle tuhnoucí výplňová malta</PRODUCTNAME>
-          <PRODUCT>Remmers WP RH Rapid · 15 kg (3 x 5 kg) - Rychle tuhnoucí výplňová malta</PRODUCT>
+          <PRODUCTNAME>Remmers WP RH Rapid · Rychle tuhnoucí výplňová malta · 15kg (3x5 kg)</PRODUCTNAME>
+          <PRODUCT>Remmers WP RH Rapid · 15kg (3x5 kg) - Rychle tuhnoucí výplňová malta</PRODUCT>
           <DESCRIPTION>Rychle tuhnoucí výplňová malta.
 Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje trhliny, WTA certifikát. Rychlé opravy vlhkých míst, průsaků a výronů vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid-15kg-3x5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid?variant=52662965240145</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-RH-Rapid-1kg-rychle-tuhnouci-vyplnova-malta.jpg?v=1755863739</IMGURL>
-          <PRICE_VAT>1405.0</PRICE_VAT>
+          <PRICE_VAT>1485.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
