@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 538 -->
-<!-- Total individual products: 274 -->
-<!-- Created: 2025-12-22 19:56:38 -->
+<!-- Total individual products: 271 -->
+<!-- Created: 2025-12-22 20:50:26 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -186,10 +186,10 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Salt IH · 5 kg · Inhibitor solí podle WTA</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Salt IH · 5 kg · Inhibitor solí podle WTA · 5kg</PRODUCTNAME>
           <DESCRIPTION>Inhibitor solí podle WTA.
 Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-salt-ih-5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-salt-ih-5kg?variant=52662913597777</URL>
           <PRICE_VAT>1118.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
@@ -205,6 +205,29 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004707011525</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Salt IH · 5 kg · Inhibitor solí podle WTA · 30kg</PRODUCTNAME>
+          <DESCRIPTION>Inhibitor solí podle WTA.
+Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-salt-ih-5kg?variant=52662913630545</URL>
+          <PRICE_VAT>1118.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>067406</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -4848,11 +4871,11 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Primer Hydro S F · 5 kg · Minerální zpevňující penetrace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Primer Hydro S F · Minerální zpevňující penetrace · 5kg</PRODUCTNAME>
           <DESCRIPTION>Minerální zpevňující penetrace.
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-hydro-s-f-5kg</URL>
-          <PRICE_VAT>1503.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
+          <PRICE_VAT>1505.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4871,13 +4894,11 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Primer Hydro S F · 30 kg · Minerální zpevňující penetrace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Primer Hydro S F · Minerální zpevňující penetrace · 30kg</PRODUCTNAME>
           <DESCRIPTION>Minerální zpevňující penetrace.
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-hydro-s-f-30kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884794705</URL>
           <PRICE_VAT>7875.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
@@ -5231,11 +5252,11 @@ Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie C
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Primer Hydro F · 5 l · Zpevňující penetrace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Primer Hydro F · Zpevňující penetrace · 5l</PRODUCTNAME>
           <DESCRIPTION>Zpevňující penetrace.
 Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideální pro omítky, beton, sádru, před aplikací stěrek a nátěrů, rychleschnoucí.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-primer-hydro-f-5l</URL>
-          <PRICE_VAT>1226.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-primer-hydro-f?variant=52662811885905</URL>
+          <PRICE_VAT>1225.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-F-5l-zpevnujici-penetrace.jpg?v=1755865722</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5254,14 +5275,12 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Primer Hydro F · 30 l · Zpevňující penetrace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Primer Hydro F · Zpevňující penetrace · 30l</PRODUCTNAME>
           <DESCRIPTION>Zpevňující penetrace.
 Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideální pro omítky, beton, sádru, před aplikací stěrek a nátěrů, rychleschnoucí.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-primer-hydro-f-30l</URL>
-          <PRICE_VAT>5948.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-primer-hydro-f?variant=52662811918673</URL>
+          <PRICE_VAT>5950.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-F-5l-zpevnujici-penetrace.jpg?v=1755865722</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7417,13 +7436,13 @@ Hydrofobní penetrace pro vyrovnání savosti, která pronikne do hloubky. Odol
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers MS 150 · 290 ml · Elastický těsnicí tmel</PRODUCTNAME>
+          <PRODUCTNAME>Remmers MS 150 · Elastický těsnicí tmel (betonově šedá) · 290ml</PRODUCTNAME>
           <DESCRIPTION>MS polymerový elastický těsnicí tmel.
 Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, zdivo. Opláštění z ocelových i montovaných konstrukcí. Spoje dveřních a okenních rámů ke konstrukci budovy.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-ms-150-290ml-betonove-seda</URL>
-          <PRICE_VAT>357.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-ms-150-betonove-seda?variant=52662722691409</URL>
+          <PRICE_VAT>360.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-290ml-elasticky-tesnici-tmel.jpg?v=1755886000</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-elasticky-tesnici-tmel.jpg?v=1766430534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -7439,16 +7458,14 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers MS 150 · 600 ml · Elastický těsnicí tmel · 600ml</PRODUCTNAME>
+          <PRODUCTNAME>Remmers MS 150 · Elastický těsnicí tmel (betonově šedá) · 600ml</PRODUCTNAME>
           <DESCRIPTION>MS polymerový elastický těsnicí tmel.
 Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, zdivo. Opláštění z ocelových i montovaných konstrukcí. Spoje dveřních a okenních rámů ke konstrukci budovy.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-ms-150-600ml-betonove-seda?variant=52662722658641</URL>
-          <PRICE_VAT>486.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-ms-150-betonove-seda?variant=52662722658641</URL>
+          <PRICE_VAT>490.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-600ml-MS-polymerovy-tesnici-tmel.jpg?v=1756972807</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-elasticky-tesnici-tmel.jpg?v=1766430534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -7461,29 +7478,6 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>4004707131438</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers MS 150 · 600 ml · Elastický těsnicí tmel · 310ml</PRODUCTNAME>
-          <DESCRIPTION>MS polymerový elastický těsnicí tmel.
-Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, zdivo. Opláštění z ocelových i montovaných konstrukcí. Spoje dveřních a okenních rámů ke konstrukci budovy.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-ms-150-600ml-betonove-seda?variant=52662722691409</URL>
-          <PRICE_VAT>486.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-600ml-MS-polymerovy-tesnici-tmel.jpg?v=1756972807</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>750560</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
-
-          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
