@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 538 -->
-<!-- Total individual products: 285 -->
-<!-- Created: 2025-12-22 12:11:32 -->
+<!-- Total products+variants: 540 -->
+<!-- Total individual products: 282 -->
+<!-- Created: 2025-12-22 16:09:40 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -89,7 +89,7 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
 Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny a základy před vlhkostními škodami a solnou degradací.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -114,7 +114,7 @@ Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny 
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -830,7 +830,7 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
 Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard-5kg</URL>
           <PRICE_VAT>1612.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1336,10 +1336,11 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color SP · 5 l · Vysoce paropropustná interiérová barva</PRODUCTNAME>
-          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sp-5l-bily</URL>
-          <PRICE_VAT>1278.0</PRICE_VAT>
+          <PRODUCTNAME>Remmers Color SP · Vysoce paropropustná interiérová barva · bílá / 5</PRODUCTNAME>
+          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182698833</URL>
+          <PRICE_VAT>1275.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1357,15 +1358,13 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · bílá / 5</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color SP · Vysoce paropropustná interiérová barva · bílá / 12,5l</PRODUCTNAME>
           <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182698833</URL>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182731601</URL>
           <PRICE_VAT>2570.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1383,34 +1382,11 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · bílá / 125l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color SP · Vysoce paropropustná interiérová barva · speciální odstíny / 5</PRODUCTNAME>
           <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182731601</URL>
-          <PRICE_VAT>2570.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>308014</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · speciální odstíny / 5</PRODUCTNAME>
-          <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182764369</URL>
-          <PRICE_VAT>2570.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182764369</URL>
+          <PRICE_VAT>1480.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1419,21 +1395,21 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>308015</ITEM_ID>
+          <ITEM_ID>308105</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
 
-          
+          <EAN>4004707080651</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Color SP · 12,5 l · Vysoce paropropustná interiérová barva · speciální odstíny / 125l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Color SP · Vysoce paropropustná interiérová barva · speciální odstíny / 12,5l</PRODUCTNAME>
           <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-color-sp-12-5l-bily?variant=52659182797137</URL>
-          <PRICE_VAT>2570.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182797137</URL>
+          <PRICE_VAT>3500.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1442,12 +1418,12 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>308016</ITEM_ID>
+          <ITEM_ID>308113</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na zeď</CATEGORYTEXT>
 
-          
+          <EAN>4004707228619</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -3379,10 +3355,10 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Funcosil SNL · 5 l · Dodatečná hydrofobní impregnace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Funcosil SNL · 5 l · Dodatečná hydrofobní impregnace · 5l</PRODUCTNAME>
           <DESCRIPTION>Dodatečná hydrofobní impregnace.
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-5l?variant=52660688879953</URL>
           <PRICE_VAT>2470.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
@@ -3399,6 +3375,78 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4004707010757</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Funcosil SNL · 5 l · Dodatečná hydrofobní impregnace · 1l</PRODUCTNAME>
+          <DESCRIPTION>Dodatečná hydrofobní impregnace.
+Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-5l?variant=52660688912721</URL>
+          <PRICE_VAT>2470.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>60206</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Funcosil SNL · 5 l · Dodatečná hydrofobní impregnace · 10l</PRODUCTNAME>
+          <DESCRIPTION>Dodatečná hydrofobní impregnace.
+Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-5l?variant=52660688945489</URL>
+          <PRICE_VAT>2470.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>60207</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Funcosil SNL · 5 l · Dodatečná hydrofobní impregnace · 30l</PRODUCTNAME>
+          <DESCRIPTION>Dodatečná hydrofobní impregnace.
+Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-snl-5l?variant=52660688978257</URL>
+          <PRICE_VAT>2470.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>60208</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -4693,11 +4741,11 @@ Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, 
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Clean FP · 1 kg · Čisticí pasta pro fasády</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Clean FP · Čisticí pasta pro fasády · 1kg</PRODUCTNAME>
           <DESCRIPTION>Čisticí pasta pro fasády.
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-clean-fp-1kg</URL>
-          <PRICE_VAT>371.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386857297</URL>
+          <PRICE_VAT>375.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4714,13 +4762,11 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Clean FP · 5 kg · Čisticí pasta pro fasády</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Clean FP · Čisticí pasta pro fasády · 5kg</PRODUCTNAME>
           <DESCRIPTION>Čisticí pasta pro fasády.
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-clean-fp-5kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386824529</URL>
           <PRICE_VAT>1570.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
@@ -4738,13 +4784,11 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Clean FP · 30 kg · Čisticí pasta pro fasády</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Clean FP · Čisticí pasta pro fasády · 30kg</PRODUCTNAME>
           <DESCRIPTION>Čisticí pasta pro fasády.
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-clean-fp-30kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386890065</URL>
           <PRICE_VAT>7645.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
