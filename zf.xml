@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 539 -->
-<!-- Total individual products: 269 -->
-<!-- Created: 2025-12-23 10:06:17 -->
+<!-- Total individual products: 267 -->
+<!-- Created: 2025-12-23 11:01:33 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -491,11 +491,11 @@ HADALAN® MBH 12E je transparentní epoxidová pryskyřice s širokospektrým v
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers MB 2K · 8,3 kg · Multifunkční hydroizolační stěrka</PRODUCTNAME>
+          <PRODUCTNAME>Remmers MB 2K · 8,3 kg · Multifunkční hydroizolační stěrka · 83kg</PRODUCTNAME>
           <DESCRIPTION>Tekutá hydroizolační stěrka.
 Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-mb-2k-8-3kg</URL>
+          <URL>https://www.stavbox.cz/products/remmers-mb-2k-8-3kg?variant=52666012827985</URL>
           <PRICE_VAT>1474.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
@@ -511,6 +511,54 @@ Nejprodávanější hydroizolační stěrka používaná profesionály i kutily 
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004707210102</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB 2K · 8,3 kg · Multifunkční hydroizolační stěrka · 25kg "3+3"</PRODUCTNAME>
+          <DESCRIPTION>Tekutá hydroizolační stěrka.
+Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-2k-8-3kg?variant=52666012860753</URL>
+          <PRICE_VAT>1474.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>301409</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers MB 2K · 8,3 kg · Multifunkční hydroizolační stěrka · 25kg "1+1"</PRODUCTNAME>
+          <DESCRIPTION>Tekutá hydroizolační stěrka.
+Nejprodávanější hydroizolační stěrka používaná profesionály i kutily po celém světě. Extrémně jednoduchá aplikace, vysoká schopnost překlenout trhliny, odolnost proti tlakové vodě i solím a dokonce možnost obalit veškeré prostupy sítí v jednom kroku! Za stavbox můžeme napsat, že nic lepšího není.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-2k-8-3kg?variant=52666012893521</URL>
+          <PRICE_VAT>1474.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>301410</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -746,11 +794,11 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace · 1l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · Speciální penetrace pro MB 2K · 1l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
 Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l?variant=52665796952401</URL>
-          <PRICE_VAT>537.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
+          <PRICE_VAT>540.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -769,59 +817,11 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace · 5l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · Speciální penetrace pro MB 2K · 5l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
 Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l?variant=52665796985169</URL>
-          <PRICE_VAT>537.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>300802</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace · 30l</PRODUCTNAME>
-          <DESCRIPTION>Speciální penetrace.
-Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l?variant=52665797017937</URL>
-          <PRICE_VAT>537.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>300803</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · 5 l · Speciální penetrace</PRODUCTNAME>
-          <DESCRIPTION>Speciální penetrace.
-Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-5l</URL>
-          <PRICE_VAT>1998.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
+          <PRICE_VAT>1915.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -839,15 +839,12 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · 30 l · Speciální penetrace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · Speciální penetrace pro MB 2K · 30l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
 Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-30l</URL>
-          <PRICE_VAT>10590.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665797017937</URL>
+          <PRICE_VAT>10150.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -866,6 +863,7 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
         </SHOPITEM>
       
     
+  
   
           <SHOPITEM>
           <PRODUCTNAME>Remmers Kiesol Standard · 5 kg · Penetrace a hydroizolace zdiva</PRODUCTNAME>
