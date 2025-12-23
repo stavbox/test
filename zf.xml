@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 537 -->
+<!-- Total products+variants: 539 -->
 <!-- Total individual products: 269 -->
-<!-- Created: 2025-12-23 00:00:51 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-12-23 10:06:17 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -746,10 +746,10 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace · 1l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
 Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l?variant=52665796952401</URL>
           <PRICE_VAT>537.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
@@ -765,6 +765,52 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>4004707246170</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace · 5l</PRODUCTNAME>
+          <DESCRIPTION>Speciální penetrace.
+Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l?variant=52665796985169</URL>
+          <PRICE_VAT>537.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>300802</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Kiesol MB · 1 l · Speciální penetrace · 30l</PRODUCTNAME>
+          <DESCRIPTION>Speciální penetrace.
+Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-mb-1l?variant=52665797017937</URL>
+          <PRICE_VAT>537.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>300803</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
