@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 539 -->
-<!-- Total individual products: 264 -->
-<!-- Created: 2025-12-23 12:14:31 -->
+<!-- Total products+variants: 540 -->
+<!-- Total individual products: 260 -->
+<!-- Created: 2025-12-23 16:05:08 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -3755,11 +3755,11 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Tape VF 120 · na míru (/m) · šířka: 12cm · Těsnicí páska</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Tape VF 120 · na míru (/m) · šířka: 12cm · Těsnicí páska · na míru · 1m</PRODUCTNAME>
           <DESCRIPTION>Vysoce kvalitní těsnicí páska na bázi kaučuku NBR potažená rounem.
-Cena je za 1 metr. Dodáváme v kuse dle objednané délky.
-Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV stabilní, pro spolehlivé utěsnění spojů.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-tape-vf-120-na-miru-1m</URL>
+Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV stabilní, pro spolehlivé utěsnění spojů.
+Nyní dostupný: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-tape-vf-120-na-miru-1m?variant=52670659559761</URL>
           <PRICE_VAT>110.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
@@ -3769,7 +3769,55 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
             <DELIVERY_PRICE>250</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>SBX5071M</ITEM_ID>
+          <ITEM_ID>SBX5071M-1</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Tape VF 120 · na míru (/m) · šířka: 12cm · Těsnicí páska · 10m (role)</PRODUCTNAME>
+          <DESCRIPTION>Vysoce kvalitní těsnicí páska na bázi kaučuku NBR potažená rounem.
+Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV stabilní, pro spolehlivé utěsnění spojů.
+Nyní dostupný: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-tape-vf-120-na-miru-1m?variant=52670659592529</URL>
+          <PRICE_VAT>110.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5071M-2</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Tape VF 120 · na míru (/m) · šířka: 12cm · Těsnicí páska · 50m (role)</PRODUCTNAME>
+          <DESCRIPTION>Vysoce kvalitní těsnicí páska na bázi kaučuku NBR potažená rounem.
+Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV stabilní, pro spolehlivé utěsnění spojů.
+Nyní dostupný: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-tape-vf-120-na-miru-1m?variant=52670659625297</URL>
+          <PRICE_VAT>110.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5071M-3</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
@@ -4091,11 +4139,11 @@ Opakovaně použitelný.</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 · 5 l · Zpevňovač kamene, vysoká koncentrace · 5l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 300 · Zpevňovač kamene, vysoká koncentrace · 5l</PRODUCTNAME>
           <DESCRIPTION>Zpevňovač kamene, vysoká koncentrace.
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-5l?variant=52666201866577</URL>
-          <PRICE_VAT>3199.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
+          <PRICE_VAT>3200.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4113,56 +4161,10 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 · 5 l · Zpevňovač kamene, vysoká koncentrace · 30l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 300 · Zpevňovač kamene, vysoká koncentrace · 30l</PRODUCTNAME>
           <DESCRIPTION>Zpevňovač kamene, vysoká koncentrace.
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-5l?variant=52666201899345</URL>
-          <PRICE_VAT>3199.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>072006</ITEM_ID>
-
-          
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 · 5 l · Zpevňovač kamene, vysoká koncentrace · 200l</PRODUCTNAME>
-          <DESCRIPTION>Zpevňovač kamene, vysoká koncentrace.
-Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-5l?variant=52666201932113</URL>
-          <PRICE_VAT>3199.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>072007</ITEM_ID>
-
-          
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 · 30 l · Zpevňovač kamene, vysoká koncentrace</PRODUCTNAME>
-          <DESCRIPTION>Zpevňovač kamene, vysoká koncentrace.
-Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201899345</URL>
           <PRICE_VAT>16925.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
@@ -4177,6 +4179,28 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
           
 
           <EAN>4004707011648</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers KSE 300 · Zpevňovač kamene, vysoká koncentrace · 200l</PRODUCTNAME>
+          <DESCRIPTION>Zpevňovač kamene, vysoká koncentrace.
+Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201932113</URL>
+          <PRICE_VAT>106500.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>072007</ITEM_ID>
+
+          
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -5002,12 +5026,12 @@ Silikátová penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobn�
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 HV · 5 l · Zpevňovač vápence</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 300 HV · Zpevňovač vápence · 5l</PRODUCTNAME>
           <DESCRIPTION>Zpevňovač vápence.
 
 Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy. Hluboká penetrace, pro památky, zajišťuje rovnoměrné zpevnění, odolný povětrnosti.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-hv-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300-hv?variant=52670609195345</URL>
           <PRICE_VAT>3850.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-HV-5l-zpevnovac-vapence.jpg?v=1755865320</IMGURL>
@@ -5025,18 +5049,13 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 HV · 30 l · Zpevňovač vápence</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 300 HV · Zpevňovač vápence · 30l</PRODUCTNAME>
           <DESCRIPTION>Zpevňovač vápence.
 
 Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy. Hluboká penetrace, pro památky, zajišťuje rovnoměrné zpevnění, odolný povětrnosti.
-
-
-
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-hv-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300-hv?variant=52670609228113</URL>
           <PRICE_VAT>22222.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-HV-5l-zpevnovac-vapence.jpg?v=1755865320</IMGURL>
@@ -5103,13 +5122,13 @@ Silikátový zpevňovač pro přírodní kámen. Vysoká pevnost, hluboká penet
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 E · 5 l · Elastický zpevňovač</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 300 E · Elastický zpevňovač · 5l</PRODUCTNAME>
           <DESCRIPTION>Elastický zpevňovač.
 Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pevnost, odolný povětrnosti, ideální pro křehké kameny a restaurování.
 
 
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-e-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300-e?variant=52670553653585</URL>
           <PRICE_VAT>4030.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-E-5l-elasticky-zpevnovac.jpg?v=1755865491</IMGURL>
@@ -5127,17 +5146,15 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 300 E · 30 l · Elastický zpevňovač</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 300 E · Elastický zpevňovač · 30l</PRODUCTNAME>
           <DESCRIPTION>Elastický zpevňovač.
 Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pevnost, odolný povětrnosti, ideální pro křehké kameny a restaurování.
 
 
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-300-e-30l</URL>
-          <PRICE_VAT>23507.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kse-300-e?variant=52670553686353</URL>
+          <PRICE_VAT>23500.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-E-5l-elasticky-zpevnovac.jpg?v=1755865491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5904,11 +5921,11 @@ Vápenná stěrka pro památkové a ekologické interiérové prostory. Připrav
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 500 E · 5 l · Elastický zpevňovač kamene</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 500 E · Elastický zpevňovač kamene · 5l</PRODUCTNAME>
           <DESCRIPTION>Elastický zpevňovač kamene.
 Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu, zpevňuje porézní pískovce, cihly, omítky, odolný povětrnosti, pro restaurování.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-500-e-5l</URL>
-          <PRICE_VAT>4052.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kse-500-e?variant=52670623056209</URL>
+          <PRICE_VAT>4050.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-500-E-5l-elasticky-zpevnovac-kamene.jpg?v=1755877337</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5925,13 +5942,11 @@ Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
-    
-  
           <SHOPITEM>
-          <PRODUCTNAME>Remmers KSE 500 E · 30 l · Elastický zpevňovač kamene</PRODUCTNAME>
+          <PRODUCTNAME>Remmers KSE 500 E · Elastický zpevňovač kamene · 30l</PRODUCTNAME>
           <DESCRIPTION>Elastický zpevňovač kamene.
 Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu, zpevňuje porézní pískovce, cihly, omítky, odolný povětrnosti, pro restaurování.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kse-500-e-30l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kse-500-e?variant=52670623088977</URL>
           <PRICE_VAT>23425.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-500-E-5l-elasticky-zpevnovac-kamene.jpg?v=1755877337</IMGURL>
@@ -8265,9 +8280,7 @@ Tloušťka: 1,5 mmŠířka: 0,25 mDélka: 20 m</DESCRIPTION>
           <PRODUCTNAME>Sika SikaGrout®-311 · 25 kg · Vysoce pevnostní zálivková hmota</PRODUCTNAME>
           <DESCRIPTION>Vysoce pevnostní zálivková hmota.
 SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi tekuté konzistence, s expanzními vlastnostmi a s nízkým smrštěním.
-· Rychlý nárůst pevností
-· Vysoké konečné pevnosti
-· Redukce smrštění v plastickém i vytvrzeném stavu</DESCRIPTION>
+✅ Rychlý nárůst pevností✅ Vysoké konečné pevnosti✅ Redukce smrštění v plastickém i vytvrzeném stavu</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-311-25kg</URL>
           <PRICE_VAT>936.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8293,7 +8306,7 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
           <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032) / 5kg (3,4+1,6 kg)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300616529</URL>
           <PRICE_VAT>3303.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8317,7 +8330,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Štěrkový šedý (RAL 7032) / 20kg (13,6+6,4 kg)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=51952893690193</URL>
           <PRICE_VAT>8410.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8341,7 +8354,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035) / 5kg (3,4+1,6 kg)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300583761</URL>
           <PRICE_VAT>3299.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8365,7 +8378,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Světle šedý (RAL 7035) / 20kg (13,6+6,4 kg)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
-· Nízké emise VOC· Dobrá odolnost proti oděru· Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=51951626027345</URL>
           <PRICE_VAT>8405.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8523,7 +8536,7 @@ Balení: 1200kg (komp.A: 4x255kg, komp.B: 180kg)</DESCRIPTION>
           <PRODUCTNAME>Sika SikaFiber® Force-50 · 5kg · Makrovlákna do betonu 50 mm</PRODUCTNAME>
           <DESCRIPTION>50 mm dlouhá syntetická makrovlákna do betonu → baleno v rozpustných sáčcích → snadná a lehká manipulace → zkracuje dobu výstavby.
 SikaFiber® Force-50 jsou 50 mm dlouhá polyolefínová makrovlákna na použití do betonu.
-· Baleno v rozpustných pytlích· Snadná a lehká manipulace· Zkracuje dobu výstavby· Zvyšuje tažnost· Zvyšuje houževnatost· Zvyšuje absorpci energie· Rozptyluje napětí a deformace· Omezuje praskání konstrukce· Zvyšuje odolnost proti oděru</DESCRIPTION>
+✅ Baleno v rozpustných pytlích✅ Snadná a lehká manipulace✅ Zkracuje dobu výstavby✅ Zvyšuje tažnost✅ Zvyšuje houževnatost✅ Zvyšuje absorpci energie✅ Rozptyluje napětí a deformace✅ Omezuje praskání konstrukce✅ Zvyšuje odolnost proti oděru</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafiber-force-50-5kg</URL>
           <PRICE_VAT>3593.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -8574,7 +8587,7 @@ SikaFiber® Force-50 jsou 50 mm dlouhá polyolefínová makrovlákna na použit�
           <PRODUCTNAME>Sika Sikafloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva</PRODUCTNAME>
           <DESCRIPTION>2-komponentní, polyuretanová, barevná, matná pečeticí vrstva, na vodní bázi.
 Sikafloor®-305 W je 2-komponentní, barevná, matná polyuretanová pečeticí vrstva, s nízkým obsahem VOC, na bázi vody. Je součástí systému Sika ComfortFloor®.
-· Na vodní bázi· Nízký zápach· Dobrá odolnost vůči UV záření
+✅ Na vodní bázi✅ Nízký zápach✅ Dobrá odolnost vůči UV záření
 Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg</URL>
           <PRICE_VAT>10500.0</PRICE_VAT>
@@ -8601,7 +8614,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-304 W · 7,5kg · Matná polyuretanová vrstva</PRODUCTNAME>
           <DESCRIPTION>2-komponentní polyuretanová matná uzavírací vrstva, součást řady Sika Comfortfloor®.
 Sikafloor®-304 W je 2-komponentní polyuretanová uzavírací vrstva s matným vzhledem, s velmi nízkým obsahem VOC, na vodní bázi.
-· Na vodní bázi· Velmi nízký zápach· Dobrá odolnost vůči UV záření a žloutnutí
+✅ Na vodní bázi✅ Velmi nízký zápach✅ Dobrá odolnost vůči UV záření a žloutnutí
 Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-304-w-7-5kg</URL>
           <PRICE_VAT>10500.0</PRICE_VAT>
@@ -8628,7 +8641,7 @@ Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · Pastel</PRODUCTNAME>
           <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
 Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
-· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+✅ Velmi nízké emise VOC✅ Bez obsahu rozpouštědel✅ Trvale elastický
 Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg?variant=52060462743889</URL>
           <PRICE_VAT>8363.0</PRICE_VAT>
@@ -8653,7 +8666,7 @@ Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · Bright</PRODUCTNAME>
           <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
 Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
-· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+✅ Velmi nízké emise VOC✅ Bez obsahu rozpouštědel✅ Trvale elastický
 Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg?variant=52060462776657</URL>
           <PRICE_VAT>8441.0</PRICE_VAT>
@@ -8678,7 +8691,7 @@ Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · RAL 7035 (světle šedý)</PRODUCTNAME>
           <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
 Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
-· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+✅ Velmi nízké emise VOC✅ Bez obsahu rozpouštědel✅ Trvale elastický
 Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg?variant=52060462809425</URL>
           <PRICE_VAT>8286.0</PRICE_VAT>
@@ -8703,7 +8716,7 @@ Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3310 · 20kg · Elastická PUR podlaha bez VOC · RAL 7032 (stěrkový šedý)</PRODUCTNAME>
           <DESCRIPTION>2-komponentní samonivelační elastická PUR komfortní podlaha s nízkým obsahem VOC.
 Sikafloor®-3310 je 2-komponentní, elastická, samonivelační, aromatická PUR pryskyřice, bez obsahu rozpouštědel.
-· Velmi nízké emise VOC· Bez obsahu rozpouštědel· Trvale elastický
+✅ Velmi nízké emise VOC✅ Bez obsahu rozpouštědel✅ Trvale elastický
 Balení: 20kg (15,8kg komp. A + 4,2kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3310-20kg?variant=52060462842193</URL>
           <PRICE_VAT>8286.0</PRICE_VAT>
@@ -8809,7 +8822,7 @@ Balení: 20kg (16,2kg komp. A + 3,8kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 1013 (perlová bílá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52070537593169</URL>
           <PRICE_VAT>13050.0</PRICE_VAT>
@@ -8833,7 +8846,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 7004ca (signální šedý)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52070583370065</URL>
           <PRICE_VAT>12990.0</PRICE_VAT>
@@ -8857,7 +8870,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 7016ca (antracitová šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52070658179409</URL>
           <PRICE_VAT>12990.0</PRICE_VAT>
@@ -8881,7 +8894,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 7031 (šedomodrý)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52070573343057</URL>
           <PRICE_VAT>13050.0</PRICE_VAT>
@@ -8905,7 +8918,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 7035ca (světle šedý)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52070661423441</URL>
           <PRICE_VAT>12850.0</PRICE_VAT>
@@ -8929,7 +8942,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 7047 (telešedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52101775130961</URL>
           <PRICE_VAT>12850.0</PRICE_VAT>
@@ -8953,7 +8966,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 9002ca (šedobílá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52101775163729</URL>
           <PRICE_VAT>12850.0</PRICE_VAT>
@@ -8977,7 +8990,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 9005 (černá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52101790007633</URL>
           <PRICE_VAT>13050.0</PRICE_VAT>
@@ -9001,7 +9014,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 9010ca (bílá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52101807833425</URL>
           <PRICE_VAT>12850.0</PRICE_VAT>
@@ -9025,7 +9038,7 @@ Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor®-3000 · 20kg · Pružná, barevná PUR podlaha bez VOC · RAL 9016ca (dopravní bílá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, pružná, barevná polyuretanová pryskyřice se samonivelačními schopnostmi, s nízkým obsahem VOC, bez rozpouštědel.
-· velmi nízké emise VOC· bez obsahu rozpouštědel· trvale pružná
+✅ velmi nízké emise VOC✅ bez obsahu rozpouštědel✅ trvale pružná
 Balení: 20kg (15kg komp. A + 5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3000-20-kg?variant=52101816516945</URL>
           <PRICE_VAT>12850.0</PRICE_VAT>
@@ -9102,7 +9115,7 @@ Sikalastic®-260 Stop Aqua je 1-komponentní vrstva na bázi pryskyřice, apliko
           <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · 22 kg · Tekutá hydroizolace pro vlhké prostory · Hydroizolace (50m role)</PRODUCTNAME>
           <DESCRIPTION>Těsnící páska na přemostění trhlin.
 Sika® SealTape F je elastický systémový komponent používán v kombinaci s hydroizolačními produkty Sika® v oblastech kde hrozí vytvoření trhlin (rohy zdí, spoje mezi podlahami a zdmi, potrubí atd.).
-· Bezesparý· Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.· 1-komponentní materiál připravený k použití
+✅ Bezesparý✅ Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.✅ 1-komponentní materiál připravený k použití
 Systomé komponenty:
 · Hydroizolace (50m role)· Vnitřní roh (20ks)· Vnější roh (20ks)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sealtape-f-v2-50-m-role?variant=52071140000081</URL>
@@ -9128,7 +9141,7 @@ Systomé komponenty:
           <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · 22 kg · Tekutá hydroizolace pro vlhké prostory · Vnitřní roh (20ks)</PRODUCTNAME>
           <DESCRIPTION>Těsnící páska na přemostění trhlin.
 Sika® SealTape F je elastický systémový komponent používán v kombinaci s hydroizolačními produkty Sika® v oblastech kde hrozí vytvoření trhlin (rohy zdí, spoje mezi podlahami a zdmi, potrubí atd.).
-· Bezesparý· Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.· 1-komponentní materiál připravený k použití
+✅ Bezesparý✅ Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.✅ 1-komponentní materiál připravený k použití
 Systomé komponenty:
 · Hydroizolace (50m role)· Vnitřní roh (20ks)· Vnější roh (20ks)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sealtape-f-v2-50-m-role?variant=52071140032849</URL>
@@ -9154,7 +9167,7 @@ Systomé komponenty:
           <PRODUCTNAME>Sika Sikalastic®-260 Stop Aqua · 22 kg · Tekutá hydroizolace pro vlhké prostory · Vnější roh (20ks)</PRODUCTNAME>
           <DESCRIPTION>Těsnící páska na přemostění trhlin.
 Sika® SealTape F je elastický systémový komponent používán v kombinaci s hydroizolačními produkty Sika® v oblastech kde hrozí vytvoření trhlin (rohy zdí, spoje mezi podlahami a zdmi, potrubí atd.).
-· Bezesparý· Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.· 1-komponentní materiál připravený k použití
+✅ Bezesparý✅ Součástí kompletního systému zahrnujícího Sika® SealTapes, primery a lepidla na obklady.✅ 1-komponentní materiál připravený k použití
 Systomé komponenty:
 · Hydroizolace (50m role)· Vnitřní roh (20ks)· Vnější roh (20ks)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sealtape-f-v2-50-m-role?variant=52071140065617</URL>
@@ -9182,7 +9195,7 @@ Systomé komponenty:
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 1006ca (žlutá kukuřičná)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102136889681</URL>
           <PRICE_VAT>10365.0</PRICE_VAT>
@@ -9207,7 +9220,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 1015ca (sírová žlutá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102303678801</URL>
           <PRICE_VAT>10365.0</PRICE_VAT>
@@ -9232,7 +9245,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7001ca (stříbrošedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102314131793</URL>
           <PRICE_VAT>9540.0</PRICE_VAT>
@@ -9257,7 +9270,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7030ca (kamenná šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102314164561</URL>
           <PRICE_VAT>9540.0</PRICE_VAT>
@@ -9282,7 +9295,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7031ca (šedomodrá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102314197329</URL>
           <PRICE_VAT>9720.0</PRICE_VAT>
@@ -9307,7 +9320,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7032ca (štěrková šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102314230097</URL>
           <PRICE_VAT>9155.0</PRICE_VAT>
@@ -9332,7 +9345,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7035ca (světle šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102323175761</URL>
           <PRICE_VAT>9155.0</PRICE_VAT>
@@ -9357,7 +9370,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7037ca (prachová šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102323208529</URL>
           <PRICE_VAT>9540.0</PRICE_VAT>
@@ -9382,7 +9395,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7038ca (achátová šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102323241297</URL>
           <PRICE_VAT>9540.0</PRICE_VAT>
@@ -9407,7 +9420,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7040ca (okenní šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102339625297</URL>
           <PRICE_VAT>9640.0</PRICE_VAT>
@@ -9432,7 +9445,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7042ca (dopravní šedá A)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102339658065</URL>
           <PRICE_VAT>9640.0</PRICE_VAT>
@@ -9457,7 +9470,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7044ca (hedvábná šedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102339690833</URL>
           <PRICE_VAT>9640.0</PRICE_VAT>
@@ -9482,7 +9495,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7045ca (telešedá)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102339723601</URL>
           <PRICE_VAT>9640.0</PRICE_VAT>
@@ -9507,7 +9520,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-3240 · 25kg · Elastická PUR podlaha bez VOC · RAL 7047 (telešedá 4)</PRODUCTNAME>
           <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
 Sikafloor®-3240 je 2komponentní, barevná samonivelační PUR pryskyřice bez rozpouštědel.Celkový obsah pevných látek, podle testovací metody &quot;Deutsche Bauchemie&quot;. Sikafloor®-3240 využívá unikátní technologii Sika i-Cure pro zlepšení povrchové estetiky a snížení citlivosti na okolní vlhkost během aplikace.
-· Pružná a houževnatě elastická· Překlenuje trhliny· Lze aplikovat i na asfaltové podklady (litý asfalt)
+✅ Pružná a houževnatě elastická✅ Překlenuje trhliny✅ Lze aplikovat i na asfaltové podklady (litý asfalt)
 Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-3240-25kg?variant=52102339756369</URL>
           <PRICE_VAT>10365.0</PRICE_VAT>
@@ -9534,7 +9547,7 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 1002 (písková)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102586040657</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9559,7 +9572,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 1015 (slonová kost světlá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102675202385</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9584,7 +9597,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 1021 (žlutá hořčičná)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102675235153</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -9609,7 +9622,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 3002 (karmínová)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102677922129</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -9634,7 +9647,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 3009 (oxidovaná červená)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102677954897</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -9659,7 +9672,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 3013 (tomatová červená)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102677987665</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -9684,7 +9697,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 3015 (světlá růžová)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102678020433</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9709,7 +9722,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 3020 (dopravní červená)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102678053201</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -9734,7 +9747,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 5003 (safírová modrá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102697419089</URL>
           <PRICE_VAT>18885.0</PRICE_VAT>
@@ -9759,7 +9772,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 5012 (světle modrá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102697451857</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -9784,7 +9797,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 5017 (dopravní modrá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102697484625</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -9809,7 +9822,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 6010 (trávová zelená)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102697517393</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9834,7 +9847,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7001 (stříbrošedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712197457</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -9859,7 +9872,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7005 (myší šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712230225</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9884,7 +9897,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7006 (béžovošedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712262993</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9909,7 +9922,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7012 (čedičová šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712295761</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9934,7 +9947,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7016 (antracitová šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712328529</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -9959,7 +9972,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7030 (kamenná šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712361297</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -9984,7 +9997,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7031 (šedomodrá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712394065</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -10009,7 +10022,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7032 (štěrková šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102712426833</URL>
           <PRICE_VAT>16950.0</PRICE_VAT>
@@ -10034,7 +10047,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7035 (světle šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102731301201</URL>
           <PRICE_VAT>16950.0</PRICE_VAT>
@@ -10059,7 +10072,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7037 (prachová šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102731333969</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -10084,7 +10097,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7038 (achátová šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102731366737</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -10109,7 +10122,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7040 (okenní šedá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102731399505</URL>
           <PRICE_VAT>18015.0</PRICE_VAT>
@@ -10134,7 +10147,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 7047 (telešedá 4)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102731432273</URL>
           <PRICE_VAT>20455.0</PRICE_VAT>
@@ -10159,7 +10172,7 @@ Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 9005 (černá)</PRODUCTNAME>
           <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
 Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
-· Pružný a elasticky tuhý· Dobrá mechanická odolnost· Dobrá chemická odolnost specifickým materiálům
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
 Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=52102732513617</URL>
           <PRICE_VAT>17985.0</PRICE_VAT>
@@ -11132,7 +11145,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
           <PRODUCTNAME>Sika Sikafloor®-378 · 30kg · Epoxidový nátěr odolný karbonataci · RAL 7001 (stříbrošedá)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový houževnatě pružný barevný uzavírací nátěr.
 Sikafloor®-378 je 2komponentní, epoxidový, barevný, podlahový uzavírací nátěr se zvýšenou odolností proti karbonataci za kritických povětrnostních podmínek. Poskytuje tvrdý lesklý povrch odolný proti otěru a chemikáliím na prosypaných parkovacích systémech.
-· Dobrá odolnost proti oděru· Dobrá odolnost vůči určitým chemikáliím· Dobrá mechanická odolnost
+✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči určitým chemikáliím✅ Dobrá mechanická odolnost
 Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-378-30kg?variant=52209971167569</URL>
           <PRICE_VAT>10510.0</PRICE_VAT>
@@ -11157,7 +11170,7 @@ Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-378 · 30kg · Epoxidový nátěr odolný karbonataci · RAL 7032 (štěrková šedá)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový houževnatě pružný barevný uzavírací nátěr.
 Sikafloor®-378 je 2komponentní, epoxidový, barevný, podlahový uzavírací nátěr se zvýšenou odolností proti karbonataci za kritických povětrnostních podmínek. Poskytuje tvrdý lesklý povrch odolný proti otěru a chemikáliím na prosypaných parkovacích systémech.
-· Dobrá odolnost proti oděru· Dobrá odolnost vůči určitým chemikáliím· Dobrá mechanická odolnost
+✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči určitým chemikáliím✅ Dobrá mechanická odolnost
 Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-378-30kg?variant=52209971200337</URL>
           <PRICE_VAT>9960.0</PRICE_VAT>
@@ -11182,7 +11195,7 @@ Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-378 · 30kg · Epoxidový nátěr odolný karbonataci · RAL 7035 (světle šedá)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový houževnatě pružný barevný uzavírací nátěr.
 Sikafloor®-378 je 2komponentní, epoxidový, barevný, podlahový uzavírací nátěr se zvýšenou odolností proti karbonataci za kritických povětrnostních podmínek. Poskytuje tvrdý lesklý povrch odolný proti otěru a chemikáliím na prosypaných parkovacích systémech.
-· Dobrá odolnost proti oděru· Dobrá odolnost vůči určitým chemikáliím· Dobrá mechanická odolnost
+✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči určitým chemikáliím✅ Dobrá mechanická odolnost
 Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-378-30kg?variant=52209971233105</URL>
           <PRICE_VAT>9960.0</PRICE_VAT>
@@ -11207,7 +11220,7 @@ Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-378 · 30kg · Epoxidový nátěr odolný karbonataci · RAL 7038 (achátová šedá)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový houževnatě pružný barevný uzavírací nátěr.
 Sikafloor®-378 je 2komponentní, epoxidový, barevný, podlahový uzavírací nátěr se zvýšenou odolností proti karbonataci za kritických povětrnostních podmínek. Poskytuje tvrdý lesklý povrch odolný proti otěru a chemikáliím na prosypaných parkovacích systémech.
-· Dobrá odolnost proti oděru· Dobrá odolnost vůči určitým chemikáliím· Dobrá mechanická odolnost
+✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči určitým chemikáliím✅ Dobrá mechanická odolnost
 Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-378-30kg?variant=52209971265873</URL>
           <PRICE_VAT>10540.0</PRICE_VAT>
@@ -11234,7 +11247,7 @@ Balení: 30kg (24,6kg komp. A + 5,4kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-381 · 25kg · Epoxidový nátěr s vysokou odolností · RAL 5015 (nebeská modrá)</PRODUCTNAME>
           <DESCRIPTION>Nátěr z epoxidové pryskyřice s vysokou chemickou a mechanickou odolností.
 Sikafloor®-381 je 2-komponentní nátěr na bázi epoxidové pryskyřice s nízkými emisemi, poskytující vysokou chemickou a mechanickou odolnost.
-· Dobrá odolnost proti oděru· Schopnost dekontaminace· Velmi dobrá odolnost vůči specifickým chemikáliím
+✅ Dobrá odolnost proti oděru✅ Schopnost dekontaminace✅ Velmi dobrá odolnost vůči specifickým chemikáliím
 Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-381-25kg?variant=52210325553489</URL>
           <PRICE_VAT>11860.0</PRICE_VAT>
@@ -11259,7 +11272,7 @@ Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-381 · 25kg · Epoxidový nátěr s vysokou odolností · RAL 5024 (pastelová modrá)</PRODUCTNAME>
           <DESCRIPTION>Nátěr z epoxidové pryskyřice s vysokou chemickou a mechanickou odolností.
 Sikafloor®-381 je 2-komponentní nátěr na bázi epoxidové pryskyřice s nízkými emisemi, poskytující vysokou chemickou a mechanickou odolnost.
-· Dobrá odolnost proti oděru· Schopnost dekontaminace· Velmi dobrá odolnost vůči specifickým chemikáliím
+✅ Dobrá odolnost proti oděru✅ Schopnost dekontaminace✅ Velmi dobrá odolnost vůči specifickým chemikáliím
 Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-381-25kg?variant=52210325586257</URL>
           <PRICE_VAT>10140.0</PRICE_VAT>
@@ -11284,7 +11297,7 @@ Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-381 · 25kg · Epoxidový nátěr s vysokou odolností · RAL 7001 (stříbrošedá)</PRODUCTNAME>
           <DESCRIPTION>Nátěr z epoxidové pryskyřice s vysokou chemickou a mechanickou odolností.
 Sikafloor®-381 je 2-komponentní nátěr na bázi epoxidové pryskyřice s nízkými emisemi, poskytující vysokou chemickou a mechanickou odolnost.
-· Dobrá odolnost proti oděru· Schopnost dekontaminace· Velmi dobrá odolnost vůči specifickým chemikáliím
+✅ Dobrá odolnost proti oděru✅ Schopnost dekontaminace✅ Velmi dobrá odolnost vůči specifickým chemikáliím
 Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-381-25kg?variant=52210325619025</URL>
           <PRICE_VAT>10140.0</PRICE_VAT>
@@ -11309,7 +11322,7 @@ Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-381 · 25kg · Epoxidový nátěr s vysokou odolností · RAL 7032 (štěrková šedá)</PRODUCTNAME>
           <DESCRIPTION>Nátěr z epoxidové pryskyřice s vysokou chemickou a mechanickou odolností.
 Sikafloor®-381 je 2-komponentní nátěr na bázi epoxidové pryskyřice s nízkými emisemi, poskytující vysokou chemickou a mechanickou odolnost.
-· Dobrá odolnost proti oděru· Schopnost dekontaminace· Velmi dobrá odolnost vůči specifickým chemikáliím
+✅ Dobrá odolnost proti oděru✅ Schopnost dekontaminace✅ Velmi dobrá odolnost vůči specifickým chemikáliím
 Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-381-25kg?variant=52210325651793</URL>
           <PRICE_VAT>9585.0</PRICE_VAT>
@@ -11336,7 +11349,7 @@ Balení: 25kg (21,25g komp. A + 3,75kg komp. B)</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor®-150 · Epoxidový primer a stěrka nízký zápach · 2,5kg nádoba (komponenty A+B)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový penetrační nátěr, vyrovnávací malta a stěrka s nízkým zápachem.
 Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízkou viskozitou a nízkým zápachem. Může být použita jako epoxidová penetrace, vyrovnávací stěrka nebo malta.
-· Slabý zápach· Nízká viskozita· Dobrá penetrační schopnost</DESCRIPTION>
+✅ Slabý zápach✅ Nízká viskozita✅ Dobrá penetrační schopnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150?variant=52241060757841</URL>
           <PRICE_VAT>2200.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -11360,7 +11373,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
           <PRODUCTNAME>Sika Sikafloor®-150 · Epoxidový primer a stěrka nízký zápach · 25 kg nádoba (komponenty A+B)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový penetrační nátěr, vyrovnávací malta a stěrka s nízkým zápachem.
 Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízkou viskozitou a nízkým zápachem. Může být použita jako epoxidová penetrace, vyrovnávací stěrka nebo malta.
-· Slabý zápach· Nízká viskozita· Dobrá penetrační schopnost</DESCRIPTION>
+✅ Slabý zápach✅ Nízká viskozita✅ Dobrá penetrační schopnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150?variant=52241060790609</URL>
           <PRICE_VAT>10800.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -11384,7 +11397,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
           <PRODUCTNAME>Sika Sikafloor®-150 · Epoxidový primer a stěrka nízký zápach · 730kg balení sudů (komponenty 3A+B)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový penetrační nátěr, vyrovnávací malta a stěrka s nízkým zápachem.
 Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízkou viskozitou a nízkým zápachem. Může být použita jako epoxidová penetrace, vyrovnávací stěrka nebo malta.
-· Slabý zápach· Nízká viskozita· Dobrá penetrační schopnost</DESCRIPTION>
+✅ Slabý zápach✅ Nízká viskozita✅ Dobrá penetrační schopnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150?variant=52241060823377</URL>
           <PRICE_VAT>296500.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -11408,7 +11421,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
           <PRODUCTNAME>Sika Sikafloor®-150 · Epoxidový primer a stěrka nízký zápach · 1000kg sud (komponent A)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový penetrační nátěr, vyrovnávací malta a stěrka s nízkým zápachem.
 Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízkou viskozitou a nízkým zápachem. Může být použita jako epoxidová penetrace, vyrovnávací stěrka nebo malta.
-· Slabý zápach· Nízká viskozita· Dobrá penetrační schopnost</DESCRIPTION>
+✅ Slabý zápach✅ Nízká viskozita✅ Dobrá penetrační schopnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150?variant=52241060856145</URL>
           <PRICE_VAT>324500.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -11432,7 +11445,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
           <PRODUCTNAME>Sika Sikafloor®-150 · Epoxidový primer a stěrka nízký zápach · 950kg sud (komponent B)</PRODUCTNAME>
           <DESCRIPTION>Epoxidový penetrační nátěr, vyrovnávací malta a stěrka s nízkým zápachem.
 Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízkou viskozitou a nízkým zápachem. Může být použita jako epoxidová penetrace, vyrovnávací stěrka nebo malta.
-· Slabý zápach· Nízká viskozita· Dobrá penetrační schopnost</DESCRIPTION>
+✅ Slabý zápach✅ Nízká viskozita✅ Dobrá penetrační schopnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150?variant=52241127670097</URL>
           <PRICE_VAT>410150.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -11713,7 +11726,7 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
           <PRODUCTNAME>Sika Sikafloor® Garage · 6kg · Odolný epoxidový nátěr do garáže</PRODUCTNAME>
           <DESCRIPTION>2-komponentní epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor® Garage je 2-komponentní, barevný epoxidový podlahový nátěr na vodní bázi. Vytváří jednolitý, chemicky odolný, hladký a lesklý povrch nenáročný na údržbu. Je vhodný pro normální až střední zatížení, vnitřní i vnější použití.
-· Nízké emise VOC· Dobrá mechanická odolnost· Dobrá chemická odolnost
+✅ Nízké emise VOC✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost
 Balení: 6kg (4,38kg komp. A + 1,62kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-garage-6kg</URL>
           <PRICE_VAT>3470.0</PRICE_VAT>
