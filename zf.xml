@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 539 -->
-<!-- Total individual products: 256 -->
-<!-- Created: 2025-12-23 17:37:51 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 538 -->
+<!-- Total individual products: 255 -->
+<!-- Created: 2025-12-24 00:00:36 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -8122,11 +8122,11 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Tape VF 500 · 10m · šířka: 50cm · Těsnicí páska, butylová · 10m (role)</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Tape VF 500 · Těsnicí páska, butylová, šířka: 50cm · 10m (role)</PRODUCTNAME>
           <DESCRIPTION>Vysoce kvalitní oboustranná těsnicí páska na bázi kaučuku NBR potažená rounem.
-Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 500 · na míru · 1 m</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-tape-vf-500-10m?variant=52671066931537</URL>
-          <PRICE_VAT>3512.0</PRICE_VAT>
+Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-tape-vf-500?variant=52671066931537</URL>
+          <PRICE_VAT>3510.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-VF-500_dl_sbx.jpg?v=1757338345</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8145,36 +8145,11 @@ Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 500 · na mír
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Tape VF 500 · 10m · šířka: 50cm · Těsnicí páska, butylová · na míru (/m)</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Tape VF 500 · Těsnicí páska, butylová, šířka: 50cm · na míru (/m)</PRODUCTNAME>
           <DESCRIPTION>Vysoce kvalitní oboustranná těsnicí páska na bázi kaučuku NBR potažená rounem.
-Tento produkt je k dispozici také po metrech zde:Remmers Tape VF 500 · na míru · 1 m</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-tape-vf-500-10m?variant=52671066964305</URL>
-          <PRICE_VAT>3512.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-VF-500_dl_sbx.jpg?v=1757338345</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>SBX5075M</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Tape VF 500 · na míru (/m) · šířka: 50cm · Těsnicí páska, butylová</PRODUCTNAME>
-          <DESCRIPTION>Vysoce kvalitní oboustranná těsnicí páska na bázi kaučuku NBR potažená rounem.
-Cena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-tape-vf-500-na-miru-1m</URL>
-          <PRICE_VAT>421.0</PRICE_VAT>
+Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-tape-vf-500?variant=52671066964305</URL>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-VF-500_dl_sbx.jpg?v=1757338345</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
