@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 540 -->
-<!-- Total individual products: 252 -->
-<!-- Created: 2025-12-30 17:51:41 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 539 -->
+<!-- Total individual products: 250 -->
+<!-- Created: 2025-12-31 00:00:30 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -95,31 +95,6 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004707185653</EAN>
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · 30 kg · Penetrace a hydroizolace zdiva</PRODUCTNAME>
-          <DESCRIPTION>Zpevňující mineralizační koncentrát 1K
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard-30kg</URL>
-          <PRICE_VAT>7520.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>031030</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          <EAN>4004707034326</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -806,11 +781,11 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
   
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · 5 kg · Penetrace a hydroizolace zdiva · 5kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 5kg</PRODUCTNAME>
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
 Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard-5kg?variant=52712571961681</URL>
-          <PRICE_VAT>1612.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
+          <PRICE_VAT>1610.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -829,59 +804,11 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · 5 kg · Penetrace a hydroizolace zdiva · 10kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 10kg</PRODUCTNAME>
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
 Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard-5kg?variant=52712571994449</URL>
-          <PRICE_VAT>1612.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>031006</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · 5 kg · Penetrace a hydroizolace zdiva · 30kg</PRODUCTNAME>
-          <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard-5kg?variant=52712572027217</URL>
-          <PRICE_VAT>1612.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>031007</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
-
-          
-          <CONDITION>new</CONDITION>
-        </SHOPITEM>
-      
-    
-  
-          <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · 10 kg · Penetrace a hydroizolace zdiva</PRODUCTNAME>
-          <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard-10kg</URL>
-          <PRICE_VAT>3010.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571994449</URL>
+          <PRICE_VAT>2995.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -896,6 +823,52 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>4004707046244</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 30kg</PRODUCTNAME>
+          <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
+Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712572027217</URL>
+          <PRICE_VAT>7520.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>031030</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4004707034326</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 210kg</PRODUCTNAME>
+          <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
+Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712617410897</URL>
+          <PRICE_VAT>48250.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>031069</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>4004707032391</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
