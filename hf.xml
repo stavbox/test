@@ -1,24 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 538 -->
+<!-- Total products+variants: 541 -->
 <!-- Total individual products: 255 -->
-<!-- Created: 2025-12-30 00:00:36 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2025-12-30 16:47:17 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
           <SHOPITEM>
           <ITEM_ID>072713</ITEM_ID>
-          <PRODUCTNAME>Remmers Kiesol C · 12,5 l · Injektážní krém, silan/siloxan</PRODUCTNAME>
-          <PRODUCT>Remmers Kiesol C · 12,5 l - Injektážní krém</PRODUCT>
+          <PRODUCTNAME>Remmers Kiesol C · 12,5 l · Injektážní krém, silan/siloxan · 125l</PRODUCTNAME>
+          <PRODUCT>Remmers Kiesol C · 125l - Injektážní krém</PRODUCT>
           <DESCRIPTION>Injektážní krém, silan/siloxan.
 Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-kiesol-c-12-5l</URL>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-c-12-5l?variant=52712279736657</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <PRICE_VAT>13130.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707228800</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>072714</ITEM_ID>
+          <PRODUCTNAME>Remmers Kiesol C · 12,5 l · Injektážní krém, silan/siloxan · 550ml</PRODUCTNAME>
+          <PRODUCT>Remmers Kiesol C · 550ml - Injektážní krém</PRODUCT>
+          <DESCRIPTION>Injektážní krém, silan/siloxan.
+Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-c-12-5l?variant=52712279769425</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
+          <PRICE_VAT>13130.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>072715</ITEM_ID>
+          <PRODUCTNAME>Remmers Kiesol C · 12,5 l · Injektážní krém, silan/siloxan · 5l</PRODUCTNAME>
+          <PRODUCT>Remmers Kiesol C · 5l - Injektážní krém</PRODUCT>
+          <DESCRIPTION>Injektážní krém, silan/siloxan.
+Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-c-12-5l?variant=52712279802193</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
+          <PRICE_VAT>13130.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>072716</ITEM_ID>
+          <PRODUCTNAME>Remmers Kiesol C · 12,5 l · Injektážní krém, silan/siloxan · 10l</PRODUCTNAME>
+          <PRODUCT>Remmers Kiesol C · 10l - Injektážní krém</PRODUCT>
+          <DESCRIPTION>Injektážní krém, silan/siloxan.
+Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-kiesol-c-12-5l?variant=52712279834961</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
+          <PRICE_VAT>13130.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          
         </SHOPITEM>
       
     
