@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 543 -->
-<!-- Total individual products: 249 -->
-<!-- Created: 2026-01-05 14:14:10 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 544 -->
+<!-- Total individual products: 250 -->
+<!-- Created: 2026-01-06 00:00:18 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -13590,12 +13590,12 @@ Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, kt
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikagard®-705 L · 18 kg · Silanová vodoodpudivá impregnace</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikagard®-705 L · Hydrofobní silanová impregnace betonu</PRODUCTNAME>
           <DESCRIPTION>Vodoodpudivá impregnace na bázi reaktivního silanu.
 Sikagard®-705 L je 1komponentní, nízkoviskózní nátěr, reaktivní impregnace na beton a cementové podklady, na bázi silanu s obsahem 99 % aktivních složek, bez obsahu rozpouštědel.Sikagard®-705 L vyhovuje požadavkům ČSN EN 1504-2 pro hydrofobní impregnaci (hloubka penetrace – třída II a odolnost proti působení mrazu a rozmrazovacím solím).
 ✅ Výborná penetrační schopnost✅ Rychle vsakuje i do hutného podkladu✅ Ekonomicky výhodný, snadné použití
 ✅ Zvyšuje odolnost betonu proti mrazu a rozmrazovacím solím✅ Snižuje korozi betonu i na podkladu s trhlinami✅ Zpomaluje korozi snížením případné vlhkosti</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikagard®-705-l-18kg</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-705-l-18kg</URL>
           <PRICE_VAT>30490.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-705-L_opt.jpg?v=1767615786</IMGURL>
@@ -13611,6 +13611,33 @@ Sikagard®-705 L je 1komponentní, nízkoviskózní nátěr, reaktivní impregna
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7612894697636</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-706 Thixo · Tixotropní silanový krém na beton</PRODUCTNAME>
+          <DESCRIPTION>Vodoodpudivá krémovitá impregnace na bázi silanu.
+Sikagard®-706 Thixo je 1komponentní impregnační krém na bázi reaktivního silanu. Je bez obsahu rozpouštědel, na bázi silanu s obsahem 80 % aktivních složek.Sikagard®-706 Thixo vyhovuje požadavkům ČSN EN 1504-2 pro hydrofobní impregnaci (hloubka penetrace – třída II a odolnost proti působení mrazu a rozmrazovacím solím).
+✅ Thixotropní konzistence umožňující aplikaci dostatečného množství a zajišťuje hloubkovou penetraci✅ Snížení absorpce vody✅ Snížení absorpce agresivní nebo škodlivého činidla rozpuštěná ve vodě (tj. rozmrazovací soli)
+Barva: bílá pasta / krém (po aplikaci je transparentní)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-706-thixo-18kg</URL>
+          <PRICE_VAT>29500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-706-Thixo_opt.jpg?v=1767625424</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>156781</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894632804</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
