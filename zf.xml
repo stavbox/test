@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 549 -->
+<!-- Total products+variants: 552 -->
 <!-- Total individual products: 253 -->
-<!-- Created: 2026-01-06 12:39:02 -->
+<!-- Created: 2026-01-06 16:07:59 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -1789,12 +1789,12 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm</PRODUCTNAME>
+          <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm · 5l</PRODUCTNAME>
           <DESCRIPTION>Injektážní pumpa, ideální volba pro injektážní práce s krémovými systémy proti vzlínající vlhkosti.
 ✅ Gloria pumpa je plně kompatibilní se všemi injektážními krémy z naší nabídky – včetně značek Remmers, Köster a Horizont (Horizon in Cream).
 🔧 Součástí balení jsou také profesionálně upravené injektážní trubice o délkách 50 cm a 100 cm, přizpůsobené pro přesné a rovnoměrné plnění vrtů.
 Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.👉 Odkaz na zápůjčku najdete zde.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/gloria-405-t-profiline-5l</URL>
+          <URL>https://www.stavbox.cz/products/gloria-405-t-profiline-5l?variant=52756540916049</URL>
           <PRICE_VAT>4645.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
@@ -1811,6 +1811,84 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004707216272</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm · 5l - zápůjčka</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pumpa, ideální volba pro injektážní práce s krémovými systémy proti vzlínající vlhkosti.
+✅ Gloria pumpa je plně kompatibilní se všemi injektážními krémy z naší nabídky – včetně značek Remmers, Köster a Horizont (Horizon in Cream).
+🔧 Součástí balení jsou také profesionálně upravené injektážní trubice o délkách 50 cm a 100 cm, přizpůsobené pro přesné a rovnoměrné plnění vrtů.
+Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.👉 Odkaz na zápůjčku najdete zde.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/gloria-405-t-profiline-5l?variant=52756540948817</URL>
+          <PRICE_VAT>4645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
+          <MANUFACTURER>Gloria</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>466902</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Pěstitelství | Zavlažování | Postřikovače</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm · 10l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pumpa, ideální volba pro injektážní práce s krémovými systémy proti vzlínající vlhkosti.
+✅ Gloria pumpa je plně kompatibilní se všemi injektážními krémy z naší nabídky – včetně značek Remmers, Köster a Horizont (Horizon in Cream).
+🔧 Součástí balení jsou také profesionálně upravené injektážní trubice o délkách 50 cm a 100 cm, přizpůsobené pro přesné a rovnoměrné plnění vrtů.
+Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.👉 Odkaz na zápůjčku najdete zde.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/gloria-405-t-profiline-5l?variant=52756540981585</URL>
+          <PRICE_VAT>4645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
+          <MANUFACTURER>Gloria</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>466903</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Pěstitelství | Zavlažování | Postřikovače</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Gloria 405 T Profiline · 5 l · včetně injektážní trubice 50 a 100 cm · 10l - zápůjčka</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pumpa, ideální volba pro injektážní práce s krémovými systémy proti vzlínající vlhkosti.
+✅ Gloria pumpa je plně kompatibilní se všemi injektážními krémy z naší nabídky – včetně značek Remmers, Köster a Horizont (Horizon in Cream).
+🔧 Součástí balení jsou také profesionálně upravené injektážní trubice o délkách 50 cm a 100 cm, přizpůsobené pro přesné a rovnoměrné plnění vrtů.
+Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.👉 Odkaz na zápůjčku najdete zde.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/gloria-405-t-profiline-5l?variant=52756541014353</URL>
+          <PRICE_VAT>4645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
+          <MANUFACTURER>Gloria</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>466904</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Pěstitelství | Zavlažování | Postřikovače</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -8343,7 +8421,7 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300616529</URL>
-          <PRICE_VAT>3303.0</PRICE_VAT>
+          <PRICE_VAT>3275.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -13747,7 +13825,7 @@ Barva: šedý prášek</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Schönox PGH · 1,04kg · </PRODUCTNAME>
+          <PRODUCTNAME>Schönox PGH · 1,02kg · </PRODUCTNAME>
           <DESCRIPTION>Speciální dvousložková polyesterová pryskyřice.
 2-složková opravná hmota vhodná pro vyplňování trhlin v potěrech a falešných spár, pro lepení hřebíkových lišt, kovových dílů a také přírodního a umělého kamene. Včetne příchytek pro renovaci potěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/schonox-pgh-1-02kg</URL>
