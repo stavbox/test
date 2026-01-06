@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 544 -->
-<!-- Total individual products: 250 -->
-<!-- Created: 2026-01-06 08:38:21 -->
+<!-- Total products+variants: 549 -->
+<!-- Total individual products: 253 -->
+<!-- Created: 2026-01-06 12:39:02 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -3699,7 +3699,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <PRICE_VAT>2495.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -12147,6 +12147,30 @@ Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperz
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Level-01 Primer · Hloubková akrylátová penetrace podlah · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Hloubková penetrace na minerální podklady.
+Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperze vhodná jako penetrace podkladů před nanášením cementových, vápenocementových, sádrových výrobků a dalších minerálních materiálů.
+✅ Proniká hluboko do struktury podkladu✅ Zabraňuje ztrátě vody do podkladu a tvorbě bublin v následné vrstvě✅ Zlepšuje soudržnost s podkladem a následnou vrstvou</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-level-01-primer?variant=52753505452369</URL>
+          <PRICE_VAT>4995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>442615</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>7612894984422</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
     
   
           <SHOPITEM>
@@ -13638,6 +13662,110 @@ Barva: bílá pasta / krém (po aplikaci je transparentní)</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7612894632804</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-700 S · Hydrofobní siloxanová impregnace betonu · 20l</PRODUCTNAME>
+          <DESCRIPTION>Vodoodpudivá impregnace na bázi silan/siloxanu.
+Sikagard®-700 S je 1komponentní vodoodpudivá impregnace pro savé cementové podklady. Výborně proniká do otevřených pórů podkladu, což zajišťuje dlouhodobou odolnost vůči vodě, přesto však je nátěr propustný pro vodní páru v obou směrech.Sikagard®-700 S splňuje požadavky normy EN 1504-2 pro hydrofobní impregnaci (hloubka průniku – třída I).
+✅ Snižuje kapilární nasákavost✅ Snižuje tvorbu výkvětů✅ Snižuje vnikání nečistot do pórů podkladu
+Barva: bezbarvá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-700-s?variant=52753189372241</URL>
+          <PRICE_VAT>8450.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-700-S-20L_opt.jpg?v=1767692483</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>5784</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4003923008753</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-700 S · Hydrofobní siloxanová impregnace betonu · 194l</PRODUCTNAME>
+          <DESCRIPTION>Vodoodpudivá impregnace na bázi silan/siloxanu.
+Sikagard®-700 S je 1komponentní vodoodpudivá impregnace pro savé cementové podklady. Výborně proniká do otevřených pórů podkladu, což zajišťuje dlouhodobou odolnost vůči vodě, přesto však je nátěr propustný pro vodní páru v obou směrech.Sikagard®-700 S splňuje požadavky normy EN 1504-2 pro hydrofobní impregnaci (hloubka průniku – třída I).
+✅ Snižuje kapilární nasákavost✅ Snižuje tvorbu výkvětů✅ Snižuje vnikání nečistot do pórů podkladu
+Barva: bezbarvá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-700-s?variant=52753189405009</URL>
+          <PRICE_VAT>73700.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-700-S-20L_opt.jpg?v=1767692483</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>151863</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894614114</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-102 Level · Samonivelační cementová stěrka na podlahy</PRODUCTNAME>
+          <DESCRIPTION>Cementová samonivelační stěrka pro tloušťky 2–15 mm.
+Sikafloor®-102 Level je cementový, polymery modifikovaný samonivelační a vyhlazovací podlahový potěr (stěrka) pro vyrovnání podkladů v interiérech.
+✅ Velmi dobrá tekutost a zpracovatelnost✅ Samonivelační konzistence✅ Velmi hladký a rovný povrch
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-102-level-25kg</URL>
+          <PRICE_VAT>480.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-102-Level_opt.jpg?v=1767695879</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>534391</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612895367811</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Schönox PGH · 1,04kg · </PRODUCTNAME>
+          <DESCRIPTION>Speciální dvousložková polyesterová pryskyřice.
+2-složková opravná hmota vhodná pro vyplňování trhlin v potěrech a falešných spár, pro lepení hřebíkových lišt, kovových dílů a také přírodního a umělého kamene. Včetne příchytek pro renovaci potěrů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-pgh-1-02kg</URL>
+          <PRICE_VAT>610.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-pgh_opt.jpg?v=1767699270</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>610690</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          <EAN>7612895561516</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
