@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 565 -->
-<!-- Total individual products: 256 -->
-<!-- Created: 2026-01-07 14:54:15 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 568 -->
+<!-- Total individual products: 258 -->
+<!-- Created: 2026-01-08 00:00:16 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -9614,19 +9614,76 @@ Barva: čirá až světle jantarová kapalina</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>799580</ITEM_ID>
-          <PRODUCTNAME>Sikagard® H 303 (bývalý MProtect H 303) · inhibitor koroze</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikagard® H 303 · Hydrofobní impregnace betonu na vodní bázi</PRODUCTNAME>
           <PRODUCT>Sikagard® H 303 (bývalý MProtect H 303) · 20 l - </PRODUCT>
           <DESCRIPTION>Hydrofobní impregnace betonu na bázi alkyl alkoxysilanu.
 Sikagard® H 303 je alkyl alkoxy silan na vodní bázi ve formě mléčně bílé kapaliny, která po aplikaci zprůhlední. Proniká hluboko do podkladu a chemicky reaguje v cementovém podkladu.
 ✅ Zlepšuje estetiku tím, že snižuje tvorbu výkvětů, růst řas a usazování nečistot, přičemž vzhled povrchu zůstává nezměněn.✅ Proniká hluboko do betonu.✅ Zabraňuje pronikání vody a chloridových iontů do betonu a chrání jej před poškozením mrazem a táním.
 Barva: mléčně bílá tekutina (po vytvrzení průhledná)</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sikagard®-h-303-byvaly-mprotect-h-303-20-l</URL>
+          <URL>https://www.stavbox.cz/products/sikagard-h-303-20l</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika-generic-02_opt.jpg?v=1767793518</IMGURL>
           <PRICE_VAT>9730.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>4049499004577</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>800862</ITEM_ID>
+          <PRODUCTNAME>Sika Sikagard® H 321 · Silan/siloxanový vodoodpudivý prostředek</PRODUCTNAME>
+          <PRODUCT>Sikagard® H 321 (bývalý MProtect H 321) · 20 l - </PRODUCT>
+          <DESCRIPTION>Silan/siloxanový bezbarvý vodoodpudivý prostředek na vodní bázi pro zděné povrchy.
+Sikagard® H 321 je jednosložková směs silanu a siloksanu na vodní bázi. Sikagard® H 321 proniká hluboko do podkladu, kde chemicky reaguje. Reakce začíná okamžitě, jakmile se účinné látky dostanou do kontaktu se substrátem. Doba reakce závisí na teplotě, vlhkosti a povaze podkladu. Na ošetřený povrch se krátce po aplikaci dostane voda Sikagard® H 321.
+Estetika✅ Zlepšuje estetiku tím, že snižuje tvorbu výkvětů, růst řas a usazování nečistot, přičemž vzhled povrchu zůstává nezměněn.
+Odolnost✅ Dlouhodobá ochrana díky hluboké penetraci✅ Odolný vůči ultrafialovému záření a kyselým dešťům✅ Bez vlivu na propustnost pro vodní páry
+Nákladově efektivní✅ Pouze jedna vrstva
+Snadná aplikace✅ Připraveno k použití, žádné ředění na místě zaručuje stálou kvalitu✅ Jednosložkový✅ Aplikační zařízení a rozlité látky se snadno čistí mýdlovou vodou
+Šetrný k životnímu prostředí✅ Na vodní bázi✅ Snižuje emise těkavých organických látek do ovzduší✅ Žádné nebezpečné výpary
+Barva: mléčně bílá tekutina, po nanesení zasychá neviditelně</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikagard-h-321-20l</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika-generic-02_opt.jpg?v=1767793518</IMGURL>
+          <PRICE_VAT>4600.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>3579560100408</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>525843</ITEM_ID>
+          <PRODUCTNAME>Sikafloor®-54 Booster · Urychlovač vytvrzování epoxidových podlah · 150ml</PRODUCTNAME>
+          <PRODUCT>Sikafloor®-54 Booster · 150ml - </PRODUCT>
+          <DESCRIPTION>Urychlovač vytvrzování pro podlahy z epoxidové pryskyřice.
+Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo. Přidává se do epoxidových pryskyřic Sikafloor® pro urychlení procesu vytvrzování.
+✅ Snadné přidávání a míchání do epoxidových pryskyřic Sikafloor®</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikafloor-54-booster?variant=52765475537233</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/preview_images/hqdefault_c0c88106-32e4-41a0-92be-32415b7558cf.jpg?v=1767798371</IMGURL>
+          <PRICE_VAT>475.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895330563</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>741240</ITEM_ID>
+          <PRODUCTNAME>Sikafloor®-54 Booster · Urychlovač vytvrzování epoxidových podlah · 6x800ml</PRODUCTNAME>
+          <PRODUCT>Sikafloor®-54 Booster · 6x800ml - </PRODUCT>
+          <DESCRIPTION>Urychlovač vytvrzování pro podlahy z epoxidové pryskyřice.
+Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo. Přidává se do epoxidových pryskyřic Sikafloor® pro urychlení procesu vytvrzování.
+✅ Snadné přidávání a míchání do epoxidových pryskyřic Sikafloor®</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikafloor-54-booster?variant=52765475570001</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/preview_images/hqdefault_c0c88106-32e4-41a0-92be-32415b7558cf.jpg?v=1767798371</IMGURL>
+          <PRICE_VAT>5860.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895875484</EAN>
         </SHOPITEM>
       
     
