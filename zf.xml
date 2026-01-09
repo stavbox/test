@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 584 -->
-<!-- Total individual products: 263 -->
-<!-- Created: 2026-01-09 10:46:07 -->
+<!-- Total products+variants: 593 -->
+<!-- Total individual products: 264 -->
+<!-- Created: 2026-01-09 17:36:51 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -37,7 +37,7 @@ Nejprodávanější hydroizolační stěrka používaná profesionály i kutily 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -86,7 +86,7 @@ Nejprodávanější hydroizolační stěrka používaná profesionály i kutily 
 Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279802193</URL>
           <PRICE_VAT>5255.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -230,7 +230,7 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
 Sanační omítka pro vlhké a zasolené zdivo. Paropropustná, odolná vůči síranům, ideální pro sklepy a staré budovy. WTA certifikát.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>741.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -614,7 +614,7 @@ Sanační porózní omítka pro vlhké zdivo. Absorbuje soli, paropropustná, WT
 Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká aplikace, WTA certifikát, účinný do 95% nasycení.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -880,7 +880,7 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
 Fajnová sanační omítka. Vhodné pro interiér i exteriér. Nízká alkalita, absorbuje soli, WTA certifikát. Ideální pro renovaci starých budov.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-Q2-25kg-fajnova-omitka-specialni.jpg?v=1755783214</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6878,7 +6878,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -14660,6 +14660,224 @@ Barva: světle šedáKonečný vzhled podlahy: lehce strukturovaný, matný povr
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 7001 (stříbrošedá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310345553</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>690649</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612895880075</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 7012 (čedičová šedá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310378321</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>690752</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612895879550</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 7032 (stěrková šedá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310411089</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>690583</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612895880358</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310443857</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>690585</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612895880341</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 7037 (prachová šedá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310476625</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>162836</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 7038 (achátová šedá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310509393</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>690595</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612895880327</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 9003 (signální bílá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310542161</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>155616</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612895600949</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 9010 (bílá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310574929</URL>
+          <PRICE_VAT>9485.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>152182</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>7612894675887</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard® WallCoat N ·  · RAL 9016 (dopravní bílá)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový nátěr na bázi vodní disperze.
+Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátěr na stěny, na vodní bázi.
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310607697</URL>
+          <PRICE_VAT>10260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>183957</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          <EAN>8428868002615</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
