@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 584 -->
 <!-- Total individual products: 263 -->
-<!-- Created: 2026-01-09 00:00:19 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-01-09 10:46:07 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -230,7 +230,7 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
 Sanační omítka pro vlhké a zasolené zdivo. Paropropustná, odolná vůči síranům, ideální pro sklepy a staré budovy. WTA certifikát.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>741.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -640,7 +640,7 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-plus?variant=52655151808849</URL>
           <PRICE_VAT>5440.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-PUReactive-plus-25kg-hydroizolace-strech-a-balkonu.jpg?v=1755778142</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -880,7 +880,7 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
 Fajnová sanační omítka. Vhodné pro interiér i exteriér. Nízká alkalita, absorbuje soli, WTA certifikát. Ideální pro renovaci starých budov.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-Q2-25kg-fajnova-omitka-specialni.jpg?v=1755783214</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5663,7 +5663,7 @@ Akrylová výplňová barva pro cihlové fasády starých budov. Překlenuje mik
 Vysoce prodyšná silikonová lazura pro renovaci památek a minerálních ploch. Má matný vzhled, vysokou vodoodpudivost i nízké pnutí. Reverzibilní a velmi odolná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-historic-specialni-odstiny?variant=52656096182609</URL>
           <PRICE_VAT>3410.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Historic-5l-historicka-barva-specialni-odstiny.jpg?v=1755876920</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
