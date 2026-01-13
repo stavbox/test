@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 643 -->
-<!-- Total individual products: 280 -->
-<!-- Created: 2026-01-13 13:00:35 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Total products+variants: 650 -->
+<!-- Total individual products: 283 -->
+<!-- Created: 2026-01-14 00:00:20 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -11013,7 +11013,7 @@ Balení:komponent A: 21kgkomponent B: 14kg</DESCRIPTION>
           <ITEM_ID>835291</ITEM_ID>
           <PRODUCTNAME>Sikalastic® M 811 · Stříkaná polymočovinová hydroizolační membrána</PRODUCTNAME>
           <PRODUCT>Sikalastic® M 811 · 430 kg - </PRODUCT>
-          <DESCRIPTION>Dvousložková (2K) polymočovinová hybridní, pigmentovaná, elastická, vysoce reaktivní, stříkaná (strojní aplikace) hydroizolační membrána s krátkou dobou vytvrzení..
+          <DESCRIPTION>Dvousložková (2K) polymočovinová hybridní, pigmentovaná, elastická, vysoce reaktivní, stříkaná (strojní aplikace) hydroizolační membrána s krátkou dobou vytvrzení.
 Sikalastic® M 811 je dvousložková hybridní polymočovinová hydroizolační membrána. Je vysoce reaktivní a musí se nanášet speciálním dvousložkovým stříkacím zařízením.
 ✅ Rychlá reakce✅ Vysoká konstrukční schopnost✅ Aplikace na svislý povrch bez pojezdů✅ Rychlá instalace✅ Monolitické - bez klínů, svarů a švů✅ Plně lepené
 Barva:komponent A:  tekutý / šedýkomponent B: tekutý / transparentní
@@ -11025,6 +11025,131 @@ Balení:komponent A: 210kgkomponent B: 220kg</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655103727</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>81170</ITEM_ID>
+          <PRODUCTNAME>Sika® NB 1 · Ošetřovací prostředek pro čerstvý beton bez rozpouštědel · 30kg</PRODUCTNAME>
+          <PRODUCT>Sika® NB 1 · 30kg - </PRODUCT>
+          <DESCRIPTION>Ochranný film bez rozpouštědel pro matově vlhké / čerstvě odbedněné betony.
+Nástřik kapalného ošetřovacího prostředku je výhodnou metodou ošetření čerstvých nebo mladých betonů, která zabraňuje ztrátám vody z betonu. Sika® NB 1 je vysoce účinná vosková emulze bez obsahu rozpouštědel, která po vytvrzení vytváří paropropustný ochranný film na betonovém povrchu. Jejím použitím lze dosáhnout následujících výhod:
+✅ Blokování povrchových pórů v betonu✅ Ochrana proti dehydrataci a odpařování✅ Ochrana proti vzniku smršťovacích trhlin
+Barva: bílá tekutina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-nb-1?variant=52815169225041</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-NB-1_opt.jpg?v=1768318506</IMGURL>
+          <PRICE_VAT>5730.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894329155</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>81171</ITEM_ID>
+          <PRODUCTNAME>Sika® NB 1 · Ošetřovací prostředek pro čerstvý beton bez rozpouštědel · 190kg</PRODUCTNAME>
+          <PRODUCT>Sika® NB 1 · 190kg - </PRODUCT>
+          <DESCRIPTION>Ochranný film bez rozpouštědel pro matově vlhké / čerstvě odbedněné betony.
+Nástřik kapalného ošetřovacího prostředku je výhodnou metodou ošetření čerstvých nebo mladých betonů, která zabraňuje ztrátám vody z betonu. Sika® NB 1 je vysoce účinná vosková emulze bez obsahu rozpouštědel, která po vytvrzení vytváří paropropustný ochranný film na betonovém povrchu. Jejím použitím lze dosáhnout následujících výhod:
+✅ Blokování povrchových pórů v betonu✅ Ochrana proti dehydrataci a odpařování✅ Ochrana proti vzniku smršťovacích trhlin
+Barva: bílá tekutina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-nb-1?variant=52815169257809</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-NB-1_opt.jpg?v=1768318506</IMGURL>
+          <PRICE_VAT>30490.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894329162</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>81173</ITEM_ID>
+          <PRODUCTNAME>Sika® NB 1 · Ošetřovací prostředek pro čerstvý beton bez rozpouštědel · 900kg</PRODUCTNAME>
+          <PRODUCT>Sika® NB 1 · 900kg - </PRODUCT>
+          <DESCRIPTION>Ochranný film bez rozpouštědel pro matově vlhké / čerstvě odbedněné betony.
+Nástřik kapalného ošetřovacího prostředku je výhodnou metodou ošetření čerstvých nebo mladých betonů, která zabraňuje ztrátám vody z betonu. Sika® NB 1 je vysoce účinná vosková emulze bez obsahu rozpouštědel, která po vytvrzení vytváří paropropustný ochranný film na betonovém povrchu. Jejím použitím lze dosáhnout následujících výhod:
+✅ Blokování povrchových pórů v betonu✅ Ochrana proti dehydrataci a odpařování✅ Ochrana proti vzniku smršťovacích trhlin
+Barva: bílá tekutina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-nb-1?variant=52815169290577</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-NB-1_opt.jpg?v=1768318506</IMGURL>
+          <PRICE_VAT>115750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894329186</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>681825</ITEM_ID>
+          <PRODUCTNAME>Sikafloor®-931 Finishing Aid · Prostředek pro dokončování betonu · 25kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-931 Finishing Aid · 25kg - </PRODUCT>
+          <DESCRIPTION>Prostředek pro vytvrzování, zpevnění a povrchovou úpravu betonových podlah.
+Sikafloor®-931 Finishing Aid je prostředek na bázi koloidního oxidu křemičitého, který zjednodušuje a urychluje proces vyhlazování a dokončování betonových podlah. Výrobek umožňuje efektivní aplikaci většího množství prášku pro suché stěrkování, což vede k tomu, že výsledný povrch podlahy je hustší, tvrdší a lesklejší.
+✅ Velmi dobré zlepšení zpracovatelnosti s malým nebo žádným úbytkem vody.✅ Snižuje riziko delaminace povrchu✅ Zvyšuje lesk a hustotu povrchu podlahy✅ Prodlužuje a usnadňuje zapracování vsypu při vyšších teplotách✅ Nízký zápach✅ Zvyšuje odolnost proti oděru a trvanlivost
+Barva: mléčně bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-931-finishing-aid?variant=52816403530065</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-931-Finishing-Aid_opt.jpg?v=1768330166</IMGURL>
+          <PRICE_VAT>4910.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895720395</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>681826</ITEM_ID>
+          <PRODUCTNAME>Sikafloor®-931 Finishing Aid · Prostředek pro dokončování betonu · 200kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-931 Finishing Aid · 200kg - </PRODUCT>
+          <DESCRIPTION>Prostředek pro vytvrzování, zpevnění a povrchovou úpravu betonových podlah.
+Sikafloor®-931 Finishing Aid je prostředek na bázi koloidního oxidu křemičitého, který zjednodušuje a urychluje proces vyhlazování a dokončování betonových podlah. Výrobek umožňuje efektivní aplikaci většího množství prášku pro suché stěrkování, což vede k tomu, že výsledný povrch podlahy je hustší, tvrdší a lesklejší.
+✅ Velmi dobré zlepšení zpracovatelnosti s malým nebo žádným úbytkem vody.✅ Snižuje riziko delaminace povrchu✅ Zvyšuje lesk a hustotu povrchu podlahy✅ Prodlužuje a usnadňuje zapracování vsypu při vyšších teplotách✅ Nízký zápach✅ Zvyšuje odolnost proti oděru a trvanlivost
+Barva: mléčně bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-931-finishing-aid?variant=52816403562833</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-931-Finishing-Aid_opt.jpg?v=1768330166</IMGURL>
+          <PRICE_VAT>33880.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895720388</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>750638</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-958 PG · Ochrana leštěných beton. podlah proti skvrnám · 5kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-958 PG · 5kg - </PRODUCT>
+          <DESCRIPTION>Vodoodpudivý polymerní prostředek pro ochranu leštěných betonových podlah odolný proti skvrnám.
+Sikafloor®-958 PG (CZ) je 1-komponentní, zhutňující, vodoodpudivý, skvrny blokující polymerní prostředek. Používá se k ochraně a konzervaci hladce broušených a leštěných betonových povrchů. Vytváří tenký, otěruvzdorný a trvanlivý film s dobrou propustností vlhkosti.
+✅ Dobrá odolnost proti skvrnám✅ Nízký zápach✅ Velmi dobrá odolnost proti žloutnutí
+Barva:vzhled a barva: bělavá kapalinabarva po vytvrzení: bezbarvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-958-pg?variant=52816609968465</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-958-pg_opt.jpg?v=1768332899</IMGURL>
+          <PRICE_VAT>3410.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895903583</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>750637</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-958 PG · Ochrana leštěných beton. podlah proti skvrnám · 15kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-958 PG · 15kg - </PRODUCT>
+          <DESCRIPTION>Vodoodpudivý polymerní prostředek pro ochranu leštěných betonových podlah odolný proti skvrnám.
+Sikafloor®-958 PG (CZ) je 1-komponentní, zhutňující, vodoodpudivý, skvrny blokující polymerní prostředek. Používá se k ochraně a konzervaci hladce broušených a leštěných betonových povrchů. Vytváří tenký, otěruvzdorný a trvanlivý film s dobrou propustností vlhkosti.
+✅ Dobrá odolnost proti skvrnám✅ Nízký zápach✅ Velmi dobrá odolnost proti žloutnutí
+Barva:vzhled a barva: bělavá kapalinabarva po vytvrzení: bezbarvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-958-pg?variant=52816610001233</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-958-pg_opt.jpg?v=1768332899</IMGURL>
+          <PRICE_VAT>9265.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895903590</EAN>
         </SHOPITEM>
       
     
