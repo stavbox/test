@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 650 -->
-<!-- Total individual products: 283 -->
-<!-- Created: 2026-01-14 14:07:12 -->
+<!-- Total products+variants: 654 -->
+<!-- Total individual products: 286 -->
+<!-- Created: 2026-01-14 21:36:51 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -180,7 +180,7 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
 Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny a základy před vlhkostními škodami a solnou degradací.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -12091,6 +12091,29 @@ Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpou�
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® ProSeal-12 · Utěsnění a vytvrzení betonových podlah · 200l</PRODUCTNAME>
+          <DESCRIPTION>Těsnicí, ošetřujicí a vytvrzujicí přípravek na betonové povrchy.
+Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12?variant=52822186950993</URL>
+          <PRICE_VAT>53990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>405151</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          <EAN>7612894794243</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
     
   
           <SHOPITEM>
@@ -16372,6 +16395,87 @@ Barva:vzhled a barva: bělavá kapalinabarva po vytvrzení: bezbarvá</DESCRIPTI
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7612895903590</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® Comfort Adhesive · Polyuretanové lepidlo pro podložky</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní polyuretanové lepidlo, součást systému řady Sika ComfortFloor®.
+Sikafloor® Comfort Adhesive je 2-komponentní, pevné polyuretanové lepidlo s nízkým obsahem VOC. Používá se k lepení zvukově izolačních pryžových podložek Sikafloor® Comfort Regupol-6015 H a Sikafloor® Comfort Regupol-4580.
+✅ Dobrá přídržnost✅ Nízký obsah VOC✅ Bez smrštění po vytvrzení
+Barva:komponent A: světle šedákomponent B: hnědá, transparentníbarva po vytvrzeníň: světle šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-comfort-adhesive-20kg</URL>
+          <PRICE_VAT>5885.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Comfort-Adhesive_opt.jpg?v=1768397611</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>174000</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894737325</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® Comfort Porefiller · PU zátěr a vyrovnávací směs</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní polyuretanový zátěr, součást systému Sika ComfortFloor®.
+Sikafloor® Comfort Porefiller je 2-komponentní zátěr a vyrovnávací směs na bázi polyuretanu, 100 % pevných částic, s nízkým obsahem VOC.
+✅ Dobrá přídržnost✅ Nízký obsah VOC✅ Nehořlavý
+Barva:komponent A - pryskyřice: světle šedá kapalinakomponent B - tvrdidlo: hnědá, transparentní kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-comfort-porefiller-20kg</URL>
+          <PRICE_VAT>7160.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Comfort-Poorefiller_opt.jpg?v=1768401225</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>174003</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894737318</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor® Comfort Regupol-6015 H · Pryžová tlumicí podložka</PRODUCTNAME>
+          <DESCRIPTION>Pryžová tlumicí podložka jako součást řady podlahových krytin Sika ComfortFloor®.
+Sikafloor® Comfort Regupol-6015 H prefabrikovaná pryžová tlumicí podložka vyrobená spojením pryžové drti s polyuretanovou směsí.
+✅ Trvale elastická✅ Tlumení nárazů a zvuku✅ Vysoká tvrdost
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-comfort-regupol-6015-h</URL>
+          <PRICE_VAT>16050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-comfort-regupol-6015-h_opt.jpg?v=1768403874</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>520822</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612895318059</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
