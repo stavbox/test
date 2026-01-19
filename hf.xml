@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 658 -->
-<!-- Total individual products: 289 -->
-<!-- Created: 2026-01-19 15:16:30 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 666 -->
+<!-- Total individual products: 291 -->
+<!-- Created: 2026-01-20 00:00:17 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -594,7 +594,7 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
           <SHOPITEM>
           <ITEM_ID>040825</ITEM_ID>
           <PRODUCTNAME>Remmers SP Top Q2 · 25 kg · Sanační omítka podle WTA</PRODUCTNAME>
-          <PRODUCT>Remmers SP Top Q2 · 25 kg · smetanově bílý - Fajnová omítka speciální</PRODUCT>
+          <PRODUCT>Remmers SP Top Q2 (Feinputz) · 25 kg · smetanově bílý - Fajnová omítka speciální</PRODUCT>
           <DESCRIPTION>Sanační omítka podle WTA
 Fajnová sanační omítka. Vhodné pro interiér i exteriér. Nízká alkalita, absorbuje soli, WTA certifikát. Ideální pro renovaci starých budov.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
@@ -11283,8 +11283,8 @@ Barva:komponent A - pryskyřice: barevná kapalinakomponent B - tvrdidlo: transp
   
           <SHOPITEM>
           <ITEM_ID>799974</ITEM_ID>
-          <PRODUCTNAME>Sikafloor®-329 · Elastická polyuretanová podkladní stěrka</PRODUCTNAME>
-          <PRODUCT>Sikafloor®-329 (bývalý MTop BC 329) · 14,98 kg - </PRODUCT>
+          <PRODUCTNAME>Sika Sikafloor®-329 · Elastická polyuretanová podkladní stěrka</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-329 (bývalý MTop BC 329) · 14,98 kg - </PRODUCT>
           <DESCRIPTION>Elastická polyuretanová podkladní podlahová stěrka.
 Sikafloor®-329 je dvousložková, elastická, samonivelační polyuretanová podkladní stěrka bez rozpouštědel. Poskytuje akustickou izolaci pro snížení kročejového hluku.
 ✅ Snižuje hluk při došlapu a kontaktní hluk✅ Měkký podklad✅ Dobrá schopnost přemostění trhlin
@@ -11296,6 +11296,138 @@ Barva:komponent A: barevnékomponent B: světle hnědá, průhlednávytvrzený v
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894908664</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>799993</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 N · Elastická samonivelační podlahová stěrka · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 N (bývalý MTop BC 375N) · 30 kg · RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
+Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvousložková, pigmentovaná, samonivelační stěrka.
+✅ Vynikající samonivelační a mechanické vlastnosti✅ Odolný proti otěru a proti opotřebení✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-n-30kg?variant=52851689193809</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375N_opt.jpg?v=1768845200</IMGURL>
+          <PRICE_VAT>9495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894966657</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>799994</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 N · Elastická samonivelační podlahová stěrka · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 N (bývalý MTop BC 375N) · 30 kg · RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
+Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvousložková, pigmentovaná, samonivelační stěrka.
+✅ Vynikající samonivelační a mechanické vlastnosti✅ Odolný proti otěru a proti opotřebení✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-n-30kg?variant=52851689226577</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375N_opt.jpg?v=1768845200</IMGURL>
+          <PRICE_VAT>9495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894908756</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>837179</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 N · Elastická samonivelační podlahová stěrka · Pastel</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 N (bývalý MTop BC 375N) · 30 kg · Pastel - </PRODUCT>
+          <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
+Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvousložková, pigmentovaná, samonivelační stěrka.
+✅ Vynikající samonivelační a mechanické vlastnosti✅ Odolný proti otěru a proti opotřebení✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-n-30kg?variant=52851689259345</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375N_opt.jpg?v=1768845200</IMGURL>
+          <PRICE_VAT>9990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655108265</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>837281</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 N · Elastická samonivelační podlahová stěrka · Světlá / více barev</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 N (bývalý MTop BC 375N) · 30 kg · Světlá / více barev - </PRODUCT>
+          <DESCRIPTION>2komponentní, houževnatě elastická, samonivelační podlaha, s nízkým obsahem VOC.
+Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvousložková, pigmentovaná, samonivelační stěrka.
+✅ Vynikající samonivelační a mechanické vlastnosti✅ Odolný proti otěru a proti opotřebení✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-n-30kg?variant=52851689292113</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375N_opt.jpg?v=1768845200</IMGURL>
+          <PRICE_VAT>11065.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655108463</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>800331</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 NAS · Antistatická samonivelační PU podlaha · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 NAS (bývalý MTop BC 375NAS) · 30 kg · RAL 7032 (štěrková šedá) - </PRODUCT>
+          <DESCRIPTION>Dvousložkový, pigmentovaný, antistatický, bezrozpouštědlový, nízkoemisní, samonivelační PU nátěr s vlastnostmi přemostění trhlin.
+Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, předplněný, dvousložkový samonivelační polyuretanový podlahový nátěr.
+✅ Vynikající mechanické a antistatické vlastnosti✅ Dobrá otěruvzdornost✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-nas-30kg?variant=52852304544081</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375-NAS_opt.jpg?v=1768854997</IMGURL>
+          <PRICE_VAT>10220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894969634</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>809312</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 NAS · Antistatická samonivelační PU podlaha · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 NAS (bývalý MTop BC 375NAS) · 30 kg · RAL 7035 (světle šedá) - </PRODUCT>
+          <DESCRIPTION>Dvousložkový, pigmentovaný, antistatický, bezrozpouštědlový, nízkoemisní, samonivelační PU nátěr s vlastnostmi přemostění trhlin.
+Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, předplněný, dvousložkový samonivelační polyuretanový podlahový nátěr.
+✅ Vynikající mechanické a antistatické vlastnosti✅ Dobrá otěruvzdornost✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-nas-30kg?variant=52852304576849</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375-NAS_opt.jpg?v=1768854997</IMGURL>
+          <PRICE_VAT>9495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894995039</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>837159</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 NAS · Antistatická samonivelační PU podlaha · Pastel</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 NAS (bývalý MTop BC 375NAS) · 30 kg · Pastel - </PRODUCT>
+          <DESCRIPTION>Dvousložkový, pigmentovaný, antistatický, bezrozpouštědlový, nízkoemisní, samonivelační PU nátěr s vlastnostmi přemostění trhlin.
+Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, předplněný, dvousložkový samonivelační polyuretanový podlahový nátěr.
+✅ Vynikající mechanické a antistatické vlastnosti✅ Dobrá otěruvzdornost✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-nas-30kg?variant=52852304609617</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375-NAS_opt.jpg?v=1768854997</IMGURL>
+          <PRICE_VAT>10745.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655108722</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>837226</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® BC 375 NAS · Antistatická samonivelační PU podlaha · Světlá / více barev</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® BC 375 NAS (bývalý MTop BC 375NAS) · 30 kg · Světlá / více barev - </PRODUCT>
+          <DESCRIPTION>Dvousložkový, pigmentovaný, antistatický, bezrozpouštědlový, nízkoemisní, samonivelační PU nátěr s vlastnostmi přemostění trhlin.
+Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, předplněný, dvousložkový samonivelační polyuretanový podlahový nátěr.
+✅ Vynikající mechanické a antistatické vlastnosti✅ Dobrá otěruvzdornost✅ Snadno se čistí a udržuje</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-nas-30kg?variant=52852304642385</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375-NAS_opt.jpg?v=1768854997</IMGURL>
+          <PRICE_VAT>11820.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655107947</EAN>
         </SHOPITEM>
       
     
