@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 726 -->
-<!-- Total individual products: 314 -->
-<!-- Created: 2026-01-22 00:00:18 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 730 -->
+<!-- Total individual products: 315 -->
+<!-- Created: 2026-01-22 09:35:29 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -18291,6 +18291,108 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
 
           <EAN>7612895064291</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · světle šedý</PRODUCTNAME>
+          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
+Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
+Poznámka: Výrobek smí používat pouze zkušení odborníci..
+✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235731793</URL>
+          <PRICE_VAT>655.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · žlutý</PRODUCTNAME>
+          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
+Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
+Poznámka: Výrobek smí používat pouze zkušení odborníci..
+✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235764561</URL>
+          <PRICE_VAT>680.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · přírodní šedý</PRODUCTNAME>
+          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
+Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
+Poznámka: Výrobek smí používat pouze zkušení odborníci..
+✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235797329</URL>
+          <PRICE_VAT>460.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · bílý</PRODUCTNAME>
+          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
+Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
+Poznámka: Výrobek smí používat pouze zkušení odborníci..
+✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235830097</URL>
+          <PRICE_VAT>800.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
