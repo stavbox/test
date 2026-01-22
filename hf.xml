@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 730 -->
-<!-- Total individual products: 315 -->
-<!-- Created: 2026-01-22 09:35:28 -->
+<!-- Total products+variants: 735 -->
+<!-- Total individual products: 321 -->
+<!-- Created: 2026-01-22 14:30:36 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -12466,48 +12466,32 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · světle šedý</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® QuartzTop-100 (bývalý MTop 100) · 25 kg · světle šedý - </PRODUCT>
+          <ITEM_ID>801203</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® QuartzTop-100 · Minerální vsyp pro průmyslové podlahy</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® QuartzTop-100 (bývalý MTop 100) · 25 kg - </PRODUCT>
           <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
 Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
 Poznámka: Výrobek smí používat pouze zkušení odborníci..
 ✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235731793</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-quartztop-100-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
-          <PRICE_VAT>655.0</PRICE_VAT>
+          <PRICE_VAT>430.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
         </SHOPITEM>
       
+    
+  
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · žlutý</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® QuartzTop-100 (bývalý MTop 100) · 25 kg · žlutý - </PRODUCT>
-          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
-Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
-Poznámka: Výrobek smí používat pouze zkušení odborníci..
-✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235764561</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
-          <PRICE_VAT>680.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          
-        </SHOPITEM>
-      
-          <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · přírodní šedý</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® QuartzTop-100 (bývalý MTop 100) · 25 kg · přírodní šedý - </PRODUCT>
-          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
-Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
-Poznámka: Výrobek smí používat pouze zkušení odborníci..
-✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235797329</URL>
+          <ITEM_ID>811894</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® SynTop-800 · Vsyp se syntetickými-minerálními agregáty · cementově šedý</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® SynTop-800 (bývalý MTop 800) · 25 kg · cementově šedý - </PRODUCT>
+          <DESCRIPTION>Cementový vsyp na bázi syntetických a minerálních agregátů.
+Sikafloor® SynTop-800 je předem namíchaný vsyp připravený k použití. Aplikuje se ručně. Sikafloor® SynTop-800 obsahuje hydraulické pojivo a vysoký podíl frakcí minerálních a syntetických agregátů na bázi speciálních slinutých oxidů.
+✅ Vysoká odolnost proti obrusu (až 3x vyšší životnost ve srovnání s normálním betonem)✅ Snižuje náklady na údržbu✅ Vysoce kompaktní povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-syntop-800-25kg?variant=52872105132369</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
           <PRICE_VAT>460.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -12517,20 +12501,129 @@ Poznámka: Výrobek smí používat pouze zkušení odborníci..
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10592582631761</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2 SynTop · Vsyp pro pancéřové betonové podlahy · bílý</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor® QuartzTop-100 (bývalý MTop 100) · 25 kg · bílý - </PRODUCT>
-          <DESCRIPTION>Minerální vsyp pro průmyslové podlahy.
-Sikafloor® QuartzTop-100 je předmíchaný minerální vsyp, který obsahuje hydraulické pojivo a vysoký obsah speciálního tříděného minerálního kameniva. Sikafloor® QuartzTop-100 obsahuje čistá křemičitá plniva.
-Poznámka: Výrobek smí používat pouze zkušení odborníci..
-✅ Nízká pórovitost v důsledku maximální kompaktnosti✅ Vysoká odolnost proti oděru✅ Snadné čištění</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikafloor®-quartztop-100-byvaly-mtop-100-25-kg?variant=52871235830097</URL>
+          <ITEM_ID>801175</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor® SynTop-800 · Vsyp se syntetickými-minerálními agregáty · světle šedý (RAL 7035)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor® SynTop-800 (bývalý MTop 800) · 25 kg · světle šedý (RAL 7035) - </PRODUCT>
+          <DESCRIPTION>Cementový vsyp na bázi syntetických a minerálních agregátů.
+Sikafloor® SynTop-800 je předem namíchaný vsyp připravený k použití. Aplikuje se ručně. Sikafloor® SynTop-800 obsahuje hydraulické pojivo a vysoký podíl frakcí minerálních a syntetických agregátů na bázi speciálních slinutých oxidů.
+✅ Vysoká odolnost proti obrusu (až 3x vyšší životnost ve srovnání s normálním betonem)✅ Snižuje náklady na údržbu✅ Vysoce kompaktní povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-syntop-800-25kg?variant=52872105165137</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
-          <PRICE_VAT>800.0</PRICE_VAT>
+          <PRICE_VAT>460.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>042325</ITEM_ID>
+          <PRODUCTNAME>Remmers WP DKS rapid · Rychletuhnoucí hydroizolační těsnicí malta</PRODUCTNAME>
+          <PRODUCT>Remmers WP DKS rapid · 25 kg - </PRODUCT>
+          <DESCRIPTION>Rychletuhnoucí hydroizolační stěrka.
+Rychletuhnoucí hydroizolační těsnicí malta pro sanaci sklepů a suterénů. Rychlé tuhnutí, vysoká vodotěsnost. Pro utěsnění proti tlakové vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-wp-dks-rapid-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/WP-DKS-rapid_dl_sbx.jpg?v=1769079481</IMGURL>
+          <PRICE_VAT>1520.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <EAN>4004707207874</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>498431</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-02 Primer · Akrylátový primer pro nenasákavé podklady</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-02 Primer · 5 kg - </PRODUCT>
+          <DESCRIPTION>1komponentní, speciální primer na bázi akrylátu, penetrace před aplikací cementové vyrovnávací stěrky a lepidla na obklady a dlažbu.
+Sikafloor®-02 Primer je speciální primer na bázi akrylátu, s velmi nízkými emisemi, určen pro zdravé, pevné, hladké a nenasákavé podklady. Pouze pro použití v interiéru.
+✅ 1komponentní✅ Poskytuje optimální přilnavost na nenasákavých podkladech✅ Dobrá odolnost proti skluzu
+Barva: tyrkysová</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-02-primer-5kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-02-primer_opt.jpg?v=1769081555</IMGURL>
+          <PRICE_VAT>830.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895239217</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>405043</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-1 MetalTop · Kovový vsyp pro extrémní zatížení</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-1 MetalTop · 25 kg - </PRODUCT>
+          <DESCRIPTION>Vsyp pro pancéřové betonové podlahy s extrémní provozní zátěží.
+Sikafloor®-1 MetalTop je 1komponentní předmíchaná prášková směs obsahující cement, tříděná tvrdá plniva na bázi neoxidujících kovů a kompatibilní přísady.
+✅ Nejvyšší odolnosti vůči provoznímu zatížení✅ Výborná odolnost proti rázům✅ Nebarví, nerezaví
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-1-metaltop-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-1-MetalTop_opt.jpg?v=1769082976</IMGURL>
+          <PRICE_VAT>945.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894793550</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>649322</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-1020 Anhydrite Screed · Samonivel. anhydritový potěr · 25kg (pytel)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-1020 Anhydrite Screed · 25kg (pytel) - </PRODUCT>
+          <DESCRIPTION>Anhydritový potěr 20 MPa.
+Sikafloor®-1020 Anhydrite Screed je samonivelační anhydritový potěrový materiál s pevností 20 MPa pro vnitřní použití.
+✅ Samonivelující, s vynikající schopností zatékání✅ Vysoká rovinatost povrchu (s tolerancí 2 mm/2 m)✅ Není nutná další vyrovnávací stěrka
+Barva: béžový prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-1020-anhydrite-screed?variant=52872769208657</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <PRICE_VAT>220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895655420</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>649321</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-1020 Anhydrite Screed · Samonivel. anhydritový potěr · 5000kg (volně ložené strojním zařízením TransMix)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-1020 Anhydrite Screed · 5000kg (volně ložené strojním zařízením TransMix) - </PRODUCT>
+          <DESCRIPTION>Anhydritový potěr 20 MPa.
+Sikafloor®-1020 Anhydrite Screed je samonivelační anhydritový potěrový materiál s pevností 20 MPa pro vnitřní použití.
+✅ Samonivelující, s vynikající schopností zatékání✅ Vysoká rovinatost povrchu (s tolerancí 2 mm/2 m)✅ Není nutná další vyrovnávací stěrka
+Barva: béžový prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-1020-anhydrite-screed?variant=52872944189777</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <PRICE_VAT>39690.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895655413</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>649299</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-1030 Anhydrite Screed · Samonivel. anhydritový potěr · 5000kg (volně ložené strojním zařízením TransMix)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-1030 Anhydrite Screed · 5000kg (volně ložené strojním zařízením TransMix) - </PRODUCT>
+          <DESCRIPTION>Anhydritový potěr 30 MPa.
+Sikafloor®-1030 Anhydrite Screed je samonivelační anhydritový potěrový materiál s pevností 30 MPa pro vnitřní použití.
+✅ Samonivelující, s vynikající schopností zatékání✅ Vysoká rovinatost povrchu (s tolerancí 2 mm/2 m)✅ Není nutná další vyrovnávací stěrka
+Barva: béžový prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor®-1030-anhydrite-screed</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika_generic-bag-pytel_02_opt.jpg?v=1769070536</IMGURL>
+          <PRICE_VAT>47450.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895655192</EAN>
         </SHOPITEM>
       
     
