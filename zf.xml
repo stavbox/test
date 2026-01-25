@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 762 -->
-<!-- Total individual products: 341 -->
-<!-- Created: 2026-01-25 00:00:20 -->
+<!-- Total products+variants: 769 -->
+<!-- Total individual products: 344 -->
+<!-- Created: 2026-01-26 00:00:18 -->
 <!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -16307,13 +16307,13 @@ Balení:komponent A: 21kgkomponent B: 14kg</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Sika Sikalastic® M 811 · Stříkaná polymočovinová hydroizolační membrána</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikalastic® M 811 · Stříkaná polymočovinová hydroizolační membrána · komp. A+B - 430kg</PRODUCTNAME>
           <DESCRIPTION>Dvousložková (2K) polymočovinová hybridní, pigmentovaná, elastická, vysoce reaktivní, stříkaná (strojní aplikace) hydroizolační membrána s krátkou dobou vytvrzení.
 Sikalastic® M 811 je dvousložková hybridní polymočovinová hydroizolační membrána. Je vysoce reaktivní a musí se nanášet speciálním dvousložkovým stříkacím zařízením.
 ✅ Rychlá reakce✅ Vysoká konstrukční schopnost✅ Aplikace na svislý povrch bez pojezdů✅ Rychlá instalace✅ Monolitické - bez klínů, svarů a švů✅ Plně lepené
 Barva:komponent A:  tekutý / šedýkomponent B: tekutý / transparentní
 Balení:komponent A: 210kgkomponent B: 220kg</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikalastic-m-811-430kg</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-m-811-430kg?variant=52897863139665</URL>
           <PRICE_VAT>252000.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikalastic-m-811_opt.jpg?v=1768304817</IMGURL>
@@ -16329,6 +16329,58 @@ Balení:komponent A: 210kgkomponent B: 220kg</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7612655103727</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikalastic® M 811 · Stříkaná polymočovinová hydroizolační membrána · komp. A - 210kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková (2K) polymočovinová hybridní, pigmentovaná, elastická, vysoce reaktivní, stříkaná (strojní aplikace) hydroizolační membrána s krátkou dobou vytvrzení.
+Sikalastic® M 811 je dvousložková hybridní polymočovinová hydroizolační membrána. Je vysoce reaktivní a musí se nanášet speciálním dvousložkovým stříkacím zařízením.
+✅ Rychlá reakce✅ Vysoká konstrukční schopnost✅ Aplikace na svislý povrch bez pojezdů✅ Rychlá instalace✅ Monolitické - bez klínů, svarů a švů✅ Plně lepené
+Barva:komponent A:  tekutý / šedýkomponent B: tekutý / transparentní
+Balení:komponent A: 210kgkomponent B: 220kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-m-811-430kg?variant=52897863172433</URL>
+          <PRICE_VAT>123000.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikalastic-m-811_opt.jpg?v=1768304817</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799289</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894958867</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika Sikalastic® M 811 · Stříkaná polymočovinová hydroizolační membrána · komp. B - 220kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková (2K) polymočovinová hybridní, pigmentovaná, elastická, vysoce reaktivní, stříkaná (strojní aplikace) hydroizolační membrána s krátkou dobou vytvrzení.
+Sikalastic® M 811 je dvousložková hybridní polymočovinová hydroizolační membrána. Je vysoce reaktivní a musí se nanášet speciálním dvousložkovým stříkacím zařízením.
+✅ Rychlá reakce✅ Vysoká konstrukční schopnost✅ Aplikace na svislý povrch bez pojezdů✅ Rychlá instalace✅ Monolitické - bez klínů, svarů a švů✅ Plně lepené
+Barva:komponent A:  tekutý / šedýkomponent B: tekutý / transparentní
+Balení:komponent A: 210kgkomponent B: 220kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-m-811-430kg?variant=52897882603857</URL>
+          <PRICE_VAT>121350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikalastic-m-811_opt.jpg?v=1768304817</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799276</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894951271</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -19227,6 +19279,136 @@ S přístrojem SikaBond® Dispenser je možné pokládat lepidlo SikaBond®-52 P
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7612895510286</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaSwell® A · Bobtnající těsnící profily na akrylové bázi · 2005 (20m role)</PRODUCTNAME>
+          <DESCRIPTION>Bobtnající těsnící profily.
+Těsnící profily na akrylové bázi, při styku s vodou bobtnají.
+✅ Snadná aplikace✅ Aplikovatelný na různé typy podkladů✅ Cenově přijatelný
+Barva: červené, při styku s vodou bobtnající profily na akrylové bázi</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaswell-a?variant=52895501713745</URL>
+          <PRICE_VAT>5975.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaSwell-A_opt.jpg?v=1769343184</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>169788</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894691832</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaSwell® A · Bobtnající těsnící profily na akrylové bázi · 2010 (10m role)</PRODUCTNAME>
+          <DESCRIPTION>Bobtnající těsnící profily.
+Těsnící profily na akrylové bázi, při styku s vodou bobtnají.
+✅ Snadná aplikace✅ Aplikovatelný na různé typy podkladů✅ Cenově přijatelný
+Barva: červené, při styku s vodou bobtnající profily na akrylové bázi</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaswell-a?variant=52895501746513</URL>
+          <PRICE_VAT>2995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaSwell-A_opt.jpg?v=1769343184</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>169890</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894691887</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaSwell® S-2 · Hydrofilní bobtnající těsnicí tmel na spáry · 300ml</PRODUCTNAME>
+          <DESCRIPTION>Hydrofilní bobtnající těsnicí tmel na spáry.
+SikaSwell® S-2 je 1-komponentní polyuretanový hydrofilní těsnicí tmel, který při styku s vodou bobtná a utěsňuje všechny typy pracovních spár a prostupů v betonových konstrukcích. Používá se k fixaci profilů SikaSwell® A a SikaSwell® P ke konstrukci.
+✅  1-komponentní, snadno a rychle se aplikuje✅ Vysoce ekonomické řešení pro utěsnění spár ✅ Univerzální řešení pro spáry a detaily
+Barva: oxidovaná červená</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaswell-s-2?variant=52895689769297</URL>
+          <PRICE_VAT>540.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaSwell-S2_opt.jpg?v=1769345257</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>184789</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894765670</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaSwell® S-2 · Hydrofilní bobtnající těsnicí tmel na spáry · 600ml</PRODUCTNAME>
+          <DESCRIPTION>Hydrofilní bobtnající těsnicí tmel na spáry.
+SikaSwell® S-2 je 1-komponentní polyuretanový hydrofilní těsnicí tmel, který při styku s vodou bobtná a utěsňuje všechny typy pracovních spár a prostupů v betonových konstrukcích. Používá se k fixaci profilů SikaSwell® A a SikaSwell® P ke konstrukci.
+✅  1-komponentní, snadno a rychle se aplikuje✅ Vysoce ekonomické řešení pro utěsnění spár ✅ Univerzální řešení pro spáry a detaily
+Barva: oxidovaná červená</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaswell-s-2?variant=52895689802065</URL>
+          <PRICE_VAT>1070.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaSwell-S2_opt.jpg?v=1769345257</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>496478</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612895229393</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika SikaSwell® P · Bobtnající těsnicí profil s pryžovým jádrem · 2507 H (Š:25mm, V:7mm, 10m role)</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavé těsnicí profily s pryžovým jádrem.
+SikaSwell® P Type H je hybridní profil se superabsorbenty a pryžovým jádrem. Při styku s vodou bobtná a utěsňuje všechny typy stavebních spár a prostupů v betonových konstrukcích.
+✅ Univerzální řešení pro spáry a detaily✅ Ochranná vrstva zabraňuje předčasnému bobtnání ✅ Dobrá přilnavost k různým podkladům</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaswell-p</URL>
+          <PRICE_VAT>3930.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaSwell-P_opt.jpg?v=1769357988</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54817</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>7612894407235</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
