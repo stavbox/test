@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 769 -->
 <!-- Total individual products: 344 -->
-<!-- Created: 2026-01-27 00:00:19 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-01-27 13:11:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -12897,7 +12897,7 @@ Sikafloor®-324 je dvousložková pigmentovaná podlaha bez rozpouštědel, s e
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10595702997329</ITEM_ID>
+          <ITEM_ID>21891</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor® Leitset · Uzemňovací sada pro antistatické podlahy</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor® Leitset · Uzemňovací sada pro AS podlahy - </PRODUCT>
           <DESCRIPTION>Svod pro antistatické podlahy.
@@ -12905,11 +12905,11 @@ Obsah sady Sikafloor® Leitset:
 · 10 ks hmoždinek pro těžké zatížení· 10 ks speciálních šroubů V2A / M6, které jsou spojeny s výše uvedenými hmoždinkami· 3 bm měděné vodivé pásky· 10 ks mosazných desek 60 / 60 / 0,8 mm· 10 ks mosazných podložek 6,4 / 30 / 1,5 mm· 10 ks mosazných matic M6· 10 ks jazýčkových kroužků M6 x 4 / 6 mm· 10 ks pojistných matic V2A M6· 10 ks montážních hadic z PVC M5· 10 ks montážních podložek z mosazi 6,4 / 12 / 1 mm ( malé )· 10 ks montážních podložek z V2A 6,4 / 25 / 2 mm ( velké )· 1 ks montážní ocelová trubka· 1 ks montážní matice M6 / V2A</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-leitset</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Leitset_opt.jpg?v=1769173297</IMGURL>
-          <PRICE_VAT>9415.0</PRICE_VAT>
+          <PRICE_VAT>5100.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
-          
+          <EAN>4003923044607</EAN>
         </SHOPITEM>
       
     
