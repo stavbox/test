@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 769 -->
-<!-- Total individual products: 343 -->
-<!-- Created: 2026-01-29 08:27:10 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 770 -->
+<!-- Total individual products: 344 -->
+<!-- Created: 2026-01-30 00:00:23 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -1307,7 +1307,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182698833</URL>
           <PRICE_VAT>1275.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5153,11 +5153,11 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers BIT 1K [basic] · 10 l · Bitumenový nátěr (1K) · 10l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers BIT 1K [basic] · Bitumenový nátěr (1K) · 10l</PRODUCTNAME>
           <DESCRIPTION>Bitumenový nátěr (1K).
 Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný plasty, s polystyrenem. Odolný vodě, pro izolaci budov, WTA certifikát, snadná aplikace.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic-10l?variant=52925410443601</URL>
+          <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic?variant=52925410443601</URL>
           <PRICE_VAT>1780.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-1K-30l-bitumenova-sterka.jpg?v=1755865564</IMGURL>
@@ -5176,11 +5176,11 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers BIT 1K [basic] · 10 l · Bitumenový nátěr (1K) · 30l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers BIT 1K [basic] · Bitumenový nátěr (1K) · 30l</PRODUCTNAME>
           <DESCRIPTION>Bitumenový nátěr (1K).
 Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný plasty, s polystyrenem. Odolný vodě, pro izolaci budov, WTA certifikát, snadná aplikace.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic-10l?variant=52925410476369</URL>
+          <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic?variant=52925410476369</URL>
           <PRICE_VAT>2720.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-1K-30l-bitumenova-sterka.jpg?v=1755865564</IMGURL>
@@ -5493,7 +5493,7 @@ Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti
 Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la?variant=52656306094417</URL>
           <PRICE_VAT>2920.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6049,7 +6049,7 @@ Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace,
 Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům, vhodná pro bioplynové stanice, splňuje EN 1504-3, pro opravy a vyhlazení povrchu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-fill-25kg</URL>
           <PRICE_VAT>1870.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <DELIVERY_DATE>8</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-Fill-25kg-PCC-jemna-sterka.jpg?v=1755877725</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8022,7 +8022,8 @@ Komponenty A + B se vztahují k modulu Sika® Repair/Sikafloor® EpoCem®</DESCR
           <ITEM_ID>566653</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -8048,7 +8049,8 @@ Komponenty A + B se vztahují k modulu Sika® Repair/Sikafloor® EpoCem®</DESCR
           <ITEM_ID>463163</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -8074,7 +8076,8 @@ Komponenty A + B se vztahují k modulu Sika® Repair/Sikafloor® EpoCem®</DESCR
           <ITEM_ID>107303</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894452037</EAN>
           <CONDITION>new</CONDITION>
@@ -8350,6 +8353,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895928401</EAN>
           <CONDITION>new</CONDITION>
@@ -8374,6 +8378,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237017407</EAN>
           <CONDITION>new</CONDITION>
@@ -8398,6 +8403,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895893624</EAN>
           <CONDITION>new</CONDITION>
@@ -8422,6 +8428,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237017100</EAN>
           <CONDITION>new</CONDITION>
@@ -8621,7 +8628,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>868109</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612655163523</EAN>
           <CONDITION>new</CONDITION>
@@ -8646,7 +8653,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>851383</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -8673,7 +8680,7 @@ Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>717762</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -9175,7 +9182,7 @@ Systomé komponenty:
           <ITEM_ID>551007</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
 
           <EAN>7612895431277</EAN>
           <CONDITION>new</CONDITION>
@@ -9201,7 +9208,7 @@ Systomé komponenty:
           <ITEM_ID>550995</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
 
           <EAN>7612895431185</EAN>
           <CONDITION>new</CONDITION>
@@ -9227,7 +9234,7 @@ Systomé komponenty:
           <ITEM_ID>550994</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
 
           <EAN>7612895431161</EAN>
           <CONDITION>new</CONDITION>
@@ -10482,6 +10489,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052831</EAN>
           <CONDITION>new</CONDITION>
@@ -10506,6 +10514,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -10530,6 +10539,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895526751</EAN>
           <CONDITION>new</CONDITION>
@@ -10554,6 +10564,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894801446</EAN>
           <CONDITION>new</CONDITION>
@@ -10578,6 +10589,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894141177</EAN>
           <CONDITION>new</CONDITION>
@@ -10602,6 +10614,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894820942</EAN>
           <CONDITION>new</CONDITION>
@@ -10626,6 +10639,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894897005</EAN>
           <CONDITION>new</CONDITION>
@@ -10650,6 +10664,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923147940</EAN>
           <CONDITION>new</CONDITION>
@@ -10674,6 +10689,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923124989</EAN>
           <CONDITION>new</CONDITION>
@@ -10698,6 +10714,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052848</EAN>
           <CONDITION>new</CONDITION>
@@ -10722,6 +10739,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052855</EAN>
           <CONDITION>new</CONDITION>
@@ -10746,6 +10764,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052909</EAN>
           <CONDITION>new</CONDITION>
@@ -10770,6 +10789,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052862</EAN>
           <CONDITION>new</CONDITION>
@@ -10794,6 +10814,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052916</EAN>
           <CONDITION>new</CONDITION>
@@ -10818,6 +10839,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894052923</EAN>
           <CONDITION>new</CONDITION>
@@ -10842,6 +10864,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923147957</EAN>
           <CONDITION>new</CONDITION>
@@ -10866,6 +10889,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923112443</EAN>
           <CONDITION>new</CONDITION>
@@ -10890,6 +10914,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923131505</EAN>
           <CONDITION>new</CONDITION>
@@ -10914,6 +10939,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923100884</EAN>
           <CONDITION>new</CONDITION>
@@ -10938,6 +10964,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894177343</EAN>
           <CONDITION>new</CONDITION>
@@ -10962,6 +10989,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923124170</EAN>
           <CONDITION>new</CONDITION>
@@ -10986,6 +11014,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894253436</EAN>
           <CONDITION>new</CONDITION>
@@ -11010,6 +11039,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894289985</EAN>
           <CONDITION>new</CONDITION>
@@ -11034,6 +11064,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894354027</EAN>
           <CONDITION>new</CONDITION>
@@ -11058,6 +11089,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923128987</EAN>
           <CONDITION>new</CONDITION>
@@ -11082,6 +11114,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894098488</EAN>
           <CONDITION>new</CONDITION>
@@ -11106,6 +11139,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4003923189773</EAN>
           <CONDITION>new</CONDITION>
@@ -11130,6 +11164,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895326450</EAN>
           <CONDITION>new</CONDITION>
@@ -11154,6 +11189,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895089522</EAN>
           <CONDITION>new</CONDITION>
@@ -11178,6 +11214,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894199833</EAN>
           <CONDITION>new</CONDITION>
@@ -11408,6 +11445,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895547381</EAN>
           <CONDITION>new</CONDITION>
@@ -11432,6 +11470,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895553214</EAN>
           <CONDITION>new</CONDITION>
@@ -11456,6 +11495,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895546506</EAN>
           <CONDITION>new</CONDITION>
@@ -11480,6 +11520,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895554488</EAN>
           <CONDITION>new</CONDITION>
@@ -11504,6 +11545,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895554495</EAN>
           <CONDITION>new</CONDITION>
@@ -11785,7 +11827,7 @@ Balení: 6kg (4,38kg komp. A + 1,62kg komp. B)</DESCRIPTION>
           <ITEM_ID>846488</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612655132925</EAN>
           <CONDITION>new</CONDITION>
@@ -12087,7 +12129,8 @@ Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpou�
           <ITEM_ID>422871</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894878028</EAN>
           <CONDITION>new</CONDITION>
@@ -12110,7 +12153,8 @@ Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpou�
           <ITEM_ID>405149</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894794229</EAN>
           <CONDITION>new</CONDITION>
@@ -12133,7 +12177,8 @@ Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpou�
           <ITEM_ID>405151</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894794243</EAN>
           <CONDITION>new</CONDITION>
@@ -12497,6 +12542,7 @@ Barva: bílá</DESCRIPTION>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4049499045334</EAN>
           <CONDITION>new</CONDITION>
@@ -12522,6 +12568,7 @@ Barva: bílá</DESCRIPTION>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7611237019913</EAN>
           <CONDITION>new</CONDITION>
@@ -12547,6 +12594,7 @@ Barva: bílá</DESCRIPTION>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7611237019920</EAN>
           <CONDITION>new</CONDITION>
@@ -12572,7 +12620,8 @@ Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové 
           <ITEM_ID>404608</ITEM_ID>
 
           
-              <CATEGORYTEXT>Přijato: Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894791815</EAN>
           <CONDITION>new</CONDITION>
@@ -12596,7 +12645,8 @@ Sikafloor® ProSeal-10 W je přípravek na bázi vodou ředitelné akrylátové 
           <ITEM_ID>406360</ITEM_ID>
 
           
-              <CATEGORYTEXT>Přijato: Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894800524</EAN>
           <CONDITION>new</CONDITION>
@@ -13674,7 +13724,7 @@ Sikagard®-705 L je 1komponentní, nízkoviskózní nátěr, reaktivní impregna
           <ITEM_ID>170747</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894697636</EAN>
           <CONDITION>new</CONDITION>
@@ -13701,7 +13751,7 @@ Barva: bílá pasta / krém (po aplikaci je transparentní)</DESCRIPTION>
           <ITEM_ID>156781</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894632804</EAN>
           <CONDITION>new</CONDITION>
@@ -13728,7 +13778,7 @@ Barva: bezbarvá kapalina</DESCRIPTION>
           <ITEM_ID>5784</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923008753</EAN>
           <CONDITION>new</CONDITION>
@@ -13753,7 +13803,7 @@ Barva: bezbarvá kapalina</DESCRIPTION>
           <ITEM_ID>151863</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894614114</EAN>
           <CONDITION>new</CONDITION>
@@ -13780,7 +13830,7 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>534391</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895367811</EAN>
           <CONDITION>new</CONDITION>
@@ -13923,6 +13973,7 @@ Barva:Transparentní: průhledná kapalinaKrycí: tixotropní pasta, dostupná v
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923003321</EAN>
           <CONDITION>new</CONDITION>
@@ -13948,6 +13999,7 @@ Barva:Transparentní: průhledná kapalinaKrycí: tixotropní pasta, dostupná v
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923005400</EAN>
           <CONDITION>new</CONDITION>
@@ -13973,6 +14025,7 @@ Barva:Transparentní: průhledná kapalinaKrycí: tixotropní pasta, dostupná v
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923004489</EAN>
           <CONDITION>new</CONDITION>
@@ -13998,6 +14051,7 @@ Barva:Transparentní: průhledná kapalinaKrycí: tixotropní pasta, dostupná v
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923064032</EAN>
           <CONDITION>new</CONDITION>
@@ -14023,6 +14077,7 @@ Barva:Transparentní: průhledná kapalinaKrycí: tixotropní pasta, dostupná v
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923047615</EAN>
           <CONDITION>new</CONDITION>
@@ -14048,6 +14103,7 @@ Barva:Transparentní: průhledná kapalinaKrycí: tixotropní pasta, dostupná v
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4003923006209</EAN>
           <CONDITION>new</CONDITION>
@@ -14098,7 +14154,7 @@ Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý<
           <ITEM_ID>718660</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612895821948</EAN>
           <CONDITION>new</CONDITION>
@@ -14123,7 +14179,7 @@ Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý<
           <ITEM_ID>718661</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612895821955</EAN>
           <CONDITION>new</CONDITION>
@@ -14148,7 +14204,7 @@ Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý<
           <ITEM_ID>718666</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612895822006</EAN>
           <CONDITION>new</CONDITION>
@@ -14173,7 +14229,7 @@ Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý<
           <ITEM_ID>718672</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612895822068</EAN>
           <CONDITION>new</CONDITION>
@@ -14184,7 +14240,7 @@ Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý<
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikagard®-907 W · Ochrana porézních povrchů a spár s pískem · 5l</PRODUCTNAME>
           <DESCRIPTION>Ochranný prostředek na porézní povrchy a spáry vyplněné pískem.
-Sikagard®-907 W 1-komponentní ochranný prostředek na vodní bázi akrylátové pryskyřice, odolný vůči UV zářeníSikagard®-907 W má dvojí efekt: chrání porézní povrchy proti vodě a olejům, a současně stabilizuje spáry vyplněné pískem mezi jednotlivými bloky.
+Sikagard®-907 W je 1-komponentní ochranný prostředek na vodní bázi akrylátové pryskyřice, odolný vůči UV záření.Sikagard®-907 W má dvojí efekt: chrání porézní povrchy proti vodě a olejům, a současně stabilizuje spáry vyplněné pískem mezi jednotlivými bloky.
 ✅ Jednokomponentní, přímo použitelný bez ředění✅ Přívětivý životnímu prostředí, neobsahuje rozpouštědla✅ Odolný UV záření a povětrnosti
 Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-907-w?variant=52763740799313</URL>
@@ -14200,7 +14256,7 @@ Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <ITEM_ID>158930</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894642131</EAN>
           <CONDITION>new</CONDITION>
@@ -14209,7 +14265,7 @@ Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikagard®-907 W · Ochrana porézních povrchů a spár s pískem · 20l</PRODUCTNAME>
           <DESCRIPTION>Ochranný prostředek na porézní povrchy a spáry vyplněné pískem.
-Sikagard®-907 W 1-komponentní ochranný prostředek na vodní bázi akrylátové pryskyřice, odolný vůči UV zářeníSikagard®-907 W má dvojí efekt: chrání porézní povrchy proti vodě a olejům, a současně stabilizuje spáry vyplněné pískem mezi jednotlivými bloky.
+Sikagard®-907 W je 1-komponentní ochranný prostředek na vodní bázi akrylátové pryskyřice, odolný vůči UV záření.Sikagard®-907 W má dvojí efekt: chrání porézní povrchy proti vodě a olejům, a současně stabilizuje spáry vyplněné pískem mezi jednotlivými bloky.
 ✅ Jednokomponentní, přímo použitelný bez ředění✅ Přívětivý životnímu prostředí, neobsahuje rozpouštědla✅ Odolný UV záření a povětrnosti
 Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-907-w?variant=52763740832081</URL>
@@ -14225,7 +14281,7 @@ Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <ITEM_ID>162399</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894655513</EAN>
           <CONDITION>new</CONDITION>
@@ -14234,7 +14290,7 @@ Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <SHOPITEM>
           <PRODUCTNAME>Sika Sikagard®-907 W · Ochrana porézních povrchů a spár s pískem · 1000l</PRODUCTNAME>
           <DESCRIPTION>Ochranný prostředek na porézní povrchy a spáry vyplněné pískem.
-Sikagard®-907 W 1-komponentní ochranný prostředek na vodní bázi akrylátové pryskyřice, odolný vůči UV zářeníSikagard®-907 W má dvojí efekt: chrání porézní povrchy proti vodě a olejům, a současně stabilizuje spáry vyplněné pískem mezi jednotlivými bloky.
+Sikagard®-907 W je 1-komponentní ochranný prostředek na vodní bázi akrylátové pryskyřice, odolný vůči UV záření.Sikagard®-907 W má dvojí efekt: chrání porézní povrchy proti vodě a olejům, a současně stabilizuje spáry vyplněné pískem mezi jednotlivými bloky.
 ✅ Jednokomponentní, přímo použitelný bez ředění✅ Přívětivý životnímu prostředí, neobsahuje rozpouštědla✅ Odolný UV záření a povětrnosti
 Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-907-w?variant=52763740864849</URL>
@@ -14250,7 +14306,7 @@ Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <ITEM_ID>697466</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612895769820</EAN>
           <CONDITION>new</CONDITION>
@@ -14277,7 +14333,8 @@ Barva: čirá až světle jantarová kapalina</DESCRIPTION>
           <ITEM_ID>800039</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894849998</EAN>
           <CONDITION>new</CONDITION>
@@ -14304,7 +14361,7 @@ Barva: mléčně bílá tekutina (po vytvrzení průhledná)</DESCRIPTION>
           <ITEM_ID>799580</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>4049499004577</EAN>
           <CONDITION>new</CONDITION>
@@ -14335,7 +14392,7 @@ Barva: mléčně bílá tekutina, po nanesení zasychá neviditelně</DESCRIPTIO
           <ITEM_ID>800862</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>3579560100408</EAN>
           <CONDITION>new</CONDITION>
@@ -14361,7 +14418,7 @@ Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo
           <ITEM_ID>525843</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612895330563</EAN>
           <CONDITION>new</CONDITION>
@@ -14385,7 +14442,7 @@ Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo
           <ITEM_ID>741240</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612895875484</EAN>
           <CONDITION>new</CONDITION>
@@ -14412,7 +14469,7 @@ Barva:komponent A: hnědý průhledný, tekutýkomponent B: průhledný, tekutý
           <ITEM_ID>707067</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612895863214</EAN>
           <CONDITION>new</CONDITION>
@@ -14440,6 +14497,7 @@ Barva:komponent A: barevné, tekutékomponent B: průhledný, tekutývytvrzený 
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>["Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky"]</CATEGORYTEXT>
 
           <EAN>7612655122162</EAN>
           <CONDITION>new</CONDITION>
@@ -14465,6 +14523,7 @@ Barva:komponent A: barevné, tekutékomponent B: průhledný, tekutývytvrzený 
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>["Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky"]</CATEGORYTEXT>
 
           <EAN>7612895872551</EAN>
           <CONDITION>new</CONDITION>
@@ -14490,6 +14549,7 @@ Barva:komponent A: barevné, tekutékomponent B: průhledný, tekutývytvrzený 
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>["Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky"]</CATEGORYTEXT>
 
           <EAN>7612895872544</EAN>
           <CONDITION>new</CONDITION>
@@ -14516,7 +14576,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>799787</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612894907889</EAN>
           <CONDITION>new</CONDITION>
@@ -14541,7 +14601,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>800008</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612894910209</EAN>
           <CONDITION>new</CONDITION>
@@ -14566,7 +14626,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>800009</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612894910223</EAN>
           <CONDITION>new</CONDITION>
@@ -14591,7 +14651,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>799060</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>4049499040520</EAN>
           <CONDITION>new</CONDITION>
@@ -14616,7 +14676,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>799194</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>4049499034765</EAN>
           <CONDITION>new</CONDITION>
@@ -14641,7 +14701,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>799195</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>4049499034758</EAN>
           <CONDITION>new</CONDITION>
@@ -14666,7 +14726,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>799202</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612894825695</EAN>
           <CONDITION>new</CONDITION>
@@ -14691,7 +14751,7 @@ Barva:komponent A: tekutá, barevná nebo mléčně bílákomponent B: tekutá, 
           <ITEM_ID>799283</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Ostatní barvy a laky</CATEGORYTEXT>
 
           <EAN>7612894958843</EAN>
           <CONDITION>new</CONDITION>
@@ -14821,7 +14881,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>690649</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612895880075</EAN>
           <CONDITION>new</CONDITION>
@@ -14845,7 +14906,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>690752</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612895879550</EAN>
           <CONDITION>new</CONDITION>
@@ -14869,7 +14931,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>690583</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612895880358</EAN>
           <CONDITION>new</CONDITION>
@@ -14893,7 +14956,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>690585</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612895880341</EAN>
           <CONDITION>new</CONDITION>
@@ -14917,7 +14981,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>162836</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -14941,7 +15006,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>690595</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612895880327</EAN>
           <CONDITION>new</CONDITION>
@@ -14965,7 +15031,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>155616</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612895600949</EAN>
           <CONDITION>new</CONDITION>
@@ -14989,7 +15056,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>152182</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>7612894675887</EAN>
           <CONDITION>new</CONDITION>
@@ -15013,7 +15081,8 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <ITEM_ID>183957</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Omítky</CATEGORYTEXT>
 
           <EAN>8428868002615</EAN>
           <CONDITION>new</CONDITION>
@@ -15039,7 +15108,7 @@ Sikagard®-363 je 2komponentní, rozpouštědlový, pružný vrchní a uzavírac
           <ITEM_ID>128682</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895883793</EAN>
           <CONDITION>new</CONDITION>
@@ -15063,7 +15132,7 @@ Sikagard®-363 je 2komponentní, rozpouštědlový, pružný vrchní a uzavírac
           <ITEM_ID>128680</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895613970</EAN>
           <CONDITION>new</CONDITION>
@@ -15090,7 +15159,7 @@ Barva:komponent A: bílá kapalinakomponent B: šedá kapalinaPo vytvrzení: tra
           <ITEM_ID>565376</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895550916</EAN>
           <CONDITION>new</CONDITION>
@@ -15115,7 +15184,7 @@ Barva:komponent A: bílá kapalinakomponent B: šedá kapalinaPo vytvrzení: tra
           <ITEM_ID>55511</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7611237129568</EAN>
           <CONDITION>new</CONDITION>
@@ -15142,7 +15211,7 @@ Barva: opalizující bělavá kapalina, po zaschnutí čirá / průhledná</DESC
           <ITEM_ID>426695</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894902617</EAN>
           <CONDITION>new</CONDITION>
@@ -15169,7 +15238,7 @@ Barva: čirá nažloutlá kapalina / po zaschnutí transparentní</DESCRIPTION>
           <ITEM_ID>426474</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
 
           <EAN>7612894900989</EAN>
           <CONDITION>new</CONDITION>
@@ -15196,7 +15265,7 @@ Barva: parketově hnědá.</DESCRIPTION>
           <ITEM_ID>544887</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>7612895403243</EAN>
           <CONDITION>new</CONDITION>
@@ -15223,7 +15292,8 @@ Barva: béžová</DESCRIPTION>
           <ITEM_ID>152300</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894615920</EAN>
           <CONDITION>new</CONDITION>
@@ -15248,7 +15318,8 @@ Barva: béžová</DESCRIPTION>
           <ITEM_ID>135993</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894603422</EAN>
           <CONDITION>new</CONDITION>
@@ -15275,7 +15346,7 @@ Barva: hnědá</DESCRIPTION>
           <ITEM_ID>175129</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -15303,6 +15374,7 @@ Barva: bezbarvá kapalina, která může mít mírně nažloutlou barvu a mírn�
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895342122</EAN>
           <CONDITION>new</CONDITION>
@@ -16087,6 +16159,7 @@ Reference - Nošovice</DESCRIPTION>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895545141</EAN>
           <CONDITION>new</CONDITION>
@@ -16113,6 +16186,7 @@ Reference - Nošovice</DESCRIPTION>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895479682</EAN>
           <CONDITION>new</CONDITION>
@@ -16139,6 +16213,7 @@ Reference - Nošovice</DESCRIPTION>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895519739</EAN>
           <CONDITION>new</CONDITION>
@@ -16405,7 +16480,8 @@ Barva: bílá tekutina</DESCRIPTION>
           <ITEM_ID>81170</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894329155</EAN>
           <CONDITION>new</CONDITION>
@@ -16430,7 +16506,8 @@ Barva: bílá tekutina</DESCRIPTION>
           <ITEM_ID>81171</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894329162</EAN>
           <CONDITION>new</CONDITION>
@@ -16455,7 +16532,8 @@ Barva: bílá tekutina</DESCRIPTION>
           <ITEM_ID>81173</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894329186</EAN>
           <CONDITION>new</CONDITION>
@@ -16482,7 +16560,7 @@ Barva: mléčně bílá</DESCRIPTION>
           <ITEM_ID>681825</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612895720395</EAN>
           <CONDITION>new</CONDITION>
@@ -16507,7 +16585,7 @@ Barva: mléčně bílá</DESCRIPTION>
           <ITEM_ID>681826</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612895720388</EAN>
           <CONDITION>new</CONDITION>
@@ -16534,7 +16612,9 @@ Barva:vzhled a barva: bělavá kapalinabarva po vytvrzení: bezbarvá</DESCRIPTI
           <ITEM_ID>750638</ITEM_ID>
 
           
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895903583</EAN>
           <CONDITION>new</CONDITION>
@@ -16559,7 +16639,9 @@ Barva:vzhled a barva: bělavá kapalinabarva po vytvrzení: bezbarvá</DESCRIPTI
           <ITEM_ID>750637</ITEM_ID>
 
           
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895903590</EAN>
           <CONDITION>new</CONDITION>
@@ -16586,7 +16668,7 @@ Barva:komponent A: světle šedákomponent B: hnědá, transparentníbarva po vy
           <ITEM_ID>174000</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894737325</EAN>
           <CONDITION>new</CONDITION>
@@ -16613,7 +16695,7 @@ Barva:komponent A - pryskyřice: světle šedá kapalinakomponent B - tvrdidlo: 
           <ITEM_ID>174003</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894737318</EAN>
           <CONDITION>new</CONDITION>
@@ -16640,7 +16722,7 @@ Barva: černá</DESCRIPTION>
           <ITEM_ID>520822</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Izolace | Kročejová izolace</CATEGORYTEXT>
 
           <EAN>7612895318059</EAN>
           <CONDITION>new</CONDITION>
@@ -16667,7 +16749,7 @@ Barva: čirá</DESCRIPTION>
           <ITEM_ID>78158</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894304398</EAN>
           <CONDITION>new</CONDITION>
@@ -16692,7 +16774,7 @@ Barva: čirá</DESCRIPTION>
           <ITEM_ID>85212</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894359800</EAN>
           <CONDITION>new</CONDITION>
@@ -16719,7 +16801,7 @@ Barva:komponent A - pryskyřice: barevná kapalinakomponent B - tvrdidlo: transp
           <ITEM_ID>704353</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895872629</EAN>
           <CONDITION>new</CONDITION>
@@ -16746,7 +16828,7 @@ Barva:komponent A: barevnékomponent B: světle hnědá, průhlednávytvrzený v
           <ITEM_ID>799974</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894908664</EAN>
           <CONDITION>new</CONDITION>
@@ -16772,7 +16854,7 @@ Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvouslož
           <ITEM_ID>799993</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894966657</EAN>
           <CONDITION>new</CONDITION>
@@ -16796,7 +16878,7 @@ Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvouslož
           <ITEM_ID>799994</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894908756</EAN>
           <CONDITION>new</CONDITION>
@@ -16820,7 +16902,7 @@ Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvouslož
           <ITEM_ID>837179</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612655108265</EAN>
           <CONDITION>new</CONDITION>
@@ -16844,7 +16926,7 @@ Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvouslož
           <ITEM_ID>837281</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612655108463</EAN>
           <CONDITION>new</CONDITION>
@@ -16870,7 +16952,7 @@ Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, p�
           <ITEM_ID>800331</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894969634</EAN>
           <CONDITION>new</CONDITION>
@@ -16894,7 +16976,7 @@ Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, p�
           <ITEM_ID>809312</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894995039</EAN>
           <CONDITION>new</CONDITION>
@@ -16918,7 +17000,7 @@ Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, p�
           <ITEM_ID>837159</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612655108722</EAN>
           <CONDITION>new</CONDITION>
@@ -16942,7 +17024,7 @@ Sikafloor® BC 375 NAS je antistatický, bezrozpouštědlový, nízkoemisní, p�
           <ITEM_ID>837226</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612655107947</EAN>
           <CONDITION>new</CONDITION>
@@ -16968,7 +17050,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799014</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499027415</EAN>
           <CONDITION>new</CONDITION>
@@ -16992,7 +17074,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799007</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499027262</EAN>
           <CONDITION>new</CONDITION>
@@ -17016,7 +17098,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799024</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499027835</EAN>
           <CONDITION>new</CONDITION>
@@ -17040,7 +17122,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799039</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499027798</EAN>
           <CONDITION>new</CONDITION>
@@ -17064,7 +17146,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799057</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499029297</EAN>
           <CONDITION>new</CONDITION>
@@ -17088,7 +17170,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799190</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499034154</EAN>
           <CONDITION>new</CONDITION>
@@ -17112,7 +17194,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799191</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499034130</EAN>
           <CONDITION>new</CONDITION>
@@ -17136,7 +17218,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799278</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17160,7 +17242,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
           <ITEM_ID>799157</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>4049499031276</EAN>
           <CONDITION>new</CONDITION>
@@ -17187,7 +17269,7 @@ Balení:komp. A: 18,24kgkomp. B: 10kg</DESCRIPTION>
           <ITEM_ID>800825</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894922974</EAN>
           <CONDITION>new</CONDITION>
@@ -17212,7 +17294,7 @@ Balení:komp. A: 18,24kgkomp. B: 10kg</DESCRIPTION>
           <ITEM_ID>803862</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17239,7 +17321,8 @@ Barva: nažloutlá - jantarová kapalina</DESCRIPTION>
           <ITEM_ID>800864</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17264,7 +17347,8 @@ Barva: nažloutlá - jantarová kapalina</DESCRIPTION>
           <ITEM_ID>800865</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17291,7 +17375,8 @@ Barva: mléčně bílá kapalina</DESCRIPTION>
           <ITEM_ID>404671</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894792195</EAN>
           <CONDITION>new</CONDITION>
@@ -17316,7 +17401,8 @@ Barva: mléčně bílá kapalina</DESCRIPTION>
           <ITEM_ID>422030</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894873610</EAN>
           <CONDITION>new</CONDITION>
@@ -17343,7 +17429,8 @@ Barva: čirá kapalina</DESCRIPTION>
           <ITEM_ID>404673</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894792218</EAN>
           <CONDITION>new</CONDITION>
@@ -17368,7 +17455,8 @@ Barva: čirá kapalina</DESCRIPTION>
           <ITEM_ID>406376</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612894800654</EAN>
           <CONDITION>new</CONDITION>
@@ -17394,7 +17482,8 @@ Sikafloor® TC 374 je dvousložkový, pigmentovaný, nízkoviskózní, lehce ela
           <ITEM_ID>800691</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612895014487</EAN>
           <CONDITION>new</CONDITION>
@@ -17418,7 +17507,8 @@ Sikafloor® TC 374 je dvousložkový, pigmentovaný, nízkoviskózní, lehce ela
           <ITEM_ID>803866</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612655057938</EAN>
           <CONDITION>new</CONDITION>
@@ -17442,7 +17532,8 @@ Sikafloor® TC 374 je dvousložkový, pigmentovaný, nízkoviskózní, lehce ela
           <ITEM_ID>800693</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612894922196</EAN>
           <CONDITION>new</CONDITION>
@@ -17466,7 +17557,8 @@ Sikafloor® TC 374 je dvousložkový, pigmentovaný, nízkoviskózní, lehce ela
           <ITEM_ID>800688</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612894857122</EAN>
           <CONDITION>new</CONDITION>
@@ -17490,7 +17582,8 @@ Sikafloor® TC 374 je dvousložkový, pigmentovaný, nízkoviskózní, lehce ela
           <ITEM_ID>799330</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612894830972</EAN>
           <CONDITION>new</CONDITION>
@@ -17517,7 +17610,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>755263</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895916330</EAN>
           <CONDITION>new</CONDITION>
@@ -17542,7 +17635,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>755229</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895916583</EAN>
           <CONDITION>new</CONDITION>
@@ -17567,7 +17660,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>755235</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895916576</EAN>
           <CONDITION>new</CONDITION>
@@ -17592,7 +17685,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <ITEM_ID>755255</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895916545</EAN>
           <CONDITION>new</CONDITION>
@@ -17619,7 +17712,7 @@ Balení: 25kg (21,25kg komp. A + 3,75kg komp. B)</DESCRIPTION>
           <ITEM_ID>695300</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895875606</EAN>
           <CONDITION>new</CONDITION>
@@ -17644,7 +17737,7 @@ Balení: 25kg (21,25kg komp. A + 3,75kg komp. B)</DESCRIPTION>
           <ITEM_ID>685105</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17669,7 +17762,7 @@ Balení: 25kg (21,25kg komp. A + 3,75kg komp. B)</DESCRIPTION>
           <ITEM_ID>685071</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17695,7 +17788,7 @@ Sikafloor®-392 je dvoukomponentní nátěr na bázi epoxidové pryskyřice bez 
           <ITEM_ID>800057</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237018176</EAN>
           <CONDITION>new</CONDITION>
@@ -17719,7 +17812,7 @@ Sikafloor®-392 je dvoukomponentní nátěr na bázi epoxidové pryskyřice bez 
           <ITEM_ID>800058</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237018510</EAN>
           <CONDITION>new</CONDITION>
@@ -17745,7 +17838,7 @@ Sikafloor®-392 ECF je dvoukomponentní vodivý nátěr na bázi epoxidové prys
           <ITEM_ID>800085</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237018398</EAN>
           <CONDITION>new</CONDITION>
@@ -17769,7 +17862,7 @@ Sikafloor®-392 ECF je dvoukomponentní vodivý nátěr na bázi epoxidové prys
           <ITEM_ID>800086</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237018404</EAN>
           <CONDITION>new</CONDITION>
@@ -17795,7 +17888,7 @@ Sikafloor®-169 je 2-komponentní epoxidové pojivo pro maltové stěrky, podlah
           <ITEM_ID>174989</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894717549</EAN>
           <CONDITION>new</CONDITION>
@@ -17819,7 +17912,7 @@ Sikafloor®-169 je 2-komponentní epoxidové pojivo pro maltové stěrky, podlah
           <ITEM_ID>473968</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -17843,7 +17936,7 @@ Sikafloor®-169 je 2-komponentní epoxidové pojivo pro maltové stěrky, podlah
           <ITEM_ID>406258</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894816259</EAN>
           <CONDITION>new</CONDITION>
@@ -17869,7 +17962,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
           <ITEM_ID>538153</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895385402</EAN>
           <CONDITION>new</CONDITION>
@@ -17893,7 +17986,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
           <ITEM_ID>538154</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895535517</EAN>
           <CONDITION>new</CONDITION>
@@ -17917,7 +18010,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
           <ITEM_ID>538155</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895535524</EAN>
           <CONDITION>new</CONDITION>
@@ -17941,7 +18034,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
           <ITEM_ID>538156</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895535531</EAN>
           <CONDITION>new</CONDITION>
@@ -17967,7 +18060,7 @@ Sikafloor®-4400 DecoCem je dekorativní, samonivelační, pigmentovaná podlaho
           <ITEM_ID>674065</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895706542</EAN>
           <CONDITION>new</CONDITION>
@@ -17991,7 +18084,7 @@ Sikafloor®-4400 DecoCem je dekorativní, samonivelační, pigmentovaná podlaho
           <ITEM_ID>674068</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895706559</EAN>
           <CONDITION>new</CONDITION>
@@ -18015,7 +18108,7 @@ Sikafloor®-4400 DecoCem je dekorativní, samonivelační, pigmentovaná podlaho
           <ITEM_ID>674069</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895706566</EAN>
           <CONDITION>new</CONDITION>
@@ -18042,7 +18135,8 @@ Barva: transparentní kapalina</DESCRIPTION>
           <ITEM_ID>60396</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612894170979</EAN>
           <CONDITION>new</CONDITION>
@@ -18067,7 +18161,8 @@ Barva: transparentní kapalina</DESCRIPTION>
           <ITEM_ID>66040</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Laky</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy</CATEGORYTEXT>
 
           <EAN>7612894202540</EAN>
           <CONDITION>new</CONDITION>
@@ -18093,7 +18188,7 @@ Sikafloor®-400 N Elastic+ je jednosložkový vysoce elastický nátěr z polyur
           <ITEM_ID>180361</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612894748833</EAN>
           <CONDITION>new</CONDITION>
@@ -18120,7 +18215,7 @@ Barva:komponent A: bílá kapalinakomponent B: transparentní kapalinakomponent 
           <ITEM_ID>566045</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18145,7 +18240,7 @@ Barva:komponent A: bílá kapalinakomponent B: transparentní kapalinakomponent 
           <ITEM_ID>490290</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18172,7 +18267,7 @@ Barva:komponent A: světle hnědá kapalinakomponent B: transparentní kapalinas
           <ITEM_ID>537775</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895532462</EAN>
           <CONDITION>new</CONDITION>
@@ -18199,7 +18294,7 @@ Barva:komponent A: béžová tekutinakomponent B: průhledná tekutinasměs A+B:
           <ITEM_ID>773933</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7611237018664</EAN>
           <CONDITION>new</CONDITION>
@@ -18226,7 +18321,7 @@ Barva:komponent A: barevná kapalinakomponent B: bezbarvá kapalinavzhled po vyt
           <ITEM_ID>669370</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895869360</EAN>
           <CONDITION>new</CONDITION>
@@ -18251,7 +18346,7 @@ Barva:komponent A: barevná kapalinakomponent B: bezbarvá kapalinavzhled po vyt
           <ITEM_ID>669400</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895869155</EAN>
           <CONDITION>new</CONDITION>
@@ -18277,7 +18372,7 @@ Sikafloor®-269 ECF CR je 2komponentní, elektrostaticky vodivý, samonivelačn
           <ITEM_ID>406040</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18305,7 +18400,7 @@ Při použití podlahových systémů Sika s technologií &quot;Curing-by-Design
           <ITEM_ID>671545</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612895699844</EAN>
           <CONDITION>new</CONDITION>
@@ -18332,7 +18427,7 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>552464</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895435848</EAN>
           <CONDITION>new</CONDITION>
@@ -18358,7 +18453,7 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
           <ITEM_ID>404641</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612894792034</EAN>
           <CONDITION>new</CONDITION>
@@ -18382,7 +18477,7 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
           <ITEM_ID>404646</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612894792072</EAN>
           <CONDITION>new</CONDITION>
@@ -18406,7 +18501,7 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
           <ITEM_ID>405027</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612894793475</EAN>
           <CONDITION>new</CONDITION>
@@ -18430,7 +18525,7 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
           <ITEM_ID>457672</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612895064291</EAN>
           <CONDITION>new</CONDITION>
@@ -18457,7 +18552,7 @@ Poznámka: Výrobek smí používat pouze zkušení odborníci..
           <ITEM_ID>801203</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18483,7 +18578,7 @@ Sikafloor® SynTop-800 je předem namíchaný vsyp připravený k použití. Apl
           <ITEM_ID>811894</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18507,7 +18602,7 @@ Sikafloor® SynTop-800 je předem namíchaný vsyp připravený k použití. Apl
           <ITEM_ID>801175</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18559,7 +18654,7 @@ Barva: tyrkysová</DESCRIPTION>
           <ITEM_ID>498431</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895239217</EAN>
           <CONDITION>new</CONDITION>
@@ -18586,7 +18681,7 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>405043</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
 
           <EAN>7612894793550</EAN>
           <CONDITION>new</CONDITION>
@@ -18613,7 +18708,8 @@ Barva: béžový prášek</DESCRIPTION>
           <ITEM_ID>649322</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Sádra</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895655420</EAN>
           <CONDITION>new</CONDITION>
@@ -18638,7 +18734,8 @@ Barva: béžový prášek</DESCRIPTION>
           <ITEM_ID>649321</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Sádra</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895655413</EAN>
           <CONDITION>new</CONDITION>
@@ -18665,7 +18762,8 @@ Barva: béžový prášek</DESCRIPTION>
           <ITEM_ID>649299</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Sádra</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895655192</EAN>
           <CONDITION>new</CONDITION>
@@ -18692,7 +18790,7 @@ Barva: bílý prášek</DESCRIPTION>
           <ITEM_ID>527534</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895339337</EAN>
           <CONDITION>new</CONDITION>
@@ -18719,7 +18817,7 @@ Barva: bílý prášek</DESCRIPTION>
           <ITEM_ID>552461</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895435817</EAN>
           <CONDITION>new</CONDITION>
@@ -18746,7 +18844,8 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>649323</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
 
           <EAN>7612895655437</EAN>
           <CONDITION>new</CONDITION>
@@ -18773,7 +18872,7 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>539390</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612895389523</EAN>
           <CONDITION>new</CONDITION>
@@ -18800,7 +18899,8 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>606370</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
 
           <EAN>7612895553672</EAN>
           <CONDITION>new</CONDITION>
@@ -18827,7 +18927,8 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>649325</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
 
           <EAN>7612895655451</EAN>
           <CONDITION>new</CONDITION>
@@ -18854,7 +18955,8 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>649324</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
 
           <EAN>7612895655444</EAN>
           <CONDITION>new</CONDITION>
@@ -18881,7 +18983,7 @@ Barva: bílá emulze, lehce lepkavá</DESCRIPTION>
           <ITEM_ID>587909</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895864259</EAN>
           <CONDITION>new</CONDITION>
@@ -18907,7 +19009,7 @@ Sikafloor®-324 je dvousložková pigmentovaná podlaha bez rozpouštědel, s e
           <ITEM_ID>694854</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
@@ -18933,7 +19035,7 @@ Obsah sady Sikafloor® Leitset:
           <ITEM_ID>21891</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Elektroinstalační materiál | Ostatní elektroinstalační materiál</CATEGORYTEXT>
 
           <EAN>4003923044607</EAN>
           <CONDITION>new</CONDITION>
@@ -18961,7 +19063,7 @@ Délka role: 50m</DESCRIPTION>
           <ITEM_ID>174149</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
 
           <EAN>7612894714609</EAN>
           <CONDITION>new</CONDITION>
@@ -18987,7 +19089,7 @@ Délka role: 50m</DESCRIPTION>
           <ITEM_ID>174148</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
 
           <EAN>7612894714593</EAN>
           <CONDITION>new</CONDITION>
@@ -19091,7 +19193,7 @@ Barva: Sikalastic® P 691 je k dispozici v čirém provedení</DESCRIPTION>
           <ITEM_ID>799668</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>4049499046669</EAN>
           <CONDITION>new</CONDITION>
@@ -19118,7 +19220,7 @@ Barva: hnědý</DESCRIPTION>
           <ITEM_ID>484808</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           <EAN>7612895187327</EAN>
           <CONDITION>new</CONDITION>
@@ -19173,7 +19275,7 @@ Balení:600ml monoporce (790g)1800ml monoporce (2370g)</DESCRIPTION>
           <ITEM_ID>424419</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894887549</EAN>
           <CONDITION>new</CONDITION>
@@ -19199,7 +19301,7 @@ Balení:600ml monoporce (790g)1800ml monoporce (2370g)</DESCRIPTION>
           <ITEM_ID>421116</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894867916</EAN>
           <CONDITION>new</CONDITION>
@@ -19208,12 +19310,12 @@ Balení:600ml monoporce (790g)1800ml monoporce (2370g)</DESCRIPTION>
     
   
           <SHOPITEM>
-          <PRODUCTNAME>SikaBond®-54 Parquet · Pružné nízkoviskózní lepidlo na parkety</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaBond®-54 Parquet ·  Pružné nízkoviskózní lepidlo na parkety</PRODUCTNAME>
           <DESCRIPTION>Vysoce kvalitní, pružné, nízkoviskózní lepidlo na lepení dřevěných podlah.
 SikaBond®-54 Parquet je 1komponentní lepidlo pro lepení dřevěných podlah, s velmi dobrou zpracovatelností a bez rozpouštědel.
 ✅ Ekonomické, nízká spotřeba✅ Lepidlo je možné brousit✅ Podlaha lze brousit po 12 hodinách po aplikaci
 Barva: parketově hnědá</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikabond-54-parquet-13kg</URL>
+          <URL>https://www.stavbox.cz/products/sika-sikabond-parquet-54</URL>
           <PRICE_VAT>4775.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBond-54-Parquet_opt.jpg?v=1769283731</IMGURL>
@@ -19226,7 +19328,7 @@ Barva: parketově hnědá</DESCRIPTION>
           <ITEM_ID>423076</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894879421</EAN>
           <CONDITION>new</CONDITION>
@@ -19252,7 +19354,8 @@ S přístrojem SikaBond® Dispenser je možné pokládat lepidlo SikaBond®-52 P
           <ITEM_ID>607683</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Vytlačovací pistole</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895555997</EAN>
           <CONDITION>new</CONDITION>
@@ -19276,7 +19379,8 @@ S přístrojem SikaBond® Dispenser je možné pokládat lepidlo SikaBond®-52 P
           <ITEM_ID>583040</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Vytlačovací pistole</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895510286</EAN>
           <CONDITION>new</CONDITION>
@@ -19303,7 +19407,7 @@ Barva: červené, při styku s vodou bobtnající profily na akrylové bázi</DE
           <ITEM_ID>169788</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>7612894691832</EAN>
           <CONDITION>new</CONDITION>
@@ -19328,7 +19432,7 @@ Barva: červené, při styku s vodou bobtnající profily na akrylové bázi</DE
           <ITEM_ID>169890</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>7612894691887</EAN>
           <CONDITION>new</CONDITION>
@@ -19355,7 +19459,7 @@ Barva: oxidovaná červená</DESCRIPTION>
           <ITEM_ID>184789</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>7612894765670</EAN>
           <CONDITION>new</CONDITION>
@@ -19380,7 +19484,7 @@ Barva: oxidovaná červená</DESCRIPTION>
           <ITEM_ID>496478</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>7612895229393</EAN>
           <CONDITION>new</CONDITION>
@@ -19406,9 +19510,36 @@ SikaSwell® P Type H je hybridní profil se superabsorbenty a pryžovým jádrem
           <ITEM_ID>54817</ITEM_ID>
 
           
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
 
           <EAN>7612894407235</EAN>
+          <CONDITION>new</CONDITION>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <PRODUCTNAME>Sika MonoTop®-412 N · Hrubá reprofilační malta R4 s vlákny</PRODUCTNAME>
+          <DESCRIPTION>Hrubá reprofilační malta, třída R4.
+Sika MonoTop®-412 N je 1komponentní, vlákny vyztužená opravná malta s nízkým smrštěním, splňuje požadavky třídy-R4 dle ČSN EN 1504-3.
+✅ Třída R4 dle ČSN EN 1504-3✅ Odolná vůči síranům✅ Velmi dobrá odolnost vůči rozmrazovacím posypovým solím
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-monotop-412-n-25kg</URL>
+          <PRICE_VAT>750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MonoTop-412-N_opt.jpg?v=1769698880</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>250</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>421245</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894868548</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
