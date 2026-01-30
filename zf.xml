@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 770 -->
 <!-- Total individual products: 344 -->
-<!-- Created: 2026-01-30 13:14:10 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-01-31 00:00:21 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -81,9 +81,9 @@ Nejprodávanější hydroizolační stěrka používaná profesionály i kutily 
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém, silan/siloxan · 5l</PRODUCTNAME>
-          <DESCRIPTION>Injektážní krém, silan/siloxan.
-Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém proti vzlínající vlhkosti · 5l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní krém proti vzlínající vlhkosti, silan/siloxan.
+Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdiva. Nízký tlak, až 95% nasycení. Chrání proti vzlínající vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279802193</URL>
           <PRICE_VAT>5255.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -104,9 +104,9 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém, silan/siloxan · 10l</PRODUCTNAME>
-          <DESCRIPTION>Injektážní krém, silan/siloxan.
-Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém proti vzlínající vlhkosti · 10l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní krém proti vzlínající vlhkosti, silan/siloxan.
+Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdiva. Nízký tlak, až 95% nasycení. Chrání proti vzlínající vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279834961</URL>
           <PRICE_VAT>10735.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -127,9 +127,9 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém, silan/siloxan · 12,5l</PRODUCTNAME>
-          <DESCRIPTION>Injektážní krém, silan/siloxan.
-Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém proti vzlínající vlhkosti · 12,5l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní krém proti vzlínající vlhkosti, silan/siloxan.
+Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdiva. Nízký tlak, až 95% nasycení. Chrání proti vzlínající vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -150,9 +150,9 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém, silan/siloxan · 550ml</PRODUCTNAME>
-          <DESCRIPTION>Injektážní krém, silan/siloxan.
-Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 95 % nasycení. Chrání proti vzlínající spodní vodě a vlhkosti.</DESCRIPTION>
+          <PRODUCTNAME>Remmers Kiesol C · Injektážní krém proti vzlínající vlhkosti · 550ml</PRODUCTNAME>
+          <DESCRIPTION>Injektážní krém proti vzlínající vlhkosti, silan/siloxan.
+Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdiva. Nízký tlak, až 95% nasycení. Chrání proti vzlínající vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279769425</URL>
           <PRICE_VAT>920.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -175,9 +175,10 @@ Dodatečná vodorovná izolace zdiva injektažním krémem s nízkým tlakem do 
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers WP Sulfatex · 25 kg · Minerální hydroizolační stěrka</PRODUCTNAME>
+          <PRODUCTNAME>Remmers WP Sulfatex · Minerální těsnicí stěrka proti solím a vlhkosti</PRODUCTNAME>
           <DESCRIPTION>Minerální hydroizolační stěrka.
-Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny a základy před vlhkostními škodami a solnou degradací.</DESCRIPTION>
+Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhkosti. Chrání stěny a základy před vlhkostními škodami a solnou degradací. Tuhá MDS.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -200,7 +201,7 @@ Hydroizolace do interiérů proti solím a vlhkosti. Efektivně chrání stěny 
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers WP DS Levell · 25 kg · Těsnicí malta odolná vůči síranům</PRODUCTNAME>
+          <PRODUCTNAME>Remmers WP DS Levell · Rychletuhnoucí těsnicí malta odolná vůči síranům</PRODUCTNAME>
           <DESCRIPTION>Těsnicí malta odolná vůči síranům.
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
@@ -225,9 +226,10 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers SP Top White · 20 kg · Sanační omítka pro vlhké a zasolené zdivo</PRODUCTNAME>
+          <PRODUCTNAME>Remmers SP Top White · Sanační omítka pro vlhké a zasolené zdivo (WTA)</PRODUCTNAME>
           <DESCRIPTION>Sanační omítka pro vlhké a zasolené zdivo.
-Sanační omítka pro vlhké a zasolené zdivo. Paropropustná, odolná vůči síranům, ideální pro sklepy a staré budovy. WTA certifikát.</DESCRIPTION>
+Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná síranům, absorbuje soli. Ideální pro sklepy a renovaci starých budov.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>741.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -428,11 +430,11 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Bauprotect HORIZONT-IN · 5 l · Injektážní krém vyroben v Německu · 5l</PRODUCTNAME>
+          <PRODUCTNAME>Bauprotect HORIZONT-IN · Injektážní krém vyroben v Německu · 5l</PRODUCTNAME>
           <DESCRIPTION>Injektážní krém sloužící pro utvoření vysoce spolehlivé horizontální bariéry proti vzlínající vlhkosti ve zdivu s certifikací WTA.
 Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-5l?variant=52603952988497</URL>
+          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem?variant=52603952988497</URL>
           <PRICE_VAT>3630.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
@@ -452,11 +454,11 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Bauprotect HORIZONT-IN · 5 l · Injektážní krém vyroben v Německu · 20l</PRODUCTNAME>
+          <PRODUCTNAME>Bauprotect HORIZONT-IN · Injektážní krém vyroben v Německu · 20l</PRODUCTNAME>
           <DESCRIPTION>Injektážní krém sloužící pro utvoření vysoce spolehlivé horizontální bariéry proti vzlínající vlhkosti ve zdivu s certifikací WTA.
 Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem-5l?variant=52603953021265</URL>
+          <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem?variant=52603953021265</URL>
           <PRICE_VAT>13300.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
@@ -582,9 +584,10 @@ HADALAN® MBH 12E je transparentní epoxidová pryskyřice s širokospektrým v
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers SP Levell · 20 kg · Sanační jádrová omítka</PRODUCTNAME>
+          <PRODUCTNAME>Remmers SP Levell · Porózní sanační jádrová omítka (Grundputz)</PRODUCTNAME>
           <DESCRIPTION>Sanační jádrová omítka (Grundputz).
-Sanační porózní omítka pro vlhké zdivo. Absorbuje soli, paropropustná, WTA certifikát. Vhodná pro sanaci starších budov.</DESCRIPTION>
+Sanační porózní jádrová omítka pro vlhké zdivo. Absorbuje soli, paropropustná, WTA certifikát. Vhodná pro sanaci starších budov a sklepů.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-levell-20kg</URL>
           <PRICE_VAT>828.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -709,9 +712,9 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · Speciální penetrace pro MB 2K · 1l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · Kremičitý koncentrát penetrace pod MB 2K · 1l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
-Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
+Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>540.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -732,9 +735,9 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · Speciální penetrace pro MB 2K · 5l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · Kremičitý koncentrát penetrace pod MB 2K · 5l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
-Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
+Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1915.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -755,9 +758,9 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol MB · Speciální penetrace pro MB 2K · 30l</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol MB · Kremičitý koncentrát penetrace pod MB 2K · 30l</PRODUCTNAME>
           <DESCRIPTION>Speciální penetrace.
-Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
+Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665797017937</URL>
           <PRICE_VAT>10150.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -781,9 +784,9 @@ Penetrace pro savé minerální podklady. Používá se pod MB 2K. Zpevňuje, zl
   
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 5kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol Standard · Mineralizační penetrace proti vlhkosti · 5kg</PRODUCTNAME>
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
+1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
           <PRICE_VAT>1610.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -804,9 +807,9 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 10kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol Standard · Mineralizační penetrace proti vlhkosti · 10kg</PRODUCTNAME>
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
+1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571994449</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
@@ -827,9 +830,9 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 30kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol Standard · Mineralizační penetrace proti vlhkosti · 30kg</PRODUCTNAME>
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
+1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712572027217</URL>
           <PRICE_VAT>7520.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
@@ -850,9 +853,9 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
         </SHOPITEM>
       
           <SHOPITEM>
-          <PRODUCTNAME>Remmers Kiesol Standard · Penetrace a hydroizolace zdiva · 210kg</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Kiesol Standard · Mineralizační penetrace proti vlhkosti · 210kg</PRODUCTNAME>
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
-Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát pro beztlakou nebo nízkotlakou hydroizolaci proti vzlínající vlhkosti.</DESCRIPTION>
+1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712617410897</URL>
           <PRICE_VAT>48250.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE>
@@ -875,9 +878,9 @@ Hloubková penetrace a zpevnění minerálního zdiva. Bezbarvý, 1K koncentrát
     
   
           <SHOPITEM>
-          <PRODUCTNAME>Remmers SP Top Q2 · 25 kg · Sanační omítka podle WTA</PRODUCTNAME>
+          <PRODUCTNAME>Remmers SP Top Q2 (Feinputz) · Jemná sanační omítka podle WTA</PRODUCTNAME>
           <DESCRIPTION>Sanační omítka podle WTA
-Fajnová sanační omítka. Vhodné pro interiér i exteriér. Nízká alkalita, absorbuje soli, WTA certifikát. Ideální pro renovaci starých budov.</DESCRIPTION>
+Jemná sanační omítka (feinputz) WTA pro interiér i exteriér. Nízká alkalita, absorbuje soli, paropropustná. Ideální pro renovaci starých budov a vlhkého zdiva.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE>
