@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 770 -->
 <!-- Total individual products: 344 -->
-<!-- Created: 2026-02-01 00:00:20 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-01 17:36:40 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -10504,7 +10504,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový nátěr, s obsahem rozpouštědel, odolný proti UV záření, vytvrzuje působením vzdušné vlhkosti.
 ✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268043601</URL>
-          <PRICE_VAT>5200.0</PRICE_VAT>
+          <PRICE_VAT>13055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -10519,7 +10519,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
-          
+          <EAN>7612894052886</EAN>
           <CONDITION>new</CONDITION>
         </SHOPITEM>
       
@@ -11818,7 +11818,7 @@ Sikafloor® Garage je 2-komponentní, barevný epoxidový podlahový nátěr na 
 ✅ Nízké emise VOC✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost
 Balení: 6kg (4,38kg komp. A + 1,62kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-garage-6kg</URL>
-          <PRICE_VAT>3470.0</PRICE_VAT>
+          <PRICE_VAT>3325.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Garage_opt.jpg?v=1762436378</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
