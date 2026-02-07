@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 772 -->
 <!-- Total individual products: 346 -->
-<!-- Created: 2026-02-07 09:20:13 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Created: 2026-02-08 00:14:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -20164,7 +20164,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
 ✅ Rychlé a snadné použití✅ Výborná roztékavost✅ Pro ruční i strojní aplikaci</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-432-decocem-25kg?variant=52858199933265</URL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-432-decocem_opt.jpg?v=1768923247</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
