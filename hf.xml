@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 772 -->
-<!-- Total individual products: 346 -->
-<!-- Created: 2026-02-09 14:50:39 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Total products+variants: 773 -->
+<!-- Total individual products: 347 -->
+<!-- Created: 2026-02-09 15:51:22 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -4336,6 +4336,25 @@ HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížen�
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637402202</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>SBXGL405T</ITEM_ID>
+          <PRODUCTNAME>Gloria 405 T · včetně injektážní trubice 50 a 100 cm</PRODUCTNAME>
+          <PRODUCT>Gloria 405 T · vč. injektážní trubice 50 a 100 cm - Injektážní pumpa</PRODUCT>
+          <DESCRIPTION>Injektážní pumpa, ideální volba pro injektážní práce s krémovými systémy proti vzlínající vlhkosti.
+✅ Gloria pumpa je plně kompatibilní se všemi injektážními krémy z naší nabídky – včetně značek Remmers, Köster a Horizont (Horizon in Cream).
+🔧 Součástí balení jsou také profesionálně upravené injektážní trubice o délkách 50 cm a 100 cm, přizpůsobené pro přesné a rovnoměrné plnění vrtů.
+Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/gloria-405-t-vc-injektazni-trubice-50-a-100cm</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T_sbx_dl.jpg?v=1770646768</IMGURL>
+          <PRICE_VAT>4645.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Gloria</MANUFACTURER>
+          
         </SHOPITEM>
       
     

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 772 -->
-<!-- Total individual products: 346 -->
-<!-- Created: 2026-02-09 14:50:40 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Total products+variants: 773 -->
+<!-- Total individual products: 347 -->
+<!-- Created: 2026-02-09 15:51:22 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -174,7 +174,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
 Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdiva. Nízký tlak, až 95% nasycení. Chrání proti vzlínající vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 87 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 87 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8500,6 +8500,42 @@ HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížen�
               <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Příslušenství pro venkovní podlahy a dlažbu</CATEGORYTEXT>
 
           <EAN>4004637402202</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Gloria 405 T · včetně injektážní trubice 50 a 100 cm</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pumpa, ideální volba pro injektážní práce s krémovými systémy proti vzlínající vlhkosti.
+✅ Gloria pumpa je plně kompatibilní se všemi injektážními krémy z naší nabídky – včetně značek Remmers, Köster a Horizont (Horizon in Cream).
+🔧 Součástí balení jsou také profesionálně upravené injektážní trubice o délkách 50 cm a 100 cm, přizpůsobené pro přesné a rovnoměrné plnění vrtů.
+Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/gloria-405-t-vc-injektazni-trubice-50-a-100cm</URL>
+          <PRICE_VAT>4645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T_sbx_dl.jpg?v=1770646768</IMGURL>
+          <MANUFACTURER>Gloria</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBXGL405T</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Pěstitelství | Zavlažování | Postřikovače</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
