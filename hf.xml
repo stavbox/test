@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 773 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-12 14:23:03 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-02-13 00:00:26 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -2633,7 +2633,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
   
           <SHOPITEM>
           <ITEM_ID>109325</ITEM_ID>
-          <PRODUCTNAME>Remmers Betofix R2 · 25 kg ·Rychlá opravná malta</PRODUCTNAME>
+          <PRODUCTNAME>Remmers Betofix R2 · 25 kg · Rychlá opravná malta</PRODUCTNAME>
           <PRODUCT>Remmers Betofix R2 · 25 kg - Minerální ochrana před korozí a adhezní můstek</PRODUCT>
           <DESCRIPTION>Rychlá opravná malta.
 Rychleschnoucí malta pro opravy betonu. Vysoká přilnavost, odolná mrazu, vhodná pro rychlé zásahy na konstrukcích.</DESCRIPTION>
@@ -2887,7 +2887,7 @@ KÖSTER Repair Mortar je vodotěsná opravná malta s vynikající přilnavost�
           <SHOPITEM>
           <ITEM_ID>074615-MF10003</ITEM_ID>
           <PRODUCTNAME>Remmers RM N · 15 kg · speciální odstín · starobílá · Restaurátorská malta</PRODUCTNAME>
-          <PRODUCT>Remmers RM N · 15 kg · speciální odstín · starobílá - Restaurátorská malta</PRODUCT>
+          <PRODUCT>Remmers RM · 15 kg · speciální odstín · starobílá - Restaurátorská malta</PRODUCT>
           <DESCRIPTION>Restaurátorská malta, speciální odstín:  starobílá.
 Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkladů, jako je přírodní kámen, cihly, beton a umělý kámen.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-rm-n-15kg-specialni-odstin-starobila</URL>
@@ -3482,7 +3482,7 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
           <SHOPITEM>
           <ITEM_ID>2087210</ITEM_ID>
           <PRODUCTNAME>Remmers BIT 1K [basic] · Bitumenový nátěr (1K) · 10l</PRODUCTNAME>
-          <PRODUCT>Remmers BIT 1K [basic] · 10 l · 10l - Bitumenová stěrka</PRODUCT>
+          <PRODUCT>Remmers BIT 1K [basic] · 10l - Bitumenová stěrka</PRODUCT>
           <DESCRIPTION>Bitumenový nátěr (1K).
 Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný plasty, s polystyrenem. Odolný vodě, pro izolaci budov, WTA certifikát, snadná aplikace.
 </DESCRIPTION>
@@ -3498,7 +3498,7 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
           <SHOPITEM>
           <ITEM_ID>2087230</ITEM_ID>
           <PRODUCTNAME>Remmers BIT 1K [basic] · Bitumenový nátěr (1K) · 30l</PRODUCTNAME>
-          <PRODUCT>Remmers BIT 1K [basic] · 10 l · 30l - Bitumenová stěrka</PRODUCT>
+          <PRODUCT>Remmers BIT 1K [basic] · 30l - Bitumenová stěrka</PRODUCT>
           <DESCRIPTION>Bitumenový nátěr (1K).
 Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný plasty, s polystyrenem. Odolný vodě, pro izolaci budov, WTA certifikát, snadná aplikace.
 </DESCRIPTION>
