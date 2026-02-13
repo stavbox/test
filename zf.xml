@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 773 -->
+<!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-13 00:00:27 -->
+<!-- Created: 2026-02-14 00:00:27 -->
 <!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -18495,6 +18495,44 @@ Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, kt
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
 
           <EAN>7612655107466</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-264 Plus · Hladká epoxidová stěrka a nátěr · Vícebarevná světlá / 10kg (AB)</PRODUCTNAME>
+          <DESCRIPTION>2komponentní hladký epoxidový nátěr a stěrka a uzavírací vrstva.
+
+
+
+Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, která může poskytnout odolný, bezešvý, nenáročný na údržbu, hladký lesklý povrch nebo protiskluzový povrch při posypu s různými druhy křemičitého písku.
+
+
+✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=53040636658001</URL>
+          <PRICE_VAT>4900.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX839910</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
