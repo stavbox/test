@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-16 00:00:20 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-16 14:41:13 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -16343,7 +16343,7 @@ Disperzní lepidlo s vysokou počáteční lepivostí a extrémní pevností spo
 Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/schonox-ifloor-set?variant=52646096404817</URL>
           <PRICE_VAT>3285.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-ifloor.jpg?v=1763538221</IMGURL>
           <MANUFACTURER>Schönox</MANUFACTURER>
           <DELIVERY>
