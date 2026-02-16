@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-16 14:41:13 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-02-17 00:00:22 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 472 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 469 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -313,7 +313,7 @@ Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná sír
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>741.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 824 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 908 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6352,7 +6352,7 @@ Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, 
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386857297</URL>
           <PRICE_VAT>375.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7016,7 +7016,7 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic?variant=52925410476369</URL>
           <PRICE_VAT>2720.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 123 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 120 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-1K-30l-bitumenova-sterka.jpg?v=1755865564</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7443,7 +7443,7 @@ Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti
 Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la?variant=52656306094417</URL>
           <PRICE_VAT>2920.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9365,7 +9365,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 63 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 61 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
