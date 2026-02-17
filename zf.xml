@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-17 00:00:22 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-17 13:35:28 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -449,7 +449,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
 Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -5745,7 +5745,7 @@ Vodotěsná opravná malta (opravy a vyrovnání původního zdiva, zasoleného
 KÖSTER Repair Mortar je vodotěsná opravná malta s vynikající přilnavostí i původní stavebním materiálům. Používá se opravy a vyrovnání původního zdiva, zasoleného zdiva a betonových konstrukcí atd. Po přidáním KÖSTER SB Bonding Emulsion, lze použít jako PCC (polymerem modifikovanou maltu nebo beton).</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-repair-mortar-25kg</URL>
           <PRICE_VAT>1390.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Repair-Mortar-25kg-vodotesna-opravna-malta.jpg?v=1755863026</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
