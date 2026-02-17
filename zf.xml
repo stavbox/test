@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-17 13:35:28 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-02-18 00:00:23 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 469 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 467 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -244,7 +244,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -5, VI: 202 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -5, VI: 192 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -278,7 +278,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 330 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 305 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1126,7 +1126,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712572027217</URL>
           <PRICE_VAT>7520.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1462,7 +1462,7 @@ Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání př
 Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje nasákavost podkladu. Ideální pro vlhké zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-prep-30kg</URL>
           <PRICE_VAT>820.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 185 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 175 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Prep-30kg-omitkovy-podhoz.jpg?v=1755779270</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6414,7 +6414,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386890065</URL>
           <PRICE_VAT>7645.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 9 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7187,7 +7187,7 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 14 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9396,7 +9396,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 57 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 56 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
