@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-18 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-18 10:16:04 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -25950,7 +25950,7 @@ Barva: parketově hnědá
 Balení:600ml monoporce (790g)1800ml monoporce (2370g)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikabond-52-parquet?variant=52891549598033</URL>
           <PRICE_VAT>850.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBond-52-Parquet_opt.jpg?v=1769281879</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
