@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-19 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-19 12:55:43 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -312,7 +312,7 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
 Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná síranům, absorbuje soli. Ideální pro sklepy a renovaci starých budov.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
-          <PRICE_VAT>741.0</PRICE_VAT>
+          <PRICE_VAT>963.8</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 908 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -587,7 +587,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
 Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem?variant=52603952988497</URL>
-          <PRICE_VAT>3630.0</PRICE_VAT>
+          <PRICE_VAT>3932.5</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
@@ -620,7 +620,7 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
 Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem?variant=52603953021265</URL>
-          <PRICE_VAT>13300.0</PRICE_VAT>
+          <PRICE_VAT>14520.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
@@ -10598,7 +10598,7 @@ INTRASIT® SE-SF 70A je speciální barva na bázi organických silikátů s vy
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-intrasit-se-sf-70a-15l</URL>
           <PRICE_VAT>3775.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-INTRASIT_SE-SF-70A-15l-sanacni-barva-na-bazi-organickych-silikatu.jpg?v=1755886746</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
