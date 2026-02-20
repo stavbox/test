@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 774 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-20 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-20 14:40:05 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 467 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 463 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -81,7 +81,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012893521</URL>
           <PRICE_VAT>3845.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 156 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 154 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -115,7 +115,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdiva. Nízký tlak, až 95% nasycení. Chrání proti vzlínající vodě a vlhkosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279802193</URL>
           <PRICE_VAT>5255.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 41 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 40 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -244,7 +244,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -5, VI: 192 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 177 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -278,7 +278,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 305 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 288 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -313,7 +313,7 @@ Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná sír
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>963.8</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 908 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 824 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1061,7 +1061,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
-          <PRICE_VAT>1610.0</PRICE_VAT>
+          <PRICE_VAT>1807.9</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1191,7 +1191,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Jemná sanační omítka (feinputz) WTA pro interiér i exteriér. Nízká alkalita, absorbuje soli, paropropustná. Ideální pro renovaci starých budov a vlhkého zdiva.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 71 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 35 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-Q2-25kg-fajnova-omitka-specialni.jpg?v=1755783214</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1261,7 +1261,7 @@ Siloxanový koncentrát pro bezrozpouštědlovou horizontální izolaci zdiva, n
 Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kiesol Standard.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol?variant=52661288042833</URL>
           <PRICE_VAT>1920.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-1kg-penetrace.jpg?v=1755759440</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1462,7 +1462,7 @@ Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání př
 Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje nasákavost podkladu. Ideální pro vlhké zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-prep-30kg</URL>
           <PRICE_VAT>820.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 175 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 144 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Prep-30kg-omitkovy-podhoz.jpg?v=1755779270</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4407,7 +4407,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991680337</URL>
           <PRICE_VAT>3175.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4438,7 +4438,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991713105</URL>
-          <PRICE_VAT>2110.0</PRICE_VAT>
+          <PRICE_VAT>2400.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4470,7 +4470,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
           <DESCRIPTION>Silikonová barva na zdivo.
 Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, bez rozpouštědel a změkčovadel.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991745873</URL>
-          <PRICE_VAT>4420.0</PRICE_VAT>
+          <PRICE_VAT>5030.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4945,7 +4945,7 @@ Barva s dlouhodobou ochranou proti plísním. Paropropustná, odolná vlhkosti, 
           <DESCRIPTION>Antikorozní ochrana.
 Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje přilnavost opravných malt, odolný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-khb?variant=52657666818385</URL>
-          <PRICE_VAT>560.0</PRICE_VAT>
+          <PRICE_VAT>610.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-KHB-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755860527</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4977,7 +4977,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
           <DESCRIPTION>Antikorozní ochrana.
 Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje přilnavost opravných malt, odolný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-khb?variant=52657666851153</URL>
-          <PRICE_VAT>2210.0</PRICE_VAT>
+          <PRICE_VAT>2420.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 17 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-KHB-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755860527</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5848,7 +5848,7 @@ Rychleschnoucí kontaktní nástřik s polymerními přísadami pro přípravu 
           <DESCRIPTION>Rychlá opravná malta se statickou funkcí.
 Rychleschnoucí malta pro opravy betonu se statickou funkcí. Vysoká přilnavost, odolná mrazu, vhodná pro rychlé zásahy na konstrukcích.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-r4-25kg</URL>
-          <PRICE_VAT>1345.0</PRICE_VAT>
+          <PRICE_VAT>1470.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-R4-25kg-PCC-malta.jpg?v=1755863170</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -6414,7 +6414,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386890065</URL>
           <PRICE_VAT>7645.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 9 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7187,7 +7187,7 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 12 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7249,7 +7249,7 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613996369</URL>
           <PRICE_VAT>19950.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7508,7 +7508,7 @@ Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESC
 Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti, vodoodpudivá, paropropustná, ideální pro renovaci fasád historických staveb.
 Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la?variant=52656306127185</URL>
-          <PRICE_VAT>2905.0</PRICE_VAT>
+          <PRICE_VAT>3305.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7574,7 +7574,7 @@ Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESC
 Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti, vodoodpudivá, paropropustná, ideální pro renovaci fasád historických staveb.
 Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la?variant=52656306159953</URL>
-          <PRICE_VAT>3055.0</PRICE_VAT>
+          <PRICE_VAT>3475.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7607,7 +7607,7 @@ Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESC
 Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti, vodoodpudivá, paropropustná, ideální pro renovaci fasád historických staveb.
 Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la?variant=52656311140689</URL>
-          <PRICE_VAT>6150.0</PRICE_VAT>
+          <PRICE_VAT>6995.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7641,7 +7641,7 @@ Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESC
           <DESCRIPTION>Výplňová barva.
 Akrylová výplňová barva pro cihlové fasády starých budov. Překlenuje mikrotrhliny, vodoodpudivá, odolná povětrnosti, ideální pro renovaci a ochranu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-fill-10kg-bily</URL>
-          <PRICE_VAT>2355.0</PRICE_VAT>
+          <PRICE_VAT>2800.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Fill-10kg-vyplnova-barva.jpg?v=1755876861</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7773,7 +7773,7 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
           <DESCRIPTION>Silikonová fasádní barva s ochranou proti plísním a řasám.
 Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodoodpudivost, paropropustná, odolná UV záření, ideální pro staré i nové budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sf?variant=52655311094097</URL>
-          <PRICE_VAT>4450.0</PRICE_VAT>
+          <PRICE_VAT>5065.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SF-5l-silikonova-fasadni-barva-bila.jpg?v=1755877003</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7837,7 +7837,7 @@ Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodo
           <DESCRIPTION>Silikonová fasádní barva s ochranou proti plísním a řasám.
 Silikonová barva pro fasády s ochranou proti plísním a řasám. Vysoká vodoodpudivost, paropropustná, odolná UV záření, ideální pro staré i nové budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sf?variant=52655311159633</URL>
-          <PRICE_VAT>4740.0</PRICE_VAT>
+          <PRICE_VAT>5390.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SF-5l-silikonova-fasadni-barva-bila.jpg?v=1755877003</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7905,7 +7905,7 @@ Jednosložková (1K) pružná těsnící malta pro izolaci pod keramické obklad
           <DESCRIPTION>Výplňová barva.
 Minerální interiérová výplňová barva pro památkové a ekologické prostory. Překlenuje mikrotrhliny, paropropustná, odolná povětrnosti, ideální pro restaurování historických budov.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-cl-fill-historic-10kg</URL>
-          <PRICE_VAT>4530.0</PRICE_VAT>
+          <PRICE_VAT>5155.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-CL-Fill-Historic-10kg-vyplnova-barva-pro-historicke-fasady.jpg?v=1755877155</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8269,7 +8269,7 @@ Transparentní ředicí aditivum pro systémy silikonových nátěrů k nastaven
           <DESCRIPTION>Transparentní ředicí aditivum.
 Transparentní ředicí aditivum pro systémy silikonových nátěrů k nastavení stupně glazury</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-add-transparent?variant=52656251404625</URL>
-          <PRICE_VAT>6620.0</PRICE_VAT>
+          <PRICE_VAT>7535.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Add-Transparent-5l-redici-aditivum.jpg?v=1755877838</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8499,7 +8499,7 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
           <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
 Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843241297</URL>
-          <PRICE_VAT>5650.0</PRICE_VAT>
+          <PRICE_VAT>6180.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8563,7 +8563,7 @@ Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových pov
           <DESCRIPTION>Akrylová fasádní barva na fasády a betonové povrchy.
 Čistě akrylová barva pro fasády a betonové povrchy. Vysoká odolnost vůči povětrnosti, vodoodpudivá, stálobarevný, testovaný dle DIN EN 1504-2.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-pa?variant=52657843306833</URL>
-          <PRICE_VAT>6635.0</PRICE_VAT>
+          <PRICE_VAT>7260.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-PA-5l-akrylova-barva-na-fasady.jpg?v=1755878119</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9429,7 +9429,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <PRICE_VAT>325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 21 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -26298,7 +26298,7 @@ Barva: šedý prášek</DESCRIPTION>
           <DESCRIPTION>Křemenem plněná, vlákny vyztužená mezivrstva pro vyrovnávání betonových povrchů.
 Křemenem plněná vlákny vyztužená mezivrstva pro vyrovnávání betonu. Akrylová, vodoodpudivá, stálobarevná. Testováno dle DIN EN 1504-2, vysoká odolnost.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-pa-fill-12-5l</URL>
-          <PRICE_VAT>4065.0</PRICE_VAT>
+          <PRICE_VAT>4450.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Color-PA-Fill_dl_sbx.jpg?v=1770190584</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
