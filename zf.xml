@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 774 -->
+<!-- Total products+variants: 775 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-20 14:40:05 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-02-21 00:00:24 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -925,13 +925,14 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Remmers MB PUReactive · 25 kg · Hydroizolace střech a balkonů</PRODUCTNAME>
-          <DESCRIPTION>Hybridní hydroizolace plochých střech a balkonů.
-Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, odolná vodě a hnilobě.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-25kg</URL>
-          <PRICE_VAT>7020.0</PRICE_VAT>
+          <PRODUCTNAME>Remmers MB PUReactive TX · Thixotropní hybridní hydroizolace střechy · 10,5kg</PRODUCTNAME>
+          <DESCRIPTION>Thixotropní hybridní hydroizolace plochých střech a balkonů.
+Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychleschnoucí, pružná, odolná vodě a hnilobě. Reaktivní stěrka pod obklady.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-tx?variant=53107712065873</URL>
+          <PRICE_VAT>5345.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-PUReactvie-25kg-hydroizolace-strech-a-balkonu.jpg?v=1755778039</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-Pureactive-TX_dl_sbx.jpg?v=1771618261</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -944,12 +945,44 @@ Reaktivní stěrka pro hydroizolaci stěn a podlah. Rychleschnoucí, pružná, o
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>300311</ITEM_ID>
+          <ITEM_ID>298010</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-          <EAN>4004707259668</EAN>
+          <EAN>4004707262842</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers MB PUReactive TX · Thixotropní hybridní hydroizolace střechy · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Thixotropní hybridní hydroizolace plochých střech a balkonů.
+Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychleschnoucí, pružná, odolná vodě a hnilobě. Reaktivní stěrka pod obklady.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-tx?variant=53107712098641</URL>
+          <PRICE_VAT>12170.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-Pureactive-TX_dl_sbx.jpg?v=1771618261</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>298011</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004707262019</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
@@ -1061,7 +1094,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <DESCRIPTION>Zpevňující mineralizační koncentrát 1K.
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
-          <PRICE_VAT>1807.9</PRICE_VAT>
+          <PRICE_VAT>1610.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1427,7 +1460,7 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
           <DESCRIPTION>Alkoxy vytvrzující silikonový tmel.
 Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání před vlhkostí, zachovává paropropustnost.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-multisil-nuw-600ml</URL>
-          <PRICE_VAT>603.0</PRICE_VAT>
+          <PRICE_VAT>685.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MultiSil-NUW-310ml-silikonovy-tmel.jpg?v=1755783116</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1831,7 +1864,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182764369</URL>
-          <PRICE_VAT>1480.0</PRICE_VAT>
+          <PRICE_VAT>1685.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1863,7 +1896,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <DESCRIPTION>Vysoce paropropustná interiérová barva pro systémy sanačních omítek.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182797137</URL>
-          <PRICE_VAT>3500.0</PRICE_VAT>
+          <PRICE_VAT>3980.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1933,7 +1966,7 @@ Minerální barva pro památky. Paropropustná, odolná povětrnosti, vhodná pr
 Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana proti vlhkosti. Ideální pro novostavby i rekonstrukce.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect?variant=52655132279121</URL>
-          <PRICE_VAT>12570.0</PRICE_VAT>
+          <PRICE_VAT>14340.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-ML-ochranna-vrstva.jpg?v=1755850248</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1966,7 +1999,7 @@ Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana prot
 Trojvrstvý pás pro vnější izolaci. Vysoká odolnost, separace, ochrana proti vlhkosti. Ideální pro novostavby i rekonstrukce.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect?variant=52655132311889</URL>
-          <PRICE_VAT>19380.0</PRICE_VAT>
+          <PRICE_VAT>22075.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1720 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-ML-ochranna-vrstva.jpg?v=1755850248</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -2783,15 +2816,14 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
 Textilní roh pro systém iQ-Therm 2.0. Zpevňuje spoje, zvyšuje odolnost, ideální pro vnitřní izolaci stěn.
 Balení: 25ks</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-gewebewinkel?variant=52654948876625</URL>
-          <PRICE_VAT>8925.0</PRICE_VAT>
+          <PRICE_VAT>12580.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Gewebewinkel-PVC-roh.png?v=1755852708</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
-            
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
           <DELIVERY>
             <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
@@ -2816,15 +2848,14 @@ Balení: 25ks</DESCRIPTION>
 Textilní roh pro systém iQ-Therm 2.0. Zpevňuje spoje, zvyšuje odolnost, ideální pro vnitřní izolaci stěn.
 Balení: 25ks</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-gewebewinkel?variant=52654948909393</URL>
-          <PRICE_VAT>8925.0</PRICE_VAT>
+          <PRICE_VAT>10155.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Gewebewinkel-PVC-roh.png?v=1755852708</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
-            
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
           <DELIVERY>
             <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
@@ -2919,7 +2950,7 @@ Rychleschnoucí stěrka pro vnitřní izolaci. Odolná síranům, pružná, vhod
           <DESCRIPTION>Štuková omítka, románský cement.
 Historická malta pro spárování památek. Jemná zrnitost, paropropustná, odolná povětrnosti, pro přírodní kámen a cihly.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fill-rz-historic-5kg-sedobezovy</URL>
-          <PRICE_VAT>749.0</PRICE_VAT>
+          <PRICE_VAT>850.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Fill-RZ-Historic-5kg-mineralni-opravna-stukova-omitka.jpg?v=1755853029</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4742,7 +4773,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 Jemná omítka pro historické fasády. Paropropustná, odolná povětrnosti, ideální pro restaurování památek.
 Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie CS I, Wc 0.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-stucco-fine-25kg</URL>
-          <PRICE_VAT>289.0</PRICE_VAT>
+          <PRICE_VAT>335.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_nopictureavailableyet_CZ.jpg?v=1753449382</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5310,9 +5341,10 @@ Rychleschnoucí malta pro opravy betonu. Vysoká přilnavost, odolná mrazu, vho
         <SHOPITEM>
           <PRODUCTNAME>Remmers FM ZF · 25 kg · Spárovací malta bez cementu</PRODUCTNAME>
           <DESCRIPTION>Spárovací malta bez cementu.
-Vápenná malta pro spárování cihelných fasád. Jemná zrnitost, odolná povětrnosti, vhodná pro historické budovy.</DESCRIPTION>
+Vápenná malta pro spárování cihelných fasád. Jemná zrnitost, odolná povětrnosti, vhodná pro historické budovy.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fm-zf-25kg</URL>
-          <PRICE_VAT>1999.0</PRICE_VAT>
+          <PRICE_VAT>2275.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-ZF-25kg-sparovaci-malta-bez-cementu.jpg?v=1755861221</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5672,9 +5704,10 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
         <SHOPITEM>
           <PRODUCTNAME>Remmers FM SAN · 25 kg · Vápenocementová sanační malta</PRODUCTNAME>
           <DESCRIPTION>Vápenocementová sanační malta.
-Spárovací malta pro cihly, odolná solím a síranům. Paropropustná, pro sanaci starých fasád, WTA certifikát.</DESCRIPTION>
+Spárovací malta pro cihly, odolná solím a síranům. Paropropustná, pro sanaci starých fasád, WTA certifikát.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fm-san-25kg</URL>
-          <PRICE_VAT>1607.0</PRICE_VAT>
+          <PRICE_VAT>1825.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-SAN-30kg-vapenocementova-sanacni-malta.jpg?v=1755862720</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -7541,7 +7574,7 @@ Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESC
 Akrylová barva pro omítky starých budov. Vysoká odolnost vůči povětrnosti, vodoodpudivá, paropropustná, ideální pro renovaci fasád historických staveb.
 Prosím, kontaktujte nás, abychom mohli projednat přesný odstín barvy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la?variant=52656311107921</URL>
-          <PRICE_VAT>5370.0</PRICE_VAT>
+          <PRICE_VAT>6110.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-12-5l-akrylova-fasadni-barva.jpg?v=1755876750</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8767,11 +8800,11 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Remmers Historic Oberputz · 25 kg · Objektová vrchní omítka</PRODUCTNAME>
+          <PRODUCTNAME>Remmers CL Top Historic (Oberputz) · Objektová vrchní omítka</PRODUCTNAME>
           <DESCRIPTION>Objektová vrchní omítka.
 Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odolná povětrnosti, ruční i strojní zpracování, ideální pro renovaci starých budov.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-historic-oberputz-25kg</URL>
-          <PRICE_VAT>2291.0</PRICE_VAT>
+          <URL>https://www.stavbox.cz/products/remmers-cl-top-historic-oberputz-25kg</URL>
+          <PRICE_VAT>2605.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Historic-Oberputz-25kg-objektova-vrchni-omitka.jpg?v=1755878718</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8805,7 +8838,7 @@ Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odoln
           <DESCRIPTION>Rychlovazná malta na bázi románského cementu.
 Rychlovazná malta z románského cementu pro štuky a spáry památek. Paropropustná, odolná povětrnosti, pro restaurování historických fasád a detailů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm-rz-historic-6kg</URL>
-          <PRICE_VAT>873.0</PRICE_VAT>
+          <PRICE_VAT>990.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-RM-RZ-Historic-6kg-rychlovazna-malta-na-bazi-romanskeho-cementu.jpg?v=1755878896</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8837,9 +8870,10 @@ Rychlovazná malta z románského cementu pro štuky a spáry památek. Paroprop
         <SHOPITEM>
           <PRODUCTNAME>Remmers SP Top Rapid · 20 kg · Rychleschnoucí sanační omítka</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí sanační omítka.
-Rychleschnoucí sanační omítka pro vlhké a zasolené zdivo podle WTA. Paropropustná, odolná síranům, zlepšuje vysychání, pro vnitřní i venkovní sanace budov.</DESCRIPTION>
+Rychleschnoucí sanační omítka pro vlhké a zasolené zdivo podle WTA. Paropropustná, odolná síranům, zlepšuje vysychání, pro vnitřní i venkovní sanace budov.
+  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-rapid-20kg-starobila</URL>
-          <PRICE_VAT>1832.0</PRICE_VAT>
+          <PRICE_VAT>2085.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-Rapid-20kg-rychleschnouci-sanacni-omitka.jpg?v=1755878960</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9185,7 +9219,7 @@ Produkt je k dispozici také v dalších speciálních barevných odstínech. V 
 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fm-nb-basic-25kg?variant=52655274262865</URL>
-          <PRICE_VAT>1870.0</PRICE_VAT>
+          <PRICE_VAT>2125.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-NB-Basic-25kg-vapenocementova-sparovaci-malta.jpg?v=1755879595</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9223,7 +9257,7 @@ Produkt je k dispozici také v dalších speciálních barevných odstínech. V 
 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fm-nb-basic-25kg?variant=52655274295633</URL>
-          <PRICE_VAT>1290.0</PRICE_VAT>
+          <PRICE_VAT>1465.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-NB-Basic-25kg-vapenocementova-sparovaci-malta.jpg?v=1755879595</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9261,7 +9295,7 @@ Produkt je k dispozici také v dalších speciálních barevných odstínech. V 
 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fm-nb-basic-25kg?variant=52655274328401</URL>
-          <PRICE_VAT>1290.0</PRICE_VAT>
+          <PRICE_VAT>1465.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-NB-Basic-25kg-vapenocementova-sparovaci-malta.jpg?v=1755879595</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9296,7 +9330,7 @@ Produkt je k dispozici také v dalších speciálních barevných odstínech. V 
           <DESCRIPTION>Krémová impregnace.
 Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určené pro porézní, minerální stavební materiály.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638929233</URL>
-          <PRICE_VAT>1335.0</PRICE_VAT>
+          <PRICE_VAT>1520.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-Plus-5l-kremova-hydrofilni-impregnace.jpg?v=1755879706</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9623,7 +9657,7 @@ Malta pro lepení, armování a opravu popraskaných omítek a tepelně izolačn
           <DESCRIPTION>Dekorativní ochranná lišta.
 Dekorativní ochrana drenážního prvku DS Protect. Flexibilní, Odolná vůči UV záření a teplotě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect-al-2m</URL>
-          <PRICE_VAT>156.0</PRICE_VAT>
+          <PRICE_VAT>175.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-AL-ukoncujici-lista-pro-DS-Protect.jpg?v=1755880247</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9657,7 +9691,7 @@ Dekorativní ochrana drenážního prvku DS Protect. Flexibilní, Odolná vůči
           <DESCRIPTION>Samotěsnící držák.
 Samotěsnící držák pro DS Protect AL,  flexibilní, odolný vůči UV záření a teplotě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect-clip-50ks</URL>
-          <PRICE_VAT>1650.0</PRICE_VAT>
+          <PRICE_VAT>1880.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-Clip-drzak-pro-DS-Protect.jpg?v=1755880486</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9824,9 +9858,10 @@ Velikost oka: 6,5x6,5mm</DESCRIPTION>
         <SHOPITEM>
           <PRODUCTNAME>Remmers MB 2K [eco] · 25 kg · Multifunkční eco hydroizolace</PRODUCTNAME>
           <DESCRIPTION>Multifunkční eco hydroizolace.
-Génius mezi hydroizolacemi na eco bázi. Chrání proti tlakové vodě a solím, ideální pro novostavby a sanace starých zdí. Efektivní a trvanlivá ochrana zdiva.</DESCRIPTION>
+Génius mezi hydroizolacemi na eco bázi. Chrání proti tlakové vodě a solím, ideální pro novostavby a sanace starých zdí. Efektivní a trvanlivá ochrana zdiva.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k-eco-25kg</URL>
-          <PRICE_VAT>7345.0</PRICE_VAT>
+          <PRICE_VAT>8350.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-Eco-25kg-multifunkcni-hydroizolace-budov-na-bazi-obnovitelnych-surovin.jpg?v=1755880733</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9928,7 +9963,7 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
 Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Ideální pro rubovou injektáž, zpevnění a utěsnění podkladu. Odolný mrazu a posypovým solím.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ig-acryl-3k?variant=52655164490065</URL>
-          <PRICE_VAT>17615.0</PRICE_VAT>
+          <PRICE_VAT>19995.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-IG-Acryl-3K-22-95kg-akrylatovy-gel.jpg?v=1755880906</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9960,7 +9995,7 @@ Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Id
 Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Ideální pro rubovou injektáž, zpevnění a utěsnění podkladu. Odolný mrazu a posypovým solím.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ig-acryl-3k?variant=52655164522833</URL>
-          <PRICE_VAT>295.0</PRICE_VAT>
+          <PRICE_VAT>335.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-IG-Acryl-3K-22-95kg-akrylatovy-gel.jpg?v=1755880906</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -9993,7 +10028,7 @@ Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Id
 Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Ideální pro rubovou injektáž, zpevnění a utěsnění podkladu. Odolný mrazu a posypovým solím.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ig-acryl-3k?variant=52655164555601</URL>
-          <PRICE_VAT>690.0</PRICE_VAT>
+          <PRICE_VAT>780.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-IG-Acryl-3K-22-95kg-akrylatovy-gel.jpg?v=1755880906</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10027,7 +10062,7 @@ Třísložkový, pružný, expanzivní a  nízkoviskózní akrylátový gel. Id
           <DESCRIPTION>PUR penetrace.
 Používá se jako základ pro všechny těsnicí hmoty PUR / MS a zálivkové hmoty. Rychle schne. Dobrá přilnavost.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-pur?variant=52655177728337</URL>
-          <PRICE_VAT>555.0</PRICE_VAT>
+          <PRICE_VAT>605.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-PUR-250ml-penetrace-na-bazi-PUR-pryskyrice.jpg?v=1755885858</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10060,7 +10095,7 @@ Používá se jako základ pro všechny těsnicí hmoty PUR / MS a zálivkové h
           <DESCRIPTION>PUR penetrace.
 Používá se jako základ pro všechny těsnicí hmoty PUR / MS a zálivkové hmoty. Rychle schne. Dobrá přilnavost.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-pur?variant=52655177761105</URL>
-          <PRICE_VAT>1515.0</PRICE_VAT>
+          <PRICE_VAT>1655.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-PUR-250ml-penetrace-na-bazi-PUR-pryskyrice.jpg?v=1755885858</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10095,7 +10130,7 @@ Používá se jako základ pro všechny těsnicí hmoty PUR / MS a zálivkové h
           <DESCRIPTION>Hydrofobní penetrace.
 Hydrofobní penetrace pro vyrovnání savosti, která pronikne do hloubky. Odolná alkáliím. Obsahuje rozpouštědla.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-h-30l</URL>
-          <PRICE_VAT>8025.0</PRICE_VAT>
+          <PRICE_VAT>9130.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-H-5l-penetrace-s-hydrofobnim-ucinkem.jpg?v=1755885935</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10130,7 +10165,7 @@ Hydrofobní penetrace pro vyrovnání savosti, která pronikne do hloubky. Odol
           <DESCRIPTION>MS polymerový elastický těsnicí tmel.
 Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, zdivo. Opláštění z ocelových i montovaných konstrukcí. Spoje dveřních a okenních rámů ke konstrukci budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ms-150-betonove-seda?variant=52662722691409</URL>
-          <PRICE_VAT>360.0</PRICE_VAT>
+          <PRICE_VAT>405.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-elasticky-tesnici-tmel.jpg?v=1766430534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10162,7 +10197,7 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
           <DESCRIPTION>MS polymerový elastický těsnicí tmel.
 Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, zdivo. Opláštění z ocelových i montovaných konstrukcí. Spoje dveřních a okenních rámů ke konstrukci budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ms-150-betonove-seda?variant=52662722658641</URL>
-          <PRICE_VAT>490.0</PRICE_VAT>
+          <PRICE_VAT>555.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 40 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-elasticky-tesnici-tmel.jpg?v=1766430534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10196,7 +10231,7 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
           <DESCRIPTION>Těsnící bobtnavý tmel.
 Na trvalé plastické utěsnění kabelů, rozvodů a potrubí. Při zatížení vodou ze zadní strany zdiva. Těsný při tlakové vodě do 0,3 barů. Odolný vůči stárnutí, trvale plastický.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-stopaq?variant=52662623568209</URL>
-          <PRICE_VAT>985.0</PRICE_VAT>
+          <PRICE_VAT>1120.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 47 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Stopaq-trvale-plasticka-bobtnava-tesnici-hmota.jpg?v=1755886132</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10228,7 +10263,7 @@ Na trvalé plastické utěsnění kabelů, rozvodů a potrubí. Při zatížení
           <DESCRIPTION>Těsnící bobtnavý tmel.
 Na trvalé plastické utěsnění kabelů, rozvodů a potrubí. Při zatížení vodou ze zadní strany zdiva. Těsný při tlakové vodě do 0,3 barů. Odolný vůči stárnutí, trvale plastický.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-stopaq?variant=52662623600977</URL>
-          <PRICE_VAT>16925.0</PRICE_VAT>
+          <PRICE_VAT>19250.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Stopaq-trvale-plasticka-bobtnava-tesnici-hmota.jpg?v=1755886132</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10329,7 +10364,7 @@ Jednosložková stříkatelná silnovrstvá izolace nabázi živice, plněná pr
           <DESCRIPTION>Lepící malta.
 Lepicí a armovací malta pro protiplísňové systémy. Minerální stavební materiály na zhotovení stěn a podkladů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-slp-fix-25kg</URL>
-          <PRICE_VAT>1923.0</PRICE_VAT>
+          <PRICE_VAT>2185.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SLP-Fix-25kg-lepici-malta-pro-protiplisnove-izolacni-desky.jpg?v=1755886345</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -26333,7 +26368,7 @@ Křemenem plněná vlákny vyztužená mezivrstva pro vyrovnávání betonu. Akr
 Flexibilní cementové lepidlo C2TE S1 na obklady a dlažbu pro interiér i exteriér. Vysoká přilnavost, odolné mrazu a vodě. Vhodné pro balkony a terasy.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fl-fix</URL>
-          <PRICE_VAT>1825.0</PRICE_VAT>
+          <PRICE_VAT>1995.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/FL-fix_dl_sbx.jpg?v=1770193890</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
