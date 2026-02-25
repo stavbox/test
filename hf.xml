@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 775 -->
-<!-- Total individual products: 347 -->
-<!-- Created: 2026-02-25 10:45:54 -->
+<!-- Total products+variants: 780 -->
+<!-- Total individual products: 349 -->
+<!-- Created: 2026-02-25 13:26:15 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -13373,19 +13373,104 @@ Flexibilní cementové lepidlo C2TE S1 na obklady a dlažbu pro interiér i exte
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10659708338513</ITEM_ID>
-          <PRODUCTNAME>Sika Sikaflex®-950 · 2K lepící tmel na bázi STP, odolný povětrnosti · 400ml</PRODUCTNAME>
-          <PRODUCT>Sika Sikaflex®-950 · 400ml - </PRODUCT>
+          <ITEM_ID>550622</ITEM_ID>
+          <PRODUCTNAME>Sika Sikaflex®-950 · 2K lepící tmel na bázi STP, odolný povětrnosti · 400ml · šedý</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-950 · 400ml · šedý - </PRODUCT>
           <DESCRIPTION>2-komponentní STP lepící tmel.
 Sikaflex®-950 je 2-komponentní lepicí tmel na bázi STP, který vytvrzuje chemickou reakcí dvou komponentů. Je vhodný pro lepení větších součástí a tam, kde je vyžadováno čerpání na dlouhé vzdálenosti.
 ✅ Vynikající čerpatelnost✅ Dobrá adheze na širokou škálu podkladů bez nutnosti speciální předúpravy✅ Splňuje nejvyšší standardy EHS</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikaflex-950</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-950_opt.jpg?v=1771942497</IMGURL>
-          <PRICE_VAT>6510.0</PRICE_VAT>
+          <PRICE_VAT>970.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
-          
+          <EAN>7612895429199</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>612421</ITEM_ID>
+          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL7015 (břidlicová šedá) / 15l</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-625 N · RAL7015 (břidlicová šedá) / 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
+Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
+✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53140483113297</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
+          <PRICE_VAT>11965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895563176</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>710570</ITEM_ID>
+          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL 7035 (světle šedý) / 5l</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-625 N · RAL 7035 (světle šedý) / 5l - </PRODUCT>
+          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
+Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
+✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53140483146065</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
+          <PRICE_VAT>4785.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895803791</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>612443</ITEM_ID>
+          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL7035 / 15l</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-625 N · RAL7035 / 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
+Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
+✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53140483178833</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
+          <PRICE_VAT>11965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895565392</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>612444</ITEM_ID>
+          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL9016 (dopravní bílý) / 15l</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-625 N · RAL9016 (dopravní bílý) / 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
+Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
+✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53140483244369</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
+          <PRICE_VAT>11965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895565408</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>514526</ITEM_ID>
+          <PRODUCTNAME>Sika® Reemat Premium · Netkaná skelná výztuž pro  systémy Sikalastic® · Role: 1.3m šířka, 90m délka</PRODUCTNAME>
+          <PRODUCT>Sika® Reemat Premium · Role: 1.3m šířka, 90m délka - </PRODUCT>
+          <DESCRIPTION>Netkaná výztužná rohož ze skelných vláken pro systémy tekuté střešní izolace Sikalastic®.
+Sika® Reemat Premium netkaná výztužná rohož ze skelných vláken pro systémy tekutých střešních izolací Sikalastic® .
+✅ Snadná a rychlá aplikace✅ Přizpůsobí se všem tvarům a profilům✅ Zajišťuje správnou tloušťku základní vrstvy
+Barva: bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-reemat-premium</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Reemat-Premium_opt.jpg?v=1772018741</IMGURL>
+          <PRICE_VAT>16065.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895305080</EAN>
         </SHOPITEM>
       
     
