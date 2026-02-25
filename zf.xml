@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 775 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-25 09:24:58 -->
+<!-- Created: 2026-02-25 10:45:54 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -314,10 +314,10 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
           <PRODUCTNAME>Remmers SP Top White · Sanační omítka pro vlhké a zasolené zdivo (WTA)</PRODUCTNAME>
           <DESCRIPTION>Sanační omítka pro vlhké a zasolené zdivo.
 Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná síranům, absorbuje soli. Ideální pro sklepy a renovaci starých budov.
-</DESCRIPTION>
+  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
-          <PRICE_VAT>790.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -3, VI: 778 -->
+          <PRICE_VAT>770.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 778 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1227,7 +1227,8 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
         <SHOPITEM>
           <PRODUCTNAME>Remmers SP Top Q2 (Feinputz) · Jemná sanační omítka podle WTA</PRODUCTNAME>
           <DESCRIPTION>Sanační omítka podle WTA
-Jemná sanační omítka (feinputz) WTA pro interiér i exteriér. Nízká alkalita, absorbuje soli, paropropustná. Ideální pro renovaci starých budov a vlhkého zdiva.</DESCRIPTION>
+Jemná sanační omítka (feinputz) WTA pro interiér i exteriér. Nízká alkalita, absorbuje soli, paropropustná. Ideální pro renovaci starých budov a vlhkého zdiva.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 29 -->
