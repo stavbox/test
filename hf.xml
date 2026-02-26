@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 780 -->
 <!-- Total individual products: 349 -->
-<!-- Created: 2026-02-26 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-26 09:46:23 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -13423,22 +13423,6 @@ Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace apl
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>612443</ITEM_ID>
-          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL7035 / 15l</PRODUCTNAME>
-          <PRODUCT>Sika Sikalastic®-625 N · RAL7035 / 15l - </PRODUCT>
-          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
-Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
-✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53140483178833</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
-          <PRICE_VAT>11965.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612895565392</EAN>
-        </SHOPITEM>
-      
-          <SHOPITEM>
           <ITEM_ID>612444</ITEM_ID>
           <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL9016 (dopravní bílý) / 15l</PRODUCTNAME>
           <PRODUCT>Sika Sikalastic®-625 N · RAL9016 (dopravní bílý) / 15l - </PRODUCT>
@@ -13452,6 +13436,22 @@ Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace apl
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895565408</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>612443</ITEM_ID>
+          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL 7035 (světle šedý) / 15l</PRODUCTNAME>
+          <PRODUCT>Sika Sikalastic®-625 N · RAL 7035 (světle šedý) / 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
+Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
+✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53152335921489</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
+          <PRICE_VAT>11965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895565392</EAN>
         </SHOPITEM>
       
     

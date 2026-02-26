@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 780 -->
 <!-- Total individual products: 349 -->
-<!-- Created: 2026-02-26 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-02-26 09:46:24 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -181,7 +181,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 72 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 72 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -282,7 +282,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 286 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 286 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -26495,39 +26495,6 @@ Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace apl
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL7035 / 15l</PRODUCTNAME>
-          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
-Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
-✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53140483178833</URL>
-          <PRICE_VAT>11965.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
-          <MANUFACTURER>Sika</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <DELIVERY>
-            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>612443</ITEM_ID>
-
-          
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
-              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
-
-          <EAN>7612895565392</EAN>
-          <CONDITION>new</CONDITION>
-          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
-        </SHOPITEM>
-      
-          
-
-        <SHOPITEM>
           <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL9016 (dopravní bílý) / 15l</PRODUCTNAME>
           <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
 Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
@@ -26554,6 +26521,39 @@ Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace apl
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895565408</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikalastic®-625 N · 1K tekutá PU hydroizolace s i-Cure · RAL 7035 (světle šedý) / 15l</PRODUCTNAME>
+          <DESCRIPTION>Vysoce výkonná polyuretanová hydroizolace aplikovaná v tekutém stavu.
+Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace aplikovaná tekutém stavu za studena. Poskytuje flexibilní, bezešvé hydroizolační řešení s využitím unikátní technologie i-Cure společnosti Sika.
+✅ Jedno komponentní připravené k použití✅ Nízké nároky na údržbu✅ Bezešvá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53152335921489</URL>
+          <PRICE_VAT>11965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>612443</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895565392</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
