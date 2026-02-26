@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 778 -->
 <!-- Total individual products: 347 -->
-<!-- Created: 2026-02-26 16:41:24 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-02-27 00:00:24 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -833,9 +833,9 @@ Sanační porózní jádrová omítka pro vlhké zdivo. Absorbuje soli, paroprop
           <PRODUCTNAME>Remmers Injection Cream 80 · 12,5 l · Silanový krém pro injektáž zdiva</PRODUCTNAME>
           <DESCRIPTION>Silanový krém pro injektáž zdiva.
 Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká aplikace, WTA certifikát, účinný do 95% nasycení.
-</DESCRIPTION>
+ </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
-          <PRICE_VAT>12275.0</PRICE_VAT>
+          <PRICE_VAT>11500.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 52 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
