@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 778 -->
-<!-- Total individual products: 347 -->
-<!-- Created: 2026-03-01 00:00:22 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 781 -->
+<!-- Total individual products: 349 -->
+<!-- Created: 2026-03-01 20:08:29 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -24164,7 +24164,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
 ✅ Rychlé a snadné použití✅ Výborná roztékavost✅ Pro ruční i strojní aplikaci</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-432-decocem-25kg?variant=52858125091153</URL>
           <PRICE_VAT>1185.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-432-decocem_opt.jpg?v=1768923247</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -26530,6 +26530,114 @@ Barva: bílá</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895305080</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Injection-107 · 1K flexibilní pěnivá PU injektážní pryskyřice · 5,3kg</PRODUCTNAME>
+          <DESCRIPTION>1-komponentní, mírně flexibilní, pěnivá injektážní pryskyřice na bázi polyuretanu k trvalému utěsnění trhlin proti vodě.
+Sika® Injection-107 je 1-komponentní, připravená k použití, mírně flexibilní pěnivá injektážní pryskyřice na bázi polyuretanu pro trvalé vodotěsné utěsnění trhlin, dutin a mezer v betonu.
+✅ Permanentně flexibilní, může absorbovat omezený pohyb✅ Těsnění vodou namáhaných trhlin a dutin &amp;gt; 0,3 mm s vysokou životností✅ 1-komponentní polyuretanová pryskyřice vytvrzující vlhkostí - kontakt s vodou je potřebný pro napěnění a vytvrzení do trvale flexibilní těsnicí hmoty.
+Barva: žlutavá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-injection-107?variant=53175076585809</URL>
+          <PRICE_VAT>4200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Injection-107_opt.jpg?v=1772347766</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>531919</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895358253</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Injection-107 · 1K flexibilní pěnivá PU injektážní pryskyřice · 21,2kg</PRODUCTNAME>
+          <DESCRIPTION>1-komponentní, mírně flexibilní, pěnivá injektážní pryskyřice na bázi polyuretanu k trvalému utěsnění trhlin proti vodě.
+Sika® Injection-107 je 1-komponentní, připravená k použití, mírně flexibilní pěnivá injektážní pryskyřice na bázi polyuretanu pro trvalé vodotěsné utěsnění trhlin, dutin a mezer v betonu.
+✅ Permanentně flexibilní, může absorbovat omezený pohyb✅ Těsnění vodou namáhaných trhlin a dutin &amp;gt; 0,3 mm s vysokou životností✅ 1-komponentní polyuretanová pryskyřice vytvrzující vlhkostí - kontakt s vodou je potřebný pro napěnění a vytvrzení do trvale flexibilní těsnicí hmoty.
+Barva: žlutavá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-injection-107?variant=53175076618577</URL>
+          <PRICE_VAT>17480.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Injection-107_opt.jpg?v=1772347766</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>531918</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895358246</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Injection-201 CE · Elastická PU injektážní pryskyřice (2K)</PRODUCTNAME>
+          <DESCRIPTION>Elastická PUR-injektážní pryskyřice pro trvalé zastavení vody, 2-komponentní.
+Sika® Injection-201 CE je elastická polyuretanová injektážní pryskyřice s velmi nízkou viskozitou a bez obsahu rozpouštědel. Při kontaktu s vodou vytváří rovnoměrnou, uzavřenou, a proto vodotěsnou strukturu, která je elastická a flexibilní.
+✅ Trvale elastická, může absorbovat malé pohyby✅ Nesmršťuje se v následných suchých podmínkách✅ Může penetrovat do trhlin o šířce &amp;gt; 0,2 mm
+Barva:komponent A: bezbarvýkomponent B: hnědý</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-injection-201-ce</URL>
+          <PRICE_VAT>4200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Injection-201-CE_opt.jpg?v=1772389831</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>182585</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894839166</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
