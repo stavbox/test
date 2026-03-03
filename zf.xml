@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 782 -->
 <!-- Total individual products: 350 -->
-<!-- Created: 2026-03-03 00:00:22 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-03-03 20:04:47 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 437 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 420 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -248,7 +248,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 171 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 163 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -282,7 +282,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 238 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 224 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -593,7 +593,7 @@ Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/horizont-in-injektazni-krem?variant=52603952988497</URL>
           <PRICE_VAT>3932.5</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
           <DELIVERY>
@@ -1035,7 +1035,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1915.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 11 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1101,7 +1101,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
           <PRICE_VAT>1610.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 9 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1133,7 +1133,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571994449</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1231,7 +1231,7 @@ Jemná sanační omítka (feinputz) WTA pro interiér i exteriér. Nízká alkal
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 167 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 147 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-Q2-25kg-fajnova-omitka-specialni.jpg?v=1755783214</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1269,7 +1269,7 @@ Siloxanový koncentrát pro bezrozpouštědlovou horizontální izolaci zdiva, n
 Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kiesol Standard.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol?variant=52661288010065</URL>
           <PRICE_VAT>445.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-1kg-penetrace.jpg?v=1755759440</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1506,7 +1506,7 @@ Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání př
 Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje nasákavost podkladu. Ideální pro vlhké zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-prep-30kg</URL>
           <PRICE_VAT>820.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 126 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 119 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Prep-30kg-omitkovy-podhoz.jpg?v=1755779270</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4997,7 +4997,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
 Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnosti, ideální pro staré budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-vm-fill-rapid-25kg-starobila</URL>
           <PRICE_VAT>1860.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 13 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-VM-Fill-Rapid-25kg-rychle-tuhnouci-filcovatelna-lepici-a-opravna-malta.jpg?v=1755860758</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5568,7 +5568,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3200.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6469,7 +6469,7 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-ik?variant=52652381143377</URL>
           <PRICE_VAT>48050.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-iK-30kg-hydrofobizujici-siloxanovy-koncentrat.jpg?v=1755864215</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6603,7 +6603,7 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <PRICE_VAT>1505.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6908,7 +6908,7 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300-e?variant=52670553653585</URL>
           <PRICE_VAT>4030.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-E-5l-elasticky-zpevnovac.jpg?v=1755865491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9072,7 +9072,7 @@ Všestranná přísada do malty pro Zlepšení kontaktní soudržnosti, pevnosti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-zm-hf-basic?variant=52652231164241</URL>
           <PRICE_VAT>2335.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-ZM-HF-10kg-prisada-do-malty.jpg?v=1755879409</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9424,7 +9424,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <PRICE_VAT>325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 28 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 26 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -26503,7 +26503,7 @@ Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace apl
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika® Reemat Premium · Netkaná skelná výztuž pro  systémy Sikalastic® · Role: 1.3m šířka, 90m délka</PRODUCTNAME>
+          <PRODUCTNAME>Sika® Reemat Premium · Netkaná skelná výztuž pro  systémy Sikalastic® · Role: 1,3m šířka, 90m délka</PRODUCTNAME>
           <DESCRIPTION>Netkaná výztužná rohož ze skelných vláken pro systémy tekuté střešní izolace Sikalastic®.
 Sika® Reemat Premium netkaná výztužná rohož ze skelných vláken pro systémy tekutých střešních izolací Sikalastic® .
 ✅ Snadná a rychlá aplikace✅ Přizpůsobí se všem tvarům a profilům✅ Zajišťuje správnou tloušťku základní vrstvy
