@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 782 -->
 <!-- Total individual products: 350 -->
-<!-- Created: 2026-03-04 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-03-04 09:50:52 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -18478,7 +18478,7 @@ Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, kt
 ✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=53040636658001</URL>
           <PRICE_VAT>4900.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
