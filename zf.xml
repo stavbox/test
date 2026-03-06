@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 782 -->
 <!-- Total individual products: 350 -->
-<!-- Created: 2026-03-06 00:00:19 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-03-06 09:36:58 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 1 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5229,7 +5229,7 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
 Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-120?variant=52670659559761</URL>
           <PRICE_VAT>115.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 52, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 42, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
