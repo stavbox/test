@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 805 -->
-<!-- Total individual products: 354 -->
-<!-- Created: 2026-03-07 12:56:26 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 810 -->
+<!-- Total individual products: 357 -->
+<!-- Created: 2026-03-08 00:00:20 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -27456,6 +27456,186 @@ Barva: bílá</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612655100443</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Icosit® KC 330 Primer · PU penetrace pro podlevání a zálevání</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový penetrační nátěr pro řadu výrobků Icosit KC 330 a Icosit KC 340.
+1komponentní, polyuretanový penetrační nátěr, obsahuje rozpouštědla, vytvrzuje vzdušnou vlhkostí.
+✅ Vytvrzuje vzdušnou vlhkostí✅ Vysoce odolný proti oděru✅ Houževnatý
+Barva: nažloutlá-hnědá / transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-icosit-kc-330-primer-3l</URL>
+          <PRICE_VAT>2190.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Icosit-KC-330-Primer_stavbox.webp?v=1772897621</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>6634</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>4003923023213</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Icosit® KC 340/4 · PU zálivka pro tramvajové a kolejové tratě · 6kg</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní polyuretanová zálivka pod diskrétní základové kolejové desky tramvajových / lehkých tratí.
+Sika® Icosit® KC 340/4 je flexibilní 2-komponentní polymerní zálivková malta na bázi polyuretanové pryskyřice. Je navržena jako flexibilní malta pohlcující vibrace, nesoucí zatížení, pro přesné vyrovnání kolejnic, výhybek atd. Sika® Icosit® KC 340/4 se také používá pro upevnění traťových součástí k pevným podkladům, jako jsou betonové desky, ocelové mostovky a desky protiklenby tunelů.
+✅ Střední zatížení náprav tramvají a lehkých kolejových vozidel✅ Potlačení hluku a vibrací✅ Snižuje erozi betonu pod základovou deskou
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-icosit-kc-340-4?variant=53230502969681</URL>
+          <PRICE_VAT>4220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Icosit-KC-340-4_stavbox.webp?v=1772899303</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>482418</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895861586</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Icosit® KC 340/4 · PU zálivka pro tramvajové a kolejové tratě · 176kg</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní polyuretanová zálivka pod diskrétní základové kolejové desky tramvajových / lehkých tratí.
+Sika® Icosit® KC 340/4 je flexibilní 2-komponentní polymerní zálivková malta na bázi polyuretanové pryskyřice. Je navržena jako flexibilní malta pohlcující vibrace, nesoucí zatížení, pro přesné vyrovnání kolejnic, výhybek atd. Sika® Icosit® KC 340/4 se také používá pro upevnění traťových součástí k pevným podkladům, jako jsou betonové desky, ocelové mostovky a desky protiklenby tunelů.
+✅ Střední zatížení náprav tramvají a lehkých kolejových vozidel✅ Potlačení hluku a vibrací✅ Snižuje erozi betonu pod základovou deskou
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-icosit-kc-340-4?variant=53230503002449</URL>
+          <PRICE_VAT>99990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Icosit-KC-340-4_stavbox.webp?v=1772899303</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>35289</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895862866</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika AnchorFix®-3030 · 2K epoxidové chemické kotvicí lepidlo · 385ml</PRODUCTNAME>
+          <DESCRIPTION>Epoxidové vysoce výkonné chemické kotvicí lepidlo.
+Sika AnchorFix®-3030 je 2-komponentní, tixotropní, vysoce výkonné kotvicí lepidlo na bázi epoxidové pryskyřice pro kotvení závitových tyčí a armovacích prutů do suchého i vlhkého betonu s trhlinami i bez trhlin.
+✅ Dlouhý čas zpracování✅ Vhodné i pro vlhký beton✅ Vysoká únosnost
+Barva:komponent A: bílákomponent B: šedáA+B smíchané: světle šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-anchorfix-3030?variant=53231778070865</URL>
+          <PRICE_VAT>680.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Anchorfix-3030_stavbox.webp?v=1772914241</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>683365</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895725031</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika AnchorFix®-3030 · 2K epoxidové chemické kotvicí lepidlo · 585ml</PRODUCTNAME>
+          <DESCRIPTION>Epoxidové vysoce výkonné chemické kotvicí lepidlo.
+Sika AnchorFix®-3030 je 2-komponentní, tixotropní, vysoce výkonné kotvicí lepidlo na bázi epoxidové pryskyřice pro kotvení závitových tyčí a armovacích prutů do suchého i vlhkého betonu s trhlinami i bez trhlin.
+✅ Dlouhý čas zpracování✅ Vhodné i pro vlhký beton✅ Vysoká únosnost
+Barva:komponent A: bílákomponent B: šedáA+B smíchané: světle šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-anchorfix-3030?variant=53231778103633</URL>
+          <PRICE_VAT>895.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Anchorfix-3030_stavbox.webp?v=1772914241</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>685245</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895729299</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
