@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 805 -->
 <!-- Total individual products: 354 -->
-<!-- Created: 2026-03-07 09:45:17 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Created: 2026-03-07 11:07:53 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -23494,7 +23494,7 @@ Sikafloor® CureHard LI je směs křemičitanu lithného na vodní bázi pro vyt
 Barva: čirá kapalina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-curehard-li?variant=52854782099793</URL>
           <PRICE_VAT>6680.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika-generic-02_opt.jpg?v=1767793518</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
