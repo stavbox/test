@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 814 -->
-<!-- Total individual products: 359 -->
-<!-- Created: 2026-03-09 14:05:01 -->
+<!-- Total products+variants: 817 -->
+<!-- Total individual products: 360 -->
+<!-- Created: 2026-03-09 17:46:43 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -11490,7 +11490,7 @@ Sikafloor®-151 je 2-komponentní víceúčelová epoxidová pryskyřice s plniv
 ✅ Vhodné pro interiérové aplikace díky nízkému zápachu✅ Víceúčelový produkt - může být použit pro různé typy aplikací✅ Zlepšuje ekologickou stopu u projektů</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-151?variant=52717209026897</URL>
           <PRICE_VAT>3665.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-151_opt.jpg?v=1759489968</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -27771,6 +27771,110 @@ Sikagard®-330 EL je hladký nátěr na bázi akrylových polymerů na vodní b�
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
           <ITEM_ID>851359</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-320 · 1K akrylový lak proti karbonataci betonu · Barevná skupina "1"</PRODUCTNAME>
+          <DESCRIPTION>Ochranný a dekorativní nátěr proti karbonataci betonu a zdiva připravený k použití.
+Sikagard®-320 je hladký akrylový lak na vodní bázi připravený k použití, který po vytvrzení vytváří ochranný a deduktivní nátěr odolný proti karbonataci a povětrnostním vlivům. Jako tónovatelný produkt je k dispozici v mnoha různých barevných odstínech.
+✅ Snadná aplikace válečkem, štětcem nebo stříkáním✅ Lze použít v interiéru i exteriéru, na stěny a podhledy✅ Hladký, dekorativní povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-320-15kg?variant=53242555105617</URL>
+          <PRICE_VAT>4700.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-320_stavbox.webp?v=1773065304</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>851354</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-320 · 1K akrylový lak proti karbonataci betonu · Barevná skupina "2"</PRODUCTNAME>
+          <DESCRIPTION>Ochranný a dekorativní nátěr proti karbonataci betonu a zdiva připravený k použití.
+Sikagard®-320 je hladký akrylový lak na vodní bázi připravený k použití, který po vytvrzení vytváří ochranný a deduktivní nátěr odolný proti karbonataci a povětrnostním vlivům. Jako tónovatelný produkt je k dispozici v mnoha různých barevných odstínech.
+✅ Snadná aplikace válečkem, štětcem nebo stříkáním✅ Lze použít v interiéru i exteriéru, na stěny a podhledy✅ Hladký, dekorativní povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-320-15kg?variant=53242555138385</URL>
+          <PRICE_VAT>5800.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-320_stavbox.webp?v=1773065304</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>851355</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-320 · 1K akrylový lak proti karbonataci betonu · Barevná skupina "3"</PRODUCTNAME>
+          <DESCRIPTION>Ochranný a dekorativní nátěr proti karbonataci betonu a zdiva připravený k použití.
+Sikagard®-320 je hladký akrylový lak na vodní bázi připravený k použití, který po vytvrzení vytváří ochranný a deduktivní nátěr odolný proti karbonataci a povětrnostním vlivům. Jako tónovatelný produkt je k dispozici v mnoha různých barevných odstínech.
+✅ Snadná aplikace válečkem, štětcem nebo stříkáním✅ Lze použít v interiéru i exteriéru, na stěny a podhledy✅ Hladký, dekorativní povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-320-15kg?variant=53242555171153</URL>
+          <PRICE_VAT>6750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-320_stavbox.webp?v=1773065304</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>851356</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
