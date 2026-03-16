@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 825 -->
+<!-- Total products+variants: 837 -->
 <!-- Total individual products: 366 -->
-<!-- Created: 2026-03-16 15:17:15 -->
+<!-- Created: 2026-03-16 21:50:47 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 376 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 376 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -28142,14 +28142,16 @@ Barva: bílý prášek</DESCRIPTION>
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · komponenty A+B · 13kg</PRODUCTNAME>
           <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
 Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
-✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature-13kg</URL>
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307426275665</URL>
           <PRICE_VAT>1995.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_stavbox.webp?v=1773665344</IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -28173,19 +28175,19 @@ Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pig
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
       
-    
-  
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "ALBERO"</PRODUCTNAME>
           <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
 Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
-✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sikadecor®-color-0-5-l</URL>
-          <PRICE_VAT>1995.0</PRICE_VAT>
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307426308433</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
-          <IMGURL></IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -28198,13 +28200,445 @@ Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pig
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>gid://shopify/Product/10705101062481</ITEM_ID>
+          <ITEM_ID>446657</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
+          <EAN>8428868009133</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
           
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "BONE"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307426341201</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>449400</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868012386</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "FORJA"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307426373969</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>446741</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868009102</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "IVORY"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307426406737</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>446655</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868009157</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "LEMON"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522384209</URL>
+          <PRICE_VAT>840.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>454809</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868013932</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "MARINE"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522416977</URL>
+          <PRICE_VAT>1495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>454837</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868013680</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "NICKEL"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522449745</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>449354</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868012324</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "RHODIUM"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522482513</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>449355</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868012379</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "SAND"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522515281</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>449353</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868012331</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "SILVER"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522548049</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>446740</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868009126</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "TANGERINE"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522580817</URL>
+          <PRICE_VAT>1695.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>454821</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868013888</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaDecor®-801 Nature · 2K dekorativní barevný mikrocement · barevný pigment · 0,5l · "WHITE"</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní barevný mikrocement pro vnitřní aplikaci.
+Dvousložková malta na bázi hydraulických pojiv, příměsí a barevných pigmentů pro dekorativní stěrky v interiérech.
+✅ Dobrá odolnost vůči UV záření✅ Vynikající zpracovatelnost✅ Vysoká přilnavost k podkladu
+Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment SikaDecor®: vyberte ze seznamu barev
+Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307522613585</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>446654</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>8428868009171</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaRep® Cosmetic L · 1K polymercementová opravná malta R2</PRODUCTNAME>
+          <DESCRIPTION>Světlá, 1-komponentní polymercementová malta pro lokální a celoplošné vysprávky betonů..
+SikaRep® Cosmetic L je světlá, 1-komponentní polymercementová malta pro lokální a celoplošné vysprávky betonů. Splňuje požadavky třídy R2 podle ČSN EN 1504-3.
+✅ Umožňuje lokální opravy až do tl. vrstvy 30 mm, plošné do 2 mm bez tvorby trhlin✅ Volitelná konzistence podle množství přidané vody✅ Míchá se jen s vodou</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikarep-cosmetic-l-20kg</URL>
+          <PRICE_VAT>925.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaRep-Cosmetic-L_stavbox.webp?v=1773677636</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>501877</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895253633</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
