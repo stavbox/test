@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 855 -->
-<!-- Total individual products: 373 -->
-<!-- Created: 2026-03-18 07:47:30 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 861 -->
+<!-- Total individual products: 376 -->
+<!-- Created: 2026-03-19 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 231 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 229 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -81,7 +81,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012893521</URL>
           <PRICE_VAT>3845.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 179 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1035,7 +1035,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1915.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 13 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1067,7 +1067,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665797017937</URL>
           <PRICE_VAT>10150.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 12 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1133,7 +1133,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571994449</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1541,7 +1541,7 @@ Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje na
 Bezvonný čistič pro interiéry památek. Odstraňuje nečistoty, šetrný k povrchům, vhodný pro umělecká díla.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-arte-mundit-15kg</URL>
           <PRICE_VAT>12550.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Arte-Mundit-15kg-pasta-na-bezvode-cisteni-povrchu.jpg?v=1755853234</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4557,7 +4557,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-snl?variant=52660688879953</URL>
           <PRICE_VAT>2470.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4963,7 +4963,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
 Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje přilnavost opravných malt, odolný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-khb?variant=52657666851153</URL>
           <PRICE_VAT>2420.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-KHB-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755860527</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5031,7 +5031,7 @@ Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnos
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031588177</URL>
           <PRICE_VAT>2338.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5568,7 +5568,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3200.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 12 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 11 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5662,7 +5662,7 @@ Spárovací malta pro cihly, odolná solím a síranům. Paropropustná, pro san
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-fm-san-25kg</URL>
           <PRICE_VAT>1825.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 20 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-SAN-30kg-vapenocementova-sanacni-malta.jpg?v=1755862720</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6372,7 +6372,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386824529</URL>
           <PRICE_VAT>1570.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 7 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 22 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6776,7 +6776,7 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300-hv?variant=52670609195345</URL>
           <PRICE_VAT>3850.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-HV-5l-zpevnovac-vapence.jpg?v=1755865320</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7180,7 +7180,7 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 18 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9360,7 +9360,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 23 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 22 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9424,7 +9424,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <PRICE_VAT>325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 37 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 27 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -11455,7 +11455,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <DESCRIPTION>Armovací rouno pro 1K multifunkční stavební hydroizolace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-f-50m-sirka-12cm</URL>
           <PRICE_VAT>455.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 450 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-F_dl_sbx.jpg?v=1758722181</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -16682,7 +16682,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472154161489</URL>
           <PRICE_VAT>1525.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 150 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1150 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -16810,7 +16810,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472167760209</URL>
           <PRICE_VAT>6100.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1200 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -29285,6 +29285,236 @@ Balení: 1 role o délce 25m</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894802672</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikadur®-31 DW · 2K epoxidové lepidlo pro pitné vody · 6kg</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidové lepidlo se schválením pro přímý styk s pitnou vodou.
+Sikadur®-31 DW je 2komponentní lepidlo a opravná malta, na bázi epoxidové pryskyřice a speciálních plniv, které byly speciálně vyvinuty pro přímý kontakt s pitnou vodou.
+✅ Vhodný pro oblasti s pitnou vodou✅ Snadné míchání a aplikace✅ Výborná přídržnost k většině stavebních materiálů
+Barva:komp. A: bílákomp. B: černásměs komponentů A+B: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadur-31-dw</URL>
+          <PRICE_VAT>3240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadur-31-DW_stavbox.webp?v=1773824745</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>743418</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895893891</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaFlow®-648 · 3K epoxidová zálivková malta pro stroje · A · 11,35kg</PRODUCTNAME>
+          <DESCRIPTION>Vysokopevnostní, vysoce tekoucí, chemicky odolná, epoxidová zálivková hmota.
+SikaFlow®-648 je třísložková (3K) zálivková malta na bázi epoxidové pryskyřice, která slouží k osazení strojů, mostních ložisek a dalších náročných zařízení a zajišťuje bezpečný přenos statického a dynamického zatížení. Má pečlivě vyvážené fyzikální vlastnosti a vynikající chemickou odolnost, odolnost vůči zvýšeným provozním teplotám, vibracím a kroutícímu momentu.
+SikaFlow®-648  je navržena pro snadnou instalaci s vynikající tekutostí a je vhodná pro nalévání nebo čerpání v tloušťkách od 10 mm do 150 mm, s nízkou prašností a možností čištění vodou a mýdlem. SikaFlow®-648 je k dispozici ve všech regionech světa a je podporován vyškoleným prodejním a technickým personálem, který má zkušenosti se specifikací a aplikací epoxidových zálivkových hmot na všech kontinentech.
+✅ Vysoké počáteční i konečné pevnosti pro rychlé uvedení do provozu✅ Velmi malé dotvarování, zajišťuje bezpečné ukotvení✅ Zachovává si fyzikální vlastnosti při zvýšených teplotách, čímž se zvyšuje rozsah použití
+Barva: tmavě šedá
+Balení:
+Standartní 57,5 litrová směs SikaFlow®-648 se dodává v setu: 100 kg (4x 25 kg pytle komp. C).
+Plnění může být zredukováno na 3 pytle (75 kg kameniva (3x 25 kg pytle komp. C) při objemu směsi 51,5 litrů.
+komponent A: 11,35 kgkomponent B: 3,55 kg komponent C: 25 kg pytelset: 114,9 kg (1A+1B+4C)výtěžnost: 57,5 l</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflow-648?variant=53326805270865</URL>
+          <PRICE_VAT>8280.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaFlow-648_stavbox.webp?v=1773830143</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799285</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>4049499040971</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaFlow®-648 · 3K epoxidová zálivková malta pro stroje · B · 3,55kg</PRODUCTNAME>
+          <DESCRIPTION>Vysokopevnostní, vysoce tekoucí, chemicky odolná, epoxidová zálivková hmota.
+SikaFlow®-648 je třísložková (3K) zálivková malta na bázi epoxidové pryskyřice, která slouží k osazení strojů, mostních ložisek a dalších náročných zařízení a zajišťuje bezpečný přenos statického a dynamického zatížení. Má pečlivě vyvážené fyzikální vlastnosti a vynikající chemickou odolnost, odolnost vůči zvýšeným provozním teplotám, vibracím a kroutícímu momentu.
+SikaFlow®-648  je navržena pro snadnou instalaci s vynikající tekutostí a je vhodná pro nalévání nebo čerpání v tloušťkách od 10 mm do 150 mm, s nízkou prašností a možností čištění vodou a mýdlem. SikaFlow®-648 je k dispozici ve všech regionech světa a je podporován vyškoleným prodejním a technickým personálem, který má zkušenosti se specifikací a aplikací epoxidových zálivkových hmot na všech kontinentech.
+✅ Vysoké počáteční i konečné pevnosti pro rychlé uvedení do provozu✅ Velmi malé dotvarování, zajišťuje bezpečné ukotvení✅ Zachovává si fyzikální vlastnosti při zvýšených teplotách, čímž se zvyšuje rozsah použití
+Barva: tmavě šedá
+Balení:
+Standartní 57,5 litrová směs SikaFlow®-648 se dodává v setu: 100 kg (4x 25 kg pytle komp. C).
+Plnění může být zredukováno na 3 pytle (75 kg kameniva (3x 25 kg pytle komp. C) při objemu směsi 51,5 litrů.
+komponent A: 11,35 kgkomponent B: 3,55 kg komponent C: 25 kg pytelset: 114,9 kg (1A+1B+4C)výtěžnost: 57,5 l</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflow-648?variant=53327510372689</URL>
+          <PRICE_VAT>4680.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaFlow-648_stavbox.webp?v=1773830143</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799286</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>4049499041329</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaFlow®-648 · 3K epoxidová zálivková malta pro stroje · C · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Vysokopevnostní, vysoce tekoucí, chemicky odolná, epoxidová zálivková hmota.
+SikaFlow®-648 je třísložková (3K) zálivková malta na bázi epoxidové pryskyřice, která slouží k osazení strojů, mostních ložisek a dalších náročných zařízení a zajišťuje bezpečný přenos statického a dynamického zatížení. Má pečlivě vyvážené fyzikální vlastnosti a vynikající chemickou odolnost, odolnost vůči zvýšeným provozním teplotám, vibracím a kroutícímu momentu.
+SikaFlow®-648  je navržena pro snadnou instalaci s vynikající tekutostí a je vhodná pro nalévání nebo čerpání v tloušťkách od 10 mm do 150 mm, s nízkou prašností a možností čištění vodou a mýdlem. SikaFlow®-648 je k dispozici ve všech regionech světa a je podporován vyškoleným prodejním a technickým personálem, který má zkušenosti se specifikací a aplikací epoxidových zálivkových hmot na všech kontinentech.
+✅ Vysoké počáteční i konečné pevnosti pro rychlé uvedení do provozu✅ Velmi malé dotvarování, zajišťuje bezpečné ukotvení✅ Zachovává si fyzikální vlastnosti při zvýšených teplotách, čímž se zvyšuje rozsah použití
+Barva: tmavě šedá
+Balení:
+Standartní 57,5 litrová směs SikaFlow®-648 se dodává v setu: 100 kg (4x 25 kg pytle komp. C).
+Plnění může být zredukováno na 3 pytle (75 kg kameniva (3x 25 kg pytle komp. C) při objemu směsi 51,5 litrů.
+komponent A: 11,35 kgkomponent B: 3,55 kg komponent C: 25 kg pytelset: 114,9 kg (1A+1B+4C)výtěžnost: 57,5 l</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflow-648?variant=53327510405457</URL>
+          <PRICE_VAT>1935.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaFlow-648_stavbox.webp?v=1773830143</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>799287</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>4049499040988</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaTop® Armatec®-110 EpoCem® · Ochrana výztuže proti korozi · 20kg (ABC)</PRODUCTNAME>
+          <DESCRIPTION>Spojovací můstek / Ochrana výztuže proti korozi.
+SikaTop® Armatec®-110 EpoCem® je 3komponentní nátěrový materiál, s cementovým pojivem, zušlechtěný epoxidem na ochranu výztuže proti korozi, rovněž může být použit jako pevnostní můstek. SikaTop® Armatec®-110 EpoCem® vyhovuje požadavkům dle EN 1504-7.
+✅ Obsahuje technologii EpoCem® - zvyšuje přídržnost✅ Prodlužuje dobu zpracovatelnosti opravných malt✅ Kompatibilní s maltami řady Sika MonoTop®
+Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tmavě šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikatop-armatec-110-epocem?variant=53328671867217</URL>
+          <PRICE_VAT>3520.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaTop-Armatec-110-Epocem_stavbox.webp?v=1773839781</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>566556</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895673417</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaTop® Armatec®-110 EpoCem® · Ochrana výztuže proti korozi · 200kg (AB+10C)</PRODUCTNAME>
+          <DESCRIPTION>Spojovací můstek / Ochrana výztuže proti korozi.
+SikaTop® Armatec®-110 EpoCem® je 3komponentní nátěrový materiál, s cementovým pojivem, zušlechtěný epoxidem na ochranu výztuže proti korozi, rovněž může být použit jako pevnostní můstek. SikaTop® Armatec®-110 EpoCem® vyhovuje požadavkům dle EN 1504-7.
+✅ Obsahuje technologii EpoCem® - zvyšuje přídržnost✅ Prodlužuje dobu zpracovatelnosti opravných malt✅ Kompatibilní s maltami řady Sika MonoTop®
+Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tmavě šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikatop-armatec-110-epocem?variant=53328671899985</URL>
+          <PRICE_VAT>41500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaTop-Armatec-110-Epocem_stavbox.webp?v=1773839781</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>122894</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
