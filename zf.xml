@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 861 -->
-<!-- Total individual products: 376 -->
-<!-- Created: 2026-03-19 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 865 -->
+<!-- Total individual products: 378 -->
+<!-- Created: 2026-03-19 14:17:36 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -11490,7 +11490,7 @@ Sikafloor®-151 je 2-komponentní víceúčelová epoxidová pryskyřice s plniv
 ✅ Vhodné pro interiérové aplikace díky nízkému zápachu✅ Víceúčelový produkt - může být použit pro různé typy aplikací✅ Zlepšuje ekologickou stopu u projektů</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-151?variant=52717209026897</URL>
           <PRICE_VAT>3665.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-151_opt.jpg?v=1759489968</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -18863,7 +18863,7 @@ Lze jej také použít ke zvýšení objemu (plnění) vybraných potěrů a mal
 Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkty stavební chemie. Vyzvednutí na prodejně je možné.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <PRICE_VAT>270.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -18895,7 +18895,7 @@ Lze jej také použít ke zvýšení objemu (plnění) vybraných potěrů a mal
 Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkty stavební chemie. Vyzvednutí na prodejně je možné.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173205329</URL>
           <PRICE_VAT>365.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -29512,6 +29512,140 @@ Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tm
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers PUR Top M Plus 2K · PU transparentní protískluzový nátěr (2K)</PRODUCTNAME>
+          <DESCRIPTION>Protiskluzový, transparentní pečetící nátěr.
+2K polyuretanový transparentní protískluzový pečetící nátěr pro průmyslové a komerční podlahy. Vysoká odolníost vůči otěru a chemikáliím.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-pur-top-m-plus-2k-2-5kg</URL>
+          <PRICE_VAT>5445.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Top-M-Plus-2K_dl_sbx.jpg?v=1773911044</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>673604</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers PUR Deco Color · 2K PU dekorativní stěrka pro podlahy · 2,5kg</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní stěrka.
+2K polyuretanová dekorativní stěrka pro komerční a průmyslové podlahy. Barevné provedeni, vysoká odolníost vůči otěru a chemikáliím. Snadná aplikace.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-pur-deco-color?variant=53342660493649</URL>
+          <PRICE_VAT>1435.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Deco-Color_dl_sbx.jpg?v=1773924242</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>667403</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers PUR Deco Color · 2K PU dekorativní stěrka pro podlahy · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní stěrka.
+2K polyuretanová dekorativní stěrka pro komerční a průmyslové podlahy. Barevné provedeni, vysoká odolníost vůči otěru a chemikáliím. Snadná aplikace.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-pur-deco-color?variant=53342660526417</URL>
+          <PRICE_VAT>5065.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Deco-Color_dl_sbx.jpg?v=1773924242</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>667411</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers PUR Deco Color · 2K PU dekorativní stěrka pro podlahy · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Dekorativní stěrka.
+2K polyuretanová dekorativní stěrka pro komerční a průmyslové podlahy. Barevné provedeni, vysoká odolníost vůči otěru a chemikáliím. Snadná aplikace.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-pur-deco-color?variant=53342660559185</URL>
+          <PRICE_VAT>11720.0</PRICE_VAT>
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Deco-Color_dl_sbx.jpg?v=1773924242</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>667426</ITEM_ID>
+
+          
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           
