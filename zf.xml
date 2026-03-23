@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 865 -->
 <!-- Total individual products: 378 -->
-<!-- Created: 2026-03-23 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-03-23 10:05:15 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -248,7 +248,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 126 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -2, VI: 126 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8800,7 +8800,7 @@ Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odoln
 Rychlovazná malta z románského cementu pro štuky a spáry památek. Paropropustná, odolná povětrnosti, pro restaurování historických fasád a detailů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm-rz-historic-6kg</URL>
           <PRICE_VAT>990.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-RM-RZ-Historic-6kg-rychlovazna-malta-na-bazi-romanskeho-cementu.jpg?v=1755878896</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
