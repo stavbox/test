@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 865 -->
-<!-- Total individual products: 378 -->
-<!-- Created: 2026-03-24 00:00:22 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 866 -->
+<!-- Total individual products: 379 -->
+<!-- Created: 2026-03-24 10:43:42 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -8966,7 +8966,7 @@ Odsolovací maltová směs pro historický kámen a zdivo. Efektivně odstraňuj
 INTRASIT® SE-SL 18DD je vysoce koncentrovaný čisticí roztok, který se používá pro šetrnou likvidaci plísní v interiérech a na čištění venkovních povrchů pokrytých povlakem černých nebo zelených řas.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-intrasit-se-sl-18dd-5kg</URL>
           <PRICE_VAT>1480.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-INTRASIT-SE-SL-18DD-5kg-sanacni-roztok-pro-cisteni.jpg?v=1755879186</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -29649,6 +29649,44 @@ Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tm
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament RD1 Universal · 1K rychlá reaktivní hydroizolace EC1 Plus</PRODUCTNAME>
+          <DESCRIPTION>Kotevní pryskyřice.
+R70 je nízkoviskózní, dvousložková silikátová pryskyřice bez rozpouštědel, slouží ke kotvení trhlin i spár ve vnitřním i vnějším prostředí.
+✅ Pro pevné spojení trhlin v potěrech✅ Bez nutnosti vkládání sponek✅ Rychleschnoucí✅ Velmi nízké emise✅ Pachově neutrální
+  
+Barva:  nažloutlá
+Balení: komp. A (200ml) + komp. B (400ml)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-r70</URL>
+          <PRICE_VAT>965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/R70_stavbox.webp?v=1774341744</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>73815700085609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060317</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
