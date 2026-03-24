@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 866 -->
-<!-- Total individual products: 379 -->
-<!-- Created: 2026-03-24 12:34:55 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 871 -->
+<!-- Total individual products: 380 -->
+<!-- Created: 2026-03-25 00:00:23 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -29658,7 +29658,7 @@ Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tm
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Botament RD1 Universal · 1K rychlá reaktivní hydroizolace EC1 Plus</PRODUCTNAME>
+          <PRODUCTNAME>Botament R70 · Silikátová kotevní pryskyřice pro trhliny (2K)</PRODUCTNAME>
           <DESCRIPTION>Kotevní pryskyřice.
 R70 je nízkoviskózní, dvousložková silikátová pryskyřice bez rozpouštědel, slouží ke kotvení trhlin i spár ve vnitřním i vnějším prostředí.
 ✅ Pro pevné spojení trhlin v potěrech✅ Bez nutnosti vkládání sponek✅ Rychleschnoucí✅ Velmi nízké emise✅ Pachově neutrální
@@ -29687,6 +29687,182 @@ Balení: komp. A (200ml) + komp. B (400ml)</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4030905060317</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament D11 · Penetrační zpevňující nátěr, rychleschnoucí · 1l</PRODUCTNAME>
+          <DESCRIPTION>Podkladní zpevňující nátěr.
+D11 je penetrační nátěr k přípravě nasákavých minerálních podkladů před následnou aplikací lepicích tmelů, stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Lze ředit vodou 1 : 1✅ Rychleschnoucí✅ Zlepšuje přilnavost✅ Aplikace válečkem a štětcem✅ Snižuje nasákavost
+  
+Barva:  růžová</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799886161</URL>
+          <PRICE_VAT>195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>60170300115609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905070033</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament D11 · Penetrační zpevňující nátěr, rychleschnoucí · 5l</PRODUCTNAME>
+          <DESCRIPTION>Podkladní zpevňující nátěr.
+D11 je penetrační nátěr k přípravě nasákavých minerálních podkladů před následnou aplikací lepicích tmelů, stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Lze ředit vodou 1 : 1✅ Rychleschnoucí✅ Zlepšuje přilnavost✅ Aplikace válečkem a štětcem✅ Snižuje nasákavost
+  
+Barva:  růžová</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799918929</URL>
+          <PRICE_VAT>635.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>60170300195609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905070040</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament D11 · Penetrační zpevňující nátěr, rychleschnoucí · 10l</PRODUCTNAME>
+          <DESCRIPTION>Podkladní zpevňující nátěr.
+D11 je penetrační nátěr k přípravě nasákavých minerálních podkladů před následnou aplikací lepicích tmelů, stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Lze ředit vodou 1 : 1✅ Rychleschnoucí✅ Zlepšuje přilnavost✅ Aplikace válečkem a štětcem✅ Snižuje nasákavost
+  
+Barva:  růžová</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799951697</URL>
+          <PRICE_VAT>1165.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>61270300245609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905070057</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament D11 · Penetrační zpevňující nátěr, rychleschnoucí · 30l</PRODUCTNAME>
+          <DESCRIPTION>Podkladní zpevňující nátěr.
+D11 je penetrační nátěr k přípravě nasákavých minerálních podkladů před následnou aplikací lepicích tmelů, stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Lze ředit vodou 1 : 1✅ Rychleschnoucí✅ Zlepšuje přilnavost✅ Aplikace válečkem a štětcem✅ Snižuje nasákavost
+  
+Barva:  růžová</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799984465</URL>
+          <PRICE_VAT>2680.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>61270300395609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905070286</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament D11 · Penetrační zpevňující nátěr, rychleschnoucí · 200l</PRODUCTNAME>
+          <DESCRIPTION>Podkladní zpevňující nátěr.
+D11 je penetrační nátěr k přípravě nasákavých minerálních podkladů před následnou aplikací lepicích tmelů, stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Lze ředit vodou 1 : 1✅ Rychleschnoucí✅ Zlepšuje přilnavost✅ Aplikace válečkem a štětcem✅ Snižuje nasákavost
+  
+Barva:  růžová</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-d11?variant=53375800017233</URL>
+          <PRICE_VAT>14990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>61270300545609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
