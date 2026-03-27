@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 884 -->
-<!-- Total individual products: 386 -->
-<!-- Created: 2026-03-27 07:03:10 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 887 -->
+<!-- Total individual products: 388 -->
+<!-- Created: 2026-03-28 00:00:26 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -30315,6 +30315,116 @@ Barva: černá</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4030905051377</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Multiproof · Eko hybridní hydroizolace 2v1 (1K) · 12kg</PRODUCTNAME>
+          <DESCRIPTION>Udržitelná hybridní hydroizolace (1K).
+BotaGreen® Multiproof je hybridní jednosložková hmota pro vytváření spojené hydroizolační vrstvy pod keramické dlaždice ve vnitřním i vnějším prostředí. BotaGreen® Multiproof je praktický produkt 2 v 1, který umožňuje vytvářet hydroizolační vrstvy různých tlouštěk v závislosti na oblasti použití a míry zatížení vodou. BotaGreen Multiproof je obzvláště šetrný k životnímu prostředí, protože podíl pevných látek receptury tvoří cca. ze 30 % recyklované suroviny.
+✅ Obsah pevných látek tvoří ze 30 % recyklované suroviny*✅ Balení je vyrobeno až z 50 % recyklovaných plastů✅ Připraveno k použití✅ Vysoce elastická, překlenuje trhliny, s armovacími vlákny✅ přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)
+*Tento údaj se vztahuje k hydroizolačním hmotám Botament srovnatelných technických vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+   </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-multiproof?variant=53394204590417</URL>
+          <PRICE_VAT>2080.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Botagreen-Multiproof_stavbox_ed098137-fc02-43e8-930a-40124d9f0694.webp?v=1774605659</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>34120010245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905052459</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Multiproof · Eko hybridní hydroizolace 2v1 (1K) · 18kg</PRODUCTNAME>
+          <DESCRIPTION>Udržitelná hybridní hydroizolace (1K).
+BotaGreen® Multiproof je hybridní jednosložková hmota pro vytváření spojené hydroizolační vrstvy pod keramické dlaždice ve vnitřním i vnějším prostředí. BotaGreen® Multiproof je praktický produkt 2 v 1, který umožňuje vytvářet hydroizolační vrstvy různých tlouštěk v závislosti na oblasti použití a míry zatížení vodou. BotaGreen Multiproof je obzvláště šetrný k životnímu prostředí, protože podíl pevných látek receptury tvoří cca. ze 30 % recyklované suroviny.
+✅ Obsah pevných látek tvoří ze 30 % recyklované suroviny*✅ Balení je vyrobeno až z 50 % recyklovaných plastů✅ Připraveno k použití✅ Vysoce elastická, překlenuje trhliny, s armovacími vlákny✅ přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)
+*Tento údaj se vztahuje k hydroizolačním hmotám Botament srovnatelných technických vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+   </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-multiproof?variant=53394204623185</URL>
+          <PRICE_VAT>3050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Botagreen-Multiproof_stavbox_ed098137-fc02-43e8-930a-40124d9f0694.webp?v=1774605659</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>34120010345609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905052442</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® MegaFlow · Eko samonivelační stěrka 0-30 mm · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Samonivelační stěrka s technologií Green Boost.
+BotaGreen® Megaflow je samonivelační stěrka se sníženou prašností, nízkými emisemi, vhodná pro vyrovnání povrchů v interiéru i exteriéru. Inovativní technologie Green Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování. V případě potřeby lze do BotaGreen Megaflow přidat armovací vlákna BotaGreen MegaFlow AF.Díky technologii pojiva, které je šetrné ke klimatu i zdrojům, se při výrobě sníží emise CO2 asi o 20 %*.
+✅ Pochozí a lze dláždit už po ~ 2 hodinách✅ Pro vrstvy 0 – 30 mm v jednom pracovním kroku✅ Nastavitelná pískem do 40 mm✅ Perfektní rozliv✅ Excelentní povrch
+Barva: šedá
+*Tento údaj se vztahuje k samonivelační hmotě Botament srovnatelných vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-megaflow</URL>
+          <PRICE_VAT>680.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-MegaFlow_stavbox.webp?v=1774606822</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18919950355609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060515</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
