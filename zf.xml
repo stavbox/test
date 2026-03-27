@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 884 -->
 <!-- Total individual products: 386 -->
-<!-- Created: 2026-03-27 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-03-27 07:03:10 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -14647,7 +14647,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 ✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52204090884433</URL>
           <PRICE_VAT>5200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
