@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 918 -->
-<!-- Total individual products: 393 -->
-<!-- Created: 2026-03-30 16:06:11 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 921 -->
+<!-- Total individual products: 395 -->
+<!-- Created: 2026-03-31 00:00:28 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -15968,7 +15968,7 @@ M44 Crystal je všestranně použitelná spárovací hmota s hydrofobním efekte
   
           <SHOPITEM>
           <ITEM_ID>661041</ITEM_ID>
-          <PRODUCTNAME>Sika SikaTop®-107 Seal ·Cementová hydroizolační stěrka (2K)</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaTop®-107 Seal · Cementová hydroizolační stěrka (2K)</PRODUCTNAME>
           <PRODUCT>Sika SikaTop®-107 Seal · 25 kg - </PRODUCT>
           <DESCRIPTION>Dvojsložková (2K) cementová hydroizolační stěrka.
 SikaTop®-107 Seal CZ je 2-složková cementová stěrka s nízkým modulem pružnosti vhodná pro hydroizolaci různých druhů minerálních podkladů. SikaTop®-107 Seal CZ vyhovuje požadavkům ČSN EN 1504-2 pro povrchovou ochranu betonu.
@@ -15982,6 +15982,60 @@ Balení:komponent A: 5 kg kanystrkomponent B: 20 kg papírový pytel</DESCRIPTIO
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>114665</ITEM_ID>
+          <PRODUCTNAME>Sika® Primer-3 N · Penetrace na porézní podklady a kovy (1K) · 250ml</PRODUCTNAME>
+          <PRODUCT>Sika® Primer-3 N · 250ml - </PRODUCT>
+          <DESCRIPTION>Penetrační nátěr na porézní podklady a kovové povrchy, na rozpouštědlové bázi.
+Sika® Primer-3 N je 1komponentní penetrační nátěr, na rozpouštědlové bázi.
+✅ Snadná aplikace✅ Vodu odpuzující účinek✅ Krátký odvětrací čas
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-primer-3-n?variant=53416441315665</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Primer-3-N_stavbox.webp?v=1774884807</IMGURL>
+          <PRICE_VAT>575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894500523</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>122239</ITEM_ID>
+          <PRODUCTNAME>Sika® Primer-3 N · Penetrace na porézní podklady a kovy (1K) · 1l</PRODUCTNAME>
+          <PRODUCT>Sika® Primer-3 N · 1l - </PRODUCT>
+          <DESCRIPTION>Penetrační nátěr na porézní podklady a kovové povrchy, na rozpouštědlové bázi.
+Sika® Primer-3 N je 1komponentní penetrační nátěr, na rozpouštědlové bázi.
+✅ Snadná aplikace✅ Vodu odpuzující účinek✅ Krátký odvětrací čas
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-primer-3-n?variant=53416441348433</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Primer-3-N_stavbox.webp?v=1774884807</IMGURL>
+          <PRICE_VAT>1590.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894543216</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>741051</ITEM_ID>
+          <PRODUCTNAME>Sika Sikaflex®-415 Universal · PU tmel pro spáry podlah a stěn (1K) · 600ml</PRODUCTNAME>
+          <PRODUCT>Sika Sikaflex®-415 Universal · 600ml - </PRODUCT>
+          <DESCRIPTION>Polyuretanový těsnicí tmel pro spáry podlah a stěn a univerzální lepidlo.
+Sikaflex®-415 Universal je 1-komponentní, vlhkostí vytvrzující, elastický polyuretanový tmel s dobrými mechanickými vlastnostmi a trvanlivostí pro utěsnění podlahových a stěnových spár a aplikace lepení.
+✅ Dobrá kapacita pohybu: ±25 % (ISO 9047), ±35 % (ASTM C719)✅ Odolný vůči vodě a slané vodě (EN 15651-4)✅ Dobrá odolnost vůči povětrnostním vlivům (ISO 19862)✅ Obsah monomerního diisokyanátu &amp;lt;0,1 %: není třeba bezpečnostní školení uživatelů (omezení REACH 2023, příloha XVII článek 74)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflex-415-universal</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-415-Universal_stavbox.webp?v=1774886800</IMGURL>
+          <PRICE_VAT>250.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895889269</EAN>
         </SHOPITEM>
       
     

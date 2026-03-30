@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 918 -->
-<!-- Total individual products: 393 -->
-<!-- Created: 2026-03-30 16:06:11 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 921 -->
+<!-- Total individual products: 395 -->
+<!-- Created: 2026-03-31 00:00:29 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -31466,7 +31466,7 @@ M44 Crystal je všestranně použitelná spárovací hmota s hydrofobním efekte
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika SikaTop®-107 Seal ·Cementová hydroizolační stěrka (2K)</PRODUCTNAME>
+          <PRODUCTNAME>Sika SikaTop®-107 Seal · Cementová hydroizolační stěrka (2K)</PRODUCTNAME>
           <DESCRIPTION>Dvojsložková (2K) cementová hydroizolační stěrka.
 SikaTop®-107 Seal CZ je 2-složková cementová stěrka s nízkým modulem pružnosti vhodná pro hydroizolaci různých druhů minerálních podkladů. SikaTop®-107 Seal CZ vyhovuje požadavkům ČSN EN 1504-2 pro povrchovou ochranu betonu.
 ✅ Velmi dobrá přídržnost k většině podkladů (beton, malta, kámen, cihla, železo)✅ Výborné hydroizolační vlastnosti✅ Ochrana betonu před karbonatací
@@ -31495,6 +31495,114 @@ Balení:komponent A: 5 kg kanystrkomponent B: 20 kg papírový pytel</DESCRIPTIO
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Primer-3 N · Penetrace na porézní podklady a kovy (1K) · 250ml</PRODUCTNAME>
+          <DESCRIPTION>Penetrační nátěr na porézní podklady a kovové povrchy, na rozpouštědlové bázi.
+Sika® Primer-3 N je 1komponentní penetrační nátěr, na rozpouštědlové bázi.
+✅ Snadná aplikace✅ Vodu odpuzující účinek✅ Krátký odvětrací čas
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-primer-3-n?variant=53416441315665</URL>
+          <PRICE_VAT>575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Primer-3-N_stavbox.webp?v=1774884807</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>114665</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894500523</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Primer-3 N · Penetrace na porézní podklady a kovy (1K) · 1l</PRODUCTNAME>
+          <DESCRIPTION>Penetrační nátěr na porézní podklady a kovové povrchy, na rozpouštědlové bázi.
+Sika® Primer-3 N je 1komponentní penetrační nátěr, na rozpouštědlové bázi.
+✅ Snadná aplikace✅ Vodu odpuzující účinek✅ Krátký odvětrací čas
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-primer-3-n?variant=53416441348433</URL>
+          <PRICE_VAT>1590.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Primer-3-N_stavbox.webp?v=1774884807</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>122239</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894543216</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikaflex®-415 Universal · PU tmel pro spáry podlah a stěn (1K) · 600ml</PRODUCTNAME>
+          <DESCRIPTION>Polyuretanový těsnicí tmel pro spáry podlah a stěn a univerzální lepidlo.
+Sikaflex®-415 Universal je 1-komponentní, vlhkostí vytvrzující, elastický polyuretanový tmel s dobrými mechanickými vlastnostmi a trvanlivostí pro utěsnění podlahových a stěnových spár a aplikace lepení.
+✅ Dobrá kapacita pohybu: ±25 % (ISO 9047), ±35 % (ASTM C719)✅ Odolný vůči vodě a slané vodě (EN 15651-4)✅ Dobrá odolnost vůči povětrnostním vlivům (ISO 19862)✅ Obsah monomerního diisokyanátu &amp;lt;0,1 %: není třeba bezpečnostní školení uživatelů (omezení REACH 2023, příloha XVII článek 74)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikaflex-415-universal</URL>
+          <PRICE_VAT>250.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-415-Universal_stavbox.webp?v=1774886800</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>741051</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612895889269</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
