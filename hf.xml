@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 917 -->
-<!-- Total individual products: 392 -->
-<!-- Created: 2026-03-30 00:00:22 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 918 -->
+<!-- Total individual products: 393 -->
+<!-- Created: 2026-03-30 12:12:26 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -15961,6 +15961,26 @@ M44 Crystal je všestranně použitelná spárovací hmota s hydrofobním efekte
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>661041</ITEM_ID>
+          <PRODUCTNAME>Sika SikaTop®-107 Seal ·Cementová hydroizolační stěrka (2K)</PRODUCTNAME>
+          <PRODUCT>Sika SikaTop®-107 Seal · 25 kg - </PRODUCT>
+          <DESCRIPTION>Dvojsložková (2K) cementová hydroizolační stěrka.
+SikaTop®-107 Seal CZ je 2-složková cementová stěrka s nízkým modulem pružnosti vhodná pro hydroizolaci různých druhů minerálních podkladů. SikaTop®-107 Seal CZ vyhovuje požadavkům ČSN EN 1504-2 pro povrchovou ochranu betonu.
+✅ Velmi dobrá přídržnost k většině podkladů (beton, malta, kámen, cihla, železo)✅ Výborné hydroizolační vlastnosti✅ Ochrana betonu před karbonatací
+Barva:komponent A: bílá kapalinakomponent B: šedý prášek
+Balení:komponent A: 5 kg kanystrkomponent B: 20 kg papírový pytel</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikatop-107-seal-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaTop-107-Seal_stavbox.webp?v=1774863665</IMGURL>
+          <PRICE_VAT>1820.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
           
         </SHOPITEM>
       
