@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 923 -->
-<!-- Total individual products: 396 -->
-<!-- Created: 2026-04-02 15:54:20 -->
+<!-- Total products+variants: 926 -->
+<!-- Total individual products: 397 -->
+<!-- Created: 2026-04-02 19:05:50 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -8033,7 +8033,7 @@ Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu
 Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu, zpevňuje porézní pískovce, cihly, omítky, odolný povětrnosti, pro restaurování.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-500-e?variant=52670623088977</URL>
           <PRICE_VAT>23425.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-500-E-5l-elasticky-zpevnovac-kamene.jpg?v=1755877337</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -31674,6 +31674,111 @@ Barva: šedý prášek</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612895580609</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Separol® W-320 · Odbedňovací prostředek bez rozpouštědel · 20l</PRODUCTNAME>
+          <DESCRIPTION>Odbedňovací prostředek bez obsahu rozpouštědel.
+Sika® Separol® W-320 je odbedňovací prostředek bez obsahu rozpouštědel, který je připraven k použití. Jedná se o emulzi na bázi rafinovaného minerálního oleje.
+✅ Vynikající schopnost &quot;lepení&quot; na svislých površích forem✅ Samonivelační po aplikaci nástřikem✅ Silně potlačuje póry
+Barva: mléčně bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-separol-w-320?variant=53434363969873</URL>
+          <PRICE_VAT>1880.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Separol-W-320_stavbox.webp?v=1775138592</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402631</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894782301</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Separol® W-320 · Odbedňovací prostředek bez rozpouštědel · 210l</PRODUCTNAME>
+          <DESCRIPTION>Odbedňovací prostředek bez obsahu rozpouštědel.
+Sika® Separol® W-320 je odbedňovací prostředek bez obsahu rozpouštědel, který je připraven k použití. Jedná se o emulzi na bázi rafinovaného minerálního oleje.
+✅ Vynikající schopnost &quot;lepení&quot; na svislých površích forem✅ Samonivelační po aplikaci nástřikem✅ Silně potlačuje póry
+Barva: mléčně bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-separol-w-320?variant=53434364002641</URL>
+          <PRICE_VAT>11995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Separol-W-320_stavbox.webp?v=1775138592</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402632</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894782318</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Separol® W-320 · Odbedňovací prostředek bez rozpouštědel · 1000l</PRODUCTNAME>
+          <DESCRIPTION>Odbedňovací prostředek bez obsahu rozpouštědel.
+Sika® Separol® W-320 je odbedňovací prostředek bez obsahu rozpouštědel, který je připraven k použití. Jedná se o emulzi na bázi rafinovaného minerálního oleje.
+✅ Vynikající schopnost &quot;lepení&quot; na svislých površích forem✅ Samonivelační po aplikaci nástřikem✅ Silně potlačuje póry
+Barva: mléčně bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-separol-w-320?variant=53434364035409</URL>
+          <PRICE_VAT>46500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Separol-W-320_stavbox.webp?v=1775138592</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402633</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Tmely</CATEGORYTEXT>
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+
+          <EAN>7612894782325</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
