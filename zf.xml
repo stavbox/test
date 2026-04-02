@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 921 -->
 <!-- Total individual products: 395 -->
-<!-- Created: 2026-04-02 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-04-02 06:21:04 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -7401,7 +7401,7 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-cem-rapid?variant=52657759486289</URL>
           <PRICE_VAT>1345.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
