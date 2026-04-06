@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 926 -->
-<!-- Total individual products: 397 -->
-<!-- Created: 2026-04-06 00:00:21 -->
+<!-- Total products+variants: 955 -->
+<!-- Total individual products: 422 -->
+<!-- Created: 2026-04-07 00:00:27 -->
 <!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -29752,7 +29752,7 @@ Barva:  růžová</DESCRIPTION>
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>60170300115609</ITEM_ID>
+          <ITEM_ID>61270300115609</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
@@ -29787,7 +29787,7 @@ Barva:  růžová</DESCRIPTION>
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>60170300195609007</ITEM_ID>
+          <ITEM_ID>61270300195609007</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
@@ -31779,6 +31779,1035 @@ Barva: mléčně bílá</DESCRIPTION>
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
 
           <EAN>7612894782325</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament A250 · samonivelační stěrka 3-40 mm · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Nivelační stěrka od 3 do 40 mm | CT–C35–F7
+A250 je samonivelační stěrka pro vyrovnání podkladů ve vnitřním prostředí.
+✅ Vhodná takřka na všechny podklady✅ Minimalizované smrštění✅ Pro plochy s podlahovým vytápěním✅ Pro ruční i strojní zpracování</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-a250</URL>
+          <PRICE_VAT>935.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_A250_stavbox.webp?v=1775466988</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18912500375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905200119</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M49 · Samonivelační stěrka pro podlahové vytápění · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Samonivelační stěrka do 15 mm | ct-c25-f5
+M49 je samonivelační stěrka k vyrovnání běžně zatěžovaných podlah ve vnitřním prostředí.
+✅ Pochozí po ~ 6 hodinách✅ Pro plochy s podlahovým vytápěním✅ Vysoká pevnost povrchu✅ Výborný rozliv✅ Pro vrstvy do 30 mm (po nastavení pískem)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m49</URL>
+          <PRICE_VAT>465.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M49_stavbox.webp?v=1775468947</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18949400375609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060195</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M50 · Samonivelační stěrka do 15 mm pro interiér i exteriér · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Samonivelační stěrka do 15 mm | CT-C25-F7
+M50 je samonivelační stěrka pro vyrovnávání podlah ve vnitřním i vnějším prostředí.
+✅ Po ~ 6 hodinách možné předláždění✅ Pro plochy s podlahovým vytápěním✅ Vysoká pevnost povrchu✅ Odolává zatížení kolečkovými židlemi✅ Výborný rozliv
+~ 1,6 kg/m²/mm
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m50</URL>
+          <PRICE_VAT>705.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M50_stavbox.webp?v=1775470967</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18919700375609008</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060126</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M53 Extra · samonivelační stěrka s vlákny do 40 mm · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Samonivelační hmota s armovacími vlákny pro vrstvy do 40 mm | ct-c35-f7
+M53 Extra je cementová, samonivelační vyrovnávací stěrka obsahující armovací vlákna, vhodná pro vyrovnání nerovností na podlahách ve vnitřním prostředí. Díky armovacím vláknům se výrazně snižuje riziko vzniku trhlin při použití na kritických podkladech.
+✅ Pro plochy s podlahovým vytápěním a uložení systémů podlahového topení nízké konstrukční výšky✅ Vhodná pro kritické podklady ze dřeva i smíšené podklady✅ Redukuje tvorbu trhlin✅ Ruční i strojní zpracování
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m53-extra</URL>
+          <PRICE_VAT>1320.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M53_Extra_stavbox.webp?v=1775472066</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18912530375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905199987</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M54 · pojivo pro rychleschnoucí potěry · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Pojivo pro rychleschnoucí potěry
+M54 je pojivo na bázi cementu pro výrobu rychleschnoucích spojených, oddělených i plovoucích potěrů.
+✅ Po 24 hodinách možné předláždění✅ Hydrofobní nastavení (vysoká ochrana vůči provlhnutí)✅ Pro vnitřní i vnější použití✅ Dlouhá doba zpracovatelnosti✅ Zpracovatelné i strojně
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m54</URL>
+          <PRICE_VAT>995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M54_stavbox.webp?v=1775474126</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18565540355609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905143638</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M54 FM · rychleschnoucí cementový potěr pro 24h pokládku · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí potěr
+M54 FM je rychleschnoucí směs na bázi cementu pro vytváření spojených, oddělených i plovoucích potěrů.
+✅ Po 24 hodinách možné předláždění✅ Hydrofobní nastavení (vysoká ochrana vůči provlhnutí)✅ Pro vnitřní i vnější použití✅ Hotová směs, není nutné přidávání písku✅ Dlouhá doba na zpracování
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m54-fm</URL>
+          <PRICE_VAT>340.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M54_FM_stavbox.webp?v=1775474503</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18565400375609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905140408</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M56 Speed FM · Rychleschnoucí cementový potěr · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí potěr
+M56 Speed FM je rychleschnoucí směs na bázi cementu pro vytváření spojených, oddělených i plovoucích potěrů.
+✅ Po 4 hodinách možné předláždění✅ Ideální při časové tísni a termínovaných pracích✅ Hydrofobní (vysoká ochrana vůči provlhnutí)✅ Pro vnitřní i vnější použití✅ Na bázi vysoce kvalitního cementu CEM I
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m56-speed-fm</URL>
+          <PRICE_VAT>845.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M56_Speed_FM_stavbox.webp?v=1775474905</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18950550375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905140378</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M80 · vyrovnávací stěrka 3-50 mm pro stěny a podlahy · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Vyrovnávací stěrka od 3 do 50 mm
+M80 je univerzální vyrovnávací stěrka na cementové bázi pro vyrovnání nebo vylepšení minerálních podkladních ploch na stěnách i podlahách.
+✅ Kladení keramických obkladů možné po ~ 48 hodinách✅ Stabilní✅ Povrch lze filcovat a vyhladit✅ Pro vytváření minerálních fabionů✅ Pro oblasti dlouhodobě pod vodní hladinou</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m80</URL>
+          <PRICE_VAT>315.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M80_stavbox.webp?v=1775475401</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18919800375609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060423</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M100 · vyrovnávací stěrka na cementové bázi 3-50 mm · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Vyrovnávací stěrka
+M100 je univerzální vyrovnávací stěrka na cementové bázi pro vyrovnání nebo vylepšení minerálních podkladních ploch na stěnách i podlahách.
+✅ Pro vrstvy 3 – 50 mm✅ Po ~ 2 hodinách možné předláždění✅ Pro vnitřní i vnější použití✅ Povrch lze filcovat a vyhladit✅ Pro oblasti dlouhodobě pod vodní hladinou
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m100</URL>
+          <PRICE_VAT>630.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M100_stavbox_02cc1d23-3366-46ec-b9c5-3189f5fa4037.webp?v=1775476051</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18901000355609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905132496</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M200 · multifunkční malta pro lepení a vyrovnání 2-30 mm · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční malta
+M200 Multimörtel je jednosložková, hydraulicky vytvrzující malta s možností všestranného využití. Je vhodná mimo jiné pro vyrovnání podkladů ve vnitřním i vnějším prostředí, pro vyplnění rýh ve stěnách i podlahách, pro lepení obkladů a dlažeb i lepení zdicích cihel.
+✅ Pro vrstvy od 2 do 30 mm✅ Enormní stabilita a vysoká lepivost✅ Časná zatížitelnost✅ Snížené smrštění a pnutí při vytvrzování✅ Přezkoušeno dle EN 12004: C1 T
+Barva:  šedá
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m200</URL>
+          <PRICE_VAT>1050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M200_stavbox.webp?v=1775476635</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18902000375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060379</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M300 Speed · rychlá vyrovnávací hmota pro podklady · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Stabilní rychlá vyrovnávací hmota
+M300 Speed je jednosložková, extrémně rychle vytvrzující hmota pro vyspravení a vyrovnání podkladů ve vnitřním i vnějším prostředí. M300 Speed se vyznačuje možností zvlášť komfortního formování aplikované vrstvy v počáteční fázi vytvrzování.
+✅ Perfektní tvárnost ve fázi vytvrzování✅ Možnost úprav až 30 minut✅ Na stěny, podlahy i stropy✅ Pro vrstvy do 50 mm v jednom pracovním kroku✅ Mimořádně stabilní
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m300-speed</URL>
+          <PRICE_VAT>775.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M300_Speed_stavbox.webp?v=1775476996</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>18902500375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060485</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament EB100 Botascreed · epoxidová pryskyřice pro potěry · 1kg</PRODUCTNAME>
+          <DESCRIPTION>Pryskyřičný potěr – pojivo 2sl.
+EB100 Botascreed je epoxidová pryskyřice pro výrobu pryskyřičných potěrů do vnitřního i vnějšího prostředí.
+✅ Rychlé vytvrzení umožňující časné kladení krytin✅ Pojivo pro přípravu pryskyřičných malt✅ Použití i s vlhkým kamenivem✅ Excelentní zpracovatelnost✅ Velmi dobrá přídržnost k nasákavým i nenasákavým podkladům</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-eb100-botascreed</URL>
+          <PRICE_VAT>735.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_EB100_Botascreed_stavbox.webp?v=1775477530</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>51770000115609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905120264</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® MegaFlow AF · armovací vlákna pro samoniv. hmoty · 250g</PRODUCTNAME>
+          <DESCRIPTION>Armovací vlákna
+BotaGreen® MegaFlow AF jsou vysokopevnostní vlákna k armování samonivelačních hmot Botament. Vlákna se optimálně rozloží ve směsi a nenarušují tak zpracovatelnost hmoty.
+✅ K armování a zlepšení samonivelačních hmot Botament✅ Vhodné zejména pro použití na kritických podkladech✅ Redukují tvorbu smršťovacích trhlin✅ Zpevňují strukturu a zvyšují pevnost ve střihu
+Barva: bílá – transparentní
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-megaflow-af</URL>
+          <PRICE_VAT>250.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen_MegaFlow_AF_stavbox.webp?v=1775478481</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>58529100245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905200324</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MD1 Speed · flexibilní hydroizolační stěrka (1K) · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní jednosložková izolační stěrka
+MD1 Speed se používá jako spojená hydroizolační stěrková hmota pod keramické dlaždice ve vnitřním i vnějším prostředí. Výrobek je vhodný pro použití v mokrých prostorách a také na balkónech či terasách. MD1 Speed je přezkoušena ve smyslu normy EN 14 891.
+✅ Vysoce elastická✅ Výrazná schopnost překlenování trhlin✅ Aplikace štětcem i ocelovým hladítkem✅ Vynikající zpracovatelnost✅ Přezkoušeno pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-md1-speed</URL>
+          <PRICE_VAT>2800.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MD1-Speed_stavbox.webp?v=1775486580</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44618200355609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050875</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MD2 The Blue 1 · hydroizolační stěrka pod dlažbu (2K) · A · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální dvousložková (2K) izolační stěrka
+MD2 The Blue 1 se používá jako spojená hydroizolační stěrková hmota pod keramické dlaždice ve vnitřním i vnějším prostředí. Produkt MD2 The Blue 1 je kromě toho vhodný speciálně pro použití v bazénech. Hmota MD2 The Blue 1 je přezkoušena ve smyslu normy EN 14 891.
+✅ Vysoce elastická✅ Výrazná schopnost přemostění trhlin✅ Přezkoušeno pro působení vody ve třídách W0-I až W3-I dále pro W1-B a W2-B (dle DIN 18534)✅ Propouští vodní páry</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-md2-the-blue-1?variant=53456913727825</URL>
+          <PRICE_VAT>380.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MD2-The-Blue-1_stavbox.webp?v=1775487226</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44619520355609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050882</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MD2 The Blue 1 · hydroizolační stěrka pod dlažbu (2K) · B · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální dvousložková (2K) izolační stěrka
+MD2 The Blue 1 se používá jako spojená hydroizolační stěrková hmota pod keramické dlaždice ve vnitřním i vnějším prostředí. Produkt MD2 The Blue 1 je kromě toho vhodný speciálně pro použití v bazénech. Hmota MD2 The Blue 1 je přezkoušena ve smyslu normy EN 14 891.
+✅ Vysoce elastická✅ Výrazná schopnost přemostění trhlin✅ Přezkoušeno pro působení vody ve třídách W0-I až W3-I dále pro W1-B a W2-B (dle DIN 18534)✅ Propouští vodní páry</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-md2-the-blue-1?variant=53456913760593</URL>
+          <PRICE_VAT>4575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MD2-The-Blue-1_stavbox.webp?v=1775487226</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44619530245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050882</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M34 · minerální izolační stěrka pro sklepy a základy · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Izolační stěrka
+M34 je minerální izolační hmota vhodná k izolování masivních stavebních dílů ve vnitřním i vnějším prostředí.
+✅ Jednoduché zpracování✅ Přilne bez penetrace na matně vlhké podklady✅ Vysoká mrazuvzdornost a odolnost vůči stárnutí✅ Použití i při negativním tlaku vody✅ Propouští vodní páry</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m34</URL>
+          <PRICE_VAT>910.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M34_stavbox.webp?v=1775488243</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>47150730375609008</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050059</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament RA170 · Izolační reaktivní pryskyřice pro bazény a garáže · 9kg</PRODUCTNAME>
+          <DESCRIPTION>Izolační reaktivní pryskyřice (2K)
+RA170 slouží k vytváření spojených izolačních vrstev pod keramické dlaždice ve vnitřním i vnějším prostředí. Produkt RA170 je vhodný zejména pro použití do bazénů a izolování v oblastech, které budou vystaveny silnému zatížení vodou spolu s chemikáliemi, jako například v potravinářském průmyslu nebo mycích linkách automobilů. Kromě toho lze hmotou RA170 vytvářet ochranné vrstvy na podlahách v garážích a sklepích.
+✅ Vysoce elastická✅ Překlenuje trhliny✅ Přezkoušeno pro působení vody ve třídách W0-I až W3-I dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (třída zatížení C, SRN)✅ Vysoká chemická odolnost</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ra170</URL>
+          <PRICE_VAT>4180.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RA170_stavbox.webp?v=1775490066</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54930700235609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905120202</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament TX · tixotropní přísada pro ztužení epoxidových pryskyřic · 1kg</PRODUCTNAME>
+          <DESCRIPTION>Tixotropní přísada
+TX Stellmittel se přimíchává do epoxidových pryskyřic za účelem ztužení, aby je bylo možné aplikovat na stěnách.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tx</URL>
+          <PRICE_VAT>1435.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TX_stavbox.webp?v=1775490538</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>58520000111001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905003413</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BE901 Plus · multifunkční živičný základní nátěr · 5l</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční živičný základní nátěr / koncentrát
+BE901 Plus je možné použít jako penetraci nebo základní nátěr pod živičné materiály a dále k ochraně stavebních dílů pod terénem proti působení vlhkosti. BE901 Plus má vysokou odolnost proti agresivním látkám dle DIN 4030 (SRN).
+✅ Základní nátěr pro živičné stěrkové hmoty a samolepicí pásy✅ Izolační nátěr na minerální podklady a stavební prvky z vodonepropustného betonu✅ Aplikace válečkem, štětcem i formou postřiku✅ Ředitelný vodou v poměru až 1 : 10</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-be901-plus?variant=53457060659537</URL>
+          <PRICE_VAT>645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BE901-Plus_stavbox.webp?v=1775491022</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>32129510195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010503</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BE901 Plus · multifunkční živičný základní nátěr · 10l</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční živičný základní nátěr / koncentrát
+BE901 Plus je možné použít jako penetraci nebo základní nátěr pod živičné materiály a dále k ochraně stavebních dílů pod terénem proti působení vlhkosti. BE901 Plus má vysokou odolnost proti agresivním látkám dle DIN 4030 (SRN).
+✅ Základní nátěr pro živičné stěrkové hmoty a samolepicí pásy✅ Izolační nátěr na minerální podklady a stavební prvky z vodonepropustného betonu✅ Aplikace válečkem, štětcem i formou postřiku✅ Ředitelný vodou v poměru až 1 : 10</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-be901-plus?variant=53457062854993</URL>
+          <PRICE_VAT>1120.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BE901-Plus_stavbox.webp?v=1775491022</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>32129510245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010510</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament B95 L · živičný ochranný nátěr pro sila a jímky · 30l</PRODUCTNAME>
+          <DESCRIPTION>Živičný nátěr – silolak
+B95 L je vysoce kvalitní ochranný nátěr na živičné bázi s dobrou odolností proti trvalému působení vody, suchému i vlhkému teplu, zředěných kyselin, louhů a neutrálních solí.
+✅ Ochranný nátěr do silážních žlabů a skladů brambor✅ K okamžitému použití✅ Po proschnutí neobsahuje škodlivé substance✅ Rychlé prosychání✅ Nanášení štětcem, válečkem a stříkáním
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-b95-l</URL>
+          <PRICE_VAT>4465.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_B95-L_stavbox.webp?v=1775491520</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>31220900395609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905030013</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BM92 Schnell · dvousložková bitumenová stěrka · 28kg</PRODUCTNAME>
+          <DESCRIPTION>Živičná stěrka (2K)
+BM92 Schnell je dvousložková bitumenová stěrková hmota s obsahem armovacích vláken k izolování stavebních konstrukcí pod terénem proti zemní vlhkosti, prosakující i tlakové vodě. Výrobek BM92 Schnell je přezkoušen dle EN 15814 a má vysokou odolnost proti agresivním látkám dle DIN 4030. Hmota BM92 Schnell je vhodná k provádění hydroizolačních vrstev dle DIN 18533.
+✅ Velmi rychlé vytvrzování a odolnost dešti✅ Vynikající zpracovatelnost✅ Vysoká odolnost stárnutí✅ Vysoce flexibilní✅ Vysoká schopnost překlenovat trhliny
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bm92-schnell</URL>
+          <PRICE_VAT>2295.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BM92-Schnell_stavbox.webp?v=1775491938</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>33151900385609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010251</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BM92 Winter · bitumenová stěrka pro hydroizolace, zimní · 28kg</PRODUCTNAME>
+          <DESCRIPTION>Živičná stěrka 2sl. – zimní
+BM92 Winter je dvousložková bitumenová stěrková hmota s obsahem armovacích vláken k izolování stavebních konstrukcí pod terénem proti zemní vlhkosti, prosakující i tlakové vodě. Výrobek BM92 Winter je přezkoušen dle EN 15814 a má vysokou odolnost proti agresivním látkám dle DIN 4030. Hmota BM92 Winter je vhodná k provádění hydroizolačních vrstev dle DIN 18533.
+✅ Rychlé vytvrzení i při nízkých teplotách✅ Skladovatelná do – 5°C✅ Vysoká odolnost stárnutí✅ Vysoce flexibilní
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bm92-winter</URL>
+          <PRICE_VAT>2470.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BM92-Winter_stavbox.webp?v=1775492477</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>33160900385609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010121</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Mach3in1 · jednosložková bitumenová stěrka pro izolaci · 30l</PRODUCTNAME>
+          <DESCRIPTION>Živičná stěrka (1K)
+MACH 3in1 je jednosložková bitumenová stěrková hmota plněná polystyrenem k izolování stavebních konstrukcí pod terénem proti zemní vlhkosti, prosakující i tlakové vodě. Výrobek MACH 3in1 je přezkoušen dle EN 15814 a má vysokou odolnost proti agresivním látkám dle DIN 4030. Produkt je vhodný k provádění hydroizolačních vrstev dle DIN 18533.
+✅ Nejrychlejší jednosložková živičná stěrka✅ Vynikající zpracovatelnost✅ Velmi vysoká vydatnost✅ Vysoce flexibilní✅ Vysoká schopnost překlenovat trhliny
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-mach3in1</URL>
+          <PRICE_VAT>3390.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Mach3in1_stavbox.webp?v=1775492873</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>33530900395609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010176</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Black Future · živičná stěrka 2sl. pro hydroizolaci · A (tekutá sl.) · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Živičná stěrka nejnovější generace 2sl.
+Black Future kombinuje nejlepší vlastnosti tradiční 2sl. bitumenové hydroizolace plněné polystyrenem s inovativním složením, které neobsahuje cement. Stěrková hmota Black Future je navíc díky vysoké vydatnosti velmi hospodárná. Zároveň poskytuje výjimečně dlouhou dobou na zpracování a spolehlivé vytvrzení, navíc ji lze zpracovávat i při vysokých teplotách až 35 °C. Black Future boduje také působivou stabilitou při skladování 24 měsíců.
+✅ Extrémně dlouhá zpracovatelnost až 3 hodiny✅ Použitelná při teplotách až 35 °C✅ Skladovatelnost 24 měsíců✅ Receptura bez cementu✅ Vysoká vydatnost✅ Vysoký podíl pevných látek &amp;gt; 90 %✅ Flexibilní, přemosťuje trhliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-black-future?variant=53457170563409</URL>
+          <PRICE_VAT>1965.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Black-Future_stavbox.webp?v=1775493218</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>33151950315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095425</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Black Future · živičná stěrka 2sl. pro hydroizolaci · B (prášková sl.) · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Živičná stěrka nejnovější generace 2sl.
+Black Future kombinuje nejlepší vlastnosti tradiční 2sl. bitumenové hydroizolace plněné polystyrenem s inovativním složením, které neobsahuje cement. Stěrková hmota Black Future je navíc díky vysoké vydatnosti velmi hospodárná. Zároveň poskytuje výjimečně dlouhou dobou na zpracování a spolehlivé vytvrzení, navíc ji lze zpracovávat i při vysokých teplotách až 35 °C. Black Future boduje také působivou stabilitou při skladování 24 měsíců.
+✅ Extrémně dlouhá zpracovatelnost až 3 hodiny✅ Použitelná při teplotách až 35 °C✅ Skladovatelnost 24 měsíců✅ Receptura bez cementu✅ Vysoká vydatnost✅ Vysoký podíl pevných látek &amp;gt; 90 %✅ Flexibilní, přemosťuje trhliny</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-black-future?variant=53457172889937</URL>
+          <PRICE_VAT>350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Black-Future_stavbox.webp?v=1775493218</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>33151960315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095432</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>BotaGreen AE · izolační fólie pod obklady z recyklátu · 1m x 5m (5m2) role</PRODUCTNAME>
+          <DESCRIPTION>Izolační a dělicí fólie
+BotaGreen® AE izolační a dělicí fólie je univerzálně použitelná jako spojená hydroizolační vrstva pod keramickým obkladem či přírodními kameny ve vnitřním i vnějším prostředí. Výrobek lze využít pro vytvoření hydroizolace na stěnách a podlahách v privátních i komerčních objektech. Také je vhodný do oblastí silně namáhaných vodou ve spojení s chemickým zatížením, např. velkokapacitních kuchyní. Produkt BotaGreen AE je zvlášť šetrný k životnímu prostředí, protože jsou při výrobě také použity recyklované suroviny*.
+✅ Membrána obsahuje převažující podíl recyklátu✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Spoje prováděny přezkoušenými lepidly
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+Barva: zelená
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-ae?variant=53457206411601</URL>
+          <PRICE_VAT>1230.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-AE_stavbox.webp?v=1775494288</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>87700100925609005</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905135916</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>BotaGreen AE · izolační fólie pod obklady z recyklátu · 1m x 30m (30m2) role</PRODUCTNAME>
+          <DESCRIPTION>Izolační a dělicí fólie
+BotaGreen® AE izolační a dělicí fólie je univerzálně použitelná jako spojená hydroizolační vrstva pod keramickým obkladem či přírodními kameny ve vnitřním i vnějším prostředí. Výrobek lze využít pro vytvoření hydroizolace na stěnách a podlahách v privátních i komerčních objektech. Také je vhodný do oblastí silně namáhaných vodou ve spojení s chemickým zatížením, např. velkokapacitních kuchyní. Produkt BotaGreen AE je zvlášť šetrný k životnímu prostředí, protože jsou při výrobě také použity recyklované suroviny*.
+✅ Membrána obsahuje převažující podíl recyklátu✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Spoje prováděny přezkoušenými lepidly
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+Barva: zelená
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-ae?variant=53457206378833</URL>
+          <PRICE_VAT>6875.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-AE_stavbox.webp?v=1775494288</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>87700300915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905135923</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
