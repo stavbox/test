@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 991 -->
-<!-- Total individual products: 441 -->
-<!-- Created: 2026-04-07 15:55:02 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 1010 -->
+<!-- Total individual products: 460 -->
+<!-- Created: 2026-04-08 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 7 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 191 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 187 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -213,7 +213,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279769425</URL>
           <PRICE_VAT>920.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 34 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 31 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -248,7 +248,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 270 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 269 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -282,7 +282,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 191 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 182 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -317,7 +317,7 @@ Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná sír
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>770.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 683 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 678 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -799,7 +799,7 @@ Sanační porózní jádrová omítka pro vlhké zdivo. Absorbuje soli, paroprop
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-levell-20kg</URL>
           <PRICE_VAT>828.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 349 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 343 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Levell-20kg-jadrova-amitka-sanacni.jpg?v=1755852664</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1003,7 +1003,7 @@ Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychlesch
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>540.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1035,7 +1035,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1915.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 23 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 20 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1641,7 +1641,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
 Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapalňujícím účinkem.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-vz-mb-1l</URL>
           <PRICE_VAT>290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-VZ-MB-1l-zpomalovac.jpg?v=1755777830</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1844,7 +1844,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sp?variant=52659182731601</URL>
           <PRICE_VAT>2570.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SP-barva-na-vnitrni-steny.jpg?v=1755856067</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4963,7 +4963,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
 Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje přilnavost opravných malt, odolný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-khb?variant=52657666851153</URL>
           <PRICE_VAT>2420.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-KHB-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755860527</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5099,7 +5099,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <PRICE_VAT>2495.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5263,7 +5263,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
 Rychleschnoucí malta pro opravy betonu. Vysoká přilnavost, odolná mrazu, vhodná pro rychlé zásahy na konstrukcích.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-r2-25kg</URL>
           <PRICE_VAT>2210.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 29 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 71 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-R2-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755861038</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6209,7 +6209,7 @@ Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje t
 Rychle tuhnoucí výplňová izolační malta. Odolná síranům, přemosťuje trhliny, WTA certifikát. Rychlé opravy vlhkých míst, průsaků a výronů vody.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-rh-rapid?variant=52662965240145</URL>
           <PRICE_VAT>1485.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-RH-Rapid-1kg-rychle-tuhnouci-vyplnova-malta.jpg?v=1755863739</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6341,7 +6341,7 @@ Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, 
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386857297</URL>
           <PRICE_VAT>375.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6469,7 +6469,7 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-ik?variant=52652381143377</URL>
           <PRICE_VAT>48050.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-iK-30kg-hydrofobizujici-siloxanovy-koncentrat.jpg?v=1755864215</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6671,7 +6671,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
 Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobní, bez solí, ředitelná vodou, zajišťuje přilnavost a ochranu fasád.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-hydro-hf?variant=52656395813201</URL>
           <PRICE_VAT>1060.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-HF-5l-hloubkova-zpevnujici-penetrace.jpg?v=1755865121</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7180,7 +7180,7 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 12 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7401,7 +7401,7 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-cem-rapid?variant=52657759486289</URL>
           <PRICE_VAT>1345.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8198,7 +8198,7 @@ Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace,
 Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům, vhodná pro bioplynové stanice, splňuje EN 1504-3, pro opravy a vyhlazení povrchu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-fill-25kg</URL>
           <PRICE_VAT>1870.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 39 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-Fill-25kg-PCC-jemna-sterka.jpg?v=1755877725</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8800,7 +8800,7 @@ Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odoln
 Rychlovazná malta z románského cementu pro štuky a spáry památek. Paropropustná, odolná povětrnosti, pro restaurování historických fasád a detailů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm-rz-historic-6kg</URL>
           <PRICE_VAT>990.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -2, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-RM-RZ-Historic-6kg-rychlovazna-malta-na-bazi-romanskeho-cementu.jpg?v=1755878896</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9360,7 +9360,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 74 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 73 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9391,7 +9391,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 76 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 75 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9424,7 +9424,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <PRICE_VAT>325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 22 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 23 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10161,7 +10161,7 @@ Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, z
 Univerzální, elastický polymerní lepicí tmel na spáry v betonu, fasády, zdivo. Opláštění z ocelových i montovaných konstrukcí. Spoje dveřních a okenních rámů ke konstrukci budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ms-150-betonove-seda?variant=52662722658641</URL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 40 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 20 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MS-150-elasticky-tesnici-tmel.jpg?v=1766430534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -15693,7 +15693,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 Vodou ředitelný dvousložkový (2K) penetrant pro beton, cement, keramiku i staré nátěry. Adhezní můstek pro epoxidové systémy a garáže. Paropronikavý, aplikace válečkem.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-zakladni-nater-na-podlahu-2k-5kg-svetle-seda</URL>
           <PRICE_VAT>3140.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 100 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Zakladni-nater-na-podlahu-2K_dl_sbx_opt.jpg?v=1762249934</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -29598,7 +29598,7 @@ Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tm
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-pur-deco-color?variant=53342660493649</URL>
           <PRICE_VAT>1435.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 59 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Deco-Color_dl_sbx.jpg?v=1773924242</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -34058,7 +34058,7 @@ tenkovrstvé • středněvrstvé • vyrovnání do 20 mm
           <URL>https://www.stavbox.cz/products/botament-m22-hp</URL>
           <PRICE_VAT>705.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
-          <IMGURL></IMGURL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M22-HP_stavbox.webp?v=1775570571</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -34077,6 +34077,686 @@ tenkovrstvé • středněvrstvé • vyrovnání do 20 mm
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4030905080971</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M29 HP · flexibilní lepidlo na keramické dlaždice C2 E S1 · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Prémiové flexibilní lepidlo na podlahy C2 E S1
+M29 HP je flexibilní lepidlo na bázi tekutého lože pro hospodárné lepení téměř všech keramických dlaždic na podlahách ve vnitřním i vnějším prostředí.
+✅ Vysoce vydatné✅ Vysoce flexibilní✅ Pro plochy s podlahovým vytápěním, balkóny a terasy✅ Pro vytvoření lepicího lůžka téměř bez dutin✅ Při zpracování velmi poddajné
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m29-hp</URL>
+          <PRICE_VAT>580.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M29-HP_stavbox.webp?v=1775570670</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49167000355609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905500011</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M29 · flexibilní podlahové lepidlo pro keramické dlaždice · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální podlahové lepidlo
+M29 je flexibilní lepidlo na bázi tekutého lože pro lepení téměř všech keramických dlaždic na podlahách ve vnitřním i vnějším prostředí.
+✅ Flexibilní✅ Rychle pochozí a spárovatelné✅ Pro vytvoření lepicího lůžka téměř bez dutin✅ Pro plochy s podlahovým vytápěním, balkóny a terasy✅ Pro vysoké mechanické zatížení
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m29</URL>
+          <PRICE_VAT>530.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M29_stavbox.webp?v=1775571286</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49160700375609008</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905080117</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M30 HP S2 · flexibilní lepidlo na dlažbu s vlákny · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Prémiové flexibilní podlahové lepidlo
+M30 HP S2 je vysoce flexibilní lepidlo, obsahující armovací vlákna, vhodné pro lepení téměř všech keramických dlaždic na podlahách ve vnitřním i vnějším prostředí. M30 HP S2 je vhodné zejména pro lepení dlažeb na nevyzrálý podklad.
+✅ Vysoce flexibilní, s armovacími vlákny✅ Pro plochy s podlahovým vytápěním a exteriéry✅ Pro pokládku na nevyzrálé, nevyhřívané cementové potěry*✅ Pro vytvoření lepicího lůžka téměř bez dutin✅ Zvláště vláčná konzistence✅ Pro vysoké mechanické zatížení
+*Pro dřívější pokládku na cementové potěry bez podlahového topení od dosažení pochůznosti až do 5. dne po jejich uložení platí: Dle uznaných technických pravidel je v současné době doporučováno dodržení technologické přestávky 28 dní, nebo dosažení zbytkové vlhkosti 2,0 – 2,5 % (CM). O případných odchylkách od tohoto pravidla je vhodné informovat zadavatele prací a lze doporučit písemné ujednání.
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m30-hp-s2</URL>
+          <PRICE_VAT>1305.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M30-HP-S2_stavbox.webp?v=1775572000</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49168500355609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905081381</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Multilight · Flexibilní lehčené lepidlo C2TES1/S2 pro obklady · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční lepidlo C2 TE S1/S2
+MULTILIGHT je multifunkční, lehčené lepidlo pro pokládku bezmála všech keramických dlaždic na stěnách i podlahách ve vnitřním i vnějším prostředí a plochách s podlahovým vytápěním.
+✅ Velmi stabilní a vysoce flexibilní✅ Zvláště vhodný pro velkoformátové dlaždice✅ Vysoká vydatnost✅ Dlouhá doba pro korekci a doba zavadnutí✅ Pro vyrovnání podkladu do 20 mm
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multilight</URL>
+          <PRICE_VAT>640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Multilight_stavbox.webp?v=1775572426</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49189000316009007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905132533</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTISTONE · multifunkční lepidlo pro keramické dlaždice a kámen · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční lepidlo pro keramické dlaždice a přírodní kameny
+Multistone je multifunkční, lehčené lepidlo vhodné pro lepení bezmála všech přírodních kamenů, či keramických dlaždic na stěnách i podlahách ve vnitřním i vnějším prostředí. Díky technologii Airflow je dosaženo velmi vláčné konzistence a Multistone je zvlášť lehce zpracovatelný.
+✅ Velmi stabilní a vysoce flexibilní✅ Zvláště vhodný pro velkoformátové dlaždice✅ Vysoká vydatnost✅ Rychleschnoucí s krystalickou vazbou vody✅ Redukovaná prašnost
+tenkovrstvé • středněvrstvé • tekuté lože • silné lože • vyrovnání do 30 mm
+   </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multistone</URL>
+          <PRICE_VAT>805.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTISTONE_stavbox.webp?v=1775572951</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49224000315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905080506</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M20 Objekt Flex · flexibilní lepidlo na dlažbu · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní lepidlo
+M20 Objekt Flex je tenkovrstvé flexibilní lepidlo vhodné pro lepení téměř všech keramických dlaždic na stěnách a podlahách ve vnitřním i vnějším prostředí.
+✅ Flexibilní✅ Vysoce stabilní se sníženým skluzem✅ Pro plochy s podlahovým vytápěním✅ Pro ukládání armovací tkaniny
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m20-objekt-flex</URL>
+          <PRICE_VAT>365.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M20-Objekt-Flex_stavbox.webp?v=1775573615</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49186500375609008</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>5997953725201</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M20 Speed · flexibilní rychleschnoucí lepidlo na dlažby · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní rychleschnoucí lepidlo
+M20 Speed je flexibilní tenkovrstvé lepidlo vhodné pro lepení téměř všech keramických dlaždic a přírodních kamenů nenáchylných k probarvení, na stěnách a podlahách ve vnitřním i vnějším prostředí.
+✅ Pochozí po ~ 100 minutách a lze spárovat✅ Pro plochy s podlahovým vytápěním✅ Krystalická vazba vody✅ K rychlé fixaci tepelně-izolačních desek
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m20-speed</URL>
+          <PRICE_VAT>1140.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M20-Speed_stavbox.webp?v=1775574127</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49140750375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905081572</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BTK200 Terrachamp · lepidlo na balkóny a terasy 2sl. · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Lepidlo na balkóny a terasy – 2sl.
+BTK200 Terrachamp je reaktivní lepidlo pro lepení dlažeb na balkónech a terasách. Dlaždice nalepené lepidlem BTK200 Terrachamp spárovat hmotou Multifuge® Diamond Max. BTK 200 Terrachamp je zvlášť vhodný pro kladení velkoformátových dlaždic s délkou strany do 100 cm.
+✅ Nově definovaná flexibilita, výrazně převyšuje požadavky EN 12002✅ Vysoká odolnost cyklům zmrazení – tání✅ Jedinečná zpracovatelnost✅ Kladení bez kombinované metody
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-btk200-terrachamp</URL>
+          <PRICE_VAT>2870.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BTK200-Terrachamp_stavbox.webp?v=1775574407</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>96550000245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905131529</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament P450 · hybridní elastické lepidlo na parkety bez rozpouštědel · 17kg</PRODUCTNAME>
+          <DESCRIPTION>Elastické lepidlo na parkety
+P450 je hybridní jednosložkové lepidlo bez obsahu rozpouštědel, silikonů, vody a izokyanátů dle ISO 17178 vhodné pro lepení vlysů, mozaik, vícevrstvých parket, vysoce hraněných lamel, masivních prken, exotického dřeva, též dřevěnou dlažbu RE dle EN 13489 na savé i nesavé podklady.
+✅ Téměř pro všechny druhy parket✅ Rychlý nárůst pevnosti✅ Bez izokyanátů✅ Velmi vláčné✅ Zlepšuje akustiku v místnosti díky elastickému spoji
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-p450</URL>
+          <PRICE_VAT>4170.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_P450_stavbox.webp?v=1775574906</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54932000325609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905200423</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Renovation HB1 · protikorozní ochrana a spojovací můstek · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Protikorozní ochrana, spojovací můstek
+Renovation HB1 je jednosložkový protikorozní a spojovací nátěr na minerální bázi pro opravy betonů se statickou funkcí a bez statické funkce.
+✅ Rychlý postup✅ Vysoká ochrana proti korozi✅ Pro vnitřní i vnější použití✅ Lehká zpracovatelnost✅ Vhodný pro zpracování nad hlavou</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-hb1</URL>
+          <PRICE_VAT>410.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-HB1_stavbox.webp?v=1775581980</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44000700195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905102314</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M03 · Cementová opravná směs na beton do 50 mm · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Opravná směs na betonové konstrukce
+M03 je cementová směs vhodná pro vylepšení a opravy drobných i velkoplošných poruch v betonových podkladech na stěnách i podlahách ve vnitřním i vnějším prostředí.
+✅ Velmi dobré pevnosti✅ Optimální odolnost cyklům zmrazení/tání✅ Pro tloušťky do 50 mm✅ Zpracovatelné ručně i strojně✅ Pro stěny, podlahy a stropy</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m03</URL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M03_stavbox.webp?v=1775586401</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44100000371009007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905132465</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M06 · jemná stěrková směs na vyrovnání betonu 2-6 mm · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Jemná stěrková směs
+M06 je jemná stěrková hmota na cementové bázi pro vyrovnání a vyhlazení betonových ploch ve vnitřním i vnějším prostředí.
+✅ Velmi dobré pevnosti✅ Vysoce stabilní✅ Pro vrstvy 2 až 6 mm✅ Pro stěny, podlahy a stropy✅ Vhodné pro aplikaci nad hlavou
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m06</URL>
+          <PRICE_VAT>885.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M06_stavbox.webp?v=1775586803</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44410000371009007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905132489</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M36 Speed · rychleschnoucí malta na opravy betonu · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční malta s rychlovazným cementem
+M36 Speed je jednosložková, všestranně použitelná rychleschnoucí malta na cementové bázi pro opravné a montážní práce ve vnitřním i vnějším prostředí.
+✅ Vysoká odolnost proti síranům✅ Časně zatížitelná vodou✅ Zatížitelná silnou mechanickou zátěží✅ Vysoká mrazuvzdornost
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m36-speed</URL>
+          <PRICE_VAT>1065.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M36-Speed_stavbox.webp?v=1775587087</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44041000375609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010480</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M37 · rychlovazný opravný cement pro montážní práce · 13kg</PRODUCTNAME>
+          <DESCRIPTION>Rychlovazný opravný cement
+M37 je jednosložková montážní malta pro rychlé opravy ve vnitřním i vnějším prostředí.
+✅ Vytvrzení již za ~ 5 minut✅ Rychle zatížitelné✅ Vytvrzení téměř bez pnutí✅ Neobsahuje součásti podporující korozi a chloridy
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m37</URL>
+          <PRICE_VAT>875.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M37_stavbox.webp?v=1775587425</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>45710700305609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905060027</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M38 · vysokopevnostní jemná stěrka pro beton · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Vysokopevnostní jemná stěrka
+M38 je jednosložková hmota na bázi cementu dosahující vysoké pevnosti. Produkt je vhodný pro opravy stěn i podlah z betonu ve vnitřním i vnějším prostředí.
+✅ Vysoce stabilní✅ Velmi tvárná✅ Pro vnitřní i vnější prostředí✅ Pro stěny, podlahy✅ Pro podlahy zatěžované pojezdem osobních automobilů a vysokozdvižných vozíků</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m38</URL>
+          <PRICE_VAT>1155.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M38_stavbox.webp?v=1775587945</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>45210200375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905102543</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament M57 · rychleschnoucí stěrka na pohledové betony · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Stěrka na pohledové betony
+M57 je rychleschnoucí lehce zpracovatelná stěrka vláčné konzistence vhodná zejména pro velkoplošné opravy, vyhlazení, či vyrovnání pohledových betonů a betonových prvků ve vnitřním i vnějším prostředí.
+✅ Velmi jemná✅ Vysoká stabilita✅ Optimální zpracovatelnost✅ Pro vrstvy do 6 mm✅ Pro stěny a stropy</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-m57</URL>
+          <PRICE_VAT>880.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M57_stavbox.webp?v=1775588324</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>45450720375609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905140170</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament V90 · Pevnostní zalévací hmota pro vrstvy nad 10 mm · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Pevnostní zalévací hmota
+V90 je speciální cementová směs s vysokou tekutostí pro pevnostní zalévaní betonových konstrukcí a ocelových prvků ve vnitřním i vnějším prostředí.
+✅ Pro vrstvy &amp;gt; 10 mm✅ Optimální tekutost✅ Vysoká pevnost v tlaku a tahu za ohybu✅ Vytvrzuje bez smrštění✅ Bez přísad vyvolávajících korozi a chloridů✅ Výborné spojení se zalévanými prvky, bez dutin
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-v90</URL>
+          <PRICE_VAT>755.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_V90_stavbox.webp?v=1775588771</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>48250000376009007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905132632</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament PU · pečetící nátěr bez rozpouštědel pro Beton Optik · 1kg</PRODUCTNAME>
+          <DESCRIPTION>Pečetící nátěr 2K – matný
+PU je jakostní, pečetící nátěr neobsahující rozpouštědla na stěny s vrstvou Beton Optik ve vnitřním i vnějším prostředí.
+✅ Skvělá zpracovatelnost✅ Snadné čištění✅ Vysoká pevnost povrchu✅ Pro suché i mokré prostředí✅ Vysoká odolnost UV záření</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pu</URL>
+          <PRICE_VAT>940.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PU_stavbox.webp?v=1775589263</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54420050115609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905132977</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament V3 · Pečetící nátěr proti vodě a poškrábání na stěny · 1kg</PRODUCTNAME>
+          <DESCRIPTION>Pečetící nátěr 1sl.
+Speciální disperzní hmota na ochranu povrchů s odolností proti vodě a poškrábání.
+✅ K okamžitému použití✅ Nežloutne✅ Vytváří voděodolné povrchy, s odolností proti poškrábání✅ Odpuzuje vodu a nečistoty</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-v3</URL>
+          <PRICE_VAT>615.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_V3_stavbox.webp?v=1775589765</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54410050115108</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4002019523576</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
