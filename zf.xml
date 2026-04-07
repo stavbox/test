@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 955 -->
-<!-- Total individual products: 422 -->
-<!-- Created: 2026-04-07 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 968 -->
+<!-- Total individual products: 425 -->
+<!-- Created: 2026-04-07 10:10:20 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -11319,7 +11319,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300616529</URL>
           <PRICE_VAT>3275.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -32808,6 +32808,462 @@ Barva: zelená
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4030905135923</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · pás - 12cm x 50m role</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459035783505</URL>
+          <PRICE_VAT>2240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938150915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905135930</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · kout</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459037159761</URL>
+          <PRICE_VAT>130.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938510925609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905135992</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · vnější roh</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459037192529</URL>
+          <PRICE_VAT>130.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938500925609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905135985</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · izolační manžeta - 120×120 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459035816273</URL>
+          <PRICE_VAT>110.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938520925609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905136005</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · izolační manžeta - 425×425 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459037126993</URL>
+          <PRICE_VAT>425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938530925609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905136012</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · těsnicí manžeta hrany - levá 20 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040764241</URL>
+          <PRICE_VAT>215.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938560925609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905136043</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · těsnicí manžeta hrany - pravá 20 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040797009</URL>
+          <PRICE_VAT>215.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938570925609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905136050</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · manžeta s elastickou zónou - 130×130 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040960849</URL>
+          <PRICE_VAT>165.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86950230915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905052343</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · manžeta s elastickou zónou - 140×140 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040993617</URL>
+          <PRICE_VAT>175.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86950240915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905052350</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · manžeta s elastickou zónou - 180×180 mm</PRODUCTNAME>
+          <DESCRIPTION>Systémový izolační pás + příslušenství
+BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
+*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459041026385</URL>
+          <PRICE_VAT>255.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86950280915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905052367</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament ATE Max · hydroizolační pás tlumicí kročejový hluk · role 15m | 1m šíře | tloušťka 1,8mm</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční hydroizolační a dělicí pás tlumicí kročejový hluk
+ATE Max je multifunkční pás 3v1 pro použití pod keramické dlaždice či přírodní kameny ve vnitřním i vnějším prostředí. Produkt spojující funkce hydroizolace, snížení kročejového hluku a dělicí vrstvy. Vzájemně propojené kanálky navíc efektivně odbourávají pnutí mezi krytinou a podkladem.
+✅ Elastické oddělení tvrdých krytin✅ Přezkoušen pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Pro kritické a mladé podklady✅ Přispívá k utlumení kročejového hluku✅ Extrémně tenký✅ Vysoká schopnost překlenování trhlin
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ate-max</URL>
+          <PRICE_VAT>6255.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_ATE-Max_stavbox.webp?v=1775537333</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>87700020915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905010602</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament DE Plus · tenká dělicí rohož pro keramiku a parkety · role 1x30m | tloušťka 0,75mm</PRODUCTNAME>
+          <DESCRIPTION>Tenká dělicí rohož
+DE Plus tenká dělicí rohož se používá k redukci pnutí mezi keramickou krytinou, přírodními kameny, či parketami a podkladní vrstvou ve vnitřním prostředí. Tenkou dělicí rohož DE Plus lze používat pod krytiny na stěnách i podlahách.
+✅ Elastické oddělení tvrdých krytin a parket✅ Pro pevné spojení s podkladem, nebo volné umožňující sejmutí krytiny✅ Dřívější předláždění potěrů s podlahovým vytápěním✅ Použitelná na kritických podkladech✅ Redukuje pnutí✅ Ovlivňuje přemostění trhlin</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-de-plus?variant=53459056034129</URL>
+          <PRICE_VAT>6875.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_DE-Plus_stavbox.webp?v=1775537942</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>87601300915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905200775</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament DE Plus · tenká dělicí rohož pro keramiku a parkety · role 1x5m | tloušťka 075mm</PRODUCTNAME>
+          <DESCRIPTION>Tenká dělicí rohož
+DE Plus tenká dělicí rohož se používá k redukci pnutí mezi keramickou krytinou, přírodními kameny, či parketami a podkladní vrstvou ve vnitřním prostředí. Tenkou dělicí rohož DE Plus lze používat pod krytiny na stěnách i podlahách.
+✅ Elastické oddělení tvrdých krytin a parket✅ Pro pevné spojení s podkladem, nebo volné umožňující sejmutí krytiny✅ Dřívější předláždění potěrů s podlahovým vytápěním✅ Použitelná na kritických podkladech✅ Redukuje pnutí✅ Ovlivňuje přemostění trhlin</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-de-plus?variant=53459056066897</URL>
+          <PRICE_VAT>1230.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_DE-Plus_stavbox.webp?v=1775537942</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>87600010915609005</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905200775</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
