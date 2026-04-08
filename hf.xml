@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1010 -->
-<!-- Total individual products: 460 -->
-<!-- Created: 2026-04-08 09:05:51 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 1042 -->
+<!-- Total individual products: 476 -->
+<!-- Created: 2026-04-09 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -16901,19 +16901,20 @@ DE Plus tenká dělicí rohož se používá k redukci pnutí mezi keramickou kr
     
   
           <SHOPITEM>
-          <ITEM_ID>86965000915609</ITEM_ID>
-          <PRODUCTNAME>Botament BD · butylová izolační páska pro spáry a vpusti · role 10 m | šíře 10 cm</PRODUCTNAME>
-          <PRODUCT>Botament BD · role 10 m | šíře 10 cm - </PRODUCT>
-          <DESCRIPTION>Butylová izolační páska
-BD je samolepicí butylová izolační páska z lícní strany kašírovaná textilním rounem vhodná k izolování napojovacích a koutových spár, dále odpadních vpustí ve vnitřním i vnějším prostředí.
-✅ Flexibilní✅ Vysoce odolná proti přetržení✅ Samolepicí✅ Samosvařující✅ Vysoká přilnavost na téměř všechny podklady</DESCRIPTION>
+          <ITEM_ID>33933100915609</ITEM_ID>
+          <PRODUCTNAME>Botament FB Fugendichtband · elastický izolační pás pro spáry · role 20 m | šíře 30 cm</PRODUCTNAME>
+          <PRODUCT>Botament FB Fugendichtband · role 20 m | šíře 30 cm - </PRODUCT>
+          <DESCRIPTION>Pás pro překlenování spár
+FB je příčně elastický izolační pás oboustranně kašírovaný textilním rounem pro použití v systémových skladbách s reaktivní hydroizolační hmotou Botament RD2 The Green 1 a živičnými stěrkami Botament.
+✅ Vysoce elastický✅ Rychlé a snadné uložení✅ Perforované okraje pásu pro optimální spojení s tekutými hydroizolacemi
+Barva: světle modrá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-fb-fugendichtband</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_FB-Fugendichtband_stavbox.webp?v=1775549777</IMGURL>
-          <PRICE_VAT>1405.0</PRICE_VAT>
+          <PRICE_VAT>3600.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905050714</EAN>
+          <EAN>4030905020229</EAN>
         </SHOPITEM>
       
     
@@ -17675,6 +17676,587 @@ Speciální disperzní hmota na ochranu povrchů s odolností proti vodě a poš
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4002019523576</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>86965000915609</ITEM_ID>
+          <PRODUCTNAME>Botament BD · butylová izolační páska pro spáry a vpusti · role 10 m | šíře 10 cm</PRODUCTNAME>
+          <PRODUCT>Botament BD · role 10 m | šíře 10 cm - </PRODUCT>
+          <DESCRIPTION>Butylová izolační páska
+BD je samolepicí butylová izolační páska z lícní strany kašírovaná textilním rounem vhodná k izolování napojovacích a koutových spár, dále odpadních vpustí ve vnitřním i vnějším prostředí.
+✅ Flexibilní✅ Vysoce odolná proti přetržení✅ Samolepicí✅ Samosvařující✅ Vysoká přilnavost na téměř všechny podklady
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bd</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BD_stavbox.webp?v=1775637767</IMGURL>
+          <PRICE_VAT>1405.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905050714</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>45655700235609</ITEM_ID>
+          <PRODUCTNAME>Botament R39 · Reaktivní pryskyřičná malta pro lepení a opravy · AB · 9kg</PRODUCTNAME>
+          <PRODUCT>Botament R39 · AB · 9kg - </PRODUCT>
+          <DESCRIPTION>Reaktivní pryskyřičná lepicí a opravná malta
+R39 je stabilní reaktivní malta bez obsahu rozpouštědel pro lepení konstrukčních prvků a opravy vad na stěnách, stropech a podlahách ve vnitřním i vnějším prostředí. Hmota R39 je zároveň vhodná k lepení keramických dlaždic do tenkovrstvého lože a splňuje požadavky třídy R2 dle EN 12004.
+✅ Vysoká lepivost✅ Elegantní zpracovatelnost✅ Lepidlo na bázi reaktivních pryskyřic R2 dle EN 12004✅ Stabilní✅ Vysoká pevnost</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-r39</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_R39_stavbox.webp?v=1775640134</IMGURL>
+          <PRICE_VAT>2920.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905102529</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>67320000245609</ITEM_ID>
+          <PRODUCTNAME>Botament Renovation MS10 · injektážní krém proti vlhkosti · 10l</PRODUCTNAME>
+          <PRODUCT>Botament Renovation MS10 · 10l - </PRODUCT>
+          <DESCRIPTION>Injektážní krém
+Renovation MS10 se používá jako dodatečná horizontální uzávěra proti stoupající vlhkosti ve zdivu. Injektážní krém Renovation MS10 lze velmi snadno aplikovat a používat i do zdiva s vysokým stupněm provlhčení.
+✅ Dodatečná ochrana proti stoupající vlhkosti✅ Jednoduchá aplikace do vodorovných vrtů✅ Pro vysoký stupeň provlhčení až 95 %✅ Aplikace beztlakovou metodou✅ Pronikne i do jemných kapilár
+Barva: bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-ms10</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-MS10_stavbox.webp?v=1775644386</IMGURL>
+          <PRICE_VAT>9350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905051537</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>47410700355609007</ITEM_ID>
+          <PRODUCTNAME>Botament MS20 · sanační omítka pro vlhké a zasolené zdi · 20kg</PRODUCTNAME>
+          <PRODUCT>Botament MS20 · 20kg - </PRODUCT>
+          <DESCRIPTION>Sanační omítka
+Minerální sanační malta s vysokým obsahem vzduchových pórů pro omítání vlhkých a zasolených zdí ve vnitřním i vnějším prostředí. Brání průniku solných výkvětů jejich uzavřením a reguluje obsah vlhkosti ve zdivu.
+✅ Pro vlhké a zasolené zdivo✅ Ukládá škodlivé soli✅ Omítání lze provádět ručně i strojně✅ Velmi dobré vyhlazování povrchu✅ Jemný povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ms20</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS20_stavbox.webp?v=1775646052</IMGURL>
+          <PRICE_VAT>585.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905050172</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>44463000375609</ITEM_ID>
+          <PRODUCTNAME>Botament MS30 · Minerální izolační stěrka odolávající síranům · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament MS30 · 25kg - </PRODUCT>
+          <DESCRIPTION>Izolační stěrka odolávající síranům
+MS30 je minerální izolační hmota vhodná k izolování masivních stavebních dílů ve vnitřním i vnějším prostředí. Produkt se hodí především pro použití při sanaci vlhkého zdiva a při zatížení vodou s obsahem síranů.
+✅ Jednoduché zpracování✅ Přídržnost na matně vlhké podklady bez penetrace✅ Vysoká mrazuvzdornost a odolnost vůči stárnutí✅ Použití i při negativním tlaku vody✅ Vysoká odolnost proti síranům
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ms30</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS30_stavbox.webp?v=1775646644</IMGURL>
+          <PRICE_VAT>1455.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905050257</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>41860100375609</ITEM_ID>
+          <PRODUCTNAME>Botament Renovation FP · speciální jemná omítka na vlhké zdivo · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament Renovation FP · 25kg - </PRODUCT>
+          <DESCRIPTION>Speciální omítka na vlhké zdivo – jemná
+Renovation FP je speciální jemná malta, kterou je možné vytvořit hladký nebo strukturní povrch ve vnitřním i vnějším prostředí. Jemná omítka Renovation FP doplňuje speciální maltu Renovation FSP zejména při vysokých nárocích na optický vzhled.
+✅ Zvlášť jemný povrch✅ Volitelný doplněk omítky Botament Renovation FSP✅ 5 mm v jedné vrstvě✅ Reguluje vlhkost a klima✅ Pro vnitřní i vnější použití
+Barva: bílá
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-fp</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-FP_stavbox.webp?v=1775647080</IMGURL>
+          <PRICE_VAT>745.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905003529</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>41820100375609</ITEM_ID>
+          <PRODUCTNAME>Botament Renovation FSP · speciální omítka pro vlhké zdivo · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament Renovation FSP · 25kg - </PRODUCT>
+          <DESCRIPTION>Speciální omítka na vlhké zdivo
+Renovation FSP je speciální malta použitelná ve vnitřním i vnějším prostředí k regulaci vlhkosti zdiva a soklů starých budov i novostaveb. Omítku je možné provádět bez náročných opatření na vyschnutí.
+✅ Sanace vlhkých stěn – rychle a jednoduše✅ Nanášení přímo na vlhký podklad✅ Zpracovatelná ručně i strojně✅ Nanášení 20 mm v jedné vrstvě✅ Reguluje vlhkost a klima
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-fsp</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-FSP_stavbox.webp?v=1775647737</IMGURL>
+          <PRICE_VAT>840.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905003512</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>41840700375609</ITEM_ID>
+          <PRODUCTNAME>Botament Renovation VSM · paropropustný maltový postřik podkladu · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament Renovation VSM · 25kg - </PRODUCT>
+          <DESCRIPTION>Podkladní malta – postřik
+Renovation VSM je paropropustný maltový postřik podkladu pro vnitřní i vnější použití. Slouží jako spojovací můstek pro speciální omítku na vlhké zdivo Renovation FSP. Maltu Renovation VSM lze dále využít k výplni spár ve zdivu a vyrovnání křivého podkladu.
+✅ Dobrá přídržnost✅ Nízké smrštění✅ Vysoká stabilita✅ Krátká doba vytvrzení✅ Pro vnitřní i vnější použití
+Barva: šedá
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-vsm</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-VSM_stavbox.webp?v=1775648145</IMGURL>
+          <PRICE_VAT>675.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905003536</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>50750010175609</ITEM_ID>
+          <PRODUCTNAME>Botament BV2 Primer · penetrace a impregnace bez zápachu · 4kg</PRODUCTNAME>
+          <PRODUCT>Botament BV2 Primer · 4kg - </PRODUCT>
+          <DESCRIPTION>Penetrace pro pečetící nátěry (2K)
+BV2 Primer je základní nátěr minerálních podkladů ve vnitřním i vnějším prostředí pro následné pečetící hmoty BV2. Výrobek BV2 Primer lze zároveň použít jako impregnační nátěr.
+✅ Penetrace pod pečetící nátěr BV2✅ Impregnace podlah na minerální bázi✅ Bez zápachu✅ Těžce hořlavý (klasifikace dle EN 13 501-1: Bfl – s1)
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bv2-primer</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BV2-Primer_stavbox.webp?v=1775649108</IMGURL>
+          <PRICE_VAT>1915.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905110968</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>50707300195609</ITEM_ID>
+          <PRODUCTNAME>Botament BV2 · pečetící nátěr pro betony a potěry · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament BV2 · 5kg - </PRODUCT>
+          <DESCRIPTION>Pečetící nátěr 2sl.
+BV2 je jakostní, hedvábně lesklá pečetící vrstva pro minerální podlahy ve vnitřním i vnějším prostředí. Výrobek BV2 je vhodný pro použití na plochách zatěžovaných pohybem osob a občasným pojezdem osobních vozidel.
+✅ Pro suché i mokré prostory✅ Pro mechanicky i chemicky zatěžované plochy✅ Vysoce odolný proti působení benzínu, oleje a změkčovadlům z pneumatik✅ Velmi nízké emise
+Barva: kamenná šedá
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bv2</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BV2_stavbox.webp?v=1775649615</IMGURL>
+          <PRICE_VAT>2440.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905110685</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>67310000245609</ITEM_ID>
+          <PRODUCTNAME>Botament MS80 W · fasádní impregnace silně vodoodpudivá · 10l</PRODUCTNAME>
+          <PRODUCT>Botament MS80 W · 10l - </PRODUCT>
+          <DESCRIPTION>Fasádní impregnace
+MS80 W spolehlivě brání vnikání srážek a zároveň agresivních látek z atmosféry.
+✅ Silně vodoodpudivá✅ Zlepšuje tepelně – izolační vlastnosti✅ Přezkoušena dle předpisu WTA 1–84✅ Působí odpudivě proti znečištění✅ Snižuje výskyt výkvětů
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ms80-w</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS80-W_stavbox.webp?v=1775650253</IMGURL>
+          <PRICE_VAT>2185.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905150179</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>65100910195609</ITEM_ID>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · antracit · 2,5l</PRODUCTNAME>
+          <PRODUCT>Botament PF1 · antracit · 2,5l - </PRODUCT>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471042928977</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905095371</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>65100310155609</ITEM_ID>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · červená · 2,5l</PRODUCTNAME>
+          <PRODUCT>Botament PF1 · červená · 2,5l - </PRODUCT>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056494929</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905095210</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>65100730155609</ITEM_ID>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · šedá · 2,5l</PRODUCTNAME>
+          <PRODUCT>Botament PF1 · šedá · 2,5l - </PRODUCT>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056527697</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905095227</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>65100050155609</ITEM_ID>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · transparentní · 2,5l</PRODUCTNAME>
+          <PRODUCT>Botament PF1 · transparentní · 2,5l - </PRODUCT>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056560465</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905095241</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>21300000245609</ITEM_ID>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 10l</PRODUCTNAME>
+          <PRODUCT>Botament TF02 · 10l - </PRODUCT>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079039313</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <PRICE_VAT>1300.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905150025</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>21300000395609</ITEM_ID>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 30l</PRODUCTNAME>
+          <PRODUCT>Botament TF02 · 30l - </PRODUCT>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079072081</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <PRICE_VAT>3750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905150032</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>21300000545609</ITEM_ID>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 200l</PRODUCTNAME>
+          <PRODUCT>Botament TF02 · 200l - </PRODUCT>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079104849</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <PRICE_VAT>23040.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905150049</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>21300000715609</ITEM_ID>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 1000l</PRODUCTNAME>
+          <PRODUCT>Botament TF02 · 1000l - </PRODUCT>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079137617</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <PRICE_VAT>101640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905150193</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>74950700295609</ITEM_ID>
+          <PRODUCTNAME>Botament CF200 · Spárovací hmota pro průmyslové objekty 2-20mm · AB · 12kg</PRODUCTNAME>
+          <PRODUCT>Botament CF200 · AB · 12kg - </PRODUCT>
+          <DESCRIPTION>Speciální spárovací hmota (2K)
+CF200 je spárovací hmota na minerální-anorganické bázi pro spáry o šířce od 2 do 20 mm. Výrobek je vhodný pro použití na stěnách a podlahách ve vnitřním i vnějším prostředí. CF 200 byl vyvinut speciálně pro použití v průmyslových objektech a oblastech, kde působí agresivní látky, jako např. velkokapacitní kuchyně, bazény nebo autodílny.
+✅ Vysoká odolnost proti chemikáliím✅ Vysoká odolnost parnímu čištění✅ Vysoká rezistence vůči mikrobiologickému bujení✅ Paropropustná✅ Vysoká pevnost v tlaku a oděruvzdornost
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-cf200</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_CF200_stavbox.webp?v=1775652155</IMGURL>
+          <PRICE_VAT>3995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905100327</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>96527100195609</ITEM_ID>
+          <PRODUCTNAME>Botament EKF500 · epoxidové lepidlo a spárovací hmota · bílá · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament EKF500 · bílá · 5kg - </PRODUCT>
+          <DESCRIPTION>Epoxidová hmota pro lepení a spárování (2K)
+EKF500 je lepidlo a spárovací hmota na bázi epoxidové pryskyřice, s vysokou odolností proti působení chemikálií. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí. Při lepení je produkt EKF500 vhodný pro použití na hutné dlaždice, slinuté dlaždice, kameninu, keramické i skleněné mozaiky. Při spárování je produkt EKF500 vhodný pro spáry o šířce od 2 do 10 mm. Možnost použití produktu EKF500 pro lepení a také pro spárování představuje výhodu barevné shody, což je zvlášť důležité např. u skleněných, či malých mozaik.
+✅ Vysoká odolnost proti chemikáliím✅ Lehce zpracovatelná✅ Výborně omyvatelná studenou vodou✅ Dobrá přilnavost ve spárách
+kameninové pásky šířka spáry 8 mm: 24 × 11,5 × 0,8 cm = ~ 1,86 kg/m2 dlaždice šířka spáry 5 mm: 10 × 10 × 0,8 cm = ~ 1,33 kg/m2 mozaika šířka spáry 3 mm: 2,0 × 2,0 × 0,3 cm = ~ 1,26 kg/m2
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ekf500?variant=53471200018769</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_EKF500_stavbox.webp?v=1775652896</IMGURL>
+          <PRICE_VAT>1575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905110548</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>96527700195609</ITEM_ID>
+          <PRODUCTNAME>Botament EKF500 · epoxidové lepidlo a spárovací hmota · šedá · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament EKF500 · šedá · 5kg - </PRODUCT>
+          <DESCRIPTION>Epoxidová hmota pro lepení a spárování (2K)
+EKF500 je lepidlo a spárovací hmota na bázi epoxidové pryskyřice, s vysokou odolností proti působení chemikálií. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí. Při lepení je produkt EKF500 vhodný pro použití na hutné dlaždice, slinuté dlaždice, kameninu, keramické i skleněné mozaiky. Při spárování je produkt EKF500 vhodný pro spáry o šířce od 2 do 10 mm. Možnost použití produktu EKF500 pro lepení a také pro spárování představuje výhodu barevné shody, což je zvlášť důležité např. u skleněných, či malých mozaik.
+✅ Vysoká odolnost proti chemikáliím✅ Lehce zpracovatelná✅ Výborně omyvatelná studenou vodou✅ Dobrá přilnavost ve spárách
+kameninové pásky šířka spáry 8 mm: 24 × 11,5 × 0,8 cm = ~ 1,86 kg/m2 dlaždice šířka spáry 5 mm: 10 × 10 × 0,8 cm = ~ 1,33 kg/m2 mozaika šířka spáry 3 mm: 2,0 × 2,0 × 0,3 cm = ~ 1,26 kg/m2
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ekf500?variant=53471234031953</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_EKF500_stavbox.webp?v=1775652896</IMGURL>
+          <PRICE_VAT>1575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905110517</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>49569260195609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · antracit · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · antracit · 5kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471354978641</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>630.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094633</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569260375609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · antracit · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · antracit · 25kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471355011409</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>2490.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094657</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569200195609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · betonově šedá · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · betonově šedá · 5kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471287214417</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>370.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905095098</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569200375609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · betonově šedá · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · betonově šedá · 25kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471287247185</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>1440.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905095111</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569150195609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · pískově šedá · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · pískově šedá · 5kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471357272401</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094510</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569150375609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · pískově šedá · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · pískově šedá · 25kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471357305169</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>1350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094534</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569240195609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · šedá · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · šedá · 5kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471361925457</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094572</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569240375609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · šedá · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · šedá · 25kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471361958225</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>1350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094596</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569250195609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · titanově šedá · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · titanově šedá · 5kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471365759313</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>515.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094602</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>49569250375609</ITEM_ID>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · titanově šedá · 25kg</PRODUCTNAME>
+          <PRODUCT>Botament MULTIFUGE Base · titanově šedá · 25kg - </PRODUCT>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471365792081</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <PRICE_VAT>2040.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905094626</EAN>
         </SHOPITEM>
       
     

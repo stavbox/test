@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1010 -->
-<!-- Total individual products: 460 -->
-<!-- Created: 2026-04-08 09:05:51 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 1042 -->
+<!-- Total individual products: 476 -->
+<!-- Created: 2026-04-09 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 187 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 184 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -181,7 +181,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 63 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 62 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1438,7 +1438,7 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-1k-rapid?variant=52654982103377</URL>
           <PRICE_VAT>4790.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 55 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 54 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-1K-rapid-25kg-multifunkcni-hydroizolacni-sterka-1K.jpg?v=1755760155</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5568,7 +5568,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3200.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 19 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 18 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6603,7 +6603,7 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <PRICE_VAT>1505.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6636,7 +6636,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884794705</URL>
           <PRICE_VAT>7875.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -2, VI: 7 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6671,7 +6671,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
 Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobní, bez solí, ředitelná vodou, zajišťuje přilnavost a ochranu fasád.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-hydro-hf?variant=52656395813201</URL>
           <PRICE_VAT>1060.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-HF-5l-hloubkova-zpevnujici-penetrace.jpg?v=1755865121</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8800,7 +8800,7 @@ Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odoln
 Rychlovazná malta z románského cementu pro štuky a spáry památek. Paropropustná, odolná povětrnosti, pro restaurování historických fasád a detailů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm-rz-historic-6kg</URL>
           <PRICE_VAT>990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-RM-RZ-Historic-6kg-rychlovazna-malta-na-bazi-romanskeho-cementu.jpg?v=1755878896</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9424,7 +9424,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <PRICE_VAT>325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 23 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 22 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -33273,12 +33273,13 @@ DE Plus tenká dělicí rohož se používá k redukci pnutí mezi keramickou kr
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Botament BD · butylová izolační páska pro spáry a vpusti · role 10 m | šíře 10 cm</PRODUCTNAME>
-          <DESCRIPTION>Butylová izolační páska
-BD je samolepicí butylová izolační páska z lícní strany kašírovaná textilním rounem vhodná k izolování napojovacích a koutových spár, dále odpadních vpustí ve vnitřním i vnějším prostředí.
-✅ Flexibilní✅ Vysoce odolná proti přetržení✅ Samolepicí✅ Samosvařující✅ Vysoká přilnavost na téměř všechny podklady</DESCRIPTION>
+          <PRODUCTNAME>Botament FB Fugendichtband · elastický izolační pás pro spáry · role 20 m | šíře 30 cm</PRODUCTNAME>
+          <DESCRIPTION>Pás pro překlenování spár
+FB je příčně elastický izolační pás oboustranně kašírovaný textilním rounem pro použití v systémových skladbách s reaktivní hydroizolační hmotou Botament RD2 The Green 1 a živičnými stěrkami Botament.
+✅ Vysoce elastický✅ Rychlé a snadné uložení✅ Perforované okraje pásu pro optimální spojení s tekutými hydroizolacemi
+Barva: světle modrá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-fb-fugendichtband</URL>
-          <PRICE_VAT>1405.0</PRICE_VAT>
+          <PRICE_VAT>3600.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_FB-Fugendichtband_stavbox.webp?v=1775549777</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -33293,12 +33294,12 @@ BD je samolepicí butylová izolační páska z lícní strany kašírovaná tex
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>86965000915609</ITEM_ID>
+          <ITEM_ID>33933100915609</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
-          <EAN>4030905050714</EAN>
+          <EAN>4030905020229</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
@@ -34757,6 +34758,1129 @@ Speciální disperzní hmota na ochranu povrchů s odolností proti vodě a poš
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4002019523576</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BD · butylová izolační páska pro spáry a vpusti · role 10 m | šíře 10 cm</PRODUCTNAME>
+          <DESCRIPTION>Butylová izolační páska
+BD je samolepicí butylová izolační páska z lícní strany kašírovaná textilním rounem vhodná k izolování napojovacích a koutových spár, dále odpadních vpustí ve vnitřním i vnějším prostředí.
+✅ Flexibilní✅ Vysoce odolná proti přetržení✅ Samolepicí✅ Samosvařující✅ Vysoká přilnavost na téměř všechny podklady
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bd</URL>
+          <PRICE_VAT>1405.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BD_stavbox.webp?v=1775637767</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86965000915609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050714</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament R39 · Reaktivní pryskyřičná malta pro lepení a opravy · AB · 9kg</PRODUCTNAME>
+          <DESCRIPTION>Reaktivní pryskyřičná lepicí a opravná malta
+R39 je stabilní reaktivní malta bez obsahu rozpouštědel pro lepení konstrukčních prvků a opravy vad na stěnách, stropech a podlahách ve vnitřním i vnějším prostředí. Hmota R39 je zároveň vhodná k lepení keramických dlaždic do tenkovrstvého lože a splňuje požadavky třídy R2 dle EN 12004.
+✅ Vysoká lepivost✅ Elegantní zpracovatelnost✅ Lepidlo na bázi reaktivních pryskyřic R2 dle EN 12004✅ Stabilní✅ Vysoká pevnost</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-r39</URL>
+          <PRICE_VAT>2920.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_R39_stavbox.webp?v=1775640134</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>45655700235609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905102529</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Renovation MS10 · injektážní krém proti vlhkosti · 10l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní krém
+Renovation MS10 se používá jako dodatečná horizontální uzávěra proti stoupající vlhkosti ve zdivu. Injektážní krém Renovation MS10 lze velmi snadno aplikovat a používat i do zdiva s vysokým stupněm provlhčení.
+✅ Dodatečná ochrana proti stoupající vlhkosti✅ Jednoduchá aplikace do vodorovných vrtů✅ Pro vysoký stupeň provlhčení až 95 %✅ Aplikace beztlakovou metodou✅ Pronikne i do jemných kapilár
+Barva: bílá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-ms10</URL>
+          <PRICE_VAT>9350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-MS10_stavbox.webp?v=1775644386</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67320000245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905051537</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MS20 · sanační omítka pro vlhké a zasolené zdi · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Sanační omítka
+Minerální sanační malta s vysokým obsahem vzduchových pórů pro omítání vlhkých a zasolených zdí ve vnitřním i vnějším prostředí. Brání průniku solných výkvětů jejich uzavřením a reguluje obsah vlhkosti ve zdivu.
+✅ Pro vlhké a zasolené zdivo✅ Ukládá škodlivé soli✅ Omítání lze provádět ručně i strojně✅ Velmi dobré vyhlazování povrchu✅ Jemný povrch</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ms20</URL>
+          <PRICE_VAT>585.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS20_stavbox.webp?v=1775646052</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>47410700355609007</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050172</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MS30 · Minerální izolační stěrka odolávající síranům · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Izolační stěrka odolávající síranům
+MS30 je minerální izolační hmota vhodná k izolování masivních stavebních dílů ve vnitřním i vnějším prostředí. Produkt se hodí především pro použití při sanaci vlhkého zdiva a při zatížení vodou s obsahem síranů.
+✅ Jednoduché zpracování✅ Přídržnost na matně vlhké podklady bez penetrace✅ Vysoká mrazuvzdornost a odolnost vůči stárnutí✅ Použití i při negativním tlaku vody✅ Vysoká odolnost proti síranům
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ms30</URL>
+          <PRICE_VAT>1455.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS30_stavbox.webp?v=1775646644</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>44463000375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905050257</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Renovation FP · speciální jemná omítka na vlhké zdivo · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální omítka na vlhké zdivo – jemná
+Renovation FP je speciální jemná malta, kterou je možné vytvořit hladký nebo strukturní povrch ve vnitřním i vnějším prostředí. Jemná omítka Renovation FP doplňuje speciální maltu Renovation FSP zejména při vysokých nárocích na optický vzhled.
+✅ Zvlášť jemný povrch✅ Volitelný doplněk omítky Botament Renovation FSP✅ 5 mm v jedné vrstvě✅ Reguluje vlhkost a klima✅ Pro vnitřní i vnější použití
+Barva: bílá
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-fp</URL>
+          <PRICE_VAT>745.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-FP_stavbox.webp?v=1775647080</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>41860100375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905003529</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Renovation FSP · speciální omítka pro vlhké zdivo · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální omítka na vlhké zdivo
+Renovation FSP je speciální malta použitelná ve vnitřním i vnějším prostředí k regulaci vlhkosti zdiva a soklů starých budov i novostaveb. Omítku je možné provádět bez náročných opatření na vyschnutí.
+✅ Sanace vlhkých stěn – rychle a jednoduše✅ Nanášení přímo na vlhký podklad✅ Zpracovatelná ručně i strojně✅ Nanášení 20 mm v jedné vrstvě✅ Reguluje vlhkost a klima
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-fsp</URL>
+          <PRICE_VAT>840.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-FSP_stavbox.webp?v=1775647737</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>41820100375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905003512</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Renovation VSM · paropropustný maltový postřik podkladu · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Podkladní malta – postřik
+Renovation VSM je paropropustný maltový postřik podkladu pro vnitřní i vnější použití. Slouží jako spojovací můstek pro speciální omítku na vlhké zdivo Renovation FSP. Maltu Renovation VSM lze dále využít k výplni spár ve zdivu a vyrovnání křivého podkladu.
+✅ Dobrá přídržnost✅ Nízké smrštění✅ Vysoká stabilita✅ Krátká doba vytvrzení✅ Pro vnitřní i vnější použití
+Barva: šedá
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-renovation-vsm</URL>
+          <PRICE_VAT>675.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Renovation-VSM_stavbox.webp?v=1775648145</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>41840700375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905003536</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BV2 Primer · penetrace a impregnace bez zápachu · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Penetrace pro pečetící nátěry (2K)
+BV2 Primer je základní nátěr minerálních podkladů ve vnitřním i vnějším prostředí pro následné pečetící hmoty BV2. Výrobek BV2 Primer lze zároveň použít jako impregnační nátěr.
+✅ Penetrace pod pečetící nátěr BV2✅ Impregnace podlah na minerální bázi✅ Bez zápachu✅ Těžce hořlavý (klasifikace dle EN 13 501-1: Bfl – s1)
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bv2-primer</URL>
+          <PRICE_VAT>1915.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BV2-Primer_stavbox.webp?v=1775649108</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>50750010175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905110968</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament BV2 · pečetící nátěr pro betony a potěry · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Pečetící nátěr 2sl.
+BV2 je jakostní, hedvábně lesklá pečetící vrstva pro minerální podlahy ve vnitřním i vnějším prostředí. Výrobek BV2 je vhodný pro použití na plochách zatěžovaných pohybem osob a občasným pojezdem osobních vozidel.
+✅ Pro suché i mokré prostory✅ Pro mechanicky i chemicky zatěžované plochy✅ Vysoce odolný proti působení benzínu, oleje a změkčovadlům z pneumatik✅ Velmi nízké emise
+Barva: kamenná šedá
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-bv2</URL>
+          <PRICE_VAT>2440.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BV2_stavbox.webp?v=1775649615</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>50707300195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905110685</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MS80 W · fasádní impregnace silně vodoodpudivá · 10l</PRODUCTNAME>
+          <DESCRIPTION>Fasádní impregnace
+MS80 W spolehlivě brání vnikání srážek a zároveň agresivních látek z atmosféry.
+✅ Silně vodoodpudivá✅ Zlepšuje tepelně – izolační vlastnosti✅ Přezkoušena dle předpisu WTA 1–84✅ Působí odpudivě proti znečištění✅ Snižuje výskyt výkvětů
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ms80-w</URL>
+          <PRICE_VAT>2185.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS80-W_stavbox.webp?v=1775650253</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67310000245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905150179</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · antracit · 2,5l</PRODUCTNAME>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471042928977</URL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>65100910195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095371</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · červená · 2,5l</PRODUCTNAME>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056494929</URL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>65100310155609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095210</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · šedá · 2,5l</PRODUCTNAME>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056527697</URL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>65100730155609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095227</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · transparentní · 2,5l</PRODUCTNAME>
+          <DESCRIPTION>Ošetřující lazura betonu
+PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
+✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056560465</URL>
+          <PRICE_VAT>665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>65100050155609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095241</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 10l</PRODUCTNAME>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079039313</URL>
+          <PRICE_VAT>1300.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>21300000245609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905150025</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 30l</PRODUCTNAME>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079072081</URL>
+          <PRICE_VAT>3750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>21300000395609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905150032</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 200l</PRODUCTNAME>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079104849</URL>
+          <PRICE_VAT>23040.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>21300000545609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905150049</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 1000l</PRODUCTNAME>
+          <DESCRIPTION>Separační prostředek
+TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
+✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079137617</URL>
+          <PRICE_VAT>101640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>21300000715609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905150193</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament CF200 · Spárovací hmota pro průmyslové objekty 2-20mm · AB · 12kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální spárovací hmota (2K)
+CF200 je spárovací hmota na minerální-anorganické bázi pro spáry o šířce od 2 do 20 mm. Výrobek je vhodný pro použití na stěnách a podlahách ve vnitřním i vnějším prostředí. CF 200 byl vyvinut speciálně pro použití v průmyslových objektech a oblastech, kde působí agresivní látky, jako např. velkokapacitní kuchyně, bazény nebo autodílny.
+✅ Vysoká odolnost proti chemikáliím✅ Vysoká odolnost parnímu čištění✅ Vysoká rezistence vůči mikrobiologickému bujení✅ Paropropustná✅ Vysoká pevnost v tlaku a oděruvzdornost
+Barva: šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-cf200</URL>
+          <PRICE_VAT>3995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_CF200_stavbox.webp?v=1775652155</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>74950700295609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905100327</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament EKF500 · epoxidové lepidlo a spárovací hmota · bílá · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Epoxidová hmota pro lepení a spárování (2K)
+EKF500 je lepidlo a spárovací hmota na bázi epoxidové pryskyřice, s vysokou odolností proti působení chemikálií. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí. Při lepení je produkt EKF500 vhodný pro použití na hutné dlaždice, slinuté dlaždice, kameninu, keramické i skleněné mozaiky. Při spárování je produkt EKF500 vhodný pro spáry o šířce od 2 do 10 mm. Možnost použití produktu EKF500 pro lepení a také pro spárování představuje výhodu barevné shody, což je zvlášť důležité např. u skleněných, či malých mozaik.
+✅ Vysoká odolnost proti chemikáliím✅ Lehce zpracovatelná✅ Výborně omyvatelná studenou vodou✅ Dobrá přilnavost ve spárách
+kameninové pásky šířka spáry 8 mm: 24 × 11,5 × 0,8 cm = ~ 1,86 kg/m2 dlaždice šířka spáry 5 mm: 10 × 10 × 0,8 cm = ~ 1,33 kg/m2 mozaika šířka spáry 3 mm: 2,0 × 2,0 × 0,3 cm = ~ 1,26 kg/m2
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ekf500?variant=53471200018769</URL>
+          <PRICE_VAT>1575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_EKF500_stavbox.webp?v=1775652896</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>96527100195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905110548</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament EKF500 · epoxidové lepidlo a spárovací hmota · šedá · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Epoxidová hmota pro lepení a spárování (2K)
+EKF500 je lepidlo a spárovací hmota na bázi epoxidové pryskyřice, s vysokou odolností proti působení chemikálií. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí. Při lepení je produkt EKF500 vhodný pro použití na hutné dlaždice, slinuté dlaždice, kameninu, keramické i skleněné mozaiky. Při spárování je produkt EKF500 vhodný pro spáry o šířce od 2 do 10 mm. Možnost použití produktu EKF500 pro lepení a také pro spárování představuje výhodu barevné shody, což je zvlášť důležité např. u skleněných, či malých mozaik.
+✅ Vysoká odolnost proti chemikáliím✅ Lehce zpracovatelná✅ Výborně omyvatelná studenou vodou✅ Dobrá přilnavost ve spárách
+kameninové pásky šířka spáry 8 mm: 24 × 11,5 × 0,8 cm = ~ 1,86 kg/m2 dlaždice šířka spáry 5 mm: 10 × 10 × 0,8 cm = ~ 1,33 kg/m2 mozaika šířka spáry 3 mm: 2,0 × 2,0 × 0,3 cm = ~ 1,26 kg/m2
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ekf500?variant=53471234031953</URL>
+          <PRICE_VAT>1575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_EKF500_stavbox.webp?v=1775652896</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>96527700195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905110517</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · antracit · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471354978641</URL>
+          <PRICE_VAT>630.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569260195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094633</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · antracit · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471355011409</URL>
+          <PRICE_VAT>2490.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569260375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094657</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · betonově šedá · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471287214417</URL>
+          <PRICE_VAT>370.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569200195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095098</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · betonově šedá · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471287247185</URL>
+          <PRICE_VAT>1440.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569200375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905095111</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · pískově šedá · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471357272401</URL>
+          <PRICE_VAT>360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569150195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094510</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · pískově šedá · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471357305169</URL>
+          <PRICE_VAT>1350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569150375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094534</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · šedá · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471361925457</URL>
+          <PRICE_VAT>360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569240195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094572</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · šedá · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471361958225</URL>
+          <PRICE_VAT>1350.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569240375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094596</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · titanově šedá · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471365759313</URL>
+          <PRICE_VAT>515.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569250195609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094602</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Base · rychleschnoucí spárovací hmota · titanově šedá · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Base je rychleschnoucí, všestranně použitelná spárovací hmota řídké konzistence pro použití ve vnitřním i vnějším prostředí. Díky vynikající zpracovatelnosti a možnosti mytí lze na stěnách a podlahách dosáhnout velkého plošného výkonu v nejkratším čase.
+✅ Pro šířku spár 3 – 30 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Řídká konzistence, bez sprahnutí✅ Pro terasy a balkóny✅ Vysoká odolnost parnímu čištění a vůči oděru
+Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471365792081</URL>
+          <PRICE_VAT>2040.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49569250375609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094626</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
