@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1042 -->
-<!-- Total individual products: 476 -->
-<!-- Created: 2026-04-09 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1056 -->
+<!-- Total individual products: 478 -->
+<!-- Created: 2026-04-09 13:06:09 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -116,7 +116,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279802193</URL>
           <PRICE_VAT>5255.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -4, VI: 25 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -5, VI: 25 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -181,7 +181,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 62 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -35881,6 +35881,500 @@ Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4030905094626</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · antracit · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477763219793</URL>
+          <PRICE_VAT>340.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568260175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094831</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · bahama · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477812863313</URL>
+          <PRICE_VAT>325.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568330175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094855</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · bílá · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477812896081</URL>
+          <PRICE_VAT>320.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568100175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094664</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · bílá · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477812928849</URL>
+          <PRICE_VAT>950.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568100315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094688</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · manhattan · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477812961617</URL>
+          <PRICE_VAT>330.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568230175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094756</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · manhattan · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477812994385</URL>
+          <PRICE_VAT>970.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568230315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094770</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · pergamon · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819547985</URL>
+          <PRICE_VAT>330.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568110175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094695</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · pergamon · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819580753</URL>
+          <PRICE_VAT>985.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568110315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094718</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · šedá · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819613521</URL>
+          <PRICE_VAT>325.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568240175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094787</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · šedá · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819646289</URL>
+          <PRICE_VAT>970.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568240315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094800</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · stříbřitě šedá · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819679057</URL>
+          <PRICE_VAT>325.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568160175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094725</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · stříbřitě šedá · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819711825</URL>
+          <PRICE_VAT>980.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568160315609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094749</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine · flexibilní spárovací hmota do 7 mm · titanově šedá · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, nasákavé a slabě nasákavé materiály ve vnitřním i vnějším prostředí. Zvláště u exkluzivních ploch na stěnách a podlahách poskytuje jemný a hladký povrch perfektní finalizaci.
+Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
+✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819744593</URL>
+          <PRICE_VAT>330.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>49568250175609</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4030905094817</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MULTIFUGE Fine Speed · flexibilní spárovací hmota · antracit · 4kg</PRODUCTNAME>
+          <DESCRIPTION>Multifunkční spárovací hmota
+MULTIFUGE Fine Speed je multifunkční spárovací hmota, která je vhodná speciálně pro jakostní, slabě nasákavé a nenasákavé materiály ve vnitřním i vnějším prostředí. Díky technologii Hightech Speed lze na stěnách a podlahách započít s mytím už po krátkém čase.
+Zvlášť vhodná pro slinuté a hutné dlaždice, přírodní kameny a skleněné mozaiky
+✅ Pro spáry o šířce do 10 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Rychlá počáteční pevnost a vysoká vydatnost
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multifuge-fine-speed</URL>
+          <PRICE_VAT>666.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine-Speed_stavbox.webp?v=1775731666</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10741212971345</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
