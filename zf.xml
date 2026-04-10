@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1185 -->
 <!-- Total individual products: 499 -->
-<!-- Created: 2026-04-10 10:01:38 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-04-11 00:00:28 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -248,7 +248,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 267 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 261 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -353,7 +353,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-m-universal-20kg</URL>
           <PRICE_VAT>1475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 46 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-M-Universal-20kg-lepici-a-prodysna-malta.png?v=1755849992</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1101,7 +1101,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
           <PRICE_VAT>1610.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 15 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1506,7 +1506,7 @@ Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání př
 Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje nasákavost podkladu. Ideální pro vlhké zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-prep-30kg</URL>
           <PRICE_VAT>820.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 123 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 117 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Prep-30kg-omitkovy-podhoz.jpg?v=1755779270</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6469,7 +6469,7 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-ik?variant=52652381143377</URL>
           <PRICE_VAT>48050.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-iK-30kg-hydrofobizujici-siloxanovy-koncentrat.jpg?v=1755864215</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7401,7 +7401,7 @@ Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává s
 Bezchloridový rychle tuhnoucí cement pro univerzální použití. Přidává se do malt 10–20 %, odolný mrazu, rychlá aplikace, pro opravy a montáže na stavbách.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-cem-rapid?variant=52657759486289</URL>
           <PRICE_VAT>1345.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-CEM-Rapid-1kg-rychle-tuhnouci-cement.jpg?v=1755876667</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9360,7 +9360,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 67 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 66 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9391,7 +9391,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 75 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 73 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9424,7 +9424,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
           <PRICE_VAT>325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 22 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9653,7 +9653,7 @@ Dekorativní ochrana drenážního prvku DS Protect. Flexibilní, Odolná vůči
 Samotěsnící držák pro DS Protect AL,  flexibilní, odolný vůči UV záření a teplotě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect-clip-50ks</URL>
           <PRICE_VAT>1880.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-Clip-drzak-pro-DS-Protect.jpg?v=1755880486</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -30120,7 +30120,7 @@ BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační ná
 ✅ Báze pojiva tvoří až 30 % obnovitelné a recyklované suroviny✅ Obal tvoří až 50 % recyklovaných materiálů✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388638814545</URL>
-          <PRICE_VAT>325.0</PRICE_VAT>
+          <PRICE_VAT>335.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -30154,7 +30154,7 @@ BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační ná
 ✅ Báze pojiva tvoří až 30 % obnovitelné a recyklované suroviny✅ Obal tvoří až 50 % recyklovaných materiálů✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388638847313</URL>
-          <PRICE_VAT>1050.0</PRICE_VAT>
+          <PRICE_VAT>1310.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -30188,7 +30188,7 @@ BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační ná
 ✅ Báze pojiva tvoří až 30 % obnovitelné a recyklované suroviny✅ Obal tvoří až 50 % recyklovaných materiálů✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388630131025</URL>
-          <PRICE_VAT>2350.0</PRICE_VAT>
+          <PRICE_VAT>2415.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -33352,7 +33352,7 @@ Beton Optik je jednosložková stěrková hmota s vysokým obsahem polymerů pro
 ✅ Dobře formovatelná a brousitelná✅ Stálobarevné, pigmenty odolné světlu✅ Pro použití ve vnitřním i vnějším prostředí✅ Vysoká odolnost mrazu, UV záření a stárnutí✅ Vysoká stabilita
 Balení: 8 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-beton-optik?variant=53459822838097</URL>
-          <PRICE_VAT>870.0</PRICE_VAT>
+          <PRICE_VAT>955.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BetonOptik.webp?v=1775554089</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -33386,7 +33386,7 @@ Beton Optik je jednosložková stěrková hmota s vysokým obsahem polymerů pro
 ✅ Dobře formovatelná a brousitelná✅ Stálobarevné, pigmenty odolné světlu✅ Pro použití ve vnitřním i vnějším prostředí✅ Vysoká odolnost mrazu, UV záření a stárnutí✅ Vysoká stabilita
 Balení: 8 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-beton-optik?variant=53459822870865</URL>
-          <PRICE_VAT>870.0</PRICE_VAT>
+          <PRICE_VAT>955.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BetonOptik.webp?v=1775554089</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -33420,7 +33420,7 @@ Beton Optik je jednosložková stěrková hmota s vysokým obsahem polymerů pro
 ✅ Dobře formovatelná a brousitelná✅ Stálobarevné, pigmenty odolné světlu✅ Pro použití ve vnitřním i vnějším prostředí✅ Vysoká odolnost mrazu, UV záření a stárnutí✅ Vysoká stabilita
 Balení: 8 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-beton-optik?variant=53459797737809</URL>
-          <PRICE_VAT>870.0</PRICE_VAT>
+          <PRICE_VAT>955.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BetonOptik.webp?v=1775554089</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -33454,7 +33454,7 @@ Beton Optik je jednosložková stěrková hmota s vysokým obsahem polymerů pro
 ✅ Dobře formovatelná a brousitelná✅ Stálobarevné, pigmenty odolné světlu✅ Pro použití ve vnitřním i vnějším prostředí✅ Vysoká odolnost mrazu, UV záření a stárnutí✅ Vysoká stabilita
 Balení: 8 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-beton-optik?variant=53459822903633</URL>
-          <PRICE_VAT>870.0</PRICE_VAT>
+          <PRICE_VAT>955.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BetonOptik.webp?v=1775554089</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -34702,7 +34702,7 @@ Barva: šedá</DESCRIPTION>
 PU je jakostní, pečetící nátěr neobsahující rozpouštědla na stěny s vrstvou Beton Optik ve vnitřním i vnějším prostředí.
 ✅ Skvělá zpracovatelnost✅ Snadné čištění✅ Vysoká pevnost povrchu✅ Pro suché i mokré prostředí✅ Vysoká odolnost UV záření</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-pu</URL>
-          <PRICE_VAT>940.0</PRICE_VAT>
+          <PRICE_VAT>965.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PU_stavbox.webp?v=1775589263</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
