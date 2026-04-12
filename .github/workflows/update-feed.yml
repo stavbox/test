@@ -22,8 +22,8 @@ jobs:
         run: |
           ZF_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
           HF_ID="17dejy2sqx-yf8NSDiDfL_NhZWO7iRI8U"
-          curl -L "https://drive.google.com/uc?export=download&id=${ZF_ID}" -o zf.xml
-          curl -L "https://drive.google.com/uc?export=download&id=${HF_ID}" -o hf.xml
+          curl -L "https://drive.google.com/uc?export=download&confirm=t&id=${ZF_ID}" -o zf.xml
+          curl -L "https://drive.google.com/uc?export=download&confirm=t&id=${HF_ID}" -o hf.xml
 
       - name: Commit and push if changed
         run: |
