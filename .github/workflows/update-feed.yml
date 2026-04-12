@@ -20,13 +20,10 @@ jobs:
 
       - name: Download the XMLs from Google Drive
         run: |
-          # zf.xml
           ZF_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
-          gdown --fuzzy "https://drive.google.com/uc?id=${ZF_ID}" -O zf.xml
-
-          # hf.xml
           HF_ID="17dejy2sqx-yf8NSDiDfL_NhZWO7iRI8U"
-          gdown --fuzzy "https://drive.google.com/uc?id=${HF_ID}" -O hf.xml
+          curl -L "https://drive.google.com/uc?export=download&id=${ZF_ID}" -o zf.xml
+          curl -L "https://drive.google.com/uc?export=download&id=${HF_ID}" -o hf.xml
 
       - name: Commit and push if changed
         run: |
