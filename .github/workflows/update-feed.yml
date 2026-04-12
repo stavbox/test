@@ -22,8 +22,23 @@ jobs:
         run: |
           ZF_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
           HF_ID="17dejy2sqx-yf8NSDiDfL_NhZWO7iRI8U"
-          curl -L "https://drive.google.com/uc?export=download&confirm=t&id=${ZF_ID}" -o zf.xml
-          curl -L "https://drive.google.com/uc?export=download&confirm=t&id=${HF_ID}" -o hf.xml
+      
+          # Download with confirmation token handling
+          curl -L -c /tmp/cookies.txt "https://drive.google.com/uc?export=download&id=${ZF_ID}" -o /tmp/zf_check.html
+          CONFIRM=$(grep -o 'confirm=[^&"]*' /tmp/zf_check.html | head -1 | cut -d= -f2)
+          if [ -n "$CONFIRM" ]; then
+            curl -L -b /tmp/cookies.txt "https://drive.google.com/uc?export=download&confirm=${CONFIRM}&id=${ZF_ID}" -o zf.xml
+          else
+            mv /tmp/zf_check.html zf.xml
+          fi
+      
+          curl -L -c /tmp/cookies.txt "https://drive.google.com/uc?export=download&id=${HF_ID}" -o /tmp/hf_check.html
+          CONFIRM=$(grep -o 'confirm=[^&"]*' /tmp/hf_check.html | head -1 | cut -d= -f2)
+          if [ -n "$CONFIRM" ]; then
+            curl -L -b /tmp/cookies.txt "https://drive.google.com/uc?export=download&confirm=${CONFIRM}&id=${HF_ID}" -o hf.xml
+          else
+            mv /tmp/hf_check.html hf.xml
+          fi
 
       - name: Commit and push if changed
         run: |
