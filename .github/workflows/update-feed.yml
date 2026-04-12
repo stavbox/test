@@ -22,23 +22,14 @@ jobs:
         run: |
           ZF_ID="1tzhoccNFnN10ZJUANbVTwv6WnpoJ0ZOe"
           HF_ID="17dejy2sqx-yf8NSDiDfL_NhZWO7iRI8U"
-      
-          # Download with confirmation token handling
-          curl -L -c /tmp/cookies.txt "https://drive.google.com/uc?export=download&id=${ZF_ID}" -o /tmp/zf_check.html
-          CONFIRM=$(grep -o 'confirm=[^&"]*' /tmp/zf_check.html | head -1 | cut -d= -f2)
-          if [ -n "$CONFIRM" ]; then
-            curl -L -b /tmp/cookies.txt "https://drive.google.com/uc?export=download&confirm=${CONFIRM}&id=${ZF_ID}" -o zf.xml
-          else
-            mv /tmp/zf_check.html zf.xml
-          fi
-      
-          curl -L -c /tmp/cookies.txt "https://drive.google.com/uc?export=download&id=${HF_ID}" -o /tmp/hf_check.html
-          CONFIRM=$(grep -o 'confirm=[^&"]*' /tmp/hf_check.html | head -1 | cut -d= -f2)
-          if [ -n "$CONFIRM" ]; then
-            curl -L -b /tmp/cookies.txt "https://drive.google.com/uc?export=download&confirm=${CONFIRM}&id=${HF_ID}" -o hf.xml
-          else
-            mv /tmp/hf_check.html hf.xml
-          fi
+          
+          curl -L "https://drive.usercontent.google.com/download?id=${ZF_ID}&export=download&authuser=0&confirm=t" -o zf.xml
+          curl -L "https://drive.usercontent.google.com/download?id=${HF_ID}&export=download&authuser=0&confirm=t" -o hf.xml
+
+      - name: Validate downloaded files are XML
+        run: |
+          head -c 5 zf.xml | grep -q '<?xml' || (echo "zf.xml is not valid XML!" && cat zf.xml && exit 1)
+          head -c 5 hf.xml | grep -q '<?xml' || (echo "hf.xml is not valid XML!" && cat hf.xml && exit 1)
 
       - name: Commit and push if changed
         run: |
