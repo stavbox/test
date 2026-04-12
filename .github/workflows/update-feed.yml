@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # allows manual run from GitHub UI
 
 jobs:
-  update-zf:
+  update-zf-hf-xmls:
     runs-on: ubuntu-latest
     permissions:
       contents: write
