@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1187 -->
-<!-- Total individual products: 500 -->
-<!-- Created: 2026-04-13 14:36:17 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 1190 -->
+<!-- Total individual products: 503 -->
+<!-- Created: 2026-04-14 00:00:31 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -40905,6 +40905,108 @@ Spádový profil z korozivzdorné oceli, pro použití s deskami LD s liniovými
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4030905132168</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne INTRASIT® VK 10A · Injektáž proti stoupající vlhkosti</PRODUCTNAME>
+          <DESCRIPTION>Krystalizace proti stoupající vlhkosti ve zdivu a betonu.
+INTRASIT® VK10A je mineralizační koncentrát, který se používá na hloubkovou vodotěsnou mineralizaci podkladu. Snižuje nasákavost podkladu a slouží jako povrchová hydroizolace.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-intrasit-vk-10a-23kg</URL>
+          <PRICE_VAT>4370.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/INTRASIT-VK-10A_stavbox.webp?v=1776086520</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402271</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637402271</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne INTRASIT® DS1 54Z · Minerální hydroizolační stěrka</PRODUCTNAME>
+          <DESCRIPTION>Těsnicí stěrky pro izolační práce, odolné vůči sulfátům.
+INTRASIT® DS1 54Z je snadno aplikovatelná minerální hydroizolační stěrka s vysokou odolností proti síranům. Těsnící vrstva tvořená materiálem INTRASIT® DS1 54Z je velmi odolná proti mechanickému a chemickému zatížení, např. odmrazovacím solím, výkalům a agresivním látkám, které jsou obvykle přítomny v půdě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-intrasit-ds1-54z-25kg</URL>
+          <PRICE_VAT>1785.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/INTRASIT-DS1-54Z_stavbox.webp?v=1776088792</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>401564</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637401564</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne INTRASIT® SM 54Z · Vodotěsná těsnicí malta odolná solím</PRODUCTNAME>
+          <DESCRIPTION>Uzavírací těsncí malta pro izolační práce a vyplňování spár a prohlubní ve zdivu.
+INTRASIT® SM 54Z je hydraulicky tuhnoucí vodotěsná malta s odolností vůči solím. Díky optimální zrnitosti, vysokému obsahu polymerů a kvalitních cementů tento materiál vykazuje vysokou přídržnost k podkladu, pevnost v tlaku i v tahu za ohybu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-intrasit-sm-54z-25kg</URL>
+          <PRICE_VAT>1695.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/INTRASIT-SM-54Z_stavbox.webp?v=1776089255</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>404060</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637404060</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
