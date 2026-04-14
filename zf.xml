@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1192 -->
-<!-- Total individual products: 505 -->
-<!-- Created: 2026-04-14 11:21:59 -->
+<!-- Total products+variants: 1193 -->
+<!-- Total individual products: 506 -->
+<!-- Created: 2026-04-14 16:34:09 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -4692,7 +4692,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849770833</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8264,7 +8264,7 @@ Transparentní ředicí aditivum pro systémy silikonových nátěrů k nastaven
 Transparentní ředicí aditivum pro systémy silikonových nátěrů k nastavení stupně glazury</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-add-transparent?variant=52656251404625</URL>
           <PRICE_VAT>7535.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Add-Transparent-5l-redici-aditivum.jpg?v=1755877838</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -41076,6 +41076,40 @@ KÖSTER Silicone Paint White je matná, vodou ředitelná, kapilárně hydrofob
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4026906041646</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne DAKORIT® Bituflex 20B · Flexibilní asfaltový nátěr na střechu</PRODUCTNAME>
+          <DESCRIPTION>Asfaltový nátěr k izolaci střech, vysoce flexibilní.
+DAKORIT® Bituflex 20B je viskózní, snadno aplikovatelný, kaučukovým elastomerem obohacený bitumenový nátěr. Má velmi dobrou přilnavost ke všem běžným stavebním materiálům a je odolný proti odletujícím jiskrám a sálavému teplu. Není škodlivý podzemním vodám. DAKORIT® Bituflex 20B je vysoce odolný vůči UV záření, rozmrazovacím solím a agresivním látkám, které se obvykle nacházejí v půdě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-dakorit-bituflex-20b-23kg</URL>
+          <PRICE_VAT>4620.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/DAKORIT-Bituflex-20B_stavbox.webp?v=1776166038</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402677</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637402677</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
