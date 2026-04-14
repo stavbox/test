@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1190 -->
-<!-- Total individual products: 503 -->
-<!-- Created: 2026-04-14 00:00:30 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1192 -->
+<!-- Total individual products: 505 -->
+<!-- Created: 2026-04-14 11:21:58 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -20877,6 +20877,40 @@ INTRASIT® SM 54Z je hydraulicky tuhnoucí vodotěsná malta s odolností vůči
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637404060</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>401267</ITEM_ID>
+          <PRODUCTNAME>Hahne DAKORIT® Ruflex 20D · Elastický akrylátový nátěr na střechu · Kieselgrau</PRODUCTNAME>
+          <PRODUCT>Hahne DAKORIT® Ruflex 20D · 25 kg · Kieselgrau - </PRODUCT>
+          <DESCRIPTION>Střešní nátěr pro izolaci střešních ploch, barevný, elastický.
+DAKORIT® Ruflex 20D je pastovitá samovýztužná akrylátová disperze, která je dostupná ve 4 odstínech. Má velmi dlouhou životnost a vysokou odolnost vůči UV záření, ředěným kyselinám, alkalickým roztokům, rozmrazovacím solím, odletujícím jiskrám a sálavému teplu. Světlé barvy snižují tepelné zatížení celkové plochy střechy, jakož i místností pod ní, protože odráží až 70 % slunečního záření.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-dakorit-ruflex-20d-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/DAKORIT-Ruflex-20D_stavbox.webp?v=1776152711</IMGURL>
+          <PRICE_VAT>5295.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <EAN>4004637401267</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>P260010</ITEM_ID>
+          <PRODUCTNAME>Köster Renovation Paint White · Fasádní barva, vysoká paropropustnost</PRODUCTNAME>
+          <PRODUCT>Köster Renovation Paint White (Renovation Paint) · 10 l - Silikonová fasádní barva</PRODUCT>
+          <DESCRIPTION>Silikonová pryskyřičná barva pro nátěry venkovních i vnitřních, omítnutých a minerálních omítek pokrytých povrchů.
+KÖSTER Silicone Paint White je matná, vodou ředitelná, kapilárně hydrofobní fasádní barva na bázi silikonových pryskyřic se speciálními zvýrazňovači přilnavosti a speciálním nesmáčivým povrchovým efektem. Zasychá do hladka a má vysoce paropropustný povrch. Má vysoký vodoodpudivý účinek, vysokou propustnost CO2 a vodních par, velmi dobrou odolnost proti povětrnostním vlivům a je odolný proti hnanému dešti. Kromě toho se vyznačuje neposkvrněným a nízkonapěťovým schnutím, stejně jako velmi dobrou krycí schopností, vysokým stupněm bělosti a nízkým sklonem ke znečištění..</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-renovation-paint-white-10l</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster_Silicone-Paint-White_stavbox.webp?v=1776157534</IMGURL>
+          <PRICE_VAT>6460.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <EAN>4026906041646</EAN>
         </SHOPITEM>
       
     
