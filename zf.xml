@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1193 -->
 <!-- Total individual products: 506 -->
-<!-- Created: 2026-04-15 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-04-15 07:50:33 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -181,7 +181,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 62 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
