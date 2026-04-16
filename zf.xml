@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1193 -->
 <!-- Total individual products: 506 -->
-<!-- Created: 2026-04-16 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-04-16 11:35:32 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -181,7 +181,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <PRICE_VAT>13130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 62 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5196,7 +5196,7 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
 Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-120?variant=52670659625297</URL>
           <PRICE_VAT>4895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 450 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 450 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -30226,7 +30226,7 @@ BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační ná
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388638847313</URL>
           <PRICE_VAT>1310.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -33526,7 +33526,7 @@ Beton Optik je jednosložková stěrková hmota s vysokým obsahem polymerů pro
 Balení: 8 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-beton-optik?variant=53459822903633</URL>
           <PRICE_VAT>955.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -15, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BetonOptik.webp?v=1775554089</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -34774,7 +34774,7 @@ PU je jakostní, pečetící nátěr neobsahující rozpouštědla na stěny s v
 ✅ Skvělá zpracovatelnost✅ Snadné čištění✅ Vysoká pevnost povrchu✅ Pro suché i mokré prostředí✅ Vysoká odolnost UV záření</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-pu</URL>
           <PRICE_VAT>965.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -6, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PU_stavbox.webp?v=1775589263</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
