@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1193 -->
-<!-- Total individual products: 506 -->
-<!-- Created: 2026-04-17 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1197 -->
+<!-- Total individual products: 509 -->
+<!-- Created: 2026-04-17 14:11:54 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -9391,7 +9391,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 59 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 59 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -41110,6 +41110,139 @@ DAKORIT® Bituflex 20B je viskózní, snadno aplikovatelný, kaučukovým elasto
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004637402677</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne DAKORIT® PUR1K 30P · Tekutá PUR hydroizolace ploché střechy · 3,5kg</PRODUCTNAME>
+          <DESCRIPTION>Jednosložková (1K) tekutá plastická hmota pro elastické plošné hydroizolace, zejména na vysoce namáhaných plochách střech. Výrobek certifikovaný podle ETAG 005.
+V důsledku stárnutí, povětrnostních vlivů a vlivů prostředí jsou ploché střechy často poškozeny. Křehnutí, praskliny, bubliny, vrásky a netěsnosti na střeše vyžadují rychlou opravu. Pokud plochá střecha prosakuje, je druhý obnovující plášť střechy obvykle nejjednodušším a nákladově nejefektivnějším řešením, a to aniž by bylo nutné odstraňovat a ekologicky likvidovat původní krytinu. DAKORIT ® PUR1K 30P přináší řešení pro mnoho podkladů. Tekutá konzistence vytváří velmi silnou, hladkou, houževnatou a elastickou střechu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-dakorit-pur1k-30p?variant=53556122517841</URL>
+          <PRICE_VAT>3220.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/DAKORIT-PUR1K-30P_stavbox.webp?v=1776419290</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402714</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637402714</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne DAKORIT® PUR1K 30P · Tekutá PUR hydroizolace ploché střechy · 17kg</PRODUCTNAME>
+          <DESCRIPTION>Jednosložková (1K) tekutá plastická hmota pro elastické plošné hydroizolace, zejména na vysoce namáhaných plochách střech. Výrobek certifikovaný podle ETAG 005.
+V důsledku stárnutí, povětrnostních vlivů a vlivů prostředí jsou ploché střechy často poškozeny. Křehnutí, praskliny, bubliny, vrásky a netěsnosti na střeše vyžadují rychlou opravu. Pokud plochá střecha prosakuje, je druhý obnovující plášť střechy obvykle nejjednodušším a nákladově nejefektivnějším řešením, a to aniž by bylo nutné odstraňovat a ekologicky likvidovat původní krytinu. DAKORIT ® PUR1K 30P přináší řešení pro mnoho podkladů. Tekutá konzistence vytváří velmi silnou, hladkou, houževnatou a elastickou střechu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-dakorit-pur1k-30p?variant=53556136280401</URL>
+          <PRICE_VAT>12240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/DAKORIT-PUR1K-30P_stavbox.webp?v=1776419290</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>402448</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637402448</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne DAKORIT® DV110 89V · Výztužná tkanina pro střešní hydroizolace · Role 0,1x100m (10m2)</PRODUCTNAME>
+          <DESCRIPTION>Střešní rouno k vložení do izolací, odolné zásaditým látkám.
+DAKORIT® DV110 89V je speciální tkanina na bázi polyesteru, která vyniká velmi dobrou absorpční a výztužnou schopností při kombinaci s tekutými hydroizolačními střešními nátěry DAKORIT®.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-dakorit-dv110-89v</URL>
+          <PRICE_VAT>1745.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/DAKORIT-DV110-89V_stavbox.webp?v=1776421409</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>403490</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637403490</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne HADALAN® HV Uni 30DD · Univerzální adhezní můstek pro PUR</PRODUCTNAME>
+          <DESCRIPTION>Univerzální adhezní můstek, světlostálý.
+HADALAN® HV Uni 30DD je nízkoviskózní roztok speciálních adhezních přísad. Rychlé schnutí umožňuje rychlé přepracování s polyuretanovými systémy.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-hv-uni-30dd-1l</URL>
+          <PRICE_VAT>920.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN-HV-Uni-30DD_stavbox.webp?v=1776423017</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>409232</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637409232</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
