@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1207 -->
-<!-- Total individual products: 511 -->
-<!-- Created: 2026-04-23 09:18:42 -->
+<!-- Total products+variants: 1210 -->
+<!-- Total individual products: 514 -->
+<!-- Created: 2026-04-23 11:29:28 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -2775,7 +2775,7 @@ KÖSTER KD 3 tmel (3kg)Silicifikační kapalina s extrémně nízkou viskozitou.
 KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů. Odolává tlakové vodě při aplikaci v tloušťce vrstvy 4 mm.Rychle vytvrzuje a vyznačuje se vysokou odolností vůči tlaku a otěru, vysokou chemickou odolností a odolností vůči solím v podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 15, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -41590,6 +41590,107 @@ HADALAN® Velo-Base je speciální, transparentní, dvousložková reakční pry
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
 
           <EAN>4004637411075</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne HADALAN® Velo-Flex · Rychloschnoucí 2K flexibilní těsnění</PRODUCTNAME>
+          <DESCRIPTION>Vysokorychlostní transprentní těsnící a flexibilní nátěr.
+HADALAN® Velo-Flex je speciální transparentní dvousložková těsncící reakční pryskyřice na bázi esteru kyseliny asparagové v pružném provedení. Díky speciální receptuře reaguje a vytvrzuje obzvláště rychle a umožňuje rychlý postup práce s jinými produkty systému.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-velo-flex-3kg</URL>
+          <PRICE_VAT>4700.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_Velo-Flex_stavbox.webp?v=1776933906</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>411082</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637411082</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne HADALAN® Velo-Seal · 2K Hydroizolační fólie pro podlahy</PRODUCTNAME>
+          <DESCRIPTION>Vysokorychlostní flexibilní hydroizolační a otěruvzdorná tekutá fólie.
+HADALAN® Velo-Seal je dvousložková reakční pryskyřice vysoce elastická hydroizolační fólie. Díky speciální receptuře reaguje a vytvrzuje obzvláště rychle, čímž umožňuje rychlý postup práce v kombinaci s ostatními produkty systému.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-velo-seal-13kg</URL>
+          <PRICE_VAT>17790.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_Velo-Seal_stavbox.webp?v=1776934935</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>411099</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          <EAN>4004637411099</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne HADALAN® Velo-Seal · 2K Hydroizolační fólie pro podlahy · RAL1015</PRODUCTNAME>
+          <DESCRIPTION>Pigmentová směs pro barvení reaktivních pryskyřic.
+HADALAN® ColourPowder je speciální pigmentová směs pro barvení reaktivních pryskyřic.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan®-colourpowder-0-3-kg</URL>
+          <PRICE_VAT>390.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_ColourPowder_stavbox.webp?v=1776935938</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10767466594641</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
