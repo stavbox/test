@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1271 -->
-<!-- Total individual products: 516 -->
-<!-- Created: 2026-04-25 08:40:17 -->
+<!-- Total products+variants: 1283 -->
+<!-- Total individual products: 522 -->
+<!-- Created: 2026-04-25 18:45:28 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -5279,7 +5279,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
 Rychleschnoucí malta pro opravy betonu. Vysoká přilnavost, odolná mrazu, vhodná pro rychlé zásahy na konstrukcích.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-r2-25kg</URL>
           <PRICE_VAT>2210.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 52 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 52 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-R2-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755861038</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -25686,7 +25686,7 @@ Sikafloor®-324 je dvousložková pigmentovaná podlaha bez rozpouštědel, s e
 
         <SHOPITEM>
           <PRODUCTNAME>Sika Sikafloor® Leitset · Uzemňovací sada pro antistatické podlahy</PRODUCTNAME>
-          <DESCRIPTION>Svod pro antistatické podlahy.
+          <DESCRIPTION>Svod pro antistatické podlahy. Uzemňovací/vodivá sada.
 Obsah sady Sikafloor® Leitset:
 · 10 ks hmoždinek pro těžké zatížení· 10 ks speciálních šroubů V2A / M6, které jsou spojeny s výše uvedenými hmoždinkami· 3 bm měděné vodivé pásky· 10 ks mosazných desek 60 / 60 / 0,8 mm· 10 ks mosazných podložek 6,4 / 30 / 1,5 mm· 10 ks mosazných matic M6· 10 ks jazýčkových kroužků M6 x 4 / 6 mm· 10 ks pojistných matic V2A M6· 10 ks montážních hadic z PVC M5· 10 ks montážních podložek z mosazi 6,4 / 12 / 1 mm ( malé )· 10 ks montážních podložek z V2A 6,4 / 25 / 2 mm ( velké )· 1 ks montážní ocelová trubka· 1 ks montážní matice M6 / V2A</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-leitset</URL>
@@ -43680,6 +43680,394 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Malty</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob HC · hydrofobizační krém na beton a zdivo · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Jednosložkový, hydrofobizační krém na bázi vody
+Jednosložkový hydrofobizační krém na silanové bázi pro beton, omítky a zdivo. Redukuje nasákavost, chrání před chloridy a zvyšuje mrazuvzdornost.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-hc?variant=53624311939409</URL>
+          <PRICE_VAT>17425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67320000240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob HC · hydrofobizační krém na beton a zdivo · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Jednosložkový, hydrofobizační krém na bázi vody
+Jednosložkový hydrofobizační krém na silanové bázi pro beton, omítky a zdivo. Redukuje nasákavost, chrání před chloridy a zvyšuje mrazuvzdornost.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-hc?variant=53624322785617</URL>
+          <PRICE_VAT>43260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67320000370101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob L · hydrofobní impregnace betonu na bázi silanů · 10l</PRODUCTNAME>
+          <DESCRIPTION>Bezrozpouštědlový hydrofobní přípravek
+Bezrozpouštědlová hydrofobní impregnace na bázi silanů pro beton a prefabrikáty. Odpuzuje vodu, chrání před mrazem, solemi, řasami a výkvěty.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-l-drive-nisiwa-l?variant=53624383504721</URL>
+          <PRICE_VAT>6535.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67640000241001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob L · hydrofobní impregnace betonu na bázi silanů · 30l</PRODUCTNAME>
+          <DESCRIPTION>Bezrozpouštědlový hydrofobní přípravek
+Bezrozpouštědlová hydrofobní impregnace na bázi silanů pro beton a prefabrikáty. Odpuzuje vodu, chrání před mrazem, solemi, řasami a výkvěty.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-l-drive-nisiwa-l?variant=53624383537489</URL>
+          <PRICE_VAT>19460.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67640000391001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob L · hydrofobní impregnace betonu na bázi silanů · 200l</PRODUCTNAME>
+          <DESCRIPTION>Bezrozpouštědlový hydrofobní přípravek
+Bezrozpouštědlová hydrofobní impregnace na bázi silanů pro beton a prefabrikáty. Odpuzuje vodu, chrání před mrazem, solemi, řasami a výkvěty.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-l-drive-nisiwa-l?variant=53624401527121</URL>
+          <PRICE_VAT>118100.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67640000541001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob SN · Siloxanová hydrofobní impregnace betonu · 10l</PRODUCTNAME>
+          <DESCRIPTION>Neviditelný, hydrofobní přípravek na bázi rozpouštědel
+Bezbarvá hydrofobní impregnace na bázi siloxanu pro beton, omítky a kámen. Snižuje nasákavost, chrání před mrazem a výkvěty, účinná i na vlhkých podkladech.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-sn?variant=53624433934673</URL>
+          <PRICE_VAT>4090.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67600010241001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob SN · Siloxanová hydrofobní impregnace betonu · 25l</PRODUCTNAME>
+          <DESCRIPTION>Neviditelný, hydrofobní přípravek na bázi rozpouštědel
+Bezbarvá hydrofobní impregnace na bázi siloxanu pro beton, omítky a kámen. Snižuje nasákavost, chrání před mrazem a výkvěty, účinná i na vlhkých podkladech.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-sn?variant=53624433967441</URL>
+          <PRICE_VAT>10105.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67600010371001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob SN · Siloxanová hydrofobní impregnace betonu · 200l</PRODUCTNAME>
+          <DESCRIPTION>Neviditelný, hydrofobní přípravek na bázi rozpouštědel
+Bezbarvá hydrofobní impregnace na bázi siloxanu pro beton, omítky a kámen. Snižuje nasákavost, chrání před mrazem a výkvěty, účinná i na vlhkých podkladech.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-sn?variant=53624434000209</URL>
+          <PRICE_VAT>68490.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67600010541001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob WM · hydrofobizační impregnace betonu · 10l</PRODUCTNAME>
+          <DESCRIPTION>Hydrofobizační prostředek připravený k okamžitému použití
+Hydrofobizační impregnace na bázi polysiloxanu pro beton a omítky. Redukuje nasákavost, zvyšuje odolnost vůči mrazu a posypovým solím.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-wm?variant=53624521523537</URL>
+          <PRICE_VAT>7470.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67300010241001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Emcephob WM · hydrofobizační impregnace betonu · 30l</PRODUCTNAME>
+          <DESCRIPTION>Hydrofobizační prostředek připravený k okamžitému použití
+Hydrofobizační impregnace na bázi polysiloxanu pro beton a omítky. Redukuje nasákavost, zvyšuje odolnost vůči mrazu a posypovým solím.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-wm?variant=53624521556305</URL>
+          <PRICE_VAT>21820.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67300010391001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof pure · transparentní impregnace · 15l</PRODUCTNAME>
+          <DESCRIPTION>Transparentní impregnace
+Transparentní impregnace na vodní bázi pro minerální povrchy. Zpevňuje podklad, redukuje nasákavost a zvyšuje odolnost vůči mrazu i posypovým solím.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-pure</URL>
+          <PRICE_VAT>7080.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-pure_stavbox.webp?v=1777134477</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>61150000310101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-RIM PROTECT-C · ošetřující vosková disperze pro beton · 30kg</PRODUCTNAME>
+          <DESCRIPTION>Vysoce účinný ošetřující přípravek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rim-protect-c</URL>
+          <PRICE_VAT>7155.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>67210000390101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
 
           
           <CONDITION>new</CONDITION>
