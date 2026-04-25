@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1283 -->
-<!-- Total individual products: 522 -->
-<!-- Created: 2026-04-25 18:45:28 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 1286 -->
+<!-- Total individual products: 524 -->
+<!-- Created: 2026-04-26 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -44047,7 +44047,8 @@ Transparentní impregnace na vodní bázi pro minerální povrchy. Zpevňuje pod
 
         <SHOPITEM>
           <PRODUCTNAME>MC-Bauchemie MC-RIM PROTECT-C · ošetřující vosková disperze pro beton · 30kg</PRODUCTNAME>
-          <DESCRIPTION>Vysoce účinný ošetřující přípravek</DESCRIPTION>
+          <DESCRIPTION>Vysoce účinný ošetřující přípravek
+Ošetřující vosková disperze připravená k použití pro cementové stavební hmoty. Transparentní film s uzavřením &amp;gt; 90 %, nanášení natíráním, válečkem nebo stříkání.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rim-protect-c</URL>
           <PRICE_VAT>7155.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
@@ -44065,6 +44066,106 @@ Transparentní impregnace na vodní bázi pro minerální povrchy. Zpevňuje pod
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
           <ITEM_ID>67210000390101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Centricrete HCS · cementová suspenze pro injektáž trhlin · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Jednosložková cementová suspenze pro pevnostní vyplnění a injektáž trhlin a dutin v betonu a cihelném zdivu
+Jednosložková cementová suspenze pro injektáž a vyplnění trhlin a dutin v betonu i zdivu. Rychlý nárůst pevnosti, bez chloridů, vhodná pro suché i mokré konstrukce.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-centricrete-hcs</URL>
+          <PRICE_VAT>1210.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Centricrete-HCS_stavbox.webp?v=1777136539</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>43090000350101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Centricrete UF · cementová suspenze pro injektáž trhlin · prášek · 25,03kg</PRODUCTNAME>
+          <DESCRIPTION>Cementová suspenze pro pevnostní injektáž
+2K nízkoviskózní cementová suspenze pro pevnostní injektáž trhlin, spár a dutin. Vhodná pro suché i mokré konstrukce, s dlouhou dobou zpracovatelnosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-centricrete-uf?variant=53625317556561</URL>
+          <PRICE_VAT>7390.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>43000000370101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Centricrete UF · cementová suspenze pro injektáž trhlin · tekutina · 2,35kg</PRODUCTNAME>
+          <DESCRIPTION>Cementová suspenze pro pevnostní injektáž
+2K nízkoviskózní cementová suspenze pro pevnostní injektáž trhlin, spár a dutin. Vhodná pro suché i mokré konstrukce, s dlouhou dobou zpracovatelnosti.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-centricrete-uf?variant=53625323487569</URL>
+          <PRICE_VAT>485.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>43000010140101</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
