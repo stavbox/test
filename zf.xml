@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1271 -->
 <!-- Total individual products: 516 -->
-<!-- Created: 2026-04-25 00:00:28 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-04-25 08:40:17 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -14261,7 +14261,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
 ✅ Vysoce elastický✅ Překlenuje trhliny✅ Hydroizolační</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646268043601</URL>
           <PRICE_VAT>13055.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -18845,7 +18845,7 @@ Lze jej také použít ke zvýšení objemu (plnění) vybraných potěrů a mal
 Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkty stavební chemie. Vyzvednutí na prodejně je možné.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <PRICE_VAT>270.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -24492,7 +24492,7 @@ Sikafloor®-410 je 1-komponentní, elastický, matný, uzavírací nátěr na b�
 Barva: transparentní kapalina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-410?variant=52863288050001</URL>
           <PRICE_VAT>3650.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-410_opt.jpg?v=1768984200</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
