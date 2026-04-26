@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1286 -->
-<!-- Total individual products: 524 -->
-<!-- Created: 2026-04-26 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1337 -->
+<!-- Total individual products: 535 -->
+<!-- Created: 2026-04-26 21:24:43 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -2327,7 +2327,7 @@ HADALAN® Topcoat G 32P je jednosložková, UV záření odolná a vzdušnou vl
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-hadalan-topcoat-g-32p-2-5kg</URL>
           <PRICE_VAT>3748.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-Topcoat-G-32P-2-5kg-ochranny-lak.jpg?v=1755784625</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -44166,6 +44166,1640 @@ Jednosložková cementová suspenze pro injektáž a vyplnění trhlin a dutin v
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
           <ITEM_ID>43000010140101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 Compact · epoxi. pryskyřice, injektáž trhlin · AB · 1l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž a těsnění trhlin, spár a dutin. Vhodná pro suché i vlhké konstrukce, rychlý nárůst pevnosti a vysoká odolnost.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-compact?variant=53627971109201</URL>
+          <PRICE_VAT>1395.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>52050002110101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 Compact · epoxi. pryskyřice, injektáž trhlin · AB · 12,5l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž a těsnění trhlin, spár a dutin. Vhodná pro suché i vlhké konstrukce, rychlý nárůst pevnosti a vysoká odolnost.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-compact?variant=53627971141969</URL>
+          <PRICE_VAT>11780.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX520500</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 Compact · epoxi. pryskyřice, injektáž trhlin · A · 10l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž a těsnění trhlin, spár a dutin. Vhodná pro suché i vlhké konstrukce, rychlý nárůst pevnosti a vysoká odolnost.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-compact?variant=53627971174737</URL>
+          <PRICE_VAT>9405.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>52050010240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 Compact · epoxi. pryskyřice, injektáž trhlin · B · 2,5l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž a těsnění trhlin, spár a dutin. Vhodná pro suché i vlhké konstrukce, rychlý nárůst pevnosti a vysoká odolnost.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-compact?variant=53627971207505</URL>
+          <PRICE_VAT>2385.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>52050020150101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 TF · epoxidová injektáž trhlin a dutin · AB · 1l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž trhlin, spár a dutin v suchých i vlhkých konstrukcích. Rychlý nárůst pevnosti, vysoká odolnost v tlaku i tahu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-tf?variant=53627985199441</URL>
+          <PRICE_VAT>2075.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-1264-TF_stavbox.webp?v=1777187561</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>52030002110101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 TF · epoxidová injektáž trhlin a dutin · A · 7,5l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž trhlin, spár a dutin v suchých i vlhkých konstrukcích. Rychlý nárůst pevnosti, vysoká odolnost v tlaku i tahu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-tf?variant=53627985264977</URL>
+          <PRICE_VAT>8735.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-1264-TF_stavbox.webp?v=1777187561</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>52030010220101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 1264 TF · epoxidová injektáž trhlin a dutin · B · 2,5l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně spojující a těsnící injektáž
+Nízkoviskózní epoxidová pryskyřice pro pevnostní injektáž trhlin, spár a dutin v suchých i vlhkých konstrukcích. Rychlý nárůst pevnosti, vysoká odolnost v tlaku i tahu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-1264-tf?variant=53627985297745</URL>
+          <PRICE_VAT>6850.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-1264-TF_stavbox.webp?v=1777187561</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>52030020150101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2133 · PU injektážní prysk., utěsnění průsaků · 1l</PRODUCTNAME>
+          <DESCRIPTION>Jednosložková (1K) injektážní pryskyřice s rychlým napěněním
+pro dočasné utěsnění průsaků</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2133?variant=53628005482833</URL>
+          <PRICE_VAT>895.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2133_stavbox_667f076a-bdc4-47a2-ab21-e0d4d4c63bd0.webp?v=1777190346</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55370000110101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2133 · PU injektážní prysk., utěsnění průsaků · 10l</PRODUCTNAME>
+          <DESCRIPTION>Jednosložková (1K) injektážní pryskyřice s rychlým napěněním
+pro dočasné utěsnění průsaků</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2133?variant=53628005515601</URL>
+          <PRICE_VAT>6440.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2133_stavbox_667f076a-bdc4-47a2-ab21-e0d4d4c63bd0.webp?v=1777190346</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55370000240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · AB · 1l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628803645777</URL>
+          <PRICE_VAT>1170.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080002110101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · AB · 10l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628803678545</URL>
+          <PRICE_VAT>6825.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5508000010</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · AB · 20l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818751825</URL>
+          <PRICE_VAT>12730.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5508000020</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · AB · 40l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818784593</URL>
+          <PRICE_VAT>25360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5508000040</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · A · 5l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818817361</URL>
+          <PRICE_VAT>3445.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080010190101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · A · 10l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818850129</URL>
+          <PRICE_VAT>6450.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080010240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · A · 20l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818882897</URL>
+          <PRICE_VAT>12975.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080010350101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · B · 5l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818915665</URL>
+          <PRICE_VAT>3390.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080020190101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · B · 10l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818948433</URL>
+          <PRICE_VAT>6280.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080020240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 flow · polyuretanová injektážní pryskyřice · B · 20l</PRODUCTNAME>
+          <DESCRIPTION>Tvárně-elastická injektážní pryskyřice reagující s vlhkostí pro dlouhodobou těsnicí injektáž betonu, zdiva a základové zeminy
+Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin, spár a dutin v betonu i zdivu. Účinná i při kontaktu s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628818981201</URL>
+          <PRICE_VAT>12395.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55080020350101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 Top · těsnící pryskyřice, injektáž betonu · AB · 1l</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní těsnící pryskyřice pro injektáž betonu a zdiva
+Flexibilní polymerová pryskyřice pro těsnění trhlin, spár a dutin v betonu i zdivu. Vhodná pro suché i mokré konstrukce s průsakem tlakové vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-top?variant=53629319184721</URL>
+          <PRICE_VAT>1135.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55070012110101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 Top · těsnící pryskyřice, injektáž betonu · AB · 20l</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní těsnící pryskyřice pro injektáž betonu a zdiva
+Flexibilní polymerová pryskyřice pro těsnění trhlin, spár a dutin v betonu i zdivu. Vhodná pro suché i mokré konstrukce s průsakem tlakové vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-top?variant=53629404938577</URL>
+          <PRICE_VAT>13260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5507000</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 Top · těsnící pryskyřice, injektáž betonu · A · 10l</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní těsnící pryskyřice pro injektáž betonu a zdiva
+Flexibilní polymerová pryskyřice pro těsnění trhlin, spár a dutin v betonu i zdivu. Vhodná pro suché i mokré konstrukce s průsakem tlakové vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-top?variant=53629398909265</URL>
+          <PRICE_VAT>5545.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55070010240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2300 Top · těsnící pryskyřice, injektáž betonu · B · 10l</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní těsnící pryskyřice pro injektáž betonu a zdiva
+Flexibilní polymerová pryskyřice pro těsnění trhlin, spár a dutin v betonu i zdivu. Vhodná pro suché i mokré konstrukce s průsakem tlakové vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-top?variant=53629398942033</URL>
+          <PRICE_VAT>7710.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55070020240101</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · AB · 40l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně těsnící injektáž
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2700?variant=53629658300753</URL>
+          <PRICE_VAT>25315.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5525000</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · A · 20l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně těsnící injektáž
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2700?variant=53629658366289</URL>
+          <PRICE_VAT>12055.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55250010351001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · B · 20l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně těsnící injektáž
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2700?variant=53629658399057</URL>
+          <PRICE_VAT>13240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55250020351001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 L · PU pryskyřice pro injektáž trhlin · AB · 40l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně těsnící injektáž
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v suchých i vlhkých konstrukcích a prostředích s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2700-l?variant=53632121143633</URL>
+          <PRICE_VAT>27300.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5527000</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 L · PU pryskyřice pro injektáž trhlin · A · 20l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně těsnící injektáž
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v suchých i vlhkých konstrukcích a prostředích s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2700-l?variant=53632121176401</URL>
+          <PRICE_VAT>12660.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55270010351001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 L · PU pryskyřice pro injektáž trhlin · B · 20l</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro pevnostně těsnící injektáž
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v suchých i vlhkých konstrukcích a prostředích s tlakovou vodou.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2700-l?variant=53632121209169</URL>
+          <PRICE_VAT>14645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55270020351001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 3000 HPS · Akrylátový gel pro injektáže trhlin · směs s B1 · 50kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavý, těsnící, měkce elastický akrylátový gel pro injektáže v železobetonu, zdivu a těsnění zemin a spár
+Bobtnavý akrylátový gel pro injektáže trhlin, spár a dutin v betonu, zdivu i zemině. Vyniká nízkou viskozitou, vysokou elasticitou a odolností vůči vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-3000-hps?variant=53632145162577</URL>
+          <PRICE_VAT>14820.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX555400001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 3000 HPS · Akrylátový gel pro injektáže trhlin · směs s vodou · 50kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavý, těsnící, měkce elastický akrylátový gel pro injektáže v železobetonu, zdivu a těsnění zemin a spár
+Bobtnavý akrylátový gel pro injektáže trhlin, spár a dutin v betonu, zdivu i zemině. Vyniká nízkou viskozitou, vysokou elasticitou a odolností vůči vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-3000-hps?variant=53632145195345</URL>
+          <PRICE_VAT>9380.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX555400002</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 3000 HPS · Akrylátový gel pro injektáže trhlin · A1 · 23,8kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavý, těsnící, měkce elastický akrylátový gel pro injektáže v železobetonu, zdivu a těsnění zemin a spár
+Bobtnavý akrylátový gel pro injektáže trhlin, spár a dutin v betonu, zdivu i zemině. Vyniká nízkou viskozitou, vysokou elasticitou a odolností vůči vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-3000-hps?variant=53632145228113</URL>
+          <PRICE_VAT>7750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55540500361001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 3000 HPS · Akrylátový gel pro injektáže trhlin · A2 · 1,19kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavý, těsnící, měkce elastický akrylátový gel pro injektáže v železobetonu, zdivu a těsnění zemin a spár
+Bobtnavý akrylátový gel pro injektáže trhlin, spár a dutin v betonu, zdivu i zemině. Vyniká nízkou viskozitou, vysokou elasticitou a odolností vůči vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-3000-hps?variant=53632150110545</URL>
+          <PRICE_VAT>1255.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55540020111001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 3000 HPS · Akrylátový gel pro injektáže trhlin · B1 · 24,6kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavý, těsnící, měkce elastický akrylátový gel pro injektáže v železobetonu, zdivu a těsnění zemin a spár
+Bobtnavý akrylátový gel pro injektáže trhlin, spár a dutin v betonu, zdivu i zemině. Vyniká nízkou viskozitou, vysokou elasticitou a odolností vůči vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-3000-hps?variant=53632150143313</URL>
+          <PRICE_VAT>5510.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55540030361001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 3000 HPS · Akrylátový gel pro injektáže trhlin · B2 · 0,41kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavý, těsnící, měkce elastický akrylátový gel pro injektáže v železobetonu, zdivu a těsnění zemin a spár
+Bobtnavý akrylátový gel pro injektáže trhlin, spár a dutin v betonu, zdivu i zemině. Vyniká nízkou viskozitou, vysokou elasticitou a odolností vůči vodě.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-3000-hps?variant=53632150176081</URL>
+          <PRICE_VAT>345.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55540040071001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · směs s vodou · 55,225kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632212730193</URL>
+          <PRICE_VAT>10890.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX554300001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · směs s vodou · 220,5kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632212762961</URL>
+          <PRICE_VAT>41620.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX554300002</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · A1 · 27,5kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632212795729</URL>
+          <PRICE_VAT>8920.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55430010381001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · A1 · 110kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632212828497</URL>
+          <PRICE_VAT>34610.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55430010501001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · A2 · 0,5kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632212861265</URL>
+          <PRICE_VAT>940.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55430020071001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · A3 · 2kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632325648721</URL>
+          <PRICE_VAT>885.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55430130131001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · A3 · 8kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632212894033</URL>
+          <PRICE_VAT>2715.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55430130221001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 · Akrylátová pryskyřice pro těsnění zdiva · B · 0,5kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová injektážní pryskyřice pro utěsnění zdiva a betonu proti vlhkosti. Měkce elastická, vodotěsná, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95?variant=53632384663889</URL>
+          <PRICE_VAT>550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-GL-95_stavbox.webp?v=1777207592</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55430040071001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TX · akrylátová injektážní pryskyřice · směs · 56kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová pryskyřice pro těsnění spár, trhlin a dutin v betonu i zdivu. Vodotěsná, elastická, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tx?variant=53633183154513</URL>
+          <PRICE_VAT>19450.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX554200001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TX · akrylátová injektážní pryskyřice · směs · 223,7kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová pryskyřice pro těsnění spár, trhlin a dutin v betonu i zdivu. Vodotěsná, elastická, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tx?variant=53633183187281</URL>
+          <PRICE_VAT>75780.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX554200002</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TX · akrylátová injektážní pryskyřice · B1 · 25,8kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová pryskyřice pro těsnění spár, trhlin a dutin v betonu i zdivu. Vodotěsná, elastická, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tx?variant=53633183220049</URL>
+          <PRICE_VAT>8555.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55420050371001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TX · akrylátová injektážní pryskyřice · B1 · 103,2kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní pryskyřice pro měkce elastické utěsnění
+Nízkoviskózní akrylátová pryskyřice pro těsnění spár, trhlin a dutin v betonu i zdivu. Vodotěsná, elastická, vhodná i pro oblast pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tx?variant=53633183252817</URL>
+          <PRICE_VAT>34215.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55420050491001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TR · Bobtnavá injektážní pryskyřice · A1 · 29kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavá injektážní pryskyřice pro měkce elastické utěsněn
+Nízkoviskózní akrylátová pryskyřice pro těsnící injektáže zdiva a betonu. Vysoce elastická, vodotěsná, odolná vůči mrazu, vhodná i pro injektáže do zemin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tr?variant=53635592192337</URL>
+          <PRICE_VAT>9475.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55470010381001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TR · Bobtnavá injektážní pryskyřice · A1 · 116,2kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavá injektážní pryskyřice pro měkce elastické utěsněn
+Nízkoviskózní akrylátová pryskyřice pro těsnící injektáže zdiva a betonu. Vysoce elastická, vodotěsná, odolná vůči mrazu, vhodná i pro injektáže do zemin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tr?variant=53635592225105</URL>
+          <PRICE_VAT>36560.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55470010491001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TR · Bobtnavá injektážní pryskyřice · A2 · 1,43kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavá injektážní pryskyřice pro měkce elastické utěsněn
+Nízkoviskózní akrylátová pryskyřice pro těsnící injektáže zdiva a betonu. Vysoce elastická, vodotěsná, odolná vůči mrazu, vhodná i pro injektáže do zemin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tr?variant=53635592257873</URL>
+          <PRICE_VAT>750.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55470020121001</ITEM_ID>
+
+          
+              <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt GL-95 TR · Bobtnavá injektážní pryskyřice · A2 · 5,72kg</PRODUCTNAME>
+          <DESCRIPTION>Bobtnavá injektážní pryskyřice pro měkce elastické utěsněn
+Nízkoviskózní akrylátová pryskyřice pro těsnící injektáže zdiva a betonu. Vysoce elastická, vodotěsná, odolná vůči mrazu, vhodná i pro injektáže do zemin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-gl-95-tr?variant=53635592290641</URL>
+          <PRICE_VAT>2030.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>55470020191001</ITEM_ID>
 
           
               <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
