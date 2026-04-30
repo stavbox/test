@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1352 -->
 <!-- Total individual products: 539 -->
-<!-- Created: 2026-04-30 09:04:31 -->
+<!-- Created: 2026-04-30 11:50:27 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -353,7 +353,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-m-universal-20kg</URL>
           <PRICE_VAT>1475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 46 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -31, VI: 46 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-M-Universal-20kg-lepici-a-prodysna-malta.png?v=1755849992</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -805,7 +805,7 @@ Sanační porózní jádrová omítka pro vlhké zdivo. Absorbuje soli, paroprop
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-levell-20kg</URL>
           <PRICE_VAT>828.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 159 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -25, VI: 159 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Levell-20kg-jadrova-amitka-sanacni.jpg?v=1755852664</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1750,7 +1750,7 @@ Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty
 Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653698416977</URL>
           <PRICE_VAT>7975.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 13 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -13, VI: 13 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4405,7 +4405,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991680337</URL>
           <PRICE_VAT>3175.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -2, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
