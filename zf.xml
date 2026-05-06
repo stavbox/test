@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1360 -->
-<!-- Total individual products: 541 -->
-<!-- Created: 2026-05-06 10:36:17 -->
+<!-- Total products+variants: 1362 -->
+<!-- Total individual products: 542 -->
+<!-- Created: 2026-05-06 13:49:36 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -1679,7 +1679,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
 Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapalňujícím účinkem.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-vz-mb-1l</URL>
           <PRICE_VAT>290.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-VZ-MB-1l-zpomalovac.jpg?v=1755777830</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -17642,7 +17642,7 @@ Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky 
 Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518159843665</URL>
           <PRICE_VAT>14260.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -47569,6 +47569,75 @@ Speciálně navržena pro vytvoření nebo vylepšení hydroizolačních vodotě
             
 
           <EAN>4026906136755</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Bonding Primer ·  2K epoxidový primer pro střechy a podlahy · AB · 5l</PRODUCTNAME>
+          <DESCRIPTION>2komponentní, epoxidový primer na vodní bázi.
+Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zpevnění podkladu a zvýšení přilnavosti následně aplikovaných produktů řady SikaRoof MTC®, Sikalastic®, Sikafloor® a Sikagard®.
+✅ Rychle vytvrzuje - převrstvitelný už za 1–2 hodiny po aplikaci✅ Dlouhá doba zpracovatelnosti (až 12 hodin)✅ Mírný zápach</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-bonding-primer?variant=53702473023825</URL>
+          <PRICE_VAT>4995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBonding-Primer_stavbox.webp?v=1778066672</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>174274</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>7612894735444</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Bonding Primer ·  2K epoxidový primer pro střechy a podlahy · AB · 15l</PRODUCTNAME>
+          <DESCRIPTION>2komponentní, epoxidový primer na vodní bázi.
+Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zpevnění podkladu a zvýšení přilnavosti následně aplikovaných produktů řady SikaRoof MTC®, Sikalastic®, Sikafloor® a Sikagard®.
+✅ Rychle vytvrzuje - převrstvitelný už za 1–2 hodiny po aplikaci✅ Dlouhá doba zpracovatelnosti (až 12 hodin)✅ Mírný zápach</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-bonding-primer?variant=53702473056593</URL>
+          <PRICE_VAT>14140.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBonding-Primer_stavbox.webp?v=1778066672</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>405541</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>7612894839203</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
