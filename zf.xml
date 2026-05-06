@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1360 -->
 <!-- Total individual products: 541 -->
-<!-- Created: 2026-05-06 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-06 10:36:17 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -1679,7 +1679,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
 Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapalňujícím účinkem.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-vz-mb-1l</URL>
           <PRICE_VAT>290.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-VZ-MB-1l-zpomalovac.jpg?v=1755777830</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4669,7 +4669,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-snl?variant=52660688879953</URL>
           <PRICE_VAT>2470.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -17642,7 +17642,7 @@ Sikafloor®-2350 ESD je 2-komponentní samonivelační barevný elektrostaticky 
 Balení: 30kg (komp. A 24,6kg + komp. B 5,4kg)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2350-esd-30kg?variant=52518159843665</URL>
           <PRICE_VAT>14260.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2350-ESD-30kg_opt.jpg?v=1764651598</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
