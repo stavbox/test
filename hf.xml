@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1362 -->
+<!-- Total products+variants: 1363 -->
 <!-- Total individual products: 542 -->
-<!-- Created: 2026-05-07 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-07 10:46:43 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -12302,7 +12302,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
 ✅ Rychlé a snadné použití✅ Výborná roztékavost✅ Pro ruční i strojní aplikaci</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-432-decocem-25kg?variant=52858125058385</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-432-decocem_opt.jpg?v=1768923247</IMGURL>
-          <PRICE_VAT>1015.0</PRICE_VAT>
+          <PRICE_VAT>1145.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -12318,7 +12318,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
 ✅ Rychlé a snadné použití✅ Výborná roztékavost✅ Pro ruční i strojní aplikaci</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-432-decocem-25kg?variant=52858125091153</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-432-decocem_opt.jpg?v=1768923247</IMGURL>
-          <PRICE_VAT>1185.0</PRICE_VAT>
+          <PRICE_VAT>1315.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -12334,7 +12334,7 @@ Sikafloor®-432 DecoCem je předmíchaná, polymery modifikovaná prášková sm
 ✅ Rychlé a snadné použití✅ Výborná roztékavost✅ Pro ruční i strojní aplikaci</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-432-decocem-25kg?variant=52858125123921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-432-decocem_opt.jpg?v=1768923247</IMGURL>
-          <PRICE_VAT>1235.0</PRICE_VAT>
+          <PRICE_VAT>1350.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -14209,7 +14209,23 @@ Sikagard®-320 je hladký akrylový lak na vodní bázi připravený k použití
     
   
           <SHOPITEM>
-          <ITEM_ID>843980</ITEM_ID>
+          <ITEM_ID>871194</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-150 Plus · 2K epoxidová penetrace a plastmalta · 2,5kg (AB)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-150 Plus · 2,5kg (AB) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Epoxidová penetrace s nízkým zápachem, vyrovnávací plastmalta.
+Sikafloor®-150 Plus  je dvousložková víceúčelová epoxidová pryskyřice s nízkou viskozitou a nízkým zápachem, kterou lze použít jako epoxidový nátěr, záškrab a vyrovnávací plastmaltu.
+✅ Nízký zápach✅ Nízká viskozita✅ Dobré penetrační vlastnosti</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-150-plus?variant=53711146025297</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-150-Plus_stavbox.webp?v=1773320161</IMGURL>
+          <PRICE_VAT>2650.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655174321</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>871193</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-150 Plus · 2K epoxidová penetrace a plastmalta · 10kg (AB)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-150 Plus · 10kg (AB) - Epoxidová penetrace</PRODUCT>
           <DESCRIPTION>Epoxidová penetrace s nízkým zápachem, vyrovnávací plastmalta.
@@ -14217,15 +14233,15 @@ Sikafloor®-150 Plus  je dvousložková víceúčelová epoxidová pryskyřice 
 ✅ Nízký zápach✅ Nízká viskozita✅ Dobré penetrační vlastnosti</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150-plus?variant=53270949953873</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-150-Plus_stavbox.webp?v=1773320161</IMGURL>
-          <PRICE_VAT>4810.0</PRICE_VAT>
+          <PRICE_VAT>5490.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612655128195</EAN>
+          <EAN>7612655173263</EAN>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>843808</ITEM_ID>
+          <ITEM_ID>871178</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-150 Plus · 2K epoxidová penetrace a plastmalta · 25kg (AB)</PRODUCTNAME>
           <PRODUCT>Sika Sikafloor®-150 Plus · 25kg (AB) - Epoxidová penetrace</PRODUCT>
           <DESCRIPTION>Epoxidová penetrace s nízkým zápachem, vyrovnávací plastmalta.
@@ -14233,11 +14249,11 @@ Sikafloor®-150 Plus  je dvousložková víceúčelová epoxidová pryskyřice 
 ✅ Nízký zápach✅ Nízká viskozita✅ Dobré penetrační vlastnosti</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150-plus?variant=53270949986641</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-150-Plus_stavbox.webp?v=1773320161</IMGURL>
-          <PRICE_VAT>10165.0</PRICE_VAT>
+          <PRICE_VAT>11550.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
-          <EAN>7612655128805</EAN>
+          <EAN>7612655172822</EAN>
         </SHOPITEM>
       
     
