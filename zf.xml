@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1363 -->
 <!-- Total individual products: 542 -->
-<!-- Created: 2026-05-10 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-10 21:58:36 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -15912,7 +15912,7 @@ Sikafloor®-150 je 2-komponentní víceúčelová epoxidová pryskyřice s nízk
 ✅ Slabý zápach✅ Nízká viskozita✅ Dobrá penetrační schopnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-150?variant=52241060790609</URL>
           <PRICE_VAT>10800.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-150-25kg_opt.jpg?v=1761850070</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
