@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1372 -->
-<!-- Total individual products: 545 -->
-<!-- Created: 2026-05-12 15:03:39 -->
+<!-- Total products+variants: 1375 -->
+<!-- Total individual products: 548 -->
+<!-- Created: 2026-05-12 19:01:36 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -19716,7 +19716,7 @@ Sikagard®-5500 je 1-komponentní elastický ochranný nátěr na beton na vodn
 Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-5500-20-6kg?variant=52763516961105</URL>
           <PRICE_VAT>8215.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-5500_opt.jpg?v=1767787466</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -47969,11 +47969,121 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
           </DELIVERY>
           <ITEM_ID>IN900001</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Kosmetika a drogerie | Drogerie | Čisticí prostředky | Ostatní čisticí prostředky</CATEGORYTEXT>
             
 
           
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika MonoTop®-2001 Bond &amp; Protect · Spojovací můstek a ochrana výztuže</PRODUCTNAME>
+          <DESCRIPTION>Cementový spojovací můstek a ochrana výztuže proti korozi s recyklovanými surovinami a inhibitory koroze.
+Sika MonoTop®-2001 Bond &amp;amp; Protect je 1komponentní polymer-cementový nátěr, který se používá jako spojovací můstek mezi betonem a opravnými maltami a jako ochrana výztuže proti korozi. Obsahuje inhibitory koroze a recyklované suroviny, takže má nižší uhlíkovou stopu ve srovnání s obdobnými materiály.
+✅ Ochrana betonářské výtzuže proti korozi✅ Vysoká přídržnost k betonu a oceli✅ Obsahuje recyklované suroviny
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-monotop-2001-bond-protect-20kg</URL>
+          <PRICE_VAT>1555.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MonoTop-2001-2002-2003_stavbox.webp?v=1778593052</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>825306</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Beton</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+            
+
+          <EAN>7612655083203</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika MonoTop®-2003 Finish · Jemná vyrovnávací malta R2 s recyklátem</PRODUCTNAME>
+          <DESCRIPTION>Jemná vyrovnávací malta na beton třídy R2 s recyklovanými surovinami.
+Sika MonoTop®-2003 Finish je 1komponentní cementová, polymerem modifikovaná, jemná malta s kompenzovaným smrštěním. Obsahuje recyklované suroviny, takže má nižší uhlíkovou stopu ve srovnání s obdobnými materiály. Splňuje požadavky třídy R2 dle normy ČSN EN 1504-3.
+✅ Obsahuje recyklované suroviny✅ Třída R2 dle ČSN EN 1504-3✅ Lze aplikovat v tloušťce od 1,5 do 5 mm
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-monotop-2003-finish-25kg</URL>
+          <PRICE_VAT>855.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MonoTop-2003-Finish_stavbox.webp?v=1778595021</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>825305</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Beton</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+            
+
+          <EAN>7612655083098</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaGrout®-800 · Zálivková malta 6–300 mm, odolná síranům</PRODUCTNAME>
+          <DESCRIPTION>Vysoce výkonná cementová zálivková hmota se zvýšenou udržitelností.
+SikaGrout®-800 je cementová, vysoce výkonná technická malta s kompenzací smrštění. Obsahuje recyklované materiály a v porovnání s referenční cementovou maltou může při hodnocení životního cyklu snížit uhlíkovou stopu.
+✅ Používá recyklované suroviny✅ Aplikační tloušťka 6 mm až 300 mm✅ Snížená prašnost✅ Odolnost vůči síranům
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
+          <PRICE_VAT>995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>827187</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Beton</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+            
+
+          <EAN>7612655085887</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
