@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1375 -->
-<!-- Total individual products: 548 -->
-<!-- Created: 2026-05-13 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1378 -->
+<!-- Total individual products: 549 -->
+<!-- Created: 2026-05-13 11:59:54 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -49,7 +49,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 172 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 172 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1058,7 +1058,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1915.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6419,7 +6419,7 @@ Ochranný prostředek pro kámen s jílovými minerály. Snižuje hygrické bobt
 Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, mastnotu, šetrný k povrchu, ideální pro staré budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-sl-5kg</URL>
           <PRICE_VAT>1385.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-SL-5kg-cistici-roztok-na-steny-a-podlahy.jpg?v=1755863980</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6487,7 +6487,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386824529</URL>
           <PRICE_VAT>1570.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7319,7 +7319,7 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 19 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9567,7 +9567,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 50 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 50 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -48084,6 +48084,101 @@ Barva: šedý prášek</DESCRIPTION>
             
 
           <EAN>7612655085887</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · AB · 40l</PRODUCTNAME>
+          <DESCRIPTION>Protikorozní ochrana výztuže
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk?variant=53765525012817</URL>
+          <PRICE_VAT>25315.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10802320769361</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · A · 20l</PRODUCTNAME>
+          <DESCRIPTION>Protikorozní ochrana výztuže
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk?variant=53765525045585</URL>
+          <PRICE_VAT>12055.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10802320769361</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · B · 20l</PRODUCTNAME>
+          <DESCRIPTION>Protikorozní ochrana výztuže
+Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk?variant=53765525078353</URL>
+          <PRICE_VAT>13240.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10802320769361</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
         </SHOPITEM>
