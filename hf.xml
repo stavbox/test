@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1378 -->
-<!-- Total individual products: 549 -->
-<!-- Created: 2026-05-13 11:59:53 -->
+<!-- Total products+variants: 1396 -->
+<!-- Total individual products: 555 -->
+<!-- Created: 2026-05-13 15:32:17 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -23813,14 +23813,66 @@ Barva: šedý prášek</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10802320769361</ITEM_ID>
-          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · AB · 40l</PRODUCTNAME>
-          <PRODUCT>MC-Bauchemie Nafufill MK (dříve Colusal MK) · AB · 40l - </PRODUCT>
+          <ITEM_ID>44010000120101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafufill MK · Antikorozní ochrana výztuže, epoxidová · AB · 1,1kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafufill MK (dříve Colusal MK) · AB · 1,1kg - </PRODUCT>
           <DESCRIPTION>Protikorozní ochrana výztuže
-Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk?variant=53765525012817</URL>
+2K epoxidová antikorozní ochrana a spojovací můstek pro ocelovou výztuž. Vysoká přídržnost, kompatibilní se sanačními maltami. Pro sanace betonu.
+Dříve &quot;Colusal MK&quot;.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
-          <PRICE_VAT>25315.0</PRICE_VAT>
+          <PRICE_VAT>530.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>44170000370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafufill KM 250 · Vlákny vyztužená náhrada betonu · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafufill KM 250 · 25kg - </PRODUCT>
+          <DESCRIPTION>Systém SPCC/PCC-náhrady betonu, odolný požáru, zesílený vlákny pro opravy betonových konstrukcí v staticky i nestaticky relevantních oblastech.
+Vlákny vyztužený PCC systém náhrady betonu pro statické i nestatické opravy. Odolný požáru, tixotropní, rychlý nárůst pevnosti. Pro mosty, tunely.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-km-250</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Nafufill-KM-250_stavbox.webp?v=1778671555</IMGURL>
+          <PRICE_VAT>1390.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>44460010370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafufill KM 103 · Jemná egalizační malta na beton · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafufill KM 103 · 25kg - </PRODUCT>
+          <DESCRIPTION>Jemná správková malta pro egalizaci betonových ploch.
+Polymer-cementová jemná správková malta pro egalizaci betonových ploch. Tloušťka 1–10 mm, interiér i exteriér, podlahy, stěny i stropy. 25 kg.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-km-103</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Nafufill-KM-250_stavbox.webp?v=1778671555</IMGURL>
+          <PRICE_VAT>1270.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>SBX6230000</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Vision · Trhliny překlenuující nátěr · Bílá · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Vision · Bílá · 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, pigmentovaný ochranný krycí systém s integrovanou technologií Easy-to-clean.
+Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-to-clean. UV odolný, elastický, pro beton a minerální podklady.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-vision?variant=53768626372945</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Flex-Vision_stavbox.webp?v=1778674359</IMGURL>
+          <PRICE_VAT>6060.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
@@ -23828,14 +23880,14 @@ Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, sp
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10802320769361</ITEM_ID>
-          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · A · 20l</PRODUCTNAME>
-          <PRODUCT>MC-Bauchemie Nafufill MK (dříve Colusal MK) · A · 20l - </PRODUCT>
-          <DESCRIPTION>Protikorozní ochrana výztuže
-Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk?variant=53765525045585</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
-          <PRICE_VAT>12055.0</PRICE_VAT>
+          <ITEM_ID>62307320310101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Vision · Trhliny překlenuující nátěr · Standardní barva · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Vision · Standardní barva · 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, pigmentovaný ochranný krycí systém s integrovanou technologií Easy-to-clean.
+Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-to-clean. UV odolný, elastický, pro beton a minerální podklady.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-vision?variant=53768668676433</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Flex-Vision_stavbox.webp?v=1778674359</IMGURL>
+          <PRICE_VAT>8150.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
@@ -23843,14 +23895,245 @@ Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, sp
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/10802320769361</ITEM_ID>
-          <PRODUCTNAME>MC-Bauchemie MC-Injekt 2700 · injektážní pryskyřice na trhliny · B · 20l</PRODUCTNAME>
-          <PRODUCT>MC-Bauchemie Nafufill MK (dříve Colusal MK) · B · 20l - </PRODUCT>
-          <DESCRIPTION>Protikorozní ochrana výztuže
-Nízkoviskózní polyuretanová pryskyřice pro těsnící injektáž trhlin, spár a dutin v pozemních i podzemních konstrukcích. Vhodná i pro oblasti pitné vody.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-mk-drive-colusal-mk?variant=53765525078353</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
-          <PRICE_VAT>13240.0</PRICE_VAT>
+          <ITEM_ID>62307320500101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Vision · Trhliny překlenuující nátěr · Standardní barva · 120l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Vision · Standardní barva · 120l - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, pigmentovaný ochranný krycí systém s integrovanou technologií Easy-to-clean.
+Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-to-clean. UV odolný, elastický, pro beton a minerální podklady.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-vision?variant=53768668709201</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Flex-Vision_stavbox.webp?v=1778674359</IMGURL>
+          <PRICE_VAT>64030.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62301020310101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Vision · Trhliny překlenuující nátěr · Speciální barva · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Vision · Speciální barva · 15l - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, pigmentovaný ochranný krycí systém s integrovanou technologií Easy-to-clean.
+Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-to-clean. UV odolný, elastický, pro beton a minerální podklady.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-vision?variant=53768668741969</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Flex-Vision_stavbox.webp?v=1778674359</IMGURL>
+          <PRICE_VAT>8910.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62301020500101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Vision · Trhliny překlenuující nátěr · Speciální barva · 120l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Vision · Speciální barva · 120l - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, pigmentovaný ochranný krycí systém s integrovanou technologií Easy-to-clean.
+Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-to-clean. UV odolný, elastický, pro beton a minerální podklady.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-vision?variant=53768668774737</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Flex-Vision_stavbox.webp?v=1778674359</IMGURL>
+          <PRICE_VAT>60840.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>SBX61170010</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · AB směs · 10kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Proof vision · AB směs · 10kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-vision?variant=53768772813137</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>9450.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX61170030</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · AB směs · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Proof vision · AB směs · 30kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-vision?variant=53768772845905</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>26460.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>61170010230101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · A · 8,3kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Proof vision · A · 8,3kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-vision?variant=53768772878673</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>6195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>61170010370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · A · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Proof vision · A · 25kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-vision?variant=53768772911441</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>17665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>61170020130101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · B · 1,7kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Proof vision · B · 1,7kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-vision?variant=53768772944209</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>3255.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>61170020190101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · B · 5kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Proof vision · B · 5kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-proof-vision?variant=53768883405137</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>8785.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>48100700371001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Emcekrete 60 A · Zálivková malta pro podlití strojů · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Emcekrete 60 A · 25kg - </PRODUCT>
+          <DESCRIPTION>Zálivková malta s hydraulickým pojivem.
+Samonivelační zálivková malta s hydraulickým pojivem. Kompenzace smrštění, vysoká pevnost, odolná síranům. Pro podlití strojů, kotvy, prefabrikáty.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-emcekrete-60-a</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Emcekrete-60-A_stavbox.webp?v=1778678115</IMGURL>
+          <PRICE_VAT>1060.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10803153305937</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · AB směs · 10kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1200 VK · AB směs · 10kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1200-vk?variant=53769262137681</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>9450.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10803153305937</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · AB směs · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1200 VK · AB směs · 30kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1200-vk?variant=53769262170449</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>26460.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10803153305937</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · AB směs · 1kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1200 VK · AB směs · 1kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1200-vk?variant=53769262203217</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>6195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10803153305937</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · AB směs · 5kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1200 VK · AB směs · 5kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1200-vk?variant=53769262235985</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>17665.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10803153305937</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · A · 225kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1200 VK · A · 225kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1200-vk?variant=53769262268753</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>3255.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/10803153305937</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Proof vision · Tuhý ochranný nátěr na beton · B · 75kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1200 VK · B · 75kg - </PRODUCT>
+          <DESCRIPTION>Vysoce jakostní, transparentní ochranný krycí systém betonu s integrovanou technologií Easy-to-clean.
+2K vysoce jakostní tuhý ochranný nátěr betonu s technologií Easy-to-clean. UV odolný, bez překlenuování trhlin, transparentní i pigmentovaný.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1200-vk?variant=53769262301521</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Proof-Vision_stavbox.webp?v=1778676180</IMGURL>
+          <PRICE_VAT>8785.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
