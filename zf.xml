@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1396 -->
 <!-- Total individual products: 555 -->
-<!-- Created: 2026-05-14 00:00:30 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-14 09:48:29 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -11341,7 +11341,7 @@ KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina 
 KÖSTER Protection and Drainage Sheet 3-250 je složená ze 3 vrstev, vysoce kvalitní ochranná a drenážní fólie z černého HD-PE s filtračním rounem vyrobeným z polypropylenu a černou klouzavou fólií na zadní straně. Prostřednictvím prostoru uvnitř může dojít k bezpečnému odvedení průsakové vody nebo zadržené průsakové vody do odvodňovacího potrubí.Produkt je odolný vůči prohnití, je odolný vůči nárazům a kořenům, zachovává svůj tvar a je odolný vůči agresivní vodě, jakož i proti bakteriím a houbám. nemá negativní vliv na pitnou vodu a má vysokou pevnost v tlaku.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-sd-protection-and-drainage-sheet-3-250-30m2-2x15m-role</URL>
           <PRICE_VAT>8820.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SD-Protection-and-Drainage-Sheet_opt.jpg?v=1765832011</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
