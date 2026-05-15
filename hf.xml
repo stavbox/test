@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1396 -->
-<!-- Total individual products: 555 -->
-<!-- Created: 2026-05-15 09:01:51 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Total products+variants: 1398 -->
+<!-- Total individual products: 556 -->
+<!-- Created: 2026-05-15 11:16:56 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -24138,6 +24138,42 @@ Nízkoviskózní transparentní 2K epoxidová penetrace pro beton. Hluboká impr
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>406944</ITEM_ID>
+          <PRODUCTNAME>Sika Sikagard®-703 W · Hydrofobní impregnace fasád silan-siloxan · 2l</PRODUCTNAME>
+          <PRODUCT>Sika Sikagard®-703 W · 2l - Silan-siloxanová impregnace betonu</PRODUCT>
+          <DESCRIPTION>Vodu odpuzující přípravek na fasády budov.
+Sikagard®-703 W je tekutá emulze bez rozpouštědel, ihned připravená k použití. Vodu-odpuzující přípravek na bázi kombinace silanu a siloxanu.
+✅ Silné vodo-odpudivé vlastnosti✅ Paropropustný, podklad může „dýchat“✅ Ochranný nátěr neměnící optický vzhled povrchu
+Barva: bělavá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-703-w?variant=53782045491537</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-703-W_stavbox.webp?v=1778828931</IMGURL>
+          <PRICE_VAT>495.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894804591</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>406936</ITEM_ID>
+          <PRODUCTNAME>Sika Sikagard®-703 W · Hydrofobní impregnace fasád silan-siloxan · 5l</PRODUCTNAME>
+          <PRODUCT>Sika Sikagard®-703 W · 5l - Silan-siloxanová impregnace betonu</PRODUCT>
+          <DESCRIPTION>Vodu odpuzující přípravek na fasády budov.
+Sikagard®-703 W je tekutá emulze bez rozpouštědel, ihned připravená k použití. Vodu-odpuzující přípravek na bázi kombinace silanu a siloxanu.
+✅ Silné vodo-odpudivé vlastnosti✅ Paropropustný, podklad může „dýchat“✅ Ochranný nátěr neměnící optický vzhled povrchu
+Barva: bělavá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-703-w?variant=53782045524305</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-703-W_stavbox.webp?v=1778828931</IMGURL>
+          <PRICE_VAT>995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894804478</EAN>
         </SHOPITEM>
       
     
