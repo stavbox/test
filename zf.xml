@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1401 -->
 <!-- Total individual products: 558 -->
-<!-- Created: 2026-05-18 11:32:05 -->
+<!-- Created: 2026-05-18 15:44:43 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 120 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 120 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -302,7 +302,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 166 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 166 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10152,7 +10152,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 40 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 40 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -21167,13 +21167,13 @@ Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>525843</ITEM_ID>
+          <ITEM_ID>847697</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Malířské potřeby | Zakrývací fólie na malování</CATEGORYTEXT>
             
 
-          <EAN>7612895330563</EAN>
+          <EAN>7612655134318</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
@@ -21183,12 +21183,12 @@ Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika Sikafloor®-54 Booster · Urychlovač vytvrzování epoxidových podlah · 6x800ml</PRODUCTNAME>
+          <PRODUCTNAME>Sika Sikafloor®-54 Booster · Urychlovač vytvrzování epoxidových podlah · 600ml</PRODUCTNAME>
           <DESCRIPTION>Urychlovač vytvrzování pro podlahy z epoxidové pryskyřice.
 Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo. Přidává se do epoxidových pryskyřic Sikafloor® pro urychlení procesu vytvrzování.
 ✅ Snadné přidávání a míchání do epoxidových pryskyřic Sikafloor®</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-54-booster?variant=52765475570001</URL>
-          <PRICE_VAT>5860.0</PRICE_VAT>
+          <PRICE_VAT>780.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-54-Booster_opt.jpg?v=1771683845</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -21203,17 +21203,17 @@ Sikafloor®-54 Booster  je kapalné terciární aminové vytvrzovací činidlo
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>741240</ITEM_ID>
+          <ITEM_ID>873574</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Malířské potřeby | Zakrývací fólie na malování</CATEGORYTEXT>
             
 
-          <EAN>7612895875484</EAN>
+          <EAN>7612655179463</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>HYEKCTA-THKKCLK</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>NTACA-LEOCHT</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
