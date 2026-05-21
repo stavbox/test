@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1401 -->
+<!-- Total products+variants: 1403 -->
 <!-- Total individual products: 558 -->
-<!-- Created: 2026-05-21 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-21 11:40:00 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -5651,8 +5651,8 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
   
           <SHOPITEM>
           <ITEM_ID>848770</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL 7032 (štěrkový šedý) / 5kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · RAL 7032 (štěrkový šedý) / 5kg - Epoxidová podlaha</PRODUCT>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL7032 (štěrkový šedý) / 5kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · RAL7032 (štěrkový šedý) / 5kg - Epoxidová podlaha</PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
@@ -5667,8 +5667,8 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
       
           <SHOPITEM>
           <ITEM_ID>839686</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL 7032 (štěrkový šedý) / 20kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · RAL 7032 (štěrkový šedý) / 20kg - Epoxidová podlaha</PRODUCT>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL7032 (štěrkový šedý) / 20kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · RAL7032 (štěrkový šedý) / 20kg - Epoxidová podlaha</PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
@@ -5683,8 +5683,8 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
       
           <SHOPITEM>
           <ITEM_ID>848766</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL 7035 (světle šedý) / 5kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · RAL 7035 (světle šedý) / 5kg - Epoxidová podlaha</PRODUCT>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL7035 (světle šedý) / 5kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · RAL7035 (světle šedý) / 5kg - Epoxidová podlaha</PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
@@ -5699,8 +5699,8 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
       
           <SHOPITEM>
           <ITEM_ID>848765</ITEM_ID>
-          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL 7035 (světle šedý) / 20kg</PRODUCTNAME>
-          <PRODUCT>Sika Sikafloor®-2510 W · RAL 7035 (světle šedý) / 20kg - Epoxidová podlaha</PRODUCT>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · RAL7035 (světle šedý) / 20kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · RAL7035 (světle šedý) / 20kg - Epoxidová podlaha</PRODUCT>
           <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
 Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
@@ -5711,6 +5711,38 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655139665</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>868343</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · PASTEL - vyberte odstín / 20kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · PASTEL - vyberte odstín / 20kg - Epoxidová podlaha</PRODUCT>
+          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
+Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=53827063578961</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
+          <PRICE_VAT>3275.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>868390</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · BRIGHT - vyberte odstín / 20kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · BRIGHT - vyberte odstín / 20kg - Epoxidová podlaha</PRODUCT>
+          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
+Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=53827063611729</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
+          <PRICE_VAT>3275.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
         </SHOPITEM>
       
     
