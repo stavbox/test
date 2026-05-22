@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1403 -->
 <!-- Total individual products: 558 -->
-<!-- Created: 2026-05-22 00:00:33 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-22 09:57:40 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -302,7 +302,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 115 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 115 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -11920,7 +11920,7 @@ Komponenty A + B se vztahují k modulu Sika® Repair/Sikafloor® EpoCem®</DESCR
 KÖSTER SB Bonding Emulsion je univerzálně použitelná syntetická kapalina pro všechny cementové malty, omítky a těsnicí hmoty. KÖSTER SB Bonding Emulsion neobsahuje rozpouštědla, změkčovadla a plniva. Když se syntetická kapalina přidá do systémů na minerální bázi, zvyšuje elasticitu a pružnost a snižuje absorpci vody. KÖSTER SB Bonding Emulsion je voděodolná, což znamená, že po aplikaci ji nelze smýt ani spláchnout.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-sb-bonding-emulsion?variant=52615066321233</URL>
           <PRICE_VAT>1530.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SB-Bonding-Emulsion_opt.jpg?v=1765831310</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
