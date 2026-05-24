@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1403 -->
-<!-- Total individual products: 558 -->
-<!-- Created: 2026-05-24 00:00:30 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1404 -->
+<!-- Total individual products: 559 -->
+<!-- Created: 2026-05-24 13:49:14 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -24263,6 +24263,25 @@ KÖSTER SL Flex je vysoce kvalitní, rychle tvrdnoucí minerální samonivelač
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>64101</ITEM_ID>
+          <PRODUCTNAME>Sika Sikagard®-552 W Aquaprimer · Základní nátěr pro beton, 1K</PRODUCTNAME>
+          <PRODUCT>Sika Sikagard®-552 W Aquaprimer · 10 l - Základní nátěr na beton</PRODUCT>
+          <DESCRIPTION>Základní nátěr, na vodní bázi.
+Sikagard®-552 W Aquaprimer je 1komponentní nátěr, na bázi vodní disperze, zvyšující přilnavost následně aplikovaných vrstev k podkladu (nátěry na vodní bázi), vytváří bezprašný povrch.Sikagard®-552 W Aquaprimer je součástí systému, který vyhovuje požadavkům normy ČSN EN 1504-2 jako ochranný nátěr.
+✅ Na vodní bázi - bez rozpouštědel✅ Šetrný k životnímu prostředí✅ Propouští vodní páry
+Barva: mléčně bílá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-552-w-aquaprimer-10l</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-552W-Aquaprimer_stavbox.webp?v=1779603470</IMGURL>
+          <PRICE_VAT>3050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894197167</EAN>
         </SHOPITEM>
       
     

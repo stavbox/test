@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1403 -->
-<!-- Total individual products: 558 -->
-<!-- Created: 2026-05-24 00:00:31 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1404 -->
+<!-- Total individual products: 559 -->
+<!-- Created: 2026-05-24 13:49:15 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -29746,7 +29746,7 @@ RD1 Universal je rychleschnoucí, reaktivní jednosložková hydroizolační st�
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rd1-universal?variant=53225847128401</URL>
           <PRICE_VAT>1640.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RD-1-Universal_stavbox.webp?v=1772831310</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -51818,6 +51818,45 @@ KÖSTER SL Flex je vysoce kvalitní, rychle tvrdnoucí minerální samonivelač
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>EKYLCNT-KKHUCUU</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikagard®-552 W Aquaprimer · Základní nátěr pro beton, 1K</PRODUCTNAME>
+          <DESCRIPTION>Základní nátěr, na vodní bázi.
+Sikagard®-552 W Aquaprimer je 1komponentní nátěr, na bázi vodní disperze, zvyšující přilnavost následně aplikovaných vrstev k podkladu (nátěry na vodní bázi), vytváří bezprašný povrch.Sikagard®-552 W Aquaprimer je součástí systému, který vyhovuje požadavkům normy ČSN EN 1504-2 jako ochranný nátěr.
+✅ Na vodní bázi - bez rozpouštědel✅ Šetrný k životnímu prostředí✅ Propouští vodní páry
+Barva: mléčně bílá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagard-552-w-aquaprimer-10l</URL>
+          <PRICE_VAT>3050.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-552W-Aquaprimer_stavbox.webp?v=1779603470</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>64101</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>7612894197167</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ELKACON-HTUUCEY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
