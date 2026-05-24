@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1404 -->
 <!-- Total individual products: 559 -->
-<!-- Created: 2026-05-24 13:49:15 -->
+<!-- Created: 2026-05-24 22:10:10 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -38135,7 +38135,7 @@ MS80 W spolehlivě brání vnikání srážek a zároveň agresivních látek z 
 Barva: transparentní</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-ms80-w</URL>
           <PRICE_VAT>2185.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS80-W_stavbox.webp?v=1775650253</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
