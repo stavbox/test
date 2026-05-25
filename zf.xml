@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1404 -->
 <!-- Total individual products: 559 -->
-<!-- Created: 2026-05-25 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-25 08:27:10 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -29083,7 +29083,7 @@ RD2 The Green 1 je rychleschnoucí hydroizolační stěrková hmota bez obsahu b
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rd2-the-green-1?variant=53220500799825</URL>
           <PRICE_VAT>1215.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament-RD2-Green_opt_sbx.webp?v=1772804696</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
