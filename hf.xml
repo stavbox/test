@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1417 -->
-<!-- Total individual products: 562 -->
-<!-- Created: 2026-05-26 18:32:36 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 1405 -->
+<!-- Total individual products: 554 -->
+<!-- Created: 2026-05-27 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -13646,7 +13646,7 @@ Barva:komponent A: bezbarvýkomponent B: hnědý</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>34100600225609008</ITEM_ID>
+          <ITEM_ID>34100600225609</ITEM_ID>
           <PRODUCTNAME>Botament RD2 The Green 1 · Rychlá 2K reaktivní hydroizolační stěrka · 8kg</PRODUCTNAME>
           <PRODUCT>Botament RD2 The Green 1 · 8kg - 2K hydroizolační stěrka</PRODUCT>
           <DESCRIPTION>Rychlá, multifunkční reaktivní izolační stěrka, dvousložková.
@@ -13663,7 +13663,7 @@ Barva: zelená</DESCRIPTION>
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>34100600355609008</ITEM_ID>
+          <ITEM_ID>34100600355609</ITEM_ID>
           <PRODUCTNAME>Botament RD2 The Green 1 · Rychlá 2K reaktivní hydroizolační stěrka · 20kg</PRODUCTNAME>
           <PRODUCT>Botament RD2 The Green 1 · 20kg - 2K hydroizolační stěrka</PRODUCT>
           <DESCRIPTION>Rychlá, multifunkční reaktivní izolační stěrka, dvousložková.
@@ -15327,23 +15327,6 @@ Barva: mlečná</DESCRIPTION>
           <EAN>4030905070019</EAN>
         </SHOPITEM>
       
-          <SHOPITEM>
-          <ITEM_ID>18710000245609</ITEM_ID>
-          <PRODUCTNAME>Botament D10 · Polymerová zušlechťovací emulze pro malty a stěrky · 10l</PRODUCTNAME>
-          <PRODUCT>Botament D10 · 10l - Zušlechťovací emulze</PRODUCT>
-          <DESCRIPTION>Zušlechťovací emulze.
-D10 je vysoce koncentrovaná polymerová přísada pro vylepšení minerálních, hydraulicky vytvrzujících stavebních hmot ve vnitřním i vnějším prostředí.
-✅ Snižuje propustnost vody✅ Redukuje pnutí při vytvrzování✅ Působí plastifikačně✅ Optimalizuje zpracovatelnost a přídržnost✅ Zvyšuje odolnost proti opotřebení a pevnost v tahu za ohybu
-Barva: mlečná</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-d10?variant=53380166484305</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D10_stavbox.webp?v=1774432007</IMGURL>
-          <PRICE_VAT>2775.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905070026</EAN>
-        </SHOPITEM>
-      
     
   
           <SHOPITEM>
@@ -15419,7 +15402,7 @@ Barva: zelená</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>44629000166009007</ITEM_ID>
+          <ITEM_ID>44629000165609007</ITEM_ID>
           <PRODUCTNAME>Botament DF9 Plus · Tekutá elastická hydroizolační fólie pod dlažbu · 3kg</PRODUCTNAME>
           <PRODUCT>Botament DF9 Plus · 3kg - Tekutá izolační fólie</PRODUCT>
           <DESCRIPTION>Tekutá izolační fólie.
@@ -15436,7 +15419,7 @@ DF9 Plus je nátěrová hmota se schopností překlenovat trhliny pro vytvářen
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>44629000296009007</ITEM_ID>
+          <ITEM_ID>44629000295609007</ITEM_ID>
           <PRODUCTNAME>Botament DF9 Plus · Tekutá elastická hydroizolační fólie pod dlažbu · 12kg</PRODUCTNAME>
           <PRODUCT>Botament DF9 Plus · 12kg - Tekutá izolační fólie</PRODUCT>
           <DESCRIPTION>Tekutá izolační fólie.
@@ -15453,7 +15436,7 @@ DF9 Plus je nátěrová hmota se schopností překlenovat trhliny pro vytvářen
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>44629000366009007</ITEM_ID>
+          <ITEM_ID>44629000365609007</ITEM_ID>
           <PRODUCTNAME>Botament DF9 Plus · Tekutá elastická hydroizolační fólie pod dlažbu · 21kg</PRODUCTNAME>
           <PRODUCT>Botament DF9 Plus · 21kg - Tekutá izolační fólie</PRODUCT>
           <DESCRIPTION>Tekutá izolační fólie.
@@ -16036,7 +16019,7 @@ M44 Crystal je všestranně použitelná spárovací hmota s hydrofobním efekte
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>49505400376009008</ITEM_ID>
+          <ITEM_ID>49505410235609008</ITEM_ID>
           <PRODUCTNAME>Botament M44 Crystal · Flexibilní spárovací hmota do 5 mm · mokka (41) · 3kg</PRODUCTNAME>
           <PRODUCT>Botament M44 Crystal · mokka (41) · 3kg - Flexibilní spárovací hmota</PRODUCT>
           <DESCRIPTION>Flexibilní spárovací hmota.
@@ -16053,7 +16036,7 @@ M44 Crystal je všestranně použitelná spárovací hmota s hydrofobním efekte
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>SBX49505</ITEM_ID>
+          <ITEM_ID>49505480236009008</ITEM_ID>
           <PRODUCTNAME>Botament M44 Crystal · Flexibilní spárovací hmota do 5 mm · melba (48) · 3kg</PRODUCTNAME>
           <PRODUCT>Botament M44 Crystal · melba (48) · 3kg - Flexibilní spárovací hmota</PRODUCT>
           <DESCRIPTION>Flexibilní spárovací hmota.
@@ -16066,7 +16049,7 @@ M44 Crystal je všestranně použitelná spárovací hmota s hydrofobním efekte
           <DELIVERY_DATE>2</DELIVERY_DATE>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Spárovací hmoty</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
-          
+          <EAN>5997953703483</EAN>
         </SHOPITEM>
       
     
@@ -16217,23 +16200,6 @@ Barva: mléčně bílá</DESCRIPTION>
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>18912500375609</ITEM_ID>
-          <PRODUCTNAME>Botament A250 · samonivelační stěrka 3-40 mm · 25kg</PRODUCTNAME>
-          <PRODUCT>Botament A250 · 25kg - Samonivelační stěrka</PRODUCT>
-          <DESCRIPTION>Nivelační stěrka od 3 do 40 mm | CT–C35–F7
-A250 je samonivelační stěrka pro vyrovnání podkladů ve vnitřním prostředí.
-✅ Vhodná takřka na všechny podklady✅ Minimalizované smrštění✅ Pro plochy s podlahovým vytápěním✅ Pro ruční i strojní zpracování</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-a250</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_A250_stavbox.webp?v=1775466988</IMGURL>
-          <PRICE_VAT>935.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905200119</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>18949400375609007</ITEM_ID>
@@ -16273,24 +16239,6 @@ M50 je samonivelační stěrka pro vyrovnávání podlah ve vnitřním i vnějš
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>18912530375609</ITEM_ID>
-          <PRODUCTNAME>Botament M53 Extra · samonivelační stěrka s vlákny do 40 mm · 25kg</PRODUCTNAME>
-          <PRODUCT>Botament M53 Extra · 25kg - Samonivelační vyrovnávací stěrka</PRODUCT>
-          <DESCRIPTION>Samonivelační hmota s armovacími vlákny pro vrstvy do 40 mm | ct-c35-f7
-M53 Extra je cementová, samonivelační vyrovnávací stěrka obsahující armovací vlákna, vhodná pro vyrovnání nerovností na podlahách ve vnitřním prostředí. Díky armovacím vláknům se výrazně snižuje riziko vzniku trhlin při použití na kritických podkladech.
-✅ Pro plochy s podlahovým vytápěním a uložení systémů podlahového topení nízké konstrukční výšky✅ Vhodná pro kritické podklady ze dřeva i smíšené podklady✅ Redukuje tvorbu trhlin✅ Ruční i strojní zpracování
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-m53-extra</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M53_Extra_stavbox.webp?v=1775472066</IMGURL>
-          <PRICE_VAT>1320.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905199987</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>18565540355609</ITEM_ID>
@@ -16443,25 +16391,6 @@ EB100 Botascreed je epoxidová pryskyřice pro výrobu pryskyřičných potěrů
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>58529100245609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® MegaFlow AF · armovací vlákna pro samoniv. hmoty · 250g</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® MegaFlow AF · 250g - Armovací vlákna</PRODUCT>
-          <DESCRIPTION>Armovací vlákna
-BotaGreen® MegaFlow AF jsou vysokopevnostní vlákna k armování samonivelačních hmot Botament. Vlákna se optimálně rozloží ve směsi a nenarušují tak zpracovatelnost hmoty.
-✅ K armování a zlepšení samonivelačních hmot Botament✅ Vhodné zejména pro použití na kritických podkladech✅ Redukují tvorbu smršťovacích trhlin✅ Zpevňují strukturu a zvyšují pevnost ve střihu
-Barva: bílá – transparentní
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-megaflow-af</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen_MegaFlow_AF_stavbox.webp?v=1775478481</IMGURL>
-          <PRICE_VAT>250.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905200324</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>44618200355609</ITEM_ID>
@@ -17150,23 +17079,6 @@ SB 78 je příčně elastický izolační pás oboustranně kašírovaný textil
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>86938040915609</ITEM_ID>
-          <PRODUCTNAME>Botament SB78 · elastický izolační pás pro obklady a dlažby · izolační manžeta 425 × 425 mm</PRODUCTNAME>
-          <PRODUCT>Botament SB78 · izolační manžeta 425 × 425 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-SB 78 je příčně elastický izolační pás oboustranně kašírovaný textilním rounem pro použití v systémových skladbách. Produkt lze použít s hydroizolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními hydroizolacemi RD2 The Green 1 a RD1 Universal. SB78 je vhodný pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastický✅ Přezkoušeno pro působení vody ve třídách W0-I až W3-I dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (třída zatížení C, SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-sb78?variant=53459986841937</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB78_stavbox.webp?v=1775557143</IMGURL>
-          <PRICE_VAT>425.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905050608</EAN>
-        </SHOPITEM>
-      
-          <SHOPITEM>
           <ITEM_ID>86938010915609</ITEM_ID>
           <PRODUCTNAME>Botament SB78 · elastický izolační pás pro obklady a dlažby · kout</PRODUCTNAME>
           <PRODUCT>Botament SB78 · kout - Izolační pás</PRODUCT>
@@ -17221,23 +17133,6 @@ RS je samolepicí izolační okrajová páska bránící vzniku zvukových most�
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>33910000900001</ITEM_ID>
-          <PRODUCTNAME>Botament GS98 · skelná armovací tkanina pro vyztužení izolací · role 50 m | šíře 1 m | rast 5x5 mm</PRODUCTNAME>
-          <PRODUCT>Botament GS98 · role 50 m | šíře 1 m | rast 5x5 mm - Skelná armovací tkanina</PRODUCT>
-          <DESCRIPTION>Skelná armovací tkanina
-GS98 je skelná tkanina pro vyztužení izolačních vrstev z bitumenových a reaktivních stěrkových hmot Botament.
-✅ Vysoká odolnost alkalickému prostředí✅ Vysoká pevnost✅ Snadno zpracovatelná✅ Přispívá k rozložení napětí v tahu</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-gs98</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_GS98_stavbox.webp?v=1775559561</IMGURL>
-          <PRICE_VAT>2950.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905020007</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>86360000925609</ITEM_ID>
@@ -17276,43 +17171,7 @@ Barva: černá/šedá</DESCRIPTION>
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>49130700375609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen Flexkleber · ekologické lepidlo C2 TE na dlažbu · 25kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Flexkleber · 25kg - Flexibilní lepidlo C2 TE</PRODUCT>
-          <DESCRIPTION>Flexibilní lepidlo C2 TE
-BotaGreen Flexkleber je flexibilní tenkovrstvé lepidlo se sníženou prašností pro lepení bezmála všech keramických dlaždic, či přírodních kamenů, které nejsou citlivé na probarvení. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí. Díky technologii šetrné ke klimatu a zdrojům se při výrobě pojiva sníží emise CO2 asi o 30 %.* Díky technologii Airflow má lepicí tmel BotaGreen Flexkleber obzvláště vláčnou konzistenci s lehkou zpracovatelností.
-✅ Snižuje uhlíkovou stopu*✅ Snížená prašnost✅ Velmi nízké emise✅ Flexibilní a vysoce stabilní✅ Pro plochy s podlahovým vytápěním✅ Pro lepení obklad na obklad✅ Dlouhá doba na uložení a korekci dlaždic
-*Tento údaj se vztahuje k lepidlům Botament srovnatelných vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
-   </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-flexkleber</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Flexkleber_stavbox.webp?v=1775564415</IMGURL>
-          <PRICE_VAT>720.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905081718</EAN>
-        </SHOPITEM>
-      
-    
   
-          <SHOPITEM>
-          <ITEM_ID>49223300375609</ITEM_ID>
-          <PRODUCTNAME>Botament M13 Stone · rychleschnoucí lepidlo na přírodní kámen · 25kg</PRODUCTNAME>
-          <PRODUCT>Botament M13 Stone · 25kg - Lepidlo pro přírodní kameny</PRODUCT>
-          <DESCRIPTION>Lepidlo pro přírodní kameny střední/silné vrstvy lože
-M13 Stone je rychleschnoucí lepidlo vhodné k lepení mnohých kalibrovaných i nekalibrovaných přírodních kamenů na stěnách a podlahách ve vnitřním i vnějším prostředí.
-✅ Rychleschnoucí✅ Pro plochy s podlahovým vytápěním✅ Vysoce stabilní✅ Barva: světle šedá✅ Vysoká ochrana proti výkvětům a probarven</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-m13-stone</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M13-Stone_stavbox.webp?v=1775564983</IMGURL>
-          <PRICE_VAT>980.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905080254</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>49115000375609008</ITEM_ID>
@@ -17371,25 +17230,6 @@ M21 je tenkovrstvé flexibilní lepidlo vhodné pro lepení téměř všech kera
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>49188050375609</ITEM_ID>
-          <PRODUCTNAME>Botament M21 HP Speed · flexibilní rychleschnoucí lepidlo · 25kg</PRODUCTNAME>
-          <PRODUCT>Botament M21 HP Speed · 25kg - Flexibilní rychleschnoucí lepidlo</PRODUCT>
-          <DESCRIPTION>Prémiové flexibilní rychleschnoucí lepidlo
-M21 HP Speed je vysoce flexibilní lepidlo obsahující armovací vlákna pro lepení téměř všech keramických dlaždic na stěnách a podlahách, dále přírodních kamenů, které nejsou citlivé na probarvení ve vnitřním i vnějším prostředí. Díky technologii Air-Flow má lepicí tmel obzvláště vláčnou konzistenci s lehkou zpracovatelností.
-tenkovrstvé • středněvrstvé • tekuté lože • vyrovnání do 10 mm
-✅ Vysoce vydatný v tenkém, středním i tekutém loži✅ Vysoce flexibilní – převyšuje požadavky S1✅ Pro plochy s podlahovým vytápěním, balkóny a terasy✅ Zvlášť stabilní dle EN 12004✅ Přezkoušený v systému s AE izolační a dělicí fólií
-    </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-m21-hp-speed</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M21-HP-Speed_stavbox.webp?v=1775568607</IMGURL>
-          <PRICE_VAT>1320.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905081442</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>49187000365609008</ITEM_ID>
@@ -17469,24 +17309,6 @@ M30 HP S2 je vysoce flexibilní lepidlo, obsahující armovací vlákna, vhodné
       
     
   
-          <SHOPITEM>
-          <ITEM_ID>49189000316009007</ITEM_ID>
-          <PRODUCTNAME>Botament Multilight · Flexibilní lehčené lepidlo C2TES1/S2 pro obklady · 15kg</PRODUCTNAME>
-          <PRODUCT>Botament Multilight · 15kg - Multifunkční lepidlo C2 TE S1/S2</PRODUCT>
-          <DESCRIPTION>Multifunkční lepidlo C2 TE S1/S2
-MULTILIGHT je multifunkční, lehčené lepidlo pro pokládku bezmála všech keramických dlaždic na stěnách i podlahách ve vnitřním i vnějším prostředí a plochách s podlahovým vytápěním.
-✅ Velmi stabilní a vysoce flexibilní✅ Zvláště vhodný pro velkoformátové dlaždice✅ Vysoká vydatnost✅ Dlouhá doba pro korekci a doba zavadnutí✅ Pro vyrovnání podkladu do 20 mm
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-multilight</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Multilight_stavbox.webp?v=1775572426</IMGURL>
-          <PRICE_VAT>640.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905132533</EAN>
-        </SHOPITEM>
-      
-    
   
           <SHOPITEM>
           <ITEM_ID>49224000315609</ITEM_ID>
@@ -17603,7 +17425,7 @@ Renovation HB1 je jednosložkový protikorozní a spojovací nátěr na minerál
     
   
           <SHOPITEM>
-          <ITEM_ID>44100000371009007</ITEM_ID>
+          <ITEM_ID>44100000371009008</ITEM_ID>
           <PRODUCTNAME>Botament M03 · Cementová opravná směs na beton do 50 mm · 25kg</PRODUCTNAME>
           <PRODUCT>Botament M03 · 25kg - Opravná cementová směs</PRODUCT>
           <DESCRIPTION>Opravná směs na betonové konstrukce
@@ -17621,7 +17443,7 @@ M03 je cementová směs vhodná pro vylepšení a opravy drobných i velkoplošn
     
   
           <SHOPITEM>
-          <ITEM_ID>44410000371009007</ITEM_ID>
+          <ITEM_ID>44410000371009008</ITEM_ID>
           <PRODUCTNAME>Botament M06 · jemná stěrková směs na vyrovnání betonu 2-6 mm · 25kg</PRODUCTNAME>
           <PRODUCT>Botament M06 · 25kg - Jemná stěrková hmota</PRODUCT>
           <DESCRIPTION>Jemná stěrková směs
@@ -17825,7 +17647,7 @@ Barva: bílá</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>47410700355609007</ITEM_ID>
+          <ITEM_ID>47410700355609</ITEM_ID>
           <PRODUCTNAME>Botament MS20 · sanační omítka pro vlhké a zasolené zdi · 20kg</PRODUCTNAME>
           <PRODUCT>Botament MS20 · 20kg - Sanační omítka</PRODUCT>
           <DESCRIPTION>Sanační omítka
@@ -18026,40 +17848,8 @@ PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výro
           <EAN>4030905095227</EAN>
         </SHOPITEM>
       
-          <SHOPITEM>
-          <ITEM_ID>65100050155609</ITEM_ID>
-          <PRODUCTNAME>Botament PF1 · ošetřující lazura pro beton a zámkové dlažby · transparentní · 2,5l</PRODUCTNAME>
-          <PRODUCT>Botament PF1 · transparentní · 2,5l - Ošetřující lazura betonu</PRODUCT>
-          <DESCRIPTION>Ošetřující lazura betonu
-PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výrobek PF 1 je zvláště vhodný pro oživení vzhledu starších vybledlých zámkových dlažeb. Plochy tak mohou znovu získat opticky odpovídající podobu a zároveň dlouhodobou ochranu před povětrnostními vlivy.
-✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056560465</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
-          <PRICE_VAT>665.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905095241</EAN>
-        </SHOPITEM>
-      
     
   
-          <SHOPITEM>
-          <ITEM_ID>21300000245609</ITEM_ID>
-          <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 10l</PRODUCTNAME>
-          <PRODUCT>Botament TF02 · 10l - Separační prostředek</PRODUCT>
-          <DESCRIPTION>Separační prostředek
-TF02 je separační prostředek pro savé i nesavé bednění ze dřeva, plastů i kovu. Zabezpečuje optimální separaci bednění od vytvrzeného betonu, zároveň přispívá k ochraně a ošetření bednění. Separační prostředek nijak neovlivňuje tuhnutí ani vytvrzení betonu.
-✅ Optimální separace od bednění✅ K okamžitému použití✅ Všestranně použitelný✅ Zabraňuje korozi ocelových bednění✅ Biologicky rozložitelný</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-tf02?variant=53471079039313</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TF02_stavbox.webp?v=1775651540</IMGURL>
-          <PRICE_VAT>1300.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE>
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
-          <MANUFACTURER>Botament</MANUFACTURER>
-          <EAN>4030905150025</EAN>
-        </SHOPITEM>
-      
           <SHOPITEM>
           <ITEM_ID>21300000395609</ITEM_ID>
           <PRODUCTNAME>Botament TF02 · separační prostředek pro bednění ze dřeva i kovu · 30l</PRODUCTNAME>
