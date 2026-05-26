@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1404 -->
-<!-- Total individual products: 559 -->
-<!-- Created: 2026-05-26 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1415 -->
+<!-- Total individual products: 561 -->
+<!-- Created: 2026-05-26 14:56:12 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 84 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 70 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -87,7 +87,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012893521</URL>
           <PRICE_VAT>3845.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 112 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 56 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -265,7 +265,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 196 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 180 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -302,7 +302,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1035.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 115 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 96 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -902,7 +902,7 @@ Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká apl
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
           <PRICE_VAT>11500.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1083,7 +1083,7 @@ Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychlesch
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>540.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1118,7 +1118,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1915.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 1 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1153,7 +1153,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665797017937</URL>
           <PRICE_VAT>10150.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 11 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1189,7 +1189,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571961681</URL>
           <PRICE_VAT>1610.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 3 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1224,7 +1224,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 1K mineralizační koncentrát pro horizontální bariéru proti vzlínající vlhkosti. Hloubková penetrace a zpevnění zdiva. Beztlaká nebo nízkotlaká aplikace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-standard?variant=52712571994449</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-Standard-10kg-penetrace.jpg?v=1755778232</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1331,7 +1331,7 @@ Jemná sanační omítka (feinputz) WTA pro interiér i exteriér. Nízká alkal
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-q2-25kg</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 140 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 135 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-Q2-25kg-fajnova-omitka-specialni.jpg?v=1755783214</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1628,7 +1628,7 @@ Silikonová impregnace pro savé podklady. Zvyšuje vodoodpudivost, chrání př
 Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje nasákavost podkladu. Ideální pro vlhké zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-prep-30kg</URL>
           <PRICE_VAT>820.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 168 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 162 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Prep-30kg-omitkovy-podhoz.jpg?v=1755779270</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -4900,7 +4900,7 @@ Omítka pro systém vnitřní izolace IQ Term 2.0. Paropropustná, vysoce kapil
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-snl?variant=52660688912721</URL>
           <PRICE_VAT>525.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5005,7 +5005,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-snl?variant=52660688978257</URL>
           <PRICE_VAT>12578.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 12 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SNL-1l-hydrofobizacni-impregnace.jpg?v=1755860000</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5514,7 +5514,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <PRICE_VAT>2495.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 9 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5622,7 +5622,7 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
 Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-120?variant=52670659625297</URL>
           <PRICE_VAT>4895.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1300 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1100 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6027,7 +6027,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3200.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6062,7 +6062,7 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201899345</URL>
           <PRICE_VAT>16925.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 13 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6787,7 +6787,7 @@ Ochranný prostředek pro kámen s jílovými minerály. Snižuje hygrické bobt
 Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, mastnotu, šetrný k povrchu, ideální pro staré budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-sl-5kg</URL>
           <PRICE_VAT>1385.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-SL-5kg-cistici-roztok-na-steny-a-podlahy.jpg?v=1755863980</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6824,7 +6824,7 @@ Tenzidový čistič pro fasády, stěny a podlahy . Odstraňuje špínu, prach, 
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386857297</URL>
           <PRICE_VAT>375.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 3 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7480,7 +7480,7 @@ Elastifikovaný zpevňovač kamene pro památky. Hluboká penetrace, zvyšuje pe
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300-e?variant=52670553686353</URL>
           <PRICE_VAT>23500.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-E-5l-elasticky-zpevnovac.jpg?v=1755865491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7739,7 +7739,7 @@ Vodná penetrace pro savé podklady, zpevňuje povrch, vyrovnává savost. Ideá
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 18 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10117,7 +10117,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 45 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 44 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -18117,7 +18117,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472154161489</URL>
           <PRICE_VAT>1525.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 350 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -18257,7 +18257,7 @@ Balení: 50 m (role), různé šířky</DESCRIPTION>
 Balení: 50 m (role), různé šířky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-pureactive-f-50m?variant=52472167760209</URL>
           <PRICE_VAT>6100.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1200 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1050 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MB-PUReactive-F_dl_sbx.jpg?v=1764160375</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -25566,7 +25566,7 @@ Sikafloor® CureHard LI je směs křemičitanu lithného na vodní bázi pro vyt
 Barva: čirá kapalina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-curehard-li?variant=52854782099793</URL>
           <PRICE_VAT>6680.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika-generic-02_opt.jpg?v=1767793518</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -35319,7 +35319,7 @@ B95 L je vysoce kvalitní ochranný nátěr na živičné bázi s dobrou odolnos
 Barva: černá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-b95-l</URL>
           <PRICE_VAT>4465.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_B95-L_stavbox.webp?v=1775491520</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -51857,6 +51857,398 @@ Barva: mléčně bílá kapalina</DESCRIPTION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>ELKACON-HTUUCEY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® FerroGard®-903 Plus · Inhibitor koroze pro železobeton · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Inhibitor koroze - impregnační nátěr (vylepšená receptura).
+Sika® FerroGard®-903 Plus je povrchově aplikovaný inhibitor koroze, navržený jako antikorozní impregnace pro železobeton.Sika® FerroGard®-903 Plus je na bázi organických sloučenin. Sika® FerroGard®-903 Plus proniká betonem a ulpívá na povrchu ocelové výztuže. Sika® FerroGard®-903 Plus oddaluje počátek vzniku koroze a snižuje její rychlost. Ochrana proti korozi pomocí produktu Sika® FerroGard®-903 Plus prodlužuje životnost a dobu údržby konstrukcí na 15 let při použití jako součást komplexního systému pro ochranu a opravy železobetonu pomocí systémů Sika.
+✅ Vhodná pro metodu 11.3 (Přidání inhibitorů do betonu) dle normy EN 1504-9, Zásada 11✅ Nemění vzhled betonové konstrukce✅ Nemá vliv na propustnost vodních par betonu✅ Lze aplikovat na povrch stávajících sanačních malt a brání vytváření anodických oblastí na výztuži✅ Chrání jak katodickou (zásada 9, norma EN 1504-9) tak i anodickou oblast (zásada 11, norma EN 1504-9)✅ Může být aplikován tam, kde jiné opravy / ochrany nejsou možné
+Barva: transparentní kapalina, bezbarvá až mírně nažloutlá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-ferrogard-903-plus?variant=53864973631825</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-FerroGard-903-Plus_stavbox.webp?v=1779789650</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>498951</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>7612895243283</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-EHALNCEY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® FerroGard®-903 Plus · Inhibitor koroze pro železobeton · 220kg</PRODUCTNAME>
+          <DESCRIPTION>Inhibitor koroze - impregnační nátěr (vylepšená receptura).
+Sika® FerroGard®-903 Plus je povrchově aplikovaný inhibitor koroze, navržený jako antikorozní impregnace pro železobeton.Sika® FerroGard®-903 Plus je na bázi organických sloučenin. Sika® FerroGard®-903 Plus proniká betonem a ulpívá na povrchu ocelové výztuže. Sika® FerroGard®-903 Plus oddaluje počátek vzniku koroze a snižuje její rychlost. Ochrana proti korozi pomocí produktu Sika® FerroGard®-903 Plus prodlužuje životnost a dobu údržby konstrukcí na 15 let při použití jako součást komplexního systému pro ochranu a opravy železobetonu pomocí systémů Sika.
+✅ Vhodná pro metodu 11.3 (Přidání inhibitorů do betonu) dle normy EN 1504-9, Zásada 11✅ Nemění vzhled betonové konstrukce✅ Nemá vliv na propustnost vodních par betonu✅ Lze aplikovat na povrch stávajících sanačních malt a brání vytváření anodických oblastí na výztuži✅ Chrání jak katodickou (zásada 9, norma EN 1504-9) tak i anodickou oblast (zásada 11, norma EN 1504-9)✅ Může být aplikován tam, kde jiné opravy / ochrany nejsou možné
+Barva: transparentní kapalina, bezbarvá až mírně nažloutlá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-ferrogard-903-plus?variant=53864973664593</URL>
+          <PRICE_VAT>75690.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-FerroGard-903-Plus_stavbox.webp?v=1779789650</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>498950</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>7612895243276</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NAHAECT-YLUNHCLU</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 512 (50x12 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866123755857</URL>
+          <PRICE_VAT>695.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>5712</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          <EAN>7611237131295</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NNUCEE-YNOCHE</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 514 (50x14 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866123788625</URL>
+          <PRICE_VAT>75690.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NAHAECT-YLUNHCLU</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 614 (60x14 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866265346385</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 812 (80x12 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866265379153</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 914 (90x12 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866265411921</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 1012 (100x12 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866331865425</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 1014 (100x14 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866331898193</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 1214 (120x14 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866331930961</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® CarboDur® S · Uhlíkové lamely pro zesilování konstrukcí · 1512 (150x12 mm)</PRODUCTNAME>
+          <DESCRIPTION>Lamely z tažených uhlíkových vláken pro zesilování konstrukcí, součást systému Sika® CarboDur®.
+Sika® CarboDur® S jsou lamely z tažených uhlíkových vláken (CFRC) vyztužených polymery, určené pro zesilování betonových, dřevěných, zděných, ocelových a vláknem vyztužených konstrukcí.Lamely Sika® CarboDur® S se lepí na konstrukci jako externí zesílení pomocí epoxidového lepidla Sikadur®-30 (při běžných aplikačních teplotách) nebo pomocí epoxidového lepidla Sikadur®-30 LP (při vyšších aplikačních a provozních teplotách).Detailní informace o lepidlech naleznete v příslušných technických listech.
+✅ Nekorodují✅ Velmi vysoké pevnosti✅ Vynikající životnost, vysoká odolnost proti únavě
+Barva: uhlíková vlákna vyztužená polymerem s epoxidovou matricí, černá barva.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-carbodur-s?variant=53866331963729</URL>
+          <PRICE_VAT>11640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-CarboDur_stavbox.webp?v=1779792750</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/10829682540881</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební profily</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TEHUCUH-</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
