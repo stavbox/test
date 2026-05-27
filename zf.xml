@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1405 -->
 <!-- Total individual products: 554 -->
-<!-- Created: 2026-05-27 00:00:28 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-27 08:01:24 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -7146,7 +7146,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884794705</URL>
           <PRICE_VAT>7875.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 12 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 12 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9695,7 +9695,7 @@ Odsolovací maltová směs pro historický kámen a zdivo. Efektivně odstraňuj
 INTRASIT® SE-SL 18DD je vysoce koncentrovaný čisticí roztok, který se používá pro šetrnou likvidaci plísní v interiérech a na čištění venkovních povrchů pokrytých povlakem černých nebo zelených řas.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-intrasit-se-sl-18dd-5kg</URL>
           <PRICE_VAT>1480.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-INTRASIT-SE-SL-18DD-5kg-sanacni-roztok-pro-cisteni.jpg?v=1755879186</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
