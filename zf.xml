@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1406 -->
 <!-- Total individual products: 555 -->
-<!-- Created: 2026-05-28 00:00:30 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-28 10:30:00 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 66 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 66 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -17866,7 +17866,7 @@ Katalog - Podlahová technika SCHÖNOX</DESCRIPTION>
 Sikafloor® ProSeal-12 je roztok akrylátové pryskyřice v organických rozpouštědlech, který se používá pro ošetření, utěsnění a vytvrzení čerstvě položených i stávajících betonových povrchů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-proseal-12?variant=52645252104529</URL>
           <PRICE_VAT>1545.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-Proseal-12_opt.jpg?v=1763644567</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
