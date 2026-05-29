@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1406 -->
 <!-- Total individual products: 555 -->
-<!-- Created: 2026-05-29 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-05-29 08:28:14 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -9695,7 +9695,7 @@ Odsolovací maltová směs pro historický kámen a zdivo. Efektivně odstraňuj
 INTRASIT® SE-SL 18DD je vysoce koncentrovaný čisticí roztok, který se používá pro šetrnou likvidaci plísní v interiérech a na čištění venkovních povrchů pokrytých povlakem černých nebo zelených řas.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-intrasit-se-sl-18dd-5kg</URL>
           <PRICE_VAT>1480.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-INTRASIT-SE-SL-18DD-5kg-sanacni-roztok-pro-cisteni.jpg?v=1755879186</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -10152,7 +10152,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1295.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 30 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 30 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -29620,7 +29620,7 @@ MULTIFUGE Diamond Max je multifunkční spárovací hmota a lepicí tmel na báz
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>ALOCA-ENUKCYU</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>ALTCTL-ENUTCKE</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -29656,7 +29656,7 @@ MULTIFUGE Diamond Max je multifunkční spárovací hmota a lepicí tmel na báz
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>ALTCTL-ENUTCKE</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>ALOCA-ENUKCYU</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38538,7 +38538,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KENCTA-ETKACLE</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YOACHK-ETKACLE</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38576,7 +38576,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KUTCYN-ETONCUK</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YALCTA-ETONCUK</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38589,7 +38589,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
 ✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477812896081</URL>
-          <PRICE_VAT>1360.0</PRICE_VAT>
+          <PRICE_VAT>1330.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -38614,7 +38614,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KUHCA-EATNCAN</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YEKCEA-EAHTCYA</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38652,7 +38652,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>AUOCN-EKETCYA</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>AUHCL-EKETCYA</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38690,7 +38690,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KUYCHK-EATNCAN</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YHUCN-EATNCAN</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38728,7 +38728,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>AKECH-EKNYCTK</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>AELCK-EKNYCTK</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38741,7 +38741,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
 ✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819547985</URL>
-          <PRICE_VAT>1015.0</PRICE_VAT>
+          <PRICE_VAT>1350.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -38766,7 +38766,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KUYCHK-EKAECNH</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>KUYCHK-EATNCAN</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38779,7 +38779,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
 ✅ Pro spáry o šířce do 7 mm✅ Flexibilní – pro plochy s podlahovým vytápěním✅ Jemný, hladký povrch spáry✅ Odpuzuje vodu a nečistoty✅ Vysoká přilnavost k hranám dlaždic v úzkých spárách
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multifuge-fine?variant=53477819580753</URL>
-          <PRICE_VAT>1010.0</PRICE_VAT>
+          <PRICE_VAT>1015.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Fine_stavbox.webp?v=1775729202</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
@@ -38804,7 +38804,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EKKOCEK-EKOOCLY</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>AKOCO-EKAECNH</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38842,7 +38842,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KUOCYN-EAOOCKY</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YKUCY-EAOOCKY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38880,7 +38880,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>AEYCNO-EKNHCKT</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>AEACO-EKNHCKT</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38918,7 +38918,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KUTCY-EAANCLA</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YKOCA-EAANCLA</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38956,7 +38956,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>AKNCL-EKOOCLY</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>AKKCY-EKOOCLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -38994,7 +38994,7 @@ Zvlášť vhodná pro pórovinové obklady a hutné dlaždice
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KULCOA-EAYNCHK</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>YHOCK-EAYNCHK</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
@@ -39948,7 +39948,7 @@ Balení: 310 ml kartuše
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EANCOY-KTLCEO</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>EHYCNK-KTLCEO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -40767,7 +40767,7 @@ Balení: 310 ml kartuše
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EHYCYY-KTLCEO</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>EHYCNK-KTLCEO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
