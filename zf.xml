@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1396 -->
 <!-- Total individual products: 553 -->
-<!-- Created: 2026-06-01 16:03:59 -->
+<!-- Created: 2026-06-01 17:01:08 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -11767,7 +11767,7 @@ KÖSTER R4 je opravná malta na beton s vynikající přilnavostí na staré i n
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-okoplast-2k-20b-30kg</URL>
           <PRICE_VAT>3410.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/OKOPLAST_2K_20B_opt.jpg?v=1765202395</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -34365,7 +34365,7 @@ Sika® Separol® W-320 je odbedňovací prostředek bez obsahu rozpouštědel, 
 Barva: mléčně bílá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-separol-w-320?variant=53434363969873</URL>
           <PRICE_VAT>1880.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Separol-W-320_stavbox.webp?v=1775138592</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
