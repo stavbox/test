@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1396 -->
 <!-- Total individual products: 553 -->
-<!-- Created: 2026-06-02 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-06-02 09:25:04 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -6894,7 +6894,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
 Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu, vhodný pro staré budovy, šetrný k podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386890065</URL>
           <PRICE_VAT>7645.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -2, VI: 13 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 13 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -21012,7 +21012,7 @@ Sikagard®-907 W je 1-komponentní ochranný prostředek na vodní bázi akrylá
 Barva:Opálově bílá kapalina. Po zaschnutí transparentní.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-907-w?variant=52763740799313</URL>
           <PRICE_VAT>2220.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-907-W-5l_opt.jpg?v=1767789883</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -30621,7 +30621,7 @@ Barva:komp. A: mléčná tekutinakomp. B: bílý prášekbarevný pigment Sika
 Balení:komp. A: 3,0 kgkomp. B: 10,0 kgsměs A + B: 13,0 kgbarevný pigment SikaDecor®: 500 ml</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikadecor-801-nature?variant=53307426275665</URL>
           <PRICE_VAT>1995.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadecor-801-Nature_02_stavbox.webp?v=1773686016</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
