@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1396 -->
+<!-- Total products+variants: 1395 -->
 <!-- Total individual products: 553 -->
-<!-- Created: 2026-06-04 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-06-04 17:03:45 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -160,7 +160,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279834961</URL>
           <PRICE_VAT>10735.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 21 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -265,7 +265,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 172 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 167 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -302,7 +302,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí, odolná proti vodě a mrazu, ideální pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <PRICE_VAT>1095.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 64 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 42 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1118,7 +1118,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 21 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1517,7 +1517,7 @@ Pro většinu pracovních postupů je možné zaměnit Kiesol za levnější Kie
 Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavřená vydrží velmi dlouho. Vhodná pro sklepy a terasy, odolná vodě, pružná, snadno zpracovatelná. Stavebníkům doporučujeme mít u sebe stále malé balení.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-1k-rapid?variant=52654982070609</URL>
-          <PRICE_VAT>2490.0</PRICE_VAT>
+          <PRICE_VAT>2745.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-1K-rapid-25kg-multifunkcni-hydroizolacni-sterka-1K.jpg?v=1755760155</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1542,7 +1542,7 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EOEUCU-HUNOCET</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>EAUECAH-HKKLCLO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -1554,7 +1554,7 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-1k-rapid?variant=52654982103377</URL>
           <PRICE_VAT>4790.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 50 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 86 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-1K-rapid-25kg-multifunkcni-hydroizolacni-sterka-1K.jpg?v=1755760155</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5043,7 +5043,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849738065</URL>
           <PRICE_VAT>2245.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 1 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5079,7 +5079,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849770833</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5333,7 +5333,7 @@ Barva s dlouhodobou ochranou proti plísním. Paropropustná, odolná vlhkosti, 
           <DESCRIPTION>Antikorozní ochrana.
 Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje přilnavost opravných malt, odolný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-khb?variant=52657666818385</URL>
-          <PRICE_VAT>690.0</PRICE_VAT>
+          <PRICE_VAT>670.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-KHB-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755860527</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5358,7 +5358,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>HKOCA-AOACAH</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>HOTCU-TELCLO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -5368,7 +5368,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
           <DESCRIPTION>Antikorozní ochrana.
 Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje přilnavost opravných malt, odolný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-khb?variant=52657666851153</URL>
-          <PRICE_VAT>2490.0</PRICE_VAT>
+          <PRICE_VAT>2655.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-KHB-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755860527</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -5393,7 +5393,7 @@ Antikorozní nátěr a přilnavý můstek pro beton. Chrání výztuž, zvyšuje
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EKLUCU-KAUECO</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>ENEOCTO-KYOOCE</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
@@ -5443,7 +5443,7 @@ Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnos
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031588177</URL>
           <PRICE_VAT>2585.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7553,7 +7553,7 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic?variant=52925410476369</URL>
           <PRICE_VAT>3050.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 35 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 71 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-1K-30l-bitumenova-sterka.jpg?v=1755865564</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8855,9 +8855,10 @@ Vodný impregnační krém na bázi silanů pro beton. Hloubková hydrofobizace,
         <SHOPITEM>
           <PRODUCTNAME>Remmers Betofix Fill · 25 kg · PCC jemná stěrka pro vyrovnání betonových povrchů</PRODUCTNAME>
           <DESCRIPTION>PCC jemná stěrka pro vyrovnání betonových povrchů.
-Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům, vhodná pro bioplynové stanice, splňuje EN 1504-3, pro opravy a vyhlazení povrchu.</DESCRIPTION>
+Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům, vhodná pro bioplynové stanice, splňuje EN 1504-3, pro opravy a vyhlazení povrchu.
+Barva: betonově šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-fill-25kg</URL>
-          <PRICE_VAT>1870.0</PRICE_VAT>
+          <PRICE_VAT>2050.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 26 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-Fill-25kg-PCC-jemna-sterka.jpg?v=1755877725</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -8882,7 +8883,7 @@ Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům,
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EULECU-KKUUCEY</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>EELACTO-KNEHCNO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
@@ -8967,7 +8968,7 @@ Transparentní ředicí aditivum pro systémy silikonových nátěrů k nastaven
 Akrylová výplňová barva pro cihlové fasády památek. Překlenuje mikrotrhliny, vodoodpudivá, odolná UV záření, ideální pro restaurování historických budov.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-fill-historic-specialni-odstiny?variant=52656039133521</URL>
           <PRICE_VAT>3460.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Fill-Historic-5l-plnici-barva-historicka.jpg?v=1755877979</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10117,7 +10118,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 35 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 32 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10152,7 +10153,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 28 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 26 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10188,7 +10189,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176605521</URL>
-          <PRICE_VAT>325.0</PRICE_VAT>
+          <PRICE_VAT>445.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 9 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10213,7 +10214,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>ELUCLA-HYOCE</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>KHYCUH-NYUCUH</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -10223,7 +10224,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176638289</URL>
-          <PRICE_VAT>2390.0</PRICE_VAT>
+          <PRICE_VAT>3260.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10248,7 +10249,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EHLOCUO-KYEHCHO</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>ETNUCUN-HOULCUY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -10258,7 +10259,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176671057</URL>
-          <PRICE_VAT>4750.0</PRICE_VAT>
+          <PRICE_VAT>6480.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10283,7 +10284,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KTTUCK-OOYACOT</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>HNOTCU-ALTECAK</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -10293,7 +10294,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <DESCRIPTION>Čisticí prostředek.
 Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od výrobků Remmers.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-v-101?variant=52652176703825</URL>
-          <PRICE_VAT>13295.0</PRICE_VAT>
+          <PRICE_VAT>18155.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-V-101-originalni-cistici-prostredek.jpg?v=1755880043</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -10317,7 +10318,7 @@ Univerzální rozpouštědlo k ředění a čištění nástrojů a ploch od vý
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>TTOTCE-EOANHCNL</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>LAYECU-ELOKHCHO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
@@ -32112,7 +32113,7 @@ Barva:komponent A: bílá kapalinakomponent B: bezbarvá kapalinakomponent C: tm
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-pur-deco-color?variant=53342660493649</URL>
           <PRICE_VAT>1435.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 49 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 45 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Deco-Color_dl_sbx.jpg?v=1773924242</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -37381,7 +37382,7 @@ R39 je stabilní reaktivní malta bez obsahu rozpouštědel pro lepení konstruk
 ✅ Vysoká lepivost✅ Elegantní zpracovatelnost✅ Lepidlo na bázi reaktivních pryskyřic R2 dle EN 12004✅ Stabilní✅ Vysoká pevnost</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-r39</URL>
           <PRICE_VAT>3250.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_R39_stavbox.webp?v=1775640134</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -45186,7 +45187,7 @@ HADALAN® ColourPowder je speciální pigmentová směs pro barvení reaktivníc
 Bobtnající zálivková malta pro kotvení a podlití strojů, sloupů a kolejnic. Vysoká pevnost, odolnost dynamickému zatížení, tixotropní konzistence.
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-hq3-25kg-sede</URL>
-          <PRICE_VAT>955.0</PRICE_VAT>
+          <PRICE_VAT>1045.0</PRICE_VAT>
           <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Betofix-HQ3_stavbox.jpg?v=1776943712</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -45211,7 +45212,7 @@ Bobtnající zálivková malta pro kotvení a podlití strojů, sloupů a kolejn
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>OKTCKO-EUAHCKL</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>OOACKO-EEKECTT</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
@@ -46006,7 +46007,7 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
 Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616408297809</URL>
           <PRICE_VAT>1905.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 26 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -46607,42 +46608,6 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>KALNCYT-ONHNCAO</CUSTOM_LABEL_0>
-        </SHOPITEM>
-      
-          
-
-        <SHOPITEM>
-          <PRODUCTNAME>Remmers RM · Restaurátorská malta pro doplnění a reprofilaci kamene · P: normální | Z: hrubá ≤2,0mm / žlutošedá 30-4 / 5kg</PRODUCTNAME>
-          <DESCRIPTION>Minerální malta pro doplnění kamene.
-Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkladů, jako je přírodní kámen, cihly, beton a umělý kámen.
-Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616408920401</URL>
-          <PRICE_VAT>905.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
-            
-          </DELIVERY>
-          <DELIVERY>
-            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>052805</ITEM_ID>
-
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Zpevnění omítek</CATEGORYTEXT>
-            
-
-          
-          <CONDITION>new</CONDITION>
-          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
-
-          <CUSTOM_LABEL_0>OKTCH-EUAHCHL</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
