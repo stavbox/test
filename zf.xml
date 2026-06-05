@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1395 -->
 <!-- Total individual products: 553 -->
-<!-- Created: 2026-06-05 21:15:24 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-06-06 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -25026,7 +25026,7 @@ Sikafloor® BC 372 je dvousložková, bezrozpouštědlová, již předplněná, 
 ✅ Extrémně odolná nosná vrstva pro střední až těžké provozní zatížení✅ Odolná proti obrusu✅ Snadná aplikace</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-372?variant=52854131392849</URL>
           <PRICE_VAT>5675.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_generic_product_placeholder_opt.jpg?v=1760357042</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
