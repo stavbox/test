@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1884 -->
 <!-- Total individual products: 580 -->
-<!-- Created: 2026-06-17 00:00:50 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-06-17 12:22:25 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -31781,8 +31781,8 @@ Vodou ředitelný lak na parkety, schody a dřevěné podlahy. Odolný oděru a 
   
           <SHOPITEM>
           <ITEM_ID>4600264103</ITEM_ID>
-          <PRODUCTNAME>Remmers Odstraňovač šedi dřeva · obnoví terasy a ploty bez broušení</PRODUCTNAME>
-          <PRODUCT>Remmers Odstraňovač šedi dřeva - Odstraňovač šedi dřeva</PRODUCT>
+          <PRODUCTNAME>Remmers Odstraňovač šedi dřeva · obnoví terasy a ploty bez broušení · 2,5l</PRODUCTNAME>
+          <PRODUCT>Remmers Odstraňovač šedi dřeva · 2,5l - Odstraňovač šedi dřeva</PRODUCT>
           <DESCRIPTION>Speciální čistič a odstraňovač šedi dřeva v exteriéru.
 Gelový čistič pro zesvětlení zvětralého dřeva v exteriéru. Odstraňuje šedé skvrny, řasy, mech a korozu bez broušení. Na vodní bázi, biologicky odbouratelný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-odstranovac-sedi-dreva</URL>
@@ -32021,6 +32021,7 @@ Ekologický olej z obnovitelných surovin pro kuchyňské desky a nábytek. Pros
         </SHOPITEM>
       
     
+  
   
 
 </SHOP>
