@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1891 -->
-<!-- Total individual products: 585 -->
-<!-- Created: 2026-06-19 00:00:50 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 1892 -->
+<!-- Total individual products: 586 -->
+<!-- Created: 2026-06-19 11:50:34 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 39 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 198 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -450,7 +450,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
 Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-salt-ih?variant=52662913630545</URL>
           <PRICE_VAT>6355.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -525,7 +525,7 @@ KÖSTER NB 1 Grey je minerální hydroizolační nátěr, který obsahuje krysta
 KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodotěsná tlakové vodě až do 13 barů. Obsahuje přísady, které aktivně pronikají do pórů a do kapilární struktury podkladu, kde reagují a utváří pevnou krystalickou vazbu. Kromě hydraulického vytvrzování těsnicí stěrky může být krystalizační proces reaktivován, což vede k samovolnému ucpávání případných následně vzniklých mikrotrhlin v podkladu. Hydroizolace s KÖSTER NB 1 Grey by měla být prováděna pouze na podklady bez pohyblivých trhlin. Pohyblivé trhliny, konstrukční spáry nebo dilatační spáry musí být ošetřeny jinými systémy, jako jsou např. KÖSTER Joint Tape, KÖSTER Injektážní pryskyřice nebo KÖSTER Joint Sealant FS. KÖSTER SB-Bonding Emulsion dodává materiálu flexibilitu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -1083,7 +1083,7 @@ Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychlesch
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -2993,7 +2993,7 @@ KÖSTER KD 3 tmel (3kg)Silicifikační kapalina s extrémně nízkou viskozitou.
 KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů. Odolává tlakové vodě při aplikaci v tloušťce vrstvy 4 mm.Rychle vytvrzuje a vyznačuje se vysokou odolností vůči tlaku a otěru, vysokou chemickou odolností a odolností vůči solím v podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -5695,7 +5695,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
 Rychleschnoucí malta pro opravy betonu. Vysoká přilnavost, odolná mrazu, vhodná pro rychlé zásahy na konstrukcích.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-r2-25kg</URL>
           <PRICE_VAT>2295.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 45 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 35 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-R2-25kg-mineralni-ochrana-pred-korozi-a-adhezni-mustek.jpg?v=1755861038</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7774,7 +7774,7 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
 Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně čistí povrchy, rychle působí, bez rozpouštědel, vhodný pro sanaci a renovaci starých konstrukcí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613963601</URL>
           <PRICE_VAT>4230.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9696,7 +9696,7 @@ Odsolovací maltová směs pro historický kámen a zdivo. Efektivně odstraňuj
 INTRASIT® SE-SL 18DD je vysoce koncentrovaný čisticí roztok, který se používá pro šetrnou likvidaci plísní v interiérech a na čištění venkovních povrchů pokrytých povlakem černých nebo zelených řas.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-intrasit-se-sl-18dd-5kg</URL>
           <PRICE_VAT>1480.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-INTRASIT-SE-SL-18DD-5kg-sanacni-roztok-pro-cisteni.jpg?v=1755879186</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -10118,7 +10118,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 44 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 42 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -29358,7 +29358,7 @@ MULTIFUGE Diamond Max je multifunkční spárovací hmota a lepicí tmel na báz
 ✅ Pro šířku spár od 2 do 10 mm✅ Brilantní barvy✅ Excelentní zpracovatelnost✅ Snadné omývání studenou vodou✅ Dlouhá doba na zpracování✅ Velmi jemný povrch spár</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multifuge-diamond-max?variant=53225334473041</URL>
           <PRICE_VAT>1130.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Multifuge-Diamond-MAX_opt_stavbox.webp?v=1772826944</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -40565,7 +40565,7 @@ Balení: 310 ml kartuše
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-s5-supax?variant=53478680461649</URL>
           <PRICE_VAT>225.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_S5-Supax_stavbox.webp?v=1775736820</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -46511,7 +46511,7 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
 Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616408756561</URL>
           <PRICE_VAT>1795.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -46655,7 +46655,7 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
 Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616410034513</URL>
           <PRICE_VAT>2710.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51528,7 +51528,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064444932433</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 465 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 454 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51563,7 +51563,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448831825</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 375 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 461 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51598,7 +51598,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448864593</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 640 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 689 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51633,7 +51633,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448897361</URL>
           <PRICE_VAT>4553.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 92 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 91 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51738,7 +51738,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448995665</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 869 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 847 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51773,7 +51773,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449028433</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 101 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 667 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51808,7 +51808,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 141 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 132 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51983,7 +51983,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449225041</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 81 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 78 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52018,7 +52018,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449257809</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 110 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 109 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52193,7 +52193,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449421649</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 410 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 401 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52228,7 +52228,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449454417</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 711 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 700 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52543,7 +52543,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449749329</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 468 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 464 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52578,7 +52578,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449782097</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 319 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 415 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52613,7 +52613,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449814865</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 282 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 329 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52753,7 +52753,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449945937</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 748 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 745 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52788,7 +52788,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449978705</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 489 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 600 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52823,7 +52823,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450011473</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 604 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 633 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52858,7 +52858,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450044241</URL>
           <PRICE_VAT>4553.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52963,7 +52963,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450142545</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 569 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 552 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52998,7 +52998,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450175313</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 514 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 541 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53033,7 +53033,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450208081</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 568 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 615 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53068,7 +53068,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450240849</URL>
           <PRICE_VAT>4553.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 27 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 25 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53173,7 +53173,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450339153</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 161 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 156 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53208,7 +53208,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450371921</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 426 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 423 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53243,7 +53243,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450404689</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 371 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 369 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53348,7 +53348,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450502993</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 333 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 326 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53383,7 +53383,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450535761</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 161 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 238 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53418,7 +53418,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450568529</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 203 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 199 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53558,7 +53558,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450699601</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 536 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 527 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53593,7 +53593,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450732369</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 449 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 442 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53628,7 +53628,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450765137</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 616 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 610 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53768,7 +53768,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450896209</URL>
           <PRICE_VAT>488.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 542 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 531 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53803,7 +53803,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450928977</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 239 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 229 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53838,7 +53838,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450961745</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 425 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 412 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54013,7 +54013,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451125585</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 56 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 55 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54048,7 +54048,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451158353</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 107 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 106 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54223,7 +54223,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451322193</URL>
           <PRICE_VAT>1312.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 192 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 188 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54258,7 +54258,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451354961</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 158 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 156 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54468,7 +54468,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451551569</URL>
           <PRICE_VAT>2351.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 31 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 29 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54750,7 +54750,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065235296593</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 17 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54785,7 +54785,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065273733457</URL>
           <PRICE_VAT>2106.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 15 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54820,7 +54820,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065273766225</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 13 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54960,7 +54960,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065273897297</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 51 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 50 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55065,7 +55065,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065273995601</URL>
           <PRICE_VAT>417.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 477 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 471 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55100,7 +55100,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274028369</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 147 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 214 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55205,7 +55205,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274126673</URL>
           <PRICE_VAT>417.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 78 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 71 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55240,7 +55240,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274159441</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 119 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 115 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55275,7 +55275,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274192209</URL>
           <PRICE_VAT>2106.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 126 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 124 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55380,7 +55380,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274290513</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 139 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 138 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55415,7 +55415,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274323281</URL>
           <PRICE_VAT>2106.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 13 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55590,7 +55590,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274487121</URL>
           <PRICE_VAT>417.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 92 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 90 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55730,7 +55730,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274618193</URL>
           <PRICE_VAT>417.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 59 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 57 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -55765,7 +55765,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274650961</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 50 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 47 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -56045,7 +56045,7 @@ Středněvrstvá lazura s vysokou UV ochranou pro dřevo v exteriéru. Okna, dve
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-uv-plus-lazura?variant=54065274913105</URL>
           <PRICE_VAT>1168.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -56152,7 +56152,7 @@ Vosková lazura na vodní bázi z lněného oleje pro dřevo v interiéru. Náby
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-voskova-lazura?variant=54066355110225</URL>
           <PRICE_VAT>1116.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 18 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Voskova-lazura_dl_stavbox.jpg?v=1781456101</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -56257,7 +56257,7 @@ Vosková lazura na vodní bázi z lněného oleje pro dřevo v interiéru. Náby
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-voskova-lazura?variant=54066355208529</URL>
           <PRICE_VAT>400.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 97 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 90 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Voskova-lazura_dl_stavbox.jpg?v=1781456101</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -56327,7 +56327,7 @@ Vosková lazura na vodní bázi z lněného oleje pro dřevo v interiéru. Náby
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-voskova-lazura?variant=54066355274065</URL>
           <PRICE_VAT>4190.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 35 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 28 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Voskova-lazura_dl_stavbox.jpg?v=1781456101</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -56467,7 +56467,7 @@ Vosková lazura na vodní bázi z lněného oleje pro dřevo v interiéru. Náby
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-voskova-lazura?variant=54066355405137</URL>
           <PRICE_VAT>1116.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 56 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 48 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Voskova-lazura_dl_stavbox.jpg?v=1781456101</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57204,7 +57204,7 @@ Tvrdý voskový olej 3v1 pro dřevěné podlahy, schody a nábytek. Protiskluzov
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-eco?variant=54066583568721</URL>
           <PRICE_VAT>614.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-_eco__dl_stavbox.jpg?v=1781459271</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57311,7 +57311,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066633998673</URL>
           <PRICE_VAT>1054.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 83 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 78 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57346,7 +57346,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634031441</URL>
           <PRICE_VAT>2011.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 81 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 72 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57381,7 +57381,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634064209</URL>
           <PRICE_VAT>422.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 815 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 921 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57416,7 +57416,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634096977</URL>
           <PRICE_VAT>1054.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 245 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 309 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57451,7 +57451,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634129745</URL>
           <PRICE_VAT>2011.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 504 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 533 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57486,7 +57486,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634162513</URL>
           <PRICE_VAT>422.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 394 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 392 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57521,7 +57521,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634195281</URL>
           <PRICE_VAT>1054.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 235 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 232 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57556,7 +57556,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634228049</URL>
           <PRICE_VAT>2011.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 34 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 304 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57591,7 +57591,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634260817</URL>
           <PRICE_VAT>422.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 278 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 277 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57626,7 +57626,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634293585</URL>
           <PRICE_VAT>1054.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 20 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 190 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57661,7 +57661,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634326353</URL>
           <PRICE_VAT>2011.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 189 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 188 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -57941,7 +57941,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634588497</URL>
           <PRICE_VAT>1205.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 34 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 32 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58116,7 +58116,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634752337</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 81 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 79 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58221,7 +58221,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634850641</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 135 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 134 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58256,7 +58256,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634883409</URL>
           <PRICE_VAT>2216.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 103 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 102 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58326,7 +58326,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634948945</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 176 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 175 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58431,7 +58431,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635047249</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 28 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 23 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58466,7 +58466,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635080017</URL>
           <PRICE_VAT>2216.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 79 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 68 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58536,7 +58536,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635145553</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 387 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 384 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58571,7 +58571,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635178321</URL>
           <PRICE_VAT>2216.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 157 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 146 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58641,7 +58641,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635243857</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 128 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 122 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58746,7 +58746,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635342161</URL>
           <PRICE_VAT>1145.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 610 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 608 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58923,7 +58923,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069727199569</URL>
           <PRICE_VAT>280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 101 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 102 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58958,7 +58958,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069743485265</URL>
           <PRICE_VAT>549.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 705 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 699 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -58993,7 +58993,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069743518033</URL>
           <PRICE_VAT>1542.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 282 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 280 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -59482,7 +59482,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069743976785</URL>
           <PRICE_VAT>549.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 57 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 48 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -59552,7 +59552,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069744042321</URL>
           <PRICE_VAT>549.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 99 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 96 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -59939,7 +59939,7 @@ Ekologický terasový olej na vodní bázi pro dřevěné terasy a zahradní ná
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-terasovy-olej-eco?variant=54071567515985</URL>
           <PRICE_VAT>432.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Terasovy-olej-_eco__dl_stavbox.jpg?v=1781533599</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60114,7 +60114,7 @@ Ekologický terasový olej na vodní bázi pro dřevěné terasy a zahradní ná
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-terasovy-olej-eco?variant=54071567679825</URL>
           <PRICE_VAT>2218.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Terasovy-olej-_eco__dl_stavbox.jpg?v=1781533599</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60503,7 +60503,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073648152913</URL>
           <PRICE_VAT>457.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 61 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 62 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60538,7 +60538,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073659457873</URL>
           <PRICE_VAT>1155.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 85 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 81 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60958,7 +60958,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073659851089</URL>
           <PRICE_VAT>457.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60993,7 +60993,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073659883857</URL>
           <PRICE_VAT>1155.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 18 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 17 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -61028,7 +61028,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073659916625</URL>
           <PRICE_VAT>457.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -61518,7 +61518,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073660375377</URL>
           <PRICE_VAT>2232.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 29 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 28 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -61658,7 +61658,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073660506449</URL>
           <PRICE_VAT>1155.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -61903,7 +61903,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073660735825</URL>
           <PRICE_VAT>1155.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -61938,7 +61938,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073660768593</URL>
           <PRICE_VAT>2232.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -62148,7 +62148,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073660965201</URL>
           <PRICE_VAT>1155.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -62218,7 +62218,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073661030737</URL>
           <PRICE_VAT>1155.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 36 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 37 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -62638,7 +62638,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073661423953</URL>
           <PRICE_VAT>2232.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 9 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -62885,7 +62885,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073917997393</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 20 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 17 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -62920,7 +62920,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073921569105</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 65 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 58 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -62955,7 +62955,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073921601873</URL>
           <PRICE_VAT>2242.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 91 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 90 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63235,7 +63235,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073921864017</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 161 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 152 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63270,7 +63270,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073921896785</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 37 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 32 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63410,7 +63410,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922027857</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 103 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 98 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63445,7 +63445,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922060625</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 127 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 125 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63480,7 +63480,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922093393</URL>
           <PRICE_VAT>2242.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 51 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63585,7 +63585,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922191697</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 252 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 247 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63620,7 +63620,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922224465</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 72 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 67 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63655,7 +63655,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922257233</URL>
           <PRICE_VAT>2242.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 90 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 89 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63760,7 +63760,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922355537</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63795,7 +63795,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922388305</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 214 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 212 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63935,7 +63935,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922519377</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 149 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 140 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64110,7 +64110,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922683217</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 163 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 160 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64180,7 +64180,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922748753</URL>
           <PRICE_VAT>2242.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 285 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 279 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64250,7 +64250,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922814289</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 136 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 127 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64285,7 +64285,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922847057</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 95 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 93 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64530,7 +64530,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923076433</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 228 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 225 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64565,7 +64565,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923109201</URL>
           <PRICE_VAT>1265.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 192 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 190 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64670,7 +64670,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923207505</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 22 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 19 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64810,7 +64810,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923338577</URL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 26 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 20 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64880,7 +64880,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923404113</URL>
           <PRICE_VAT>2242.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 56 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 55 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -65337,7 +65337,7 @@ Olejový lazurovací krém 3v1 pro exteriér – krémová konzistence, neskapá
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-lazurovaci-krem-3v1?variant=54073992446289</URL>
           <PRICE_VAT>1382.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 39 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 37 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Lazurovaci-krem-3v1_dl_stavbox.jpg?v=1781552657</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -65372,7 +65372,7 @@ Olejový lazurovací krém 3v1 pro exteriér – krémová konzistence, neskapá
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-lazurovaci-krem-3v1?variant=54073992479057</URL>
           <PRICE_VAT>2394.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 24 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 22 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Lazurovaci-krem-3v1_dl_stavbox.jpg?v=1781552657</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -65582,7 +65582,7 @@ Olejový lazurovací krém 3v1 pro exteriér – krémová konzistence, neskapá
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-lazurovaci-krem-3v1?variant=54073992675665</URL>
           <PRICE_VAT>2394.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 87 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 83 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Lazurovaci-krem-3v1_dl_stavbox.jpg?v=1781552657</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -65897,7 +65897,7 @@ Olejový lazurovací krém 3v1 pro exteriér – krémová konzistence, neskapá
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-lazurovaci-krem-3v1?variant=54073992970577</URL>
           <PRICE_VAT>2254.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 46 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 41 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Lazurovaci-krem-3v1_dl_stavbox.jpg?v=1781552657</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -65933,7 +65933,7 @@ Olejový lazurovací krém 3v1 pro exteriér – krémová konzistence, neskapá
 Gelový ochranný nátěr příčných a čelních řezů dřeva. Vodoodpudivý, elastický, snižuje bobtnání. Pro okna, dveře, ploty i obklady v interiéru i exteriéru.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ochranny-nater-pricnych-rezu-extra</URL>
           <PRICE_VAT>628.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 138 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 135 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Ochranny-nater-pricnych-rezu-_extra__dl_stavbox.jpg?v=1781553814</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -66893,7 +66893,7 @@ Krycí alkydový lak 3v1 pro dřevo v exteriéru – základ, mezivrstva i kone�
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-venti-lak-3v1?variant=54079266685265</URL>
           <PRICE_VAT>2281.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Venti-lak-3v1_dl_stavbox.jpg?v=1781610036</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -66928,7 +66928,7 @@ Krycí alkydový lak 3v1 pro dřevo v exteriéru – základ, mezivrstva i kone�
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-venti-lak-3v1?variant=54079266718033</URL>
           <PRICE_VAT>4132.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Venti-lak-3v1_dl_stavbox.jpg?v=1781610036</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67075,7 +67075,7 @@ Udržovací olej pro WPC, resystu a bambus. Vodoodpudivý, odpuzuje nečistoty a
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-udrzovaci-olej-na-wpc?variant=54079674188113</URL>
           <PRICE_VAT>804.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 392 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 390 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Udrzovaci-olej-na-WPC_dl_stavbox.jpg?v=1781613251</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67110,7 +67110,7 @@ Udržovací olej pro WPC, resystu a bambus. Vodoodpudivý, odpuzuje nečistoty a
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-udrzovaci-olej-na-wpc?variant=54079674220881</URL>
           <PRICE_VAT>804.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 319 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 318 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Udrzovaci-olej-na-WPC_dl_stavbox.jpg?v=1781613251</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67147,7 +67147,7 @@ Vodou ředitelný polyuretanový lak pro podlahy, parkety, schody a nábytek. Od
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-podlahovy-lak-premium?variant=54080349503825</URL>
           <PRICE_VAT>398.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 185 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 175 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Podlahovy-lak-PREMIUM_dl_stavbox.jpg?v=1781615898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67252,7 +67252,7 @@ Vodou ředitelný polyuretanový lak pro podlahy, parkety, schody a nábytek. Od
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-podlahovy-lak-premium?variant=54080424706385</URL>
           <PRICE_VAT>398.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 286 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 275 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Podlahovy-lak-PREMIUM_dl_stavbox.jpg?v=1781615898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67287,7 +67287,7 @@ Vodou ředitelný polyuretanový lak pro podlahy, parkety, schody a nábytek. Od
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-podlahovy-lak-premium?variant=54080424739153</URL>
           <PRICE_VAT>1043.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 288 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 379 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Podlahovy-lak-PREMIUM_dl_stavbox.jpg?v=1781615898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67322,7 +67322,7 @@ Vodou ředitelný polyuretanový lak pro podlahy, parkety, schody a nábytek. Od
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-podlahovy-lak-premium?variant=54080424771921</URL>
           <PRICE_VAT>2034.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 104 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 137 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Podlahovy-lak-PREMIUM_dl_stavbox.jpg?v=1781615898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67463,7 +67463,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080751763793</URL>
           <PRICE_VAT>721.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 584 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 559 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67498,7 +67498,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080767099217</URL>
           <PRICE_VAT>2779.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 110 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 109 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -67886,7 +67886,7 @@ Vodou ředitelný lak na parkety, schody a dřevěné podlahy. Odolný oděru a 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-adolit-baq-plus?variant=54081467646289</URL>
           <PRICE_VAT>335.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 47 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 44 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Adolit-BAQ__dl_stavbox.jpg?v=1781621657</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68158,7 +68158,7 @@ Vodou ředitelný lak na parkety, schody a dřevěné podlahy. Odolný oděru a 
 Gelový čistič pro zesvětlení zvětralého dřeva v exteriéru. Odstraňuje šedé skvrny, řasy, mech a korozu bez broušení. Na vodní bázi, biologicky odbouratelný.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-odstranovac-sedi-dreva</URL>
           <PRICE_VAT>1105.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 55 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 54 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Odstranovac-sedi-dreva_dl_stavbox.jpg?v=1781622946</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68195,7 +68195,7 @@ Dekorativní středněvrstvá lazura na vodní bázi pro dřevo v interiéru i e
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-allzweck-lasur?variant=54082464743761</URL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 82 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 74 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Allzweck-Lasur_dl_stavbox.jpg?v=1781635285</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68230,7 +68230,7 @@ Dekorativní středněvrstvá lazura na vodní bázi pro dřevo v interiéru i e
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-allzweck-lasur?variant=54082476015953</URL>
           <PRICE_VAT>1008.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 73 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 71 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Allzweck-Lasur_dl_stavbox.jpg?v=1781635285</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68578,7 +68578,7 @@ Přípravek na bázi lihu pro likvidaci a ochranu dřeva před červotoči, tesa
 Přípravek na bázi lihu pro likvidaci a ochranu dřeva před červotoči, tesaříky a plísněmi. Hluboký průnik, vhodný pro nábytek, krovy i historické předměty.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-anti-insekt-plus?variant=54082602631505</URL>
           <PRICE_VAT>13769.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Anti-Insekt-Plus_dl_stavbox.jpg?v=1781636741</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68614,7 +68614,7 @@ Ekologický olej z obnovitelných surovin pro kuchyňské desky a nábytek. Pros
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-olej-na-pracovni-desky-eco?variant=54082671280465</URL>
           <PRICE_VAT>509.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 36 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 34 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Olej-na-pracovni-desky-_eco__dl_stavbox.jpg?v=1781637808</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68649,7 +68649,7 @@ Ekologický olej z obnovitelných surovin pro kuchyňské desky a nábytek. Pros
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-olej-na-pracovni-desky-eco?variant=54082702573905</URL>
           <PRICE_VAT>509.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 24 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 21 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Olej-na-pracovni-desky-_eco__dl_stavbox.jpg?v=1781637808</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68833,7 +68833,7 @@ Základní nátěr na vodní bázi pro dřevo, kovy a tvrdé plasty. Antikorozn�
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-izolacni-zaklad-plus?variant=54086578602321</URL>
           <PRICE_VAT>532.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 29 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 28 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Izolacni-zaklad-PLUS_dl_stavbox.jpg?v=1781701761</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68927,6 +68927,43 @@ Základní nátěr na vodní bázi pro dřevo, kovy a tvrdé plasty. Antikorozn�
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>ENLKCTA-KALOCYY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Hahne HADALAN® LF41 12E · epoxidový nátěr pro průmyslové podlahy · kamenně šedá (cca RAL7030) · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Válečkový nátěr epoxidové disperze, osmoticky odolné, difuzní
+HADALAN® LF41 12E je bezrozpouštědlová, pigmentovaná, paropropustná, dvoukomponentní disperze epoxidové pryskyřice, která má širokospektré použití. Je to velmi dobré řešení pro komerční a dekorativní podlahy, jak v novostavbách, tak i při renovacích. Výrobek splňuje označení EMICODE® EC1PLUS - velmi nízký podíl emisí. Má velmi vysoké krytí.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-lf41-12e</URL>
+          <PRICE_VAT>3295.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/HADALAN_LF41_12E.webp?v=1781858955</IMGURL>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>403780</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Obklady a dlažby | Kamenné koberce</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          <EAN>4004637403780</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KHUYCUY-HKLTCKO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
