@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1894 -->
 <!-- Total individual products: 588 -->
-<!-- Created: 2026-06-25 00:00:58 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-06-25 08:12:36 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -27933,7 +27933,7 @@ Barva: bílý
 Délka role: 50m</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-flexitape-heavy-50m?variant=52883520979281</URL>
           <PRICE_VAT>3685.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/flexitape-heavy_opt.jpg?v=1769175300</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -28873,7 +28873,7 @@ Sika® Reemat Premium netkaná výztužná rohož ze skelných vláken pro syst�
 Barva: bílá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-reemat-premium</URL>
           <PRICE_VAT>16065.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Reemat-Premium_opt.jpg?v=1772018741</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -49565,7 +49565,7 @@ Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zp
 ✅ Rychle vytvrzuje - převrstvitelný už za 1–2 hodiny po aplikaci✅ Dlouhá doba zpracovatelnosti (až 12 hodin)✅ Mírný zápach</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-bonding-primer?variant=53702473023825</URL>
           <PRICE_VAT>4995.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBonding-Primer_stavbox.webp?v=1778066672</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
