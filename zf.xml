@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1894 -->
 <!-- Total individual products: 588 -->
-<!-- Created: 2026-06-29 20:17:40 -->
-<!-- Trigger: mechanic/user/trigger -->
+<!-- Created: 2026-06-29 21:51:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -26651,7 +26651,7 @@ Sikafloor®-410 je 1-komponentní, elastický, matný, uzavírací nátěr na b�
 Barva: transparentní kapalina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-410?variant=52863288050001</URL>
           <PRICE_VAT>3835.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-410_opt.jpg?v=1768984200</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
