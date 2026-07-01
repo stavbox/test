@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 1894 -->
-<!-- Total individual products: 588 -->
-<!-- Created: 2026-07-01 12:56:27 -->
+<!-- Total products+variants: 1895 -->
+<!-- Total individual products: 589 -->
+<!-- Created: 2026-07-01 15:17:58 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -69100,6 +69100,44 @@ Vhodná pro konstrukce jako jsou nadjezdy, tunely a mosty. Splňuje požadavky R
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>EYUKCO-HAHOCUN</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikalastic® Primer PVC · primer pro PVC fólie Sarnafil a Sikaplan · 1000ml</PRODUCTNAME>
+          <DESCRIPTION>1komponentní polyuretanový primer
+Sikalastic® Primer PVC je 1komponentní, transparentní, načervenalý polyuretanový primer, pro konzistentní a odolné spojení PVC hydroizolačních fólií Sarnafil® / Sikaplan® a Sikalastic®-621 TC.
+✅ 1komponentní - snadná aplikace, připraven k použití✅ Zvyšuje přilnavost k PVC foliím Sarnafil®✅ Rychle vytvrzuje - možnost překrytí po max. 2 hodinách
+Barva: červená</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic-primer-pvc</URL>
+          <PRICE_VAT>4790.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Primer-PVC_stavbox.webp?v=1782907930</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>441607</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          <EAN>7612894976229</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLNOCKO-OAOACTO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
