@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 1895 -->
 <!-- Total individual products: 589 -->
-<!-- Created: 2026-07-10 00:01:05 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-10 17:43:40 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -67019,7 +67019,7 @@ Délka vláken: 50mmTvar: obdélnikovýPrůměr: 0,46 mm
 Balení:1 kg rozpustný (rozložitelný) papírový sáček, který je možné při dávkování vložit bez otevření přímo do domíchávače</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-fibermesh-650-s</URL>
           <PRICE_VAT>690.0</PRICE_VAT>
-          <DELIVERY_DATE>-1</DELIVERY_DATE><!-- LI: -30, VI: 10 -->
+          <DELIVERY_DATE>-1</DELIVERY_DATE><!-- LI: -50, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Fibermesh-650-S_stavbox.webp?v=1781611296</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
