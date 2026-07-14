@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2047 -->
-<!-- Total individual products: 592 -->
-<!-- Created: 2026-07-14 13:04:15 -->
+<!-- Total products+variants: 2048 -->
+<!-- Total individual products: 593 -->
+<!-- Created: 2026-07-14 15:18:58 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -34613,6 +34613,23 @@ Balení: 5 kg</DESCRIPTION>
         </SHOPITEM>
       
     
+  
+          <SHOPITEM>
+          <ITEM_ID>758676</ITEM_ID>
+          <PRODUCTNAME>PCI Nanolight® · vylehčené flexibilní lepidlo pro keramiku a dlažbu · 15kg</PRODUCTNAME>
+          <PRODUCT>PCI Nanolight® · 15kg - Flexibilní lepidlo C2TE S1</PRODUCT>
+          <DESCRIPTION>Vylehčené univerzální flexibilní lepidlo pro všechny druhy keramických obkladů a dlažeb.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-nanolight</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Nanolight_stavbox.webp?v=1784031494</IMGURL>
+          <PRICE_VAT>1439.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <EAN>4083200037737</EAN>
+        </SHOPITEM>
+      
+    
+  
   
 
 </SHOP>
