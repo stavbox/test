@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2048 -->
-<!-- Total individual products: 593 -->
-<!-- Created: 2026-07-14 15:18:59 -->
+<!-- Total products+variants: 2059 -->
+<!-- Total individual products: 598 -->
+<!-- Created: 2026-07-14 22:07:25 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -1205,8 +1205,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           </DELIVERY>
           <ITEM_ID>031005</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Silikony</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
             
 
           <EAN>4004707034319</EAN>
@@ -1240,8 +1239,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           </DELIVERY>
           <ITEM_ID>031010</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Silikony</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
             
 
           <EAN>4004707046244</EAN>
@@ -1275,8 +1273,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           </DELIVERY>
           <ITEM_ID>031030</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Silikony</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
             
 
           <EAN>4004707034326</EAN>
@@ -1309,8 +1306,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           </DELIVERY>
           <ITEM_ID>031069</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Silikony</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
             
 
           <EAN>4004707032391</EAN>
@@ -46045,7 +46041,7 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
 Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616408297809</URL>
           <PRICE_VAT>1905.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -74353,7 +74349,8 @@ Balení: 5 kg</DESCRIPTION>
 
         <SHOPITEM>
           <PRODUCTNAME>PCI Nanolight® · vylehčené flexibilní lepidlo pro keramiku a dlažbu · 15kg</PRODUCTNAME>
-          <DESCRIPTION>Vylehčené univerzální flexibilní lepidlo pro všechny druhy keramických obkladů a dlažeb.</DESCRIPTION>
+          <DESCRIPTION>Vylehčené univerzální flexibilní lepidlo pro všechny druhy keramických obkladů a dlažeb.
+Vylehčené flexibilní lepidlo C2TE S1 pro keramiku, mozaiku a sklo. Vhodné na všechny podklady v interiéru i exteriéru. Vrstva až 15 mm, EMICODE EC1R.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-nanolight</URL>
           <PRICE_VAT>1439.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
@@ -74372,7 +74369,8 @@ Balení: 5 kg</DESCRIPTION>
           </DELIVERY>
           <ITEM_ID>758676</ITEM_ID>
 
-          
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
 
           <EAN>4083200037737</EAN>
           <CONDITION>new</CONDITION>
@@ -74383,6 +74381,393 @@ Balení: 5 kg</DESCRIPTION>
       
     
   
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Flexmörtel® S1 Flott · lepidlo pro velkoformátové dlažby a terasy · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální lepidlo pro tekuté lože pro velkoformátové dlažby, balkóny a terasy.
+Flexibilní lepidlo C2E S1 pro velkoformátové dlažby, balkóny a terasy. Lože 1–15 mm, pochozí po 6 hodinách, zpracovatelnost 3 hodiny. Mrazuvzdorné.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-flexmortel-s1-flott</URL>
+          <PRICE_VAT>1430.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Flexmortel-S1-Flott_stavbox.webp?v=1784038045</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758305</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          <EAN>4083200010495</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>YTNCNN-EATLCNY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Lastogum® · hydroizolační stěrka pro koupelny a mokré prostory · bílá / 8kg</PRODUCTNAME>
+          <DESCRIPTION>Vodotěsná, pružná nátěrová izolace pod obklady a dlažby v interiéru.
+Vodotěsná pružná nátěrová hydroizolace pro koupelny, sprchy a vlhké prostory. Překlenuje trhliny, nanáší se válečkem. Bezrozpouštědlová, třída A.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-lastogum?variant=54316294308177</URL>
+          <PRICE_VAT>1770.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Lastogum_stavbox.webp?v=1784040635</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758685</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200024393</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EUYOCEE-KUYNCE</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Lastogum® · hydroizolační stěrka pro koupelny a mokré prostory · bílá / 25kg</PRODUCTNAME>
+          <DESCRIPTION>Vodotěsná, pružná nátěrová izolace pod obklady a dlažby v interiéru.
+Vodotěsná pružná nátěrová hydroizolace pro koupelny, sprchy a vlhké prostory. Překlenuje trhliny, nanáší se válečkem. Bezrozpouštědlová, třída A.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-lastogum?variant=54316295684433</URL>
+          <PRICE_VAT>5180.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Lastogum_stavbox.webp?v=1784040635</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758647</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200024508</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HETHCAK-AULOCHY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Lastogum® · hydroizolační stěrka pro koupelny a mokré prostory · šedá / 8kg</PRODUCTNAME>
+          <DESCRIPTION>Vodotěsná, pružná nátěrová izolace pod obklady a dlažby v interiéru.
+Vodotěsná pružná nátěrová hydroizolace pro koupelny, sprchy a vlhké prostory. Překlenuje trhliny, nanáší se válečkem. Bezrozpouštědlová, třída A.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-lastogum?variant=54316295717201</URL>
+          <PRICE_VAT>1780.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Lastogum_stavbox.webp?v=1784040635</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>757900</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200024416</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EULUCAA-KULNCTO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Lastogum® · hydroizolační stěrka pro koupelny a mokré prostory · šedá / 25kg</PRODUCTNAME>
+          <DESCRIPTION>Vodotěsná, pružná nátěrová izolace pod obklady a dlažby v interiéru.
+Vodotěsná pružná nátěrová hydroizolace pro koupelny, sprchy a vlhké prostory. Překlenuje trhliny, nanáší se válečkem. Bezrozpouštědlová, třída A.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-lastogum?variant=54316295749969</URL>
+          <PRICE_VAT>5200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Lastogum_stavbox.webp?v=1784040635</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>757917</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200024492</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HEYNCAO-AEEACOO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Seccoral® 1K · hydroizolační stěrka pro balkóny, terasy a sprchy · 3,5kg</PRODUCTNAME>
+          <DESCRIPTION>Pružná hydroizolační stěrka pro izolaci pod keramické obklady a dlažby na balkónech, terasách a ve sprchách.
+Jednosložková pružná hydroizolační stěrka pro balkóny, terasy, sprchy a bazény. Překlenuje trhliny, paropropustná, bez penetrace. Třída A a B, EC1 Plus.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-seccoral-1k?variant=54317035749713</URL>
+          <PRICE_VAT>1105.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Seccoral-1K_stavbox.webp?v=1784046445</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758809</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200018118</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ATACTE-EKLLCTK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Seccoral® 1K · hydroizolační stěrka pro balkóny, terasy a sprchy · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Pružná hydroizolační stěrka pro izolaci pod keramické obklady a dlažby na balkónech, terasách a ve sprchách.
+Jednosložková pružná hydroizolační stěrka pro balkóny, terasy, sprchy a bazény. Překlenuje trhliny, paropropustná, bez penetrace. Třída A a B, EC1 Plus.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-seccoral-1k?variant=54317039616337</URL>
+          <PRICE_VAT>3550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Seccoral-1K_stavbox.webp?v=1784046445</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758828</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200018101</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KETOCHL-NETYCEH</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Seccoral® 2K Rapid · rychlá hydroizolace pro bazény a terasy · AB · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Rychle vytvrzující hydroizolační stěrka k izolaci bazénů, teras a venkovních stran sklepních stěn.
+Dvousložková rychle vytvrzující hydroizolační stěrka pro bazény, terasy, balkóny a sklepy. Překlenuje trhliny i při mrazu, bez zápachu.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-seccoral-2k-rapid</URL>
+          <PRICE_VAT>7526.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Seccoral-2K-Rapid_stavbox.webp?v=1784048791</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>810098</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NAEUCUK-YYONCET</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Gisogrund® · adhezní penetrace pro obklady, dlažby a omítky · 1l</PRODUCTNAME>
+          <DESCRIPTION>Adhezní a ochranná penetrace na stěny a podlahy.
+Bezrozpouštědlová penetrace pro savé podklady před pokládkou obkladů, dlažeb a omítek. Zvyšuje přilnavost, zabraňuje rychlému odvodnění a tvorbě trhlin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-gisogrund?variant=54317521928529</URL>
+          <PRICE_VAT>503.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Gisogrund_stavbox.webp?v=1784050497</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>757916</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          <EAN>4083200018217</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HUYCHK-OLKCET</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Gisogrund® · adhezní penetrace pro obklady, dlažby a omítky · 5l</PRODUCTNAME>
+          <DESCRIPTION>Adhezní a ochranná penetrace na stěny a podlahy.
+Bezrozpouštědlová penetrace pro savé podklady před pokládkou obkladů, dlažeb a omítek. Zvyšuje přilnavost, zabraňuje rychlému odvodnění a tvorbě trhlin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-gisogrund?variant=54317531234641</URL>
+          <PRICE_VAT>2180.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Gisogrund_stavbox.webp?v=1784050497</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>757897</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          <EAN>4083200018194</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EHHOCA-KOAOCK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Gisogrund® · adhezní penetrace pro obklady, dlažby a omítky · 10l</PRODUCTNAME>
+          <DESCRIPTION>Adhezní a ochranná penetrace na stěny a podlahy.
+Bezrozpouštědlová penetrace pro savé podklady před pokládkou obkladů, dlažeb a omítek. Zvyšuje přilnavost, zabraňuje rychlému odvodnění a tvorbě trhlin.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-gisogrund?variant=54317531267409</URL>
+          <PRICE_VAT>3723.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Gisogrund_stavbox.webp?v=1784050497</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758928</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Penetrace</CATEGORYTEXT>
+            
+
+          <EAN>4083200018187</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KKYUCA-NHYUCK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
   
 
 </SHOP>
