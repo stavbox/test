@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2066 -->
 <!-- Total individual products: 601 -->
-<!-- Created: 2026-07-16 00:00:31 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-16 05:52:01 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -38334,7 +38334,7 @@ Zvlášť vhodná pro slinuté a hutné dlaždice i přírodní kameny
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multifuge-base?variant=53471357305169</URL>
           <PRICE_VAT>1420.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MULTIFUGE-Base_stavbox.webp?v=1775653593</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -40521,7 +40521,7 @@ Balení: 310 ml kartuše
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-s5-supax?variant=53478680396113</URL>
           <PRICE_VAT>250.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_S5-Supax_stavbox.webp?v=1775736820</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
