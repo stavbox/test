@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2087 -->
-<!-- Total individual products: 602 -->
-<!-- Created: 2026-07-17 05:59:45 -->
+<!-- Total products+variants: 2090 -->
+<!-- Total individual products: 604 -->
+<!-- Created: 2026-07-17 14:38:58 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -902,7 +902,7 @@ Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká apl
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
           <PRICE_VAT>11500.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 64 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 64 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5518,7 +5518,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <PRICE_VAT>2690.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 11, VI: 14 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -24287,7 +24287,7 @@ Nástřik kapalného ošetřovacího prostředku je výhodnou metodou ošetřen�
 Barva: bílá tekutina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-nb-1?variant=52815169290577</URL>
           <PRICE_VAT>127595.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-NB-1_opt.jpg?v=1768318506</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -30594,8 +30594,7 @@ Barva: bílý prášek</DESCRIPTION>
           </DELIVERY>
           <ITEM_ID>5457</ITEM_ID>
 
-          <CATEGORYTEXT>Auto-moto | Provozní kapaliny | Oleje a maziva | Plastická maziva</CATEGORYTEXT>
-            <CATEGORYTEXT>Auto-moto | Autokosmetika | Čištění plastových dílů</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
             
 
           <EAN>4003923016482</EAN>
@@ -30630,8 +30629,7 @@ Barva: bílý prášek</DESCRIPTION>
           </DELIVERY>
           <ITEM_ID>64881</ITEM_ID>
 
-          <CATEGORYTEXT>Auto-moto | Provozní kapaliny | Oleje a maziva | Plastická maziva</CATEGORYTEXT>
-            <CATEGORYTEXT>Auto-moto | Autokosmetika | Čištění plastových dílů</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
             
 
           <EAN>9003449717981</EAN>
@@ -75725,6 +75723,111 @@ Pružný silikonový tmel pro rohové a dilatační spáry v koupelnách, bazén
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>KUKCNK-HYYCTT</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Saniment® Injekt R · injektáž zdiva proti vzlínající vlhkosti · 20l</PRODUCTNAME>
+          <DESCRIPTION>Roztok pro chemickou injektáž vlhkého zdiva.
+Roztok pro chemickou injektáž vlhkého zdiva proti vzlínající vlhkosti. Vodoodpudivý, zužuje kapiláry, vhodný pro cihly, beton a pískovec. Tlakově i beztlakově.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-saniment-injekt-r?variant=54343904198993</URL>
+          <PRICE_VAT>4970.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Saniment-Injekt-R_stavbox.webp?v=1784276944</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>786454</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HUNNCEA-OYNACTK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Saniment® Injekt R · injektáž zdiva proti vzlínající vlhkosti · 200l</PRODUCTNAME>
+          <DESCRIPTION>Roztok pro chemickou injektáž vlhkého zdiva.
+Roztok pro chemickou injektáž vlhkého zdiva proti vzlínající vlhkosti. Vodoodpudivý, zužuje kapiláry, vhodný pro cihly, beton a pískovec. Tlakově i beztlakově.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-saniment-injekt-r?variant=54343912423761</URL>
+          <PRICE_VAT>42890.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Saniment-Injekt-R_stavbox.webp?v=1784276944</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>786459</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KAKYHCA-OUNYECK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Stellmittel · thixotropní přísada do epoxidů, tmelů a laků · 1kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální prášková přísada do epoxidových a polyuretanových tmelů a stěrek, barev, laků a lepidel.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-stellmittel</URL>
+          <PRICE_VAT>4360.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Stellmittel_stavbox.webp?v=1784279757</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>781892</ITEM_ID>
+
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200023990</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KATKCUK-OEHECLT</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
