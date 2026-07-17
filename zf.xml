@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2087 -->
 <!-- Total individual products: 602 -->
-<!-- Created: 2026-07-17 00:00:37 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-17 05:59:45 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -31261,7 +31261,7 @@ Sikadur®-31+ je 2-komponentní strukturální epoxidové lepidlo s nízkým obs
 Barva:komp. A: bílákomp. B: tmavě šedásměs komponentů A+B: betonově šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikadur-31-plus?variant=53319030145361</URL>
           <PRICE_VAT>13695.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadur-31plus_stavbox.webp?v=1773759295</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
