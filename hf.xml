@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2099 -->
 <!-- Total individual products: 606 -->
-<!-- Created: 2026-07-21 00:00:32 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-21 11:04:10 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -35287,7 +35287,8 @@ Izolační nátěr proti solným výkvětům, alkalickým skvrnám a průniku so
           <ITEM_ID>781892</ITEM_ID>
           <PRODUCTNAME>PCI Stellmittel · thixotropní přísada do epoxidů, tmelů a laků · 1kg</PRODUCTNAME>
           <PRODUCT>PCI Stellmittel · 1kg - Zahušťovací přípravek</PRODUCT>
-          <DESCRIPTION>Speciální prášková přísada do epoxidových a polyuretanových tmelů a stěrek, barev, laků a lepidel.</DESCRIPTION>
+          <DESCRIPTION>Speciální prášková přísada do epoxidových a polyuretanových tmelů a stěrek, barev, laků a lepidel.
+Prášková thixotropní přísada pro regulaci rheologie epoxidových a PU tmelů, stěrek, barev a laků. Zabraňuje stékání na svislých plochách. Bez zápachu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-stellmittel</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Stellmittel_stavbox.webp?v=1784279757</IMGURL>
           <PRICE_VAT>4360.0</PRICE_VAT>

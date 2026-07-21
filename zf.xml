@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2099 -->
 <!-- Total individual products: 606 -->
-<!-- Created: 2026-07-21 00:00:33 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-21 11:04:11 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -1083,7 +1083,7 @@ Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychlesch
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7306,7 +7306,7 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300-hv?variant=52670609195345</URL>
           <PRICE_VAT>3850.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-HV-5l-zpevnovac-vapence.jpg?v=1755865320</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -75836,7 +75836,8 @@ Izolační nátěr proti solným výkvětům, alkalickým skvrnám a průniku so
 
         <SHOPITEM>
           <PRODUCTNAME>PCI Stellmittel · thixotropní přísada do epoxidů, tmelů a laků · 1kg</PRODUCTNAME>
-          <DESCRIPTION>Speciální prášková přísada do epoxidových a polyuretanových tmelů a stěrek, barev, laků a lepidel.</DESCRIPTION>
+          <DESCRIPTION>Speciální prášková přísada do epoxidových a polyuretanových tmelů a stěrek, barev, laků a lepidel.
+Prášková thixotropní přísada pro regulaci rheologie epoxidových a PU tmelů, stěrek, barev a laků. Zabraňuje stékání na svislých plochách. Bez zápachu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-stellmittel</URL>
           <PRICE_VAT>4360.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
@@ -76017,7 +76018,7 @@ Vápenná omítka s NHL 5 přirozeným hydraulickým vápnem, páleným z mušlo
 ✅ NHL 5 přirozené hydraulické vápno pálené z mušlového vápence dle ČSN EN 459-1✅ Tříděné kamenivo dle ČSN EN 13139✅ Textilní vlákna✅ Neobsahuje cement</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/tubag-nhl-p?variant=54367049613649</URL>
           <PRICE_VAT>530.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -24, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tubag_NHL-P_stavbox.webp?v=1784544479</IMGURL>
           <MANUFACTURER>Tubag</MANUFACTURER>
           <DELIVERY>
@@ -76087,7 +76088,7 @@ Vápenná omítka s NHL 5 přirozeným hydraulickým vápnem, páleným z mušlo
 ✅ NHL 5 přirozené hydraulické vápno pálené z mušlového vápence dle ČSN EN 459-1✅ Tříděné kamenivo dle ČSN EN 13139✅ Textilní vlákna✅ Neobsahuje cement</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/tubag-nhl-p?variant=54367049679185</URL>
           <PRICE_VAT>530.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -24, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tubag_NHL-P_stavbox.webp?v=1784544479</IMGURL>
           <MANUFACTURER>Tubag</MANUFACTURER>
           <DELIVERY>
