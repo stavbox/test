@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2099 -->
-<!-- Total individual products: 606 -->
-<!-- Created: 2026-07-22 09:10:42 -->
+<!-- Total products+variants: 2100 -->
+<!-- Total individual products: 607 -->
+<!-- Created: 2026-07-22 11:28:33 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -67000,7 +67000,7 @@ Délka vláken: 50mmTvar: obdélnikovýPrůměr: 0,46 mm
 Balení:1 kg rozpustný (rozložitelný) papírový sáček, který je možné při dávkování vložit bez otevření přímo do domíchávače</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-fibermesh-650-s</URL>
           <PRICE_VAT>690.0</PRICE_VAT>
-          <DELIVERY_DATE>-1</DELIVERY_DATE><!-- LI: -50, VI: 10 -->
+          <DELIVERY_DATE>-1</DELIVERY_DATE><!-- LI: -80, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Fibermesh-650-S_stavbox.webp?v=1781611296</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -73860,7 +73860,7 @@ Prémiová spárovací hmota pro spáry 1–10 mm na keramice, mozaice a příro
 Balení: 5 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-nanofug-premium?variant=54309610586449</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Nanofug-Premium_stavbox.webp?v=1783954107</IMGURL>
           <MANUFACTURER>PCI</MANUFACTURER>
           <DELIVERY>
@@ -75868,6 +75868,41 @@ Prášková thixotropní přísada pro regulaci rheologie epoxidových a PU tmel
       
     
   
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Pecimor® 2K · bitumenová izolace sklepů a základů proti vodě · AB · 30l</PRODUCTNAME>
+          <DESCRIPTION>Dvousložkový silnovrstvý bitumenový nátěr pro izolaci vnějších zdí sklepů a základů.
+Dvousložkový bitumenový nátěr pro izolaci sklepů a základů proti zemní vlhkosti a tlakové vodě. Překlenuje trhliny, izoluje proti radonu. EN 15814.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-pecimor-2k</URL>
+          <PRICE_VAT>3990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Pecimor-2K_stavbox.webp?v=1784538275</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758165</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200012628</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KNHYCE-NAYKCT</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
   
           
 
