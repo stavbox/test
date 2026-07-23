@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2100 -->
-<!-- Total individual products: 607 -->
-<!-- Created: 2026-07-23 00:00:29 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2103 -->
+<!-- Total individual products: 609 -->
+<!-- Created: 2026-07-23 19:59:29 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -35443,6 +35443,55 @@ Vápenná omítka s NHL 5 přirozeným hydraulickým vápnem, páleným z mušlo
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Tubag</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>757952</ITEM_ID>
+          <PRODUCTNAME>PCI Barraseal® · minerální hydroizolace pro sklepy, bazény a nádrže · 25kg</PRODUCTNAME>
+          <PRODUCT>PCI Barraseal® · 25kg - Minerání hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Vodotěsná minerální stěrka pro sklepy, vodní nádrže, kanalizace a ČOV.
+Vodotěsná minerální stěrka pro sklepy, bazény, nádrže a kanalizace. Odolná do 10 m vodního sloupce, síranovzdorná, mrazuvzdorná. Certifikát EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-barraseal</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Barraseal_stavbox.webp?v=1784788220</IMGURL>
+          <PRICE_VAT>2060.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <EAN>4083200014196</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>812375</ITEM_ID>
+          <PRODUCTNAME>PCI Polycret® K 40 · opravná malta na beton a zdivo 3–40 mm · 5kg</PRODUCTNAME>
+          <PRODUCT>PCI Polycret® K 40 · 5kg - </PRODUCT>
+          <DESCRIPTION>Opravná tixotropní malta na beton a zdivo pro tloušťku vrstvy 3–40 mm.
+Tixotropní opravná malta na beton a zdivo pro vrstvy 3–40 mm v jednom kroku. Bez adhezního můstku, objemově stálá, mrazuvzdorná. Pro balkóny a sokly.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-polycret-k-40?variant=54391665819985</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Polycret-K-40_stavbox.webp?v=1784790178</IMGURL>
+          <PRICE_VAT>285.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <EAN>8595078209230</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>786161</ITEM_ID>
+          <PRODUCTNAME>PCI Polycret® K 40 · opravná malta na beton a zdivo 3–40 mm · 25kg</PRODUCTNAME>
+          <PRODUCT>PCI Polycret® K 40 · 25kg - </PRODUCT>
+          <DESCRIPTION>Opravná tixotropní malta na beton a zdivo pro tloušťku vrstvy 3–40 mm.
+Tixotropní opravná malta na beton a zdivo pro vrstvy 3–40 mm v jednom kroku. Bez adhezního můstku, objemově stálá, mrazuvzdorná. Pro balkóny a sokly.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-polycret-k-40?variant=54391666606417</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Polycret-K-40_stavbox.webp?v=1784790178</IMGURL>
+          <PRICE_VAT>890.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <EAN>8595078205652</EAN>
         </SHOPITEM>
       
     
