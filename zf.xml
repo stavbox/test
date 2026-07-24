@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2103 -->
 <!-- Total individual products: 609 -->
-<!-- Created: 2026-07-24 00:00:33 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-24 06:16:35 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -3134,7 +3134,7 @@ Balení: 25ks</DESCRIPTION>
 Klasická vápenná ručně zpracovatelná omítka pro fasády, vnitřní stěny i stropy. Vysoká paropropustnost, odolná povětrnosti, pro staré budovy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-stucco-man-30kg</URL>
           <PRICE_VAT>540.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_nopictureavailableyet_CZ.jpg?v=1753449382</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
