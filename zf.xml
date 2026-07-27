@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2174 -->
 <!-- Total individual products: 609 -->
-<!-- Created: 2026-07-27 00:00:37 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-07-27 11:06:05 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -902,7 +902,7 @@ Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká apl
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
           <PRICE_VAT>11500.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 54 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 54 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6066,7 +6066,7 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201899345</URL>
           <PRICE_VAT>18925.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -37877,7 +37877,7 @@ PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výro
 ✅ K okamžitému použití✅ Vysoká odolnost povětrnosti a UV záření✅ Zachovává přirozenou strukturu podkladu✅ Propouští vodní páry✅ Vysoká odolnost mrazu a posypovým solím dle EN 13687-1</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471056527697</URL>
           <PRICE_VAT>690.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -8, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
