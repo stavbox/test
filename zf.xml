@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2174 -->
 <!-- Total individual products: 609 -->
-<!-- Created: 2026-07-28 09:31:23 -->
+<!-- Created: 2026-07-28 14:19:29 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -6031,7 +6031,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3590.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7011,7 +7011,7 @@ Siloxanový koncentrát pro injektáž zdiva. Hydrofobní, ředitelný vodou, WT
 Dvousložkový bitumenový nátěr bez rozpouštědel. Překlenuje trhliny, odolný vodě, WTA certifikát, pro izolaci starých i nových budov.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bit-2k-basic-30l</URL>
           <PRICE_VAT>3110.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 18 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 18 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-2K-Basic-30l-asfaltovy-silnovrstvy-nater.jpg?v=1755864349</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -69053,7 +69053,8 @@ Maximální přesnost· 4-spirálová geometrie pro rovnoměrné opotřebení
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil RTD · hydrofobní impregnace betonu pro mosty a tunely · 5l</PRODUCTNAME>
           <DESCRIPTION>Bezrozpouštědlová hydrofobní impregnace na beton. 
-Vhodná pro konstrukce jako jsou nadjezdy, tunely a mosty. Splňuje požadavky RWS RTD1002.</DESCRIPTION>
+Vhodná pro konstrukce jako jsou nadjezdy, tunely a mosty. Splňuje požadavky RWS RTD1002.
+</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-rtd</URL>
           <PRICE_VAT>3090.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
