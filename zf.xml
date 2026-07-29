@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2174 -->
-<!-- Total individual products: 609 -->
-<!-- Created: 2026-07-29 00:00:42 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2175 -->
+<!-- Total individual products: 610 -->
+<!-- Created: 2026-07-29 14:19:59 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 21, VI: 604 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 20, VI: 604 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1118,7 +1118,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5626,7 +5626,7 @@ Vysokoflexibilní páska pro těsnění soklů dřevostaveb. Voděodolná, UV st
 Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-120?variant=52670659625297</URL>
           <PRICE_VAT>5325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 700 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 700 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -78694,6 +78694,43 @@ Tixotropní opravná malta na beton a zdivo pro vrstvy 3–40 mm v jednom kroku.
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>ONACOK-EUNLCAT</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Schönox Q8 · lehčené flexibilní lepidlo C2 TE S1 s nízkým prachem · 15kg</PRODUCTNAME>
+          <DESCRIPTION>Speciální lehčené práškové lepidlo na obklady se silně redukovanou prašností.
+Hydraulicky tuhnoucí, vysoce flexibilní práškové lepidlo s lehčenými plnivy a redukovanou prašností. Optimální spotřeba i zpracování. SCHÖNOX Q8 je univerzální pro lepení do tenkého, středního i silného lože na stěnách a podlahách. Lze použít i jako lepidlo pro tekuté lože na podlahách. Obsahuje cca 50% „trvale obnovitelných“ surovin. Klasifikace: C2 TE S1 zlepšené, flexibilní cementové lepidlo se sníženým skluzem a prodlouženou dobou zavadnutí.
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-q8</URL>
+          <PRICE_VAT>1195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_Q8_stavbox.webp?v=1785307953</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>491612</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          <EAN>4016447023737</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>THLCLN-ENKECEO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2174 -->
-<!-- Total individual products: 609 -->
-<!-- Created: 2026-07-29 00:00:40 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2175 -->
+<!-- Total individual products: 610 -->
+<!-- Created: 2026-07-29 14:19:58 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -36558,6 +36558,24 @@ Tixotropní opravná malta na beton a zdivo pro vrstvy 3–40 mm v jednom kroku.
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           <EAN>8595078205652</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>491612</ITEM_ID>
+          <PRODUCTNAME>Schönox Q8 · lehčené flexibilní lepidlo C2 TE S1 s nízkým prachem · 15kg</PRODUCTNAME>
+          <PRODUCT>Schönox Q8 · 15kg - Flexibilní lepidlo C2TE S1</PRODUCT>
+          <DESCRIPTION>Speciální lehčené práškové lepidlo na obklady se silně redukovanou prašností.
+Hydraulicky tuhnoucí, vysoce flexibilní práškové lepidlo s lehčenými plnivy a redukovanou prašností. Optimální spotřeba i zpracování. SCHÖNOX Q8 je univerzální pro lepení do tenkého, středního i silného lože na stěnách a podlahách. Lze použít i jako lepidlo pro tekuté lože na podlahách. Obsahuje cca 50% „trvale obnovitelných“ surovin. Klasifikace: C2 TE S1 zlepšené, flexibilní cementové lepidlo se sníženým skluzem a prodlouženou dobou zavadnutí.
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-q8</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_Q8_stavbox.webp?v=1785307953</IMGURL>
+          <PRICE_VAT>1195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>4016447023737</EAN>
         </SHOPITEM>
       
     
