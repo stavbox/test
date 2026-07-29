@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2178 -->
-<!-- Total individual products: 611 -->
-<!-- Created: 2026-07-29 16:09:18 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2180 -->
+<!-- Total individual products: 612 -->
+<!-- Created: 2026-07-30 00:00:28 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -36626,6 +36626,40 @@ SCHÖNOX 2K DS RAPID je vodonepropustná hmota s možností překlenutí trhlin 
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Schönox</MANUFACTURER>
           <EAN>4016447021467</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>643481</ITEM_ID>
+          <PRODUCTNAME>Schönox HA PRO · hydroizolační hmota (1K) pro sprchy a koupelny · 7kg</PRODUCTNAME>
+          <PRODUCT>Schönox HA PRO · 7kg - 1K hydroizolační hmota</PRODUCT>
+          <DESCRIPTION>Lehká disperzní hydroizolační hmota pro normální a vysoké vlhkostní zatížení.
+Jednosložková hydroizolační stěrka připravená k okamžitému použití pro přípravu vodotěsné stěrky pod dlaždice v mokrých prostorech. Pro vnitřní použití. Lze použít v prostorech, na které se vztahují třídy vlhkostního zatížení W0-I a W2-I. Splňuje požadavky německých dozorových orgánů pro budovy třídy A v souladu s „Verwaltungsvorschrift Technische Baubestimmungen (WTB) lfd. Nr. C 3.27“. V souladu s certifikací ETA/EAD.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ha-pro?variant=54435549938001</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_HA-PRO_stavbox.webp?v=1785335967</IMGURL>
+          <PRICE_VAT>1490.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895645230</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>643483</ITEM_ID>
+          <PRODUCTNAME>Schönox HA PRO · hydroizolační hmota (1K) pro sprchy a koupelny · 22kg</PRODUCTNAME>
+          <PRODUCT>Schönox HA PRO · 22kg - 1K hydroizolační hmota</PRODUCT>
+          <DESCRIPTION>Lehká disperzní hydroizolační hmota pro normální a vysoké vlhkostní zatížení.
+Jednosložková hydroizolační stěrka připravená k okamžitému použití pro přípravu vodotěsné stěrky pod dlaždice v mokrých prostorech. Pro vnitřní použití. Lze použít v prostorech, na které se vztahují třídy vlhkostního zatížení W0-I a W2-I. Splňuje požadavky německých dozorových orgánů pro budovy třídy A v souladu s „Verwaltungsvorschrift Technische Baubestimmungen (WTB) lfd. Nr. C 3.27“. V souladu s certifikací ETA/EAD.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ha-pro?variant=54435549970769</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_HA-PRO_stavbox.webp?v=1785335967</IMGURL>
+          <PRICE_VAT>4190.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895645247</EAN>
         </SHOPITEM>
       
     

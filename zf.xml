@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2178 -->
-<!-- Total individual products: 611 -->
-<!-- Created: 2026-07-29 16:09:19 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2180 -->
+<!-- Total individual products: 612 -->
+<!-- Created: 2026-07-30 00:00:29 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -78838,6 +78838,78 @@ SCHÖNOX 2K DS RAPID je vodonepropustná hmota s možností překlenutí trhlin 
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>ENAACHH-KYEACKY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Schönox HA PRO · hydroizolační hmota (1K) pro sprchy a koupelny · 7kg</PRODUCTNAME>
+          <DESCRIPTION>Lehká disperzní hydroizolační hmota pro normální a vysoké vlhkostní zatížení.
+Jednosložková hydroizolační stěrka připravená k okamžitému použití pro přípravu vodotěsné stěrky pod dlaždice v mokrých prostorech. Pro vnitřní použití. Lze použít v prostorech, na které se vztahují třídy vlhkostního zatížení W0-I a W2-I. Splňuje požadavky německých dozorových orgánů pro budovy třídy A v souladu s „Verwaltungsvorschrift Technische Baubestimmungen (WTB) lfd. Nr. C 3.27“. V souladu s certifikací ETA/EAD.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ha-pro?variant=54435549938001</URL>
+          <PRICE_VAT>1490.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_HA-PRO_stavbox.webp?v=1785335967</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>643481</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>7612895645230</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>LEKCU-ETOECA</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Schönox HA PRO · hydroizolační hmota (1K) pro sprchy a koupelny · 22kg</PRODUCTNAME>
+          <DESCRIPTION>Lehká disperzní hydroizolační hmota pro normální a vysoké vlhkostní zatížení.
+Jednosložková hydroizolační stěrka připravená k okamžitému použití pro přípravu vodotěsné stěrky pod dlaždice v mokrých prostorech. Pro vnitřní použití. Lze použít v prostorech, na které se vztahují třídy vlhkostního zatížení W0-I a W2-I. Splňuje požadavky německých dozorových orgánů pro budovy třídy A v souladu s „Verwaltungsvorschrift Technische Baubestimmungen (WTB) lfd. Nr. C 3.27“. V souladu s certifikací ETA/EAD.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ha-pro?variant=54435549970769</URL>
+          <PRICE_VAT>4190.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_HA-PRO_stavbox.webp?v=1785335967</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>643483</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>7612895645247</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KOAOCNL-NLKTCHA</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
