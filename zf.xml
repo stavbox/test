@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2181 -->
-<!-- Total individual products: 613 -->
-<!-- Created: 2026-07-31 00:00:36 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2183 -->
+<!-- Total individual products: 615 -->
+<!-- Created: 2026-07-31 13:12:27 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -6250,7 +6250,7 @@ KÖSTER Repair Mortar je vodotěsná opravná malta s vynikající přilnavost�
 Rychleschnoucí kontaktní nástřik s polymerními přísadami pro přípravu podkladu ve spojení se sanačními omítkami KÖSTER. Sanační omítky lze aplikovat již po cca 30-60 min. Zajišťuje velmi dobrou přídržnost k vlhkým a silně zasoleným podkladům včetně hydroizolačních stěrek KÖSTER.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-restoration-plaster-key-coarse-25kg</URL>
           <PRICE_VAT>990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Restoration-Plaster-Key-Coarse-25kg-kontaktni-nastrik.jpg?v=1755863121</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -7268,7 +7268,7 @@ Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydro
 Silikátová penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zvyšuje přilnavost a chrání fasády před vlhkostí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-hydro-s-hf-5l</URL>
           <PRICE_VAT>930.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-HF-5l-mineralni-hydrofobni-penetrace.jpg?v=1755865251</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -31186,7 +31186,7 @@ Sikadur®-31+ je 2-komponentní strukturální epoxidové lepidlo s nízkým obs
 Barva:komp. A: bílákomp. B: tmavě šedásměs komponentů A+B: betonově šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikadur-31-plus?variant=53318892454225</URL>
           <PRICE_VAT>560.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadur-31plus_stavbox.webp?v=1773759295</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -78947,6 +78947,80 @@ Minerální protikorozní ochrana ocelové výztuže a adhezní můstek pro opra
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>HYNCU-TTNCN</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Schönox Q9 W · bílé flexibilní lepidlo C2 FTE S1 pro přírodní kámen · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Bílé cementové rychle tuhnoucí flexibilní lepidlo.
+Tixotropní flexibilní lepidlo se sníženým skluzem pro slinutý střep a izolační nebo konstrukční desky. Je mrazuvzdorné vhodné i pro podklady v trvale vlhkém prostředí. Obsahuje tras - vhodné pro citlivý přírodní kámen. Vhodné na izolační materiály SCHÖNOX. Klasifikace: C2 FTE S1, zlepšené, vysoce deformovatelné cementové lepidlo se sníženým skluzem a prodlouženou dobou zavadnutí.
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-q9-w</URL>
+          <PRICE_VAT>1995.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_Q9-W_stavbox.webp?v=1785490833</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>483376</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          <EAN>4016447018641</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EKYYCHO-KNTNCNO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Schönox Q12 ·  · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Zlepšené, vysoce flexibilní (deformovatelné) cementové lepidlo se sníženým skluzem a prodlouženou dobou zavadnutí, s vysoce redukovanou prašností.
+Velmi dobré vlastnosti při zpracování, vysoká flexibilita a deformovatelné vlastnostmi. Může být v mnoha případech použito přímo bez základního penetračního nátěru, snižuje napětí. Ideální pro lepení vysoce slinutých dlaždic velkých formátů. Vhodné na lepení metodou do tenkého a středně silného lože. Na podlahy lze nanášet ve formě tekuté malty.
+  </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-q12</URL>
+          <PRICE_VAT>1940.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_Q12_stavbox.webp?v=1785495255</IMGURL>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>523429</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          <EAN>4016447025083</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EEYOCLY-KKTTCYH</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
