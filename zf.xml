@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2188 -->
 <!-- Total individual products: 617 -->
-<!-- Created: 2026-08-05 16:51:44 -->
+<!-- Created: 2026-08-05 17:31:43 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -1550,7 +1550,7 @@ Jednosložková stěrka pro rychlou hydroizolaci. Podobné jako MB 2K, ale zavř
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-1k-rapid?variant=52654982103377</URL>
           <PRICE_VAT>4790.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 74 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 74 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-1K-rapid-25kg-multifunkcni-hydroizolacni-sterka-1K.jpg?v=1755760155</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -12485,7 +12485,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <DESCRIPTION>Armovací rouno pro 1K multifunkční stavební hydroizolace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-f-50m-sirka-12cm</URL>
           <PRICE_VAT>530.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 1500 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 1500 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-F_dl_sbx.jpg?v=1758722181</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
