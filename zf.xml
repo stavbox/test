@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2188 -->
 <!-- Total individual products: 617 -->
-<!-- Created: 2026-08-06 11:56:51 -->
+<!-- Created: 2026-08-06 14:07:05 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -636,7 +636,7 @@ Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-cream-injektazni-krem?variant=52603952988497</URL>
           <PRICE_VAT>3935.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
           <DELIVERY>
@@ -864,7 +864,7 @@ Sanační porózní jádrová omítka pro vlhké zdivo. Absorbuje soli, paroprop
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-levell-20kg</URL>
           <PRICE_VAT>880.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 177 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: -1, VI: 177 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Levell-20kg-jadrova-amitka-sanacni.jpg?v=1755852664</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1883,7 +1883,7 @@ Bezpečný a ověřený systém pro vnitřní izolaci. Snižuje tepelné ztráty
 Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653698416977</URL>
           <PRICE_VAT>7975.0</PRICE_VAT>
-          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>8</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1907,7 +1907,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>NYHLCOL-LTOLCYN</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>OEHOCOL-EUHOACTT</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -50385,7 +50385,7 @@ Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-t
 Pigmentovaný ochranný nátěr s překlenuováním trhlin a technologií Easy-to-clean. UV odolný, elastický, pro beton a minerální podklady.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-vision?variant=53768668741969</URL>
           <PRICE_VAT>9200.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Color-Flex-Vision_stavbox.webp?v=1778674359</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           <DELIVERY>
