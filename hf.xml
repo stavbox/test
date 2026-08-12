@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2188 -->
 <!-- Total individual products: 617 -->
-<!-- Created: 2026-08-12 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-12 08:22:52 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -16,7 +16,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707210102</EAN>
@@ -132,7 +132,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 239 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 239 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707037099</EAN>
@@ -521,7 +521,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 7 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 7 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707246170</EAN>
@@ -12869,7 +12869,7 @@ Rychletuhnoucí hydroizolační těsnicí malta pro sanaci sklepů a suterénů.
           <URL>https://www.stavbox.cz/products/remmers-wp-dks-rapid-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/WP-DKS-rapid_dl_sbx.jpg?v=1769079481</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707207874</EAN>
