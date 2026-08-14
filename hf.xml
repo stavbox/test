@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2191 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-14 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-14 11:56:28 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -1299,7 +1299,7 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
           <URL>https://www.stavbox.cz/products/gloria-405-410-t-profiline?variant=52756540981585</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
           <PRICE_VAT>5750.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Gloria</MANUFACTURER>
           <EAN>4004707216258</EAN>
@@ -7179,7 +7179,7 @@ Sikaflex®-521 UV je 1-komponentní STP lepidlo / tmel odolné vůči povětrnos
           <URL>https://www.stavbox.cz/products/sika-sikaflex-521-uv-300ml?variant=52639615615313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-521UV-300-ml-600-ml_opt.jpg?v=1761222570</IMGURL>
           <PRICE_VAT>525.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894203059</EAN>
