@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2191 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-16 00:00:22 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-16 13:59:23 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -13623,7 +13623,7 @@ Systomé komponenty:
 · Hydroizolace (50m role)· Vnitřní roh (20ks)· Vnější roh (20ks)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sealtape-f-v2?variant=52071140000081</URL>
           <PRICE_VAT>3155.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-SealTape-F_opt.jpg?v=1760008196</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>

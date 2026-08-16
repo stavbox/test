@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2191 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-16 00:00:21 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-16 13:59:21 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -6310,7 +6310,7 @@ Systomé komponenty:
           <URL>https://www.stavbox.cz/products/sika-sealtape-f-v2?variant=52071140000081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-SealTape-F_opt.jpg?v=1760008196</IMGURL>
           <PRICE_VAT>3155.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895431277</EAN>
