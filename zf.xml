@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2191 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-16 21:59:04 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-08-17 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -12233,7 +12233,7 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
 ✅ Rychlý nárůst pevností✅ Vysoké konečné pevnosti✅ Redukce smrštění v plastickém i vytvrzeném stavu</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-311-25kg</URL>
           <PRICE_VAT>1160.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-311.png?v=1758528363</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
