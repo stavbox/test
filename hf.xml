@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2191 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-17 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-17 08:31:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -27389,7 +27389,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634981713</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 90 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 90 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707250009</EAN>
