@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2191 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-18 11:27:35 -->
+<!-- Created: 2026-08-18 13:25:38 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -10136,7 +10136,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692377425</URL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 111 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 111 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60604,7 +60604,7 @@ Hydrofobní impregnace silan/siloxan pro fasády, kámen a omítky. Bez rozpouš
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-facade-impregnation-basic</URL>
           <PRICE_VAT>2730.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Facade-Impregnation-basic_dl_stavbox.jpg?v=1781535255</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
