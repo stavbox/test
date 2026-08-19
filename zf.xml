@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2192 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-19 12:22:33 -->
+<!-- Created: 2026-08-19 13:53:15 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -902,7 +902,7 @@ Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká apl
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
           <PRICE_VAT>11500.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 52 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 52 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6032,7 +6032,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 20 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 15, VI: 20 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
