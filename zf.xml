@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2191 -->
+<!-- Total products+variants: 2192 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-19 09:17:23 -->
+<!-- Created: 2026-08-19 10:12:13 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -5084,7 +5084,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849770833</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10171,7 +10171,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 83 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 83 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -14234,6 +14234,42 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
       
     
   
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 1001 (béžová)</PRODUCTNAME>
+          <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
+Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
+Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=54623183405393</URL>
+          <PRICE_VAT>19990.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-359-N-32-5kg_opt.jpg?v=1760360957</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX359N1001</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Podlahy a příslušenství | PVC podlahy</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Zahrada | Venkovní podlahy a dlažba | Příslušenství pro venkovní podlahy a dlažbu</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EEOLNCLL-KKKALCTO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
           
 
         <SHOPITEM>

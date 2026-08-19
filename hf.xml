@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2191 -->
+<!-- Total products+variants: 2192 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-19 09:17:22 -->
+<!-- Created: 2026-08-19 10:12:11 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -2387,7 +2387,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849770833</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707034340</EAN>
@@ -4717,7 +4717,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <PRICE_VAT>1290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 83 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 83 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>8595039309948</EAN>
@@ -6594,6 +6594,23 @@ Balení: 25kg (20,25kg komp. A + 4,75kg komp. B)</DESCRIPTION>
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>SBX359N1001</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 1001 (béžová)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-359 N · 32,5 kg · RAL 1001 (béžová) - PU podlaha</PRODUCT>
+          <DESCRIPTION>Polyuretanový houževnatě-elastický barevný těsnicí nátěr.
+Sikafloor®-359 N je dvousložkový houževnatě elastický, barevný, nežloutnoucí polyuretanový těsnicí nátěr.
+✅ Pružný a elasticky tuhý✅ Dobrá mechanická odolnost✅ Dobrá chemická odolnost specifickým materiálům
+Balení: 32,5kg (25,35kg komp. A + 7,15kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-359-n-32-5kg?variant=54623183405393</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-359-N-32-5kg_opt.jpg?v=1760360957</IMGURL>
+          <PRICE_VAT>19990.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
           <SHOPITEM>
           <ITEM_ID>151984</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-359 N · 32,5kg · Elastický PUR těsnicí nátěr · RAL 1002 (písková)</PRODUCTNAME>
