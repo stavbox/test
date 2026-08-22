@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2192 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-22 10:04:06 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-08-23 00:00:22 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -37298,7 +37298,7 @@ V90 je speciální cementová směs s vysokou tekutostí pro pevnostní zalévan
 Barva: šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-v90</URL>
           <PRICE_VAT>785.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_V90_stavbox.webp?v=1775588771</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
