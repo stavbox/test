@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2192 -->
 <!-- Total individual products: 618 -->
-<!-- Created: 2026-08-23 12:29:24 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-08-24 00:00:35 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -769,7 +769,7 @@ Sanační podhoz podle WTA. Zvyšuje přilnavost, odolný síranům, reguluje na
           <URL>https://www.stavbox.cz/products/remmers-sp-prep-30kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Prep-30kg-omitkovy-podhoz.jpg?v=1755779270</IMGURL>
           <PRICE_VAT>870.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 176 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 176 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707090780</EAN>
@@ -4883,7 +4883,7 @@ Vyhlazení protiplísňových sanačních systémů. Difuzně otevřený a kapil
           <URL>https://www.stavbox.cz/products/remmers-sl-fill-q4-20kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/REM_noimageplaceholder_CZ.jpg?v=1747817707</IMGURL>
           <PRICE_VAT>2590.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 6 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707267588</EAN>
