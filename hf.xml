@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2192 -->
-<!-- Total individual products: 618 -->
-<!-- Created: 2026-08-24 00:00:35 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2208 -->
+<!-- Total individual products: 620 -->
+<!-- Created: 2026-08-24 11:49:34 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -31584,7 +31584,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080751763793</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
-          <PRICE_VAT>625.0</PRICE_VAT>
+          <PRICE_VAT>860.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 14 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -31600,7 +31600,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080767099217</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
-          <PRICE_VAT>2380.0</PRICE_VAT>
+          <PRICE_VAT>3320.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 115 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -31632,7 +31632,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080767164753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
-          <PRICE_VAT>865.0</PRICE_VAT>
+          <PRICE_VAT>995.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -31648,7 +31648,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080767197521</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
-          <PRICE_VAT>676.0</PRICE_VAT>
+          <PRICE_VAT>3995.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -31664,7 +31664,7 @@ Impregnační základ na dřevo v exteriéru. Chrání před zamodráním, hnilo
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hws-112-hartwachs-siegel?variant=54080767230289</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HWS-112-Hartwachs-Siegel_dl_stavbox.jpg?v=1781617941</IMGURL>
-          <PRICE_VAT>578.0</PRICE_VAT>
+          <PRICE_VAT>13795.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -36867,6 +36867,250 @@ Pro problematické podklady, jako např. beton s vlhkostí nad 6% doporučujeme 
           <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>SBX5160001037</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1320 VK · epoxidová penetrace pro parkovací plochy · AB směs · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1320 VK · AB směs · 30kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Transparentní epoxidová pryskyřice pro parkovací plochy.
+Nízkoviskózní transparentní 2K epoxidová penetrace pro beton a parkovací plochy. Hluboká impregnace, zpevnění podkladu, základ systému OS 8. Plnitelná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1320-vk?variant=54673204117841</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>10200.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX5160001037R</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1320 VK · epoxidová penetrace pro parkovací plochy · AB směs · 30kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1320 VK · AB směs · 30kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Transparentní epoxidová pryskyřice pro parkovací plochy.
+Nízkoviskózní transparentní 2K epoxidová penetrace pro beton a parkovací plochy. Hluboká impregnace, zpevnění podkladu, základ systému OS 8. Plnitelná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1320-vk?variant=54673204150609</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>7950.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>51600010370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1320 VK · epoxidová penetrace pro parkovací plochy · A · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1320 VK · A · 25kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Transparentní epoxidová pryskyřice pro parkovací plochy.
+Nízkoviskózní transparentní 2K epoxidová penetrace pro beton a parkovací plochy. Hluboká impregnace, zpevnění podkladu, základ systému OS 8. Plnitelná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1320-vk?variant=54673204183377</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>7320.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>51600010370101009</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1320 VK · epoxidová penetrace pro parkovací plochy · A · 25kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1320 VK · A · 25kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Transparentní epoxidová pryskyřice pro parkovací plochy.
+Nízkoviskózní transparentní 2K epoxidová penetrace pro beton a parkovací plochy. Hluboká impregnace, zpevnění podkladu, základ systému OS 8. Plnitelná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1320-vk?variant=54673285710161</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>5625.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>51190020190101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1320 VK · epoxidová penetrace pro parkovací plochy · B · 5kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1320 VK · B · 5kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Transparentní epoxidová pryskyřice pro parkovací plochy.
+Nízkoviskózní transparentní 2K epoxidová penetrace pro beton a parkovací plochy. Hluboká impregnace, zpevnění podkladu, základ systému OS 8. Plnitelná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1320-vk?variant=54673204216145</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>2910.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX5119002R</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1320 VK · epoxidová penetrace pro parkovací plochy · B · 5kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1320 VK · B · 5kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Transparentní epoxidová pryskyřice pro parkovací plochy.
+Nízkoviskózní transparentní 2K epoxidová penetrace pro beton a parkovací plochy. Hluboká impregnace, zpevnění podkladu, základ systému OS 8. Plnitelná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1320-vk?variant=54673285742929</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>2330.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>51197323390101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · AB směs · standardní barva · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · AB směs · standardní barva · 30kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372512593</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>11505.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX5119732339R</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · AB směs · standardní barva · 30kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · AB směs · standardní barva · 30kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673481793873</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>9365.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX5119102037</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · AB směs · speciální barva · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · AB směs · speciální barva · 30kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372545361</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>12195.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX5119102037R</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · AB směs · speciální barva · 30kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · AB směs · speciální barva · 30kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673481892177</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>11145.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>51197320370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · A · standardní barva · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · A · standardní barva · 25kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372578129</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>8590.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>51197400370101009</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · A · standardní barva · 25kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · A · standardní barva · 25kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673481826641</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>6925.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>51191020370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · A · speciální barva · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · A · speciální barva · 25kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372610897</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>9285.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/11053625835857</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · A · speciální barva · 25kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · A · speciální barva · 25kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673481859409</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>10200.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/11053625835857</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · B · 5kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · B · 5kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372643665</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>2910.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/11053625835857</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 1322 · epoxidová krycí vrstva pro průmyslové podlahy · B · 5kg (R)</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-DUR 1322 · B · 5kg (R) - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
+Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372676433</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <PRICE_VAT>2330.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
         </SHOPITEM>
       
