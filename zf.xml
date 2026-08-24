@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2208 -->
-<!-- Total individual products: 620 -->
-<!-- Created: 2026-08-24 11:49:35 -->
+<!-- Total products+variants: 2216 -->
+<!-- Total individual products: 623 -->
+<!-- Created: 2026-08-24 13:36:33 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -525,7 +525,7 @@ KÖSTER NB 1 Grey je minerální hydroizolační nátěr, který obsahuje krysta
 KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodotěsná tlakové vodě až do 13 barů. Obsahuje přísady, které aktivně pronikají do pórů a do kapilární struktury podkladu, kde reagují a utváří pevnou krystalickou vazbu. Kromě hydraulického vytvrzování těsnicí stěrky může být krystalizační proces reaktivován, což vede k samovolnému ucpávání případných následně vzniklých mikrotrhlin v podkladu. Hydroizolace s KÖSTER NB 1 Grey by měla být prováděna pouze na podklady bez pohyblivých trhlin. Pohyblivé trhliny, konstrukční spáry nebo dilatační spáry musí být ošetřeny jinými systémy, jako jsou např. KÖSTER Joint Tape, KÖSTER Injektážní pryskyřice nebo KÖSTER Joint Sealant FS. KÖSTER SB-Bonding Emulsion dodává materiálu flexibilitu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 94 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 94 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -2875,7 +2875,7 @@ Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použit�
 KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 15 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -6473,7 +6473,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052723537</URL>
           <PRICE_VAT>2135.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -5, VI: 14 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52402,7 +52402,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449454417</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 491 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 491 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -79801,21 +79801,22 @@ Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmys
           <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
 Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673481859409</URL>
-          <PRICE_VAT>10200.0</PRICE_VAT>
-          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <PRICE_VAT>8710.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
           </DELIVERY>
           <DELIVERY>
             <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>gid://shopify/Product/11053625835857</ITEM_ID>
+          <ITEM_ID>51191150370101009</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
@@ -79824,7 +79825,7 @@ Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmys
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>OUOYCU-EUKUUCH</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>NHKUCU-YTEKCU</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -79849,7 +79850,7 @@ Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmys
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>gid://shopify/Product/11053625835857</ITEM_ID>
+          <ITEM_ID>51190020190101</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
@@ -79868,7 +79869,7 @@ Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmys
           <DESCRIPTION>Odolná epoxidová pryskyřice pro vícepodlažní parkovací plochy.
 Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmyslových podlahách a parkovacích plochách. Odolná oděru, plnitelná pískem, protiskluzná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-1322?variant=54673372676433</URL>
-          <PRICE_VAT>2330.0</PRICE_VAT>
+          <PRICE_VAT>2450.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
@@ -79883,7 +79884,7 @@ Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmys
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>gid://shopify/Product/11053625835857</ITEM_ID>
+          <ITEM_ID>SBX5119002019R</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
@@ -79892,7 +79893,281 @@ Dvousložková pigmentovaná epoxidová pryskyřice pro krycí vrstvy na průmys
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>EEOOCU-KHKLCKO</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>EKEOCU-KNOUCKO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 2210 · polyuretanový nátěr pro parkovací plochy · AB směs · šedá · 30kg</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní, mechanicky odolný polyuretanový nátěr pro parkovací plochy.
+Dvousložková pigmentovaná PU nátěrová hmota pro vnitřní i vnější parkovací plochy. Systém OS 10/14 a OS 11a, odolná chemikáliím, plnitelná pískem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-2210?variant=54673623449937</URL>
+          <PRICE_VAT>11795.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5490070036</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>OYOUCU-EETLTCO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 2210 · polyuretanový nátěr pro parkovací plochy · A · šedá · 24,29kg</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní, mechanicky odolný polyuretanový nátěr pro parkovací plochy.
+Dvousložková pigmentovaná PU nátěrová hmota pro vnitřní i vnější parkovací plochy. Systém OS 10/14 a OS 11a, odolná chemikáliím, plnitelná pískem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-2210?variant=54673623581009</URL>
+          <PRICE_VAT>8550.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54900700360101</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NKNECUH-YOOKCTO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 2210 · polyuretanový nátěr pro parkovací plochy · B · šedá · 5,71kg</PRODUCTNAME>
+          <DESCRIPTION>Flexibilní, mechanicky odolný polyuretanový nátěr pro parkovací plochy.
+Dvousložková pigmentovaná PU nátěrová hmota pro vnitřní i vnější parkovací plochy. Systém OS 10/14 a OS 11a, odolná chemikáliím, plnitelná pískem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-2210?variant=54673623712081</URL>
+          <PRICE_VAT>3250.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54900020190101</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EAEUCKK-HKNTCKY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 2211 MB · PU vrstva s přemostěním trhlin pro parkovací plochy · AB směs · šedá · 30kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková polyuretanová pryskyřice pro mezivrstvu nebo užitnou vrstvu sypanou pískem se schopností přemostění trhlin na podlahách parkovacích ploch.
+Vysoce flexibilní PU pryskyřice pro mezivrstvu a užitnou vrstvu na parkovacích plochách. Přemostění trhlin i při -20 °C, systém OS 11a/b, EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-2211-mb?variant=54673700880721</URL>
+          <PRICE_VAT>15210.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>SBX5452070024</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>TONKCU-EOKULCT</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 2211 MB · PU vrstva s přemostěním trhlin pro parkovací plochy · A · šedá · 10kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková polyuretanová pryskyřice pro mezivrstvu nebo užitnou vrstvu sypanou pískem se schopností přemostění trhlin na podlahách parkovacích ploch.
+Vysoce flexibilní PU pryskyřice pro mezivrstvu a užitnou vrstvu na parkovacích plochách. Přemostění trhlin i při -20 °C, systém OS 11a/b, EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-2211-mb?variant=54673700946257</URL>
+          <PRICE_VAT>5070.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54520700240001</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KOENCU-OUALCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie MC-DUR 2211 MB · PU vrstva s přemostěním trhlin pro parkovací plochy · B · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková polyuretanová pryskyřice pro mezivrstvu nebo užitnou vrstvu sypanou pískem se schopností přemostění trhlin na podlahách parkovacích ploch.
+Vysoce flexibilní PU pryskyřice pro mezivrstvu a užitnou vrstvu na parkovacích plochách. Přemostění trhlin i při -20 °C, systém OS 11a/b, EN 1504-2.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-dur-2211-mb?variant=54673701011793</URL>
+          <PRICE_VAT>9875.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>54520020350001</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NYLACU-LYTHCA</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Křemičitý písek · k použití se systémy nátěrů MC-Bauchemie · 0,1-0,3 mm</PRODUCTNAME>
+          <DESCRIPTION>Světlý, pecí sušený tříděný křemičitý písek, určený k použití se systémy nátěrů a membrán MC-Bauchemie.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-kremicity-pisek?variant=54673735582033</URL>
+          <PRICE_VAT>425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>58200000370001007</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KEUCU-NKHCO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>MC-Bauchemie Křemičitý písek · k použití se systémy nátěrů MC-Bauchemie · 0,4-0,8 mm</PRODUCTNAME>
+          <DESCRIPTION>Světlý, pecí sušený tříděný křemičitý písek, určený k použití se systémy nátěrů a membrán MC-Bauchemie.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-kremicity-pisek?variant=54673735614801</URL>
+          <PRICE_VAT>575.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.png?v=1776495955</IMGURL>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>58200100370001007</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KYOCU-OTNCTO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
