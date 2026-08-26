@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2218 -->
-<!-- Total individual products: 623 -->
-<!-- Created: 2026-08-26 16:20:15 -->
+<!-- Total products+variants: 2221 -->
+<!-- Total individual products: 624 -->
+<!-- Created: 2026-08-26 17:27:24 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -271,7 +271,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
           <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419789649</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
           <PRICE_VAT>13445.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -22, VI: 25 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 25 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906131057</EAN>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -24, VI: 292 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -28, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -37271,6 +37271,89 @@ Balení: 25 kg</DESCRIPTION>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/11060526580049</ITEM_ID>
+          <PRODUCTNAME>Projahn ROCKET 5 SDS-Plus · příklepový vrták pro injektáž zdiva · 12x210 mm</PRODUCTNAME>
+          <PRODUCT>Projahn ROCKET 3 SDS-Plus · 12x210 mm - Vrták pro injektáž zdiva</PRODUCT>
+          <DESCRIPTION>Příklepové vrtáky se 4 břity SDS-plus.
+
+Maximální přesnost· 5 drtičů vytváří pomocí úderů a torzních sil přesné otvory v železobetonu· Použitá křížová deska z tvrdokovu pro přesné vycentrování na vrtáku· 4-spirálová geometrie pro vysokou plynulost chodu a optimální vedení ve vrtu· Přednastavitelný centrovací hrot pro přesné navrtání bez vychýlení
+
+
+
+
+Maximální přesnost· Označení opotřebení pro rozpoznání meze opotřebení podle PGM· Zkosení výztuže zabraňuje zachycení při nárazu do výztuže
+
+· 4-spirálová geometrie pro snížení vibrací, která šetří zdraví lidí i strojů
+
+
+Maximální přesnost· 4-spirálová geometrie pro rovnoměrné opotřebení
+· Vrták z vysoce kvalitní kalené oceli [34CrNiMo6]</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/projahn-rocket-3-sds-plus-copy?variant=54695054967121</URL>
+          <IMGURL></IMGURL>
+          <PRICE_VAT>193.6</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 10 -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Nářadí pro dílnu a zahradu | Nářadí do dílny | Elektrické nářadí | Vrtačky a příslušenství | Vrtáky</CATEGORYTEXT>
+          <MANUFACTURER>Projahn</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/11060526580049</ITEM_ID>
+          <PRODUCTNAME>Projahn ROCKET 5 SDS-Plus · příklepový vrták pro injektáž zdiva · 12x450 mm</PRODUCTNAME>
+          <PRODUCT>Projahn ROCKET 3 SDS-Plus · 12x450 mm - Vrták pro injektáž zdiva</PRODUCT>
+          <DESCRIPTION>Příklepové vrtáky se 4 břity SDS-plus.
+
+Maximální přesnost· 5 drtičů vytváří pomocí úderů a torzních sil přesné otvory v železobetonu· Použitá křížová deska z tvrdokovu pro přesné vycentrování na vrtáku· 4-spirálová geometrie pro vysokou plynulost chodu a optimální vedení ve vrtu· Přednastavitelný centrovací hrot pro přesné navrtání bez vychýlení
+
+
+
+
+Maximální přesnost· Označení opotřebení pro rozpoznání meze opotřebení podle PGM· Zkosení výztuže zabraňuje zachycení při nárazu do výztuže
+
+· 4-spirálová geometrie pro snížení vibrací, která šetří zdraví lidí i strojů
+
+
+Maximální přesnost· 4-spirálová geometrie pro rovnoměrné opotřebení
+· Vrták z vysoce kvalitní kalené oceli [34CrNiMo6]</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/projahn-rocket-3-sds-plus-copy?variant=54695080788305</URL>
+          <IMGURL></IMGURL>
+          <PRICE_VAT>421.5</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Nářadí pro dílnu a zahradu | Nářadí do dílny | Elektrické nářadí | Vrtačky a příslušenství | Vrtáky</CATEGORYTEXT>
+          <MANUFACTURER>Projahn</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>gid://shopify/Product/11060526580049</ITEM_ID>
+          <PRODUCTNAME>Projahn ROCKET 5 SDS-Plus · příklepový vrták pro injektáž zdiva · 12x600 mm</PRODUCTNAME>
+          <PRODUCT>Projahn ROCKET 3 SDS-Plus · 12x600 mm - Vrták pro injektáž zdiva</PRODUCT>
+          <DESCRIPTION>Příklepové vrtáky se 4 břity SDS-plus.
+
+Maximální přesnost· 5 drtičů vytváří pomocí úderů a torzních sil přesné otvory v železobetonu· Použitá křížová deska z tvrdokovu pro přesné vycentrování na vrtáku· 4-spirálová geometrie pro vysokou plynulost chodu a optimální vedení ve vrtu· Přednastavitelný centrovací hrot pro přesné navrtání bez vychýlení
+
+
+
+
+Maximální přesnost· Označení opotřebení pro rozpoznání meze opotřebení podle PGM· Zkosení výztuže zabraňuje zachycení při nárazu do výztuže
+
+· 4-spirálová geometrie pro snížení vibrací, která šetří zdraví lidí i strojů
+
+
+Maximální přesnost· 4-spirálová geometrie pro rovnoměrné opotřebení
+· Vrták z vysoce kvalitní kalené oceli [34CrNiMo6]</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/projahn-rocket-3-sds-plus-copy?variant=54695080821073</URL>
+          <IMGURL></IMGURL>
+          <PRICE_VAT>625.1</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Nářadí pro dílnu a zahradu | Nářadí do dílny | Elektrické nářadí | Vrtačky a příslušenství | Vrtáky</CATEGORYTEXT>
+          <MANUFACTURER>Projahn</MANUFACTURER>
           
         </SHOPITEM>
       
