@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2216 -->
+<!-- Total products+variants: 2218 -->
 <!-- Total individual products: 623 -->
-<!-- Created: 2026-08-26 14:32:39 -->
+<!-- Created: 2026-08-26 16:20:17 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -487,7 +487,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
 Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 19, VI: 86 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -10, VI: 86 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -564,7 +564,7 @@ Tento materiál má přirozenou schopnost aktivního pronikání a penetrován�
 Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u běžných receptur nejdříve k jejich naředění vodou obsaženou v materiálu, což způsobuje reakci vedoucí ke srážení účinných látek. Patentovaná receptura KÖSTER Crisin Cream nezpůsobuje žádnou reakci se solí.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419789649</URL>
           <PRICE_VAT>13445.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 25 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -22, VI: 25 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -2800,7 +2800,7 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
 Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně profesionálních injektážních trubic.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/gloria-405-410-t-profiline?variant=52756541014353</URL>
           <PRICE_VAT>605.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 98, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 95, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
           <MANUFACTURER>Gloria</MANUFACTURER>
           <DELIVERY>
@@ -2989,7 +2989,7 @@ KÖSTER KD 3 tmel (3kg)Silicifikační kapalina s extrémně nízkou viskozitou.
 KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů. Odolává tlakové vodě při aplikaci v tloušťce vrstvy 4 mm.Rychle vytvrzuje a vyznačuje se vysokou odolností vůči tlaku a otěru, vysokou chemickou odolností a odolností vůči solím v podkladu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 36, VI: 292 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -24, VI: 292 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -12732,6 +12732,79 @@ SikaFiber® Force-50 jsou 50 mm dlouhá polyolefínová makrovlákna na použit�
       
     
   
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní, polyuretanová, barevná, matná pečeticí vrstva, na vodní bázi.
+Sikafloor®-305 W je 2-komponentní, barevná, matná polyuretanová pečeticí vrstva, s nízkým obsahem VOC, na bázi vody. Je součástí systému Sika ComfortFloor®.
+✅ Na vodní bázi✅ Nízký zápach✅ Dobrá odolnost vůči UV záření
+Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg?variant=54693781897553</URL>
+          <PRICE_VAT>10155.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-305-w_opt.jpg?v=1768129413</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>724948</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Odstraňovače nátěrů</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>AAUYCT-EKALKCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikafloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <DESCRIPTION>2-komponentní, polyuretanová, barevná, matná pečeticí vrstva, na vodní bázi.
+Sikafloor®-305 W je 2-komponentní, barevná, matná polyuretanová pečeticí vrstva, s nízkým obsahem VOC, na bázi vody. Je součástí systému Sika ComfortFloor®.
+✅ Na vodní bázi✅ Nízký zápach✅ Dobrá odolnost vůči UV záření
+Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg?variant=54693781930321</URL>
+          <PRICE_VAT>9885.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-305-w_opt.jpg?v=1768129413</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>718497</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Odstraňovače nátěrů</CATEGORYTEXT>
+            
+
+          <EAN>7612655079954</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ANHKCH-EKHONCE</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
           
 
         <SHOPITEM>

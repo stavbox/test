@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2216 -->
+<!-- Total products+variants: 2218 -->
 <!-- Total individual products: 623 -->
-<!-- Created: 2026-08-26 14:32:37 -->
+<!-- Created: 2026-08-26 16:20:15 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -234,7 +234,7 @@ Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace s
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 19, VI: 86 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -10, VI: 86 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906136335</EAN>
@@ -271,7 +271,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
           <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419789649</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
           <PRICE_VAT>13445.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 25 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -22, VI: 25 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906131057</EAN>
@@ -1316,7 +1316,7 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
           <URL>https://www.stavbox.cz/products/gloria-405-410-t-profiline?variant=52756541014353</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
           <PRICE_VAT>605.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 98, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 95, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Gloria</MANUFACTURER>
           
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 36, VI: 292 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -24, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -5887,6 +5887,40 @@ SikaFiber® Force-50 jsou 50 mm dlouhá polyolefínová makrovlákna na použit�
       
     
   
+          <SHOPITEM>
+          <ITEM_ID>724948</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva · RAL 7032 (štěrková šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-305 W · 10 kg · RAL 7032 (štěrková šedá) - PU podlaha</PRODUCT>
+          <DESCRIPTION>2-komponentní, polyuretanová, barevná, matná pečeticí vrstva, na vodní bázi.
+Sikafloor®-305 W je 2-komponentní, barevná, matná polyuretanová pečeticí vrstva, s nízkým obsahem VOC, na bázi vody. Je součástí systému Sika ComfortFloor®.
+✅ Na vodní bázi✅ Nízký zápach✅ Dobrá odolnost vůči UV záření
+Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg?variant=54693781897553</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-305-w_opt.jpg?v=1768129413</IMGURL>
+          <PRICE_VAT>10155.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>718497</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva · RAL 7035 (světle šedá)</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-305 W · 10 kg · RAL 7035 (světle šedá) - PU podlaha</PRODUCT>
+          <DESCRIPTION>2-komponentní, polyuretanová, barevná, matná pečeticí vrstva, na vodní bázi.
+Sikafloor®-305 W je 2-komponentní, barevná, matná polyuretanová pečeticí vrstva, s nízkým obsahem VOC, na bázi vody. Je součástí systému Sika ComfortFloor®.
+✅ Na vodní bázi✅ Nízký zápach✅ Dobrá odolnost vůči UV záření
+Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg?variant=54693781930321</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-305-w_opt.jpg?v=1768129413</IMGURL>
+          <PRICE_VAT>9885.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612655079954</EAN>
+        </SHOPITEM>
+      
           <SHOPITEM>
           <ITEM_ID>868109</ITEM_ID>
           <PRODUCTNAME>Sika Sikafloor®-305 W · 10kg · Polyuretanová uzavírací pečeticí vrstva · pastel</PRODUCTNAME>
