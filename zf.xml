@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2221 -->
+<!-- Total products+variants: 2234 -->
 <!-- Total individual products: 624 -->
-<!-- Created: 2026-08-27 14:28:28 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-08-28 00:00:23 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 14, VI: 442 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 442 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -525,7 +525,7 @@ KÖSTER NB 1 Grey je minerální hydroizolační nátěr, který obsahuje krysta
 KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodotěsná tlakové vodě až do 13 barů. Obsahuje přísady, které aktivně pronikají do pórů a do kapilární struktury podkladu, kde reagují a utváří pevnou krystalickou vazbu. Kromě hydraulického vytvrzování těsnicí stěrky může být krystalizační proces reaktivován, což vede k samovolnému ucpávání případných následně vzniklých mikrotrhlin v podkladu. Hydroizolace s KÖSTER NB 1 Grey by měla být prováděna pouze na podklady bez pohyblivých trhlin. Pohyblivé trhliny, konstrukční spáry nebo dilatační spáry musí být ošetřeny jinými systémy, jako jsou např. KÖSTER Joint Tape, KÖSTER Injektážní pryskyřice nebo KÖSTER Joint Sealant FS. KÖSTER SB-Bonding Emulsion dodává materiálu flexibilitu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -3, VI: 94 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 94 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -2875,7 +2875,7 @@ Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použit�
 KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 15 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -3501,7 +3501,7 @@ KÖSTER Restoration Plaster White/Fast je rychle tuhnoucí, solím a tlaku odoln
 KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení solí s vysokou odolností vůči krystalizačním tlakům. Používá se jako sanační omítka pro obnovu povrchů silně vlhkých a zasolených konstrukcí a to hlavně po provedení hydroizolační chemické bariéry. Díky vysokému obsahu lehčených plniv (speciální směs pěnového sklaz recyklátu a dalších přírodních lehčených plniv) dosahuje vysoké poréznosti a tím i nízké spotřeby. KÖSTER Restoration Plaster White/Light umožňuje spolehlivé vysušení a odsolení zdiva a to i v případech vysokého obsahu solí všech druhů. Mimo to zlepšuje tepelně izolační vlastnosti povrchu zdiva, čímž pomáhá předcházet tvorbě kondenzátu. Při včasné a vhodné povrchové úpravě zafilcováním lze docílit povrchu, který v některých případech nevyžaduje štukovou úpravu. Díky bílé barvě a vlastnostem může najít široké uplatnění i při renovacích historických objektů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-restoration-plaster-white-light-25kg-bily</URL>
           <PRICE_VAT>865.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 1146 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -20, VI: 1146 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Restoration-Plaster-White-25kg-sanacni-omitka-bila.jpg?v=1755853635</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -6067,7 +6067,7 @@ Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hlubo
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201899345</URL>
           <PRICE_VAT>18925.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 11 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 11 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52160,7 +52160,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449159505</URL>
           <PRICE_VAT>75.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 18 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 18 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53280,7 +53280,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450208081</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 320 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 320 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53980,7 +53980,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450863441</URL>
           <PRICE_VAT>75.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 1 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54190,7 +54190,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451060049</URL>
           <PRICE_VAT>75.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 33 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 33 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -63126,6 +63126,41 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · dub světlý (RC-365) 5431 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646291793</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 87 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543181</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · dub světlý (RC-365) 5431 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -63296,6 +63331,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>NONLCH-YKEOCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · bezbarvý 5432 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646324561</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 87 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543281</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -63476,6 +63546,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · borovice (RC-270) 5433 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646357329</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 75 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543381</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · borovice (RC-270) 5433 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -63646,6 +63751,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>NONLCH-YKEOCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · ořech (RC-660) 5434 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646390097</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 191 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543481</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -63826,6 +63966,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · palisandr (RC-720) 5435 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646422865</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 65 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543581</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · palisandr (RC-720) 5435 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -63996,6 +64171,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>NONLCH-YKEOCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · pinie/modřín (RC-260) 5436 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646455633</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543681</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -64176,6 +64386,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · teak (RC-545) 5437 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646488401</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>543781</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · teak (RC-545) 5437 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -64351,6 +64596,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · dub rustikální (RC-360) 5444 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646521169</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 58 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>544481</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · dub rustikální (RC-360) 5444 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -64486,6 +64766,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>NONLCH-YKEOCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · mahagon (RC-565) 5446 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646553937</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 32 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>544681</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -64631,6 +64946,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · bílá (RC-990) 5451 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646586705</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>545181</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · bílá (RC-990) 5451 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -64766,6 +65116,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>NONLCH-YKEOCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · kaštan (RC-555) 5453 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646619473</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 431 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>545381</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
@@ -64911,6 +65296,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           
 
         <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · eben (RC-790) 5454 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646652241</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 36 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>545481</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
           <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · eben (RC-790) 5454 / 0,75 ltr</PRODUCTNAME>
           <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
 Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
@@ -65046,6 +65466,41 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>NONLCH-YKEOCL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers HK lazura 3v1 [plus] · hybridní pojivo, UV odolná, exteriér · jedlově zelená (RC-960) 5455 / 100 ml</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí prémiová lazura na ochranu dřeva se sníženým obsahem rozpouštědel a výraznou ochranou před vlhkostí pro dřevo v exteriéru.
+Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkosti, UV a špíně. Rychleschnoucí, méně rozpouštědel. Kompatibilní se starší verzí.
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646685009</URL>
+          <PRICE_VAT>95.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 32 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>545581</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy a nátěry na dřevo | Lazury</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KLKCEL-AECLY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
           
