@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2221 -->
 <!-- Total individual products: 624 -->
-<!-- Created: 2026-08-26 17:27:24 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-08-27 00:00:24 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -271,7 +271,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
           <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419789649</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
           <PRICE_VAT>13445.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 25 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -22, VI: 25 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906131057</EAN>
