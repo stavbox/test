@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2224 -->
 <!-- Total individual products: 625 -->
-<!-- Created: 2026-08-29 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-29 13:56:51 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -234,7 +234,7 @@ Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace s
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -10, VI: 86 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -8, VI: 86 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906136335</EAN>
@@ -252,7 +252,7 @@ KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodot
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 94 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 94 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906032118</EAN>
@@ -288,7 +288,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
           <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419822417</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
           <PRICE_VAT>895.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 8 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906145733</EAN>
@@ -1367,7 +1367,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388101457</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>2870.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 62 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040441</EAN>
@@ -1640,7 +1640,7 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
           <URL>https://www.stavbox.cz/products/koster-restoration-plaster-white-light-25kg-bily</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Restoration-Plaster-White-25kg-sanacni-omitka-bila.jpg?v=1755853635</IMGURL>
           <PRICE_VAT>865.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -20, VI: 1146 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 22, VI: 1146 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906154261</EAN>
@@ -2371,7 +2371,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849738065</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <PRICE_VAT>2245.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 16 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 16 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707034333</EAN>
@@ -2633,7 +2633,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-120?variant=52670659625297</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
           <PRICE_VAT>5325.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 500 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 500 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707142847</EAN>
@@ -3527,7 +3527,7 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
           <URL>https://www.stavbox.cz/products/remmers-bit-1k-basic?variant=52925410476369</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-1K-30l-bitumenova-sterka.jpg?v=1755865564</IMGURL>
           <PRICE_VAT>3050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 60 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 60 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707158336</EAN>
@@ -9285,7 +9285,7 @@ PROLASTIC® 55Z je dvousložková (2K) rychleschnoucí hydroizolace špičkovýc
           <URL>https://www.stavbox.cz/products/hahne-prolastic-55z-26kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PROLASTIC_55Z_opt.jpg?v=1765270385</IMGURL>
           <PRICE_VAT>5345.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <EAN>4004637405395</EAN>
@@ -22260,7 +22260,7 @@ Bezbarvá hydrofobní impregnace na bázi siloxanu pro beton, omítky a kámen. 
           <URL>https://www.stavbox.cz/products/mc-bauchemie-emcephob-sn?variant=53624433967441</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
           <PRICE_VAT>13945.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
@@ -23837,7 +23837,7 @@ Samonivelační zálivková malta s hydraulickým pojivem. Kompenzace smrštěn�
           <URL>https://www.stavbox.cz/products/mc-bauchemie-emcekrete-60-a</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Emcekrete-60-A_stavbox.webp?v=1778678115</IMGURL>
           <PRICE_VAT>1060.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
@@ -24408,7 +24408,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449028433</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 506 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 506 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018029</EAN>
@@ -24728,7 +24728,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449782097</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 342 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 342 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018265</EAN>
@@ -37293,7 +37293,7 @@ Balení: 25 kg</DESCRIPTION>
     
   
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/11060526580049</ITEM_ID>
+          <ITEM_ID>8312216</ITEM_ID>
           <PRODUCTNAME>Projahn ROCKET 5 SDS-Plus · příklepový vrták pro injektáž zdiva · 12x210 mm</PRODUCTNAME>
           <PRODUCT>Projahn ROCKET 3 SDS-Plus · 12x210 mm - Vrták pro injektáž zdiva</PRODUCT>
           <DESCRIPTION>Příklepové vrtáky se 4 břity SDS-plus.
@@ -37320,7 +37320,7 @@ Maximální přesnost· 4-spirálová geometrie pro rovnoměrné opotřebení
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/11060526580049</ITEM_ID>
+          <ITEM_ID>8312450</ITEM_ID>
           <PRODUCTNAME>Projahn ROCKET 5 SDS-Plus · příklepový vrták pro injektáž zdiva · 12x450 mm</PRODUCTNAME>
           <PRODUCT>Projahn ROCKET 3 SDS-Plus · 12x450 mm - Vrták pro injektáž zdiva</PRODUCT>
           <DESCRIPTION>Příklepové vrtáky se 4 břity SDS-plus.
@@ -37347,7 +37347,7 @@ Maximální přesnost· 4-spirálová geometrie pro rovnoměrné opotřebení
         </SHOPITEM>
       
           <SHOPITEM>
-          <ITEM_ID>gid://shopify/Product/11060526580049</ITEM_ID>
+          <ITEM_ID>8312600</ITEM_ID>
           <PRODUCTNAME>Projahn ROCKET 5 SDS-Plus · příklepový vrták pro injektáž zdiva · 12x600 mm</PRODUCTNAME>
           <PRODUCT>Projahn ROCKET 3 SDS-Plus · 12x600 mm - Vrták pro injektáž zdiva</PRODUCT>
           <DESCRIPTION>Příklepové vrtáky se 4 břity SDS-plus.
