@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2224 -->
 <!-- Total individual products: 625 -->
-<!-- Created: 2026-08-31 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-08-31 11:58:26 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -4787,7 +4787,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991713105</URL>
           <PRICE_VAT>2545.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8913,7 +8913,7 @@ Barva: betonově šedá</DESCRIPTION>
 Transparentní ředicí aditivum pro systémy silikonových nátěrů k nastavení stupně glazury</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-add-transparent?variant=52656251371857</URL>
           <PRICE_VAT>3110.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Add-Transparent-5l-redici-aditivum.jpg?v=1755877838</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -35327,7 +35327,7 @@ BM92 Schnell je dvousložková bitumenová stěrková hmota s obsahem armovacíc
 Barva: černá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-bm92-schnell</URL>
           <PRICE_VAT>2895.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BM92-Schnell_stavbox.webp?v=1775491938</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -52020,7 +52020,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 291 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 291 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64042,7 +64042,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922584913</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 164 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 164 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
