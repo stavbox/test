@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2224 -->
-<!-- Total individual products: 625 -->
-<!-- Created: 2026-08-31 13:41:10 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2231 -->
+<!-- Total individual products: 627 -->
+<!-- Created: 2026-09-01 00:00:29 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -4717,7 +4717,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <PRICE_VAT>1290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 79 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 79 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>8595039309948</EAN>
@@ -37403,6 +37403,120 @@ Vodopropustná spárovací malta pro dlažbu z přírodního kamene, betonu a ka
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Spárovací hmoty</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           <EAN>4083200010211</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>18710000271001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Murafan 39 · disperze pro malty a potěry · 11kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Murafan 39 · 11kg - Polymerová disperze do malt</PRODUCT>
+          <DESCRIPTION>Umělohmotná disperze pro potěry, vázací malty, správkové malty, lepící malty, štuky a hlazené potěry
+.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-murafan-39?variant=54753213972817</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <PRICE_VAT>2515.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>18710000391001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Murafan 39 · disperze pro malty a potěry · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Murafan 39 · 30kg - Polymerová disperze do malt</PRODUCT>
+          <DESCRIPTION>Umělohmotná disperze pro potěry, vázací malty, správkové malty, lepící malty, štuky a hlazené potěry
+.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-murafan-39?variant=54753214005585</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
+          <PRICE_VAT>6640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>74540</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-RockMortar H · sochařská opravná malta R3 · antracit</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-RockMortar H · antracit - Opravná malta R3</PRODUCT>
+          <DESCRIPTION>Microsilica-modified sculpting mortar.
+Microsilica-modifikovaná opravná malta R3 pro umělé skály, lezecké stěny a opravy betonu. Vodonepropustná, mrazuvzdorná, různé barevné odstíny.
+Balení: 25kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-h?variant=54753448329553</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-RockMortar-H_stavbox.webp?v=1788185611</IMGURL>
+          <PRICE_VAT>425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>74538</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-RockMortar H · sochařská opravná malta R3 · hnědá</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-RockMortar H · hnědá - Opravná malta R3</PRODUCT>
+          <DESCRIPTION>Microsilica-modified sculpting mortar.
+Microsilica-modifikovaná opravná malta R3 pro umělé skály, lezecké stěny a opravy betonu. Vodonepropustná, mrazuvzdorná, různé barevné odstíny.
+Balení: 25kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-h?variant=54753448526161</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-RockMortar-H_stavbox.webp?v=1788185611</IMGURL>
+          <PRICE_VAT>455.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>74529</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-RockMortar H · sochařská opravná malta R3 · namibijská červená</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-RockMortar H · namibijská červená - Opravná malta R3</PRODUCT>
+          <DESCRIPTION>Microsilica-modified sculpting mortar.
+Microsilica-modifikovaná opravná malta R3 pro umělé skály, lezecké stěny a opravy betonu. Vodonepropustná, mrazuvzdorná, různé barevné odstíny.
+Balení: 25kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-h?variant=54753448427857</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-RockMortar-H_stavbox.webp?v=1788185611</IMGURL>
+          <PRICE_VAT>425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>74528</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-RockMortar H · sochařská opravná malta R3 · okr</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-RockMortar H · okr - Opravná malta R3</PRODUCT>
+          <DESCRIPTION>Microsilica-modified sculpting mortar.
+Microsilica-modifikovaná opravná malta R3 pro umělé skály, lezecké stěny a opravy betonu. Vodonepropustná, mrazuvzdorná, různé barevné odstíny.
+Balení: 25kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-h?variant=54753448460625</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-RockMortar-H_stavbox.webp?v=1788185611</IMGURL>
+          <PRICE_VAT>455.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>74521</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-RockMortar H · sochařská opravná malta R3 · šedá</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-RockMortar H · šedá - Opravná malta R3</PRODUCT>
+          <DESCRIPTION>Microsilica-modified sculpting mortar.
+Microsilica-modifikovaná opravná malta R3 pro umělé skály, lezecké stěny a opravy betonu. Vodonepropustná, mrazuvzdorná, různé barevné odstíny.
+Balení: 25kg</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-h?variant=54753448362321</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-RockMortar-H_stavbox.webp?v=1788185611</IMGURL>
+          <PRICE_VAT>335.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
         </SHOPITEM>
       
     
