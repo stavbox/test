@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2231 -->
 <!-- Total individual products: 627 -->
-<!-- Created: 2026-09-01 00:00:29 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-01 07:53:49 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -1670,7 +1670,7 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
           <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279935825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
           <PRICE_VAT>3860.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 11 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 11 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906061477</EAN>
@@ -23559,7 +23559,7 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
           <URL>https://www.stavbox.cz/products/koster-pur-cleaner</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Cleaner_stavbox.webp?v=1778578955</IMGURL>
           <PRICE_VAT>665.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           

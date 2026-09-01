@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2231 -->
 <!-- Total individual products: 627 -->
-<!-- Created: 2026-09-01 00:00:31 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-01 07:53:50 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -3571,7 +3571,7 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
           <DESCRIPTION>Elastomerní PU-injektážní pryskyřice reagující s vodou pro jedno- a dvoustupňové injektování suchých a vlhkých trhlin a spár.Když se pryskyřice KÖSTER 2 IN 1 dostane do styku s vodou, reaguje a vytváří vysoce elastickou pěnu. V případě suchého podkladu KÖSTER 2 IN 1 reaguje a vytváří pevně elastickou hmotu. KÖSTER 2 IN 1 zůstává po reakci trvale pružný. Proto je schopen reagovat na pohyb trhlin a spár, bez potřeby následných injektáží. KÖSTER 2 IN 1 je rychle reagující pěna na krátkodobé utěsnění větších netěsností, jakož i elastická pryskyřice pro trvalé utěsnění trhlin. KÖSTER 2 IN 1 spojuje dva druhy injektážních pryskyřice do jednoho výrobku. KÖSTER 2 IN 1 neobsahuje rozpouštědla a je odolný proti hydrolýze. KÖSTER 2 IN 1 při kontaktu s ocelí nebo železem nereaguje agresivně a utváří účinnou ochranu proti korozi.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279935825</URL>
           <PRICE_VAT>3860.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 11 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 11 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -50167,7 +50167,7 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
 Čistící prostředek pro odstraňování čerstvého polyuretanu. Vhodné i pro čištění nástrojů, např. pro čerpadlo KÖSTER 1C. Na bázi speciálních rozpouštědel.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-pur-cleaner</URL>
           <PRICE_VAT>665.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PUR-Cleaner_stavbox.webp?v=1778578955</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
