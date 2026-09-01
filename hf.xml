@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2231 -->
 <!-- Total individual products: 627 -->
-<!-- Created: 2026-09-01 14:02:13 -->
+<!-- Created: 2026-09-01 16:54:30 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -234,7 +234,7 @@ Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace s
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -8, VI: 86 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 22, VI: 86 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906136335</EAN>
@@ -1367,7 +1367,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388101457</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>2870.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 62 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040441</EAN>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -32, VI: 292 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 28, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -5665,7 +5665,7 @@ SikaGrout®-311 je 1-komponentní, zálivková hmota s cementovým pojivem velmi
           <URL>https://www.stavbox.cz/products/sika-sikagrout-311-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-311.png?v=1758528363</IMGURL>
           <PRICE_VAT>1160.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894868135</EAN>
@@ -15703,7 +15703,7 @@ Barva: šedá
           <URL>https://www.stavbox.cz/products/botament-botagreen-greenhero</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-GreenHero_stavbox.webp?v=1774691111</IMGURL>
           <PRICE_VAT>820.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 11, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905095418</EAN>
@@ -23616,7 +23616,7 @@ Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
           <PRICE_VAT>995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655085887</EAN>
