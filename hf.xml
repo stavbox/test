@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2231 -->
 <!-- Total individual products: 627 -->
-<!-- Created: 2026-09-02 11:35:40 -->
+<!-- Created: 2026-09-02 14:43:20 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -1670,7 +1670,7 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
           <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279935825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
           <PRICE_VAT>3860.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: 11 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 11 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906061477</EAN>
@@ -1684,7 +1684,7 @@ KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení
           <URL>https://www.stavbox.cz/products/koster-2-in-1?variant=52615279968593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-2-IN-1-PU-injektazni-hmota.jpg?v=1755854190</IMGURL>
           <PRICE_VAT>11835.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906174603</EAN>
@@ -2584,7 +2584,7 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <PRICE_VAT>2690.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707032452</EAN>
@@ -3323,7 +3323,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -5, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707093279</EAN>
@@ -22548,7 +22548,7 @@ Nízkoviskózní elastomerová pryskyřice (2K) pro těsnicí injektáž trhlin,
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-injekt-2300-flow?variant=53628803645777</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-Injekt-2300-flow_stavbox.webp?v=1777191401</IMGURL>
           <PRICE_VAT>1240.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
