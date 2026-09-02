@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2231 -->
 <!-- Total individual products: 627 -->
-<!-- Created: 2026-09-02 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-02 11:35:41 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -3501,7 +3501,7 @@ KÖSTER Restoration Plaster White/Fast je rychle tuhnoucí, solím a tlaku odoln
 KÖSTER Restoration Plaster White/Light je vyvinutá pro dlouhodobé zatížení solí s vysokou odolností vůči krystalizačním tlakům. Používá se jako sanační omítka pro obnovu povrchů silně vlhkých a zasolených konstrukcí a to hlavně po provedení hydroizolační chemické bariéry. Díky vysokému obsahu lehčených plniv (speciální směs pěnového sklaz recyklátu a dalších přírodních lehčených plniv) dosahuje vysoké poréznosti a tím i nízké spotřeby. KÖSTER Restoration Plaster White/Light umožňuje spolehlivé vysušení a odsolení zdiva a to i v případech vysokého obsahu solí všech druhů. Mimo to zlepšuje tepelně izolační vlastnosti povrchu zdiva, čímž pomáhá předcházet tvorbě kondenzátu. Při včasné a vhodné povrchové úpravě zafilcováním lze docílit povrchu, který v některých případech nevyžaduje štukovou úpravu. Díky bílé barvě a vlastnostem může najít široké uplatnění i při renovacích historických objektů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-restoration-plaster-white-light-25kg-bily</URL>
           <PRICE_VAT>865.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 22, VI: 1146 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 24, VI: 1146 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Restoration-Plaster-White-25kg-sanacni-omitka-bila.jpg?v=1755853635</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -10171,7 +10171,7 @@ Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze 
 Kapalný přípravek určený k likvidaci řas, plísní, mechů a bakterií ze zdí, omítek, betonu, střech, zámkové dlažby apod. Bez chloru a tězkých kovů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bfa-koncentrat?variant=52657692410193</URL>
           <PRICE_VAT>1290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 77 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 77 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BFA-Koncentrat-likvidace-ras-plisni-mechu-ze-stavebnich-materialu.jpg?v=1755879976</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -50283,7 +50283,7 @@ SikaGrout®-800 je cementová, vysoce výkonná technická malta s kompenzací s
 Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <PRICE_VAT>995.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -17, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -66253,7 +66253,7 @@ Sikadur®-42 HE je 3komponentní, vysokopevnostní, vysoce přesná, epoxidová 
 Barva: betonově šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikadur-42-plus-he</URL>
           <PRICE_VAT>9200.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -6, VI: O -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadur-42-HE_stavbox.webp?v=1781602753</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
