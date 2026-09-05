@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2231 -->
 <!-- Total individual products: 627 -->
-<!-- Created: 2026-09-05 00:00:29 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-05 09:07:59 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -13352,7 +13352,7 @@ Balení:600ml monoporce (790g)1800ml monoporce (2370g)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikabond-52-parquet?variant=52891549565265</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBond-52-Parquet_opt.jpg?v=1769281879</IMGURL>
           <PRICE_VAT>340.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -4, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894887549</EAN>
