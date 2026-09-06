@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2231 -->
-<!-- Total individual products: 627 -->
-<!-- Created: 2026-09-06 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2239 -->
+<!-- Total individual products: 635 -->
+<!-- Created: 2026-09-06 20:33:23 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -7858,7 +7858,7 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
 Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výkvěty, špínu, rzi. Šetrný k podkladu, ideální pro renovaci historických staveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic?variant=52657777246545</URL>
           <PRICE_VAT>390.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -52405,7 +52405,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449487185</URL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 41 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 41 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -80740,6 +80740,295 @@ Balení: 25kg</DESCRIPTION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>EAOCU-HHKCTO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Apoflex® W · PU hydroizolace odolná chemikáliím a kyselinám · AB · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Polyuretanová hydroizolace pro plochy vystavené zatížení vodou a chemikáliemi.
+Dvousložková PU hydroizolace odolná kyselinám a louhům pro průmyslové provozy, nádrže a vlhké prostory. Přemosťuje trhliny, bezrozpouštědlová. Třída A–C.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-apoflex-w</URL>
+          <PRICE_VAT>5470.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Apoflex-W_stavbox.webp?v=1788704452</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>781570</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200062425</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HHOUCLT-ANHOCLL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Apogel® F · epoxidová injektážní pryskyřice pro trhliny v betonu · AB · 1kg</PRODUCTNAME>
+          <DESCRIPTION>Injektážní epoxidová pryskyřice pro zalévání a injektování trhlin.
+Transparentní nízkoviskózní epoxidová pryskyřice pro injektáž trhlin a dutin v betonu. Proniká do vlasových trhlin, vhodná i na vlhké podklady. EN 1504-5.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-apogel-f</URL>
+          <PRICE_VAT>2195.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Apogel-F_stavbox.webp?v=1788705463</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>758051</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          <EAN>4083200118597</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EHOKCNK-KOLTCOE</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Apogel® SH · silikátová pryskyřice pro trhliny v potěrech · AB · 0,6l</PRODUCTNAME>
+          <DESCRIPTION>Silikátová zalévací pryskyřice pro zalévání trhlin v potěrech.
+Silikátová zalévací pryskyřice pro trhliny a spáry v potěrech do 5 mm. Bez zápachu, bez rozpouštědel, EMICODE EC1 PLUS R, vytvrzení cca 25 min.
+Barva: žlutý</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-apogel-sh</URL>
+          <PRICE_VAT>1095.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Apogel-SH_stavbox.webp?v=1788706606</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>759143</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          <EAN>4083200108529</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ATACEY-EKLYCAL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Apogel® Dübel · kluzné trny pro dilatační spáry v potěrech · 10ks</PRODUCTNAME>
+          <DESCRIPTION>Kluzné trny pro spojování dilatací v potěrech.
+Kluzné trny pro spojování dilatačních spár v minerálních a vytápěných potěrech. Zabraňují vertikálnímu pohybu, horizontální pohyb volný.
+Balení: 10ks.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-apogel-duebel</URL>
+          <PRICE_VAT>2675.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Apogel-Dubel_stavbox.webp?v=1788707380</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>759036</ITEM_ID>
+
+          
+
+          <EAN>4083200011232</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EAHLCYL-HENLCAH</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Armiermatte GFM · skleněná rohož pro samonivelační stěrky · 100m</PRODUCTNAME>
+          <DESCRIPTION>Armovací vložka pro zesílení samonivelačních stěrek.
+Skleněná armovací rohož pro zesílení samonivelačních stěrek od 5 mm. Zvyšuje tahovou pevnost, vhodná na popraskané podklady a trhliny do 3 mm.
+Barva: bíláBalení: 100m role</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-armiermatte-gfm</URL>
+          <PRICE_VAT>45560.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Armiermatte-GFM_stavbox.webp?v=1788708989</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>782113</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Stavební fólie</CATEGORYTEXT>
+            
+
+          <EAN>4083200008102</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KTLULCU-OHAUHCU</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Armiermatte GFS · sešívací vložka pro trhliny ve stěrkách · 45m</PRODUCTNAME>
+          <DESCRIPTION>Sešívací vložka pro efektivní sešívání trhlin.
+Sešívací skleněná vložka pro trhliny 3–5 mm v samonivelačních stěrkách. Doplněk k rohožem GFM, odolná alkáliím, stěrka od 5 mm.
+Balení: 45m role</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-armiermatte-gfs</URL>
+          <PRICE_VAT>16160.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Armiermatte-GFS_stavbox.webp?v=1788710039</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>781270</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Stavební fólie</CATEGORYTEXT>
+            
+
+          <EAN>4083200008126</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>LYLLCYK-ELUEHCLN</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Barraseal® Turbo · hydroizolace sklepů a základů DIN 18533 · 2A+B · 20kg</PRODUCTNAME>
+          <DESCRIPTION>Pružná dvousložková reaktivní hydroizolační stěrka pro izolaci sklepů a základů pod úrovní terénu, stěn i podlah.
+Pružná dvousložková reaktivní stěrka pro hydroizolaci sklepů, základů a nádrží. Přemostění trhlin R3, izolace proti radonu, DIN 18533, mrazuvzdorná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-barraseal-turbo</URL>
+          <PRICE_VAT>4556.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Barraseal-Turbo_stavbox.webp?v=1788712041</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>866998</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          <EAN>4083200015186</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KTLUCL-OHAUCH</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>PCI Barraseal® 2K Objekt · hydroizolace sklepů, nádrží a balkonů · AB · 32,8kg</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková hydroizolační stěrka pro izolace konstrukcí nad i pod úrovní terénu.
+Pružná dvousložková hydroizolační stěrka pro sklepy, nádrže a balkóny. Odolná tlakové vodě do 5 m, přemosťuje trhliny, UV stabilní. EN 1504-2, EN 14891.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-barraseal-2k-objekt</URL>
+          <PRICE_VAT>5650.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Barraseal-2K-Objekt_stavbox.webp?v=1788713117</IMGURL>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>810096</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HNAECKK-AANTCTN</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
