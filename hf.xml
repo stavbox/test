@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2239 -->
 <!-- Total individual products: 635 -->
-<!-- Created: 2026-09-06 20:33:21 -->
+<!-- Created: 2026-09-06 22:31:25 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -4956,7 +4956,7 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936200529</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SN-5l-bezbarva-hydrofobni-impregnace.jpg?v=1755880822</IMGURL>
           <PRICE_VAT>3033.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010825</EAN>
@@ -23616,7 +23616,7 @@ Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
           <PRICE_VAT>995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -17, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -18, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655085887</EAN>
