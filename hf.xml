@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2239 -->
-<!-- Total individual products: 635 -->
-<!-- Created: 2026-09-07 12:49:33 -->
+<!-- Total products+variants: 2247 -->
+<!-- Total individual products: 636 -->
+<!-- Created: 2026-09-07 16:31:26 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -16,7 +16,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707210102</EAN>
@@ -132,7 +132,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <PRICE_VAT>2995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 210 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 210 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707037099</EAN>
@@ -521,7 +521,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 1 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 1 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707246170</EAN>
@@ -3026,7 +3026,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052723537</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <PRICE_VAT>2135.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 8 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707038065</EAN>
@@ -3042,7 +3042,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052756305</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <PRICE_VAT>11730.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 2 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707038072</EAN>
@@ -3613,7 +3613,7 @@ Gelový odstraňovač nátěrů a graffiti pro fasády, dřevo a kovy. Šetrně 
           <URL>https://www.stavbox.cz/products/remmers-age?variant=52657613930833</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-AGE-25l-odstranovac-nateru-a-graffiti.jpg?v=1755865856</IMGURL>
           <PRICE_VAT>795.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707040822</EAN>
@@ -5699,7 +5699,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=51952893690193</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
           <PRICE_VAT>8410.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655116642</EAN>
@@ -5797,7 +5797,7 @@ Sikafloor®-151 je 2-komponentní víceúčelová epoxidová pryskyřice s plniv
           <URL>https://www.stavbox.cz/products/sika-sikafloor-151?variant=52717209026897</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-151_opt.jpg?v=1759489968</IMGURL>
           <PRICE_VAT>4450.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895649948</EAN>
@@ -7280,7 +7280,7 @@ Sikafloor®-400 N Elastic je 1-komponentní, vysoce elastický polyuretanový n�
           <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic?variant=52646336495953</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-N-Elastic_opt.jpg?v=1761503044</IMGURL>
           <PRICE_VAT>13940.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895526751</EAN>
@@ -9662,7 +9662,7 @@ Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkt
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894917796</EAN>
@@ -12920,7 +12920,7 @@ Rychletuhnoucí hydroizolační těsnicí malta pro sanaci sklepů a suterénů.
           <URL>https://www.stavbox.cz/products/remmers-wp-dks-rapid-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/WP-DKS-rapid_dl_sbx.jpg?v=1769079481</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707207874</EAN>
@@ -13352,7 +13352,7 @@ Balení:600ml monoporce (790g)1800ml monoporce (2370g)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikabond-52-parquet?variant=52891549565265</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBond-52-Parquet_opt.jpg?v=1769281879</IMGURL>
           <PRICE_VAT>340.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -4, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894887549</EAN>
@@ -14209,7 +14209,7 @@ Barva:komponent A: bílákomponent B: šedáA+B smíchané: světle šedá</DESC
           <URL>https://www.stavbox.cz/products/sika-anchorfix-3030?variant=53231778070865</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Anchorfix-3030_stavbox.webp?v=1772914241</IMGURL>
           <PRICE_VAT>695.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895725031</EAN>
@@ -19395,7 +19395,7 @@ BP konstrukční deska je vodotěsný, multifunkční nosný prvek s jádrem z e
           <URL>https://www.stavbox.cz/products/botament-bp?variant=53478984024401</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BP_stavbox.webp?v=1775739000</IMGURL>
           <PRICE_VAT>865.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905130034</EAN>
@@ -19429,7 +19429,7 @@ BP konstrukční deska je vodotěsný, multifunkční nosný prvek s jádrem z e
           <URL>https://www.stavbox.cz/products/botament-bp?variant=53478984089937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BP_stavbox.webp?v=1775739000</IMGURL>
           <PRICE_VAT>1020.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905130041</EAN>
@@ -24424,7 +24424,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 137 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 137 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018036</EAN>
@@ -29930,7 +29930,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922584913</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 82 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 82 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265560</EAN>
@@ -30266,7 +30266,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923141969</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 249 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 249 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707271738</EAN>
@@ -37657,6 +37657,144 @@ Pružná dvousložková hydroizolační stěrka pro sklepy, nádrže a balkóny.
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>689552</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · béžová (beige) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · béžová (beige) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818864464209</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895735856</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>689551</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · cihlová (tile red) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · cihlová (tile red) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818875965777</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895735832</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>687987</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · černá (black) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · černá (black) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818875998545</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895733173</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>687877</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · hnědá (brown) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · hnědá (brown) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818876031313</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895733210</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>689142</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · třešňová (cherry) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · třešňová (cherry) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818876064081</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895735351</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>687985</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · šedá (concrete grey) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · šedá (concrete grey) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818876096849</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895733159</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>693825</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · šedá (concrete grey) / 600ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · šedá (concrete grey) / 600ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818876129617</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>659.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895756080</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>687986</ITEM_ID>
+          <PRODUCTNAME>Sikaflex®-11 FC Purform · flexibilní lepidlo a těsnicí tmel pro spáry · bílá (white) / 300ml</PRODUCTNAME>
+          <PRODUCT>Sikaflex®-11 FC Purform · bílá (white) / 300ml - Tlumicí PU lepidlo</PRODUCT>
+          <DESCRIPTION>Víceúčelové flexibilní lepidlo a těsnicí tmel pro spáry.
+Sikaflex®-11 FC Purform® je 1-komponentní flexibilní lepidlo a tmel vytvrzující vlhkostí. Používá se pro vnitřní a vnější víceúčelové lepení a těsnění spár. Má vynikající trvanlivou přilnavost k většině stavebních materiálů je dlouhodobě odolný.
+✅ Kapacita pohybu ± 25%✅ Snadno se aplikuje a nestéká✅ Lepí dobře na většinu stavebních materiálů
+Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sikaflex-11-fc-purform?variant=54818876162385</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikaflex-11-FC-Purform_stavbox.webp?v=1788787229</IMGURL>
+          <PRICE_VAT>356.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895733197</EAN>
         </SHOPITEM>
       
     
