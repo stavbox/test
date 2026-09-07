@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2247 -->
+<!-- Total products+variants: 2248 -->
 <!-- Total individual products: 636 -->
-<!-- Created: 2026-09-07 16:31:26 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-09-08 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -5767,6 +5767,22 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655163462</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX8487TR</ITEM_ID>
+          <PRODUCTNAME>Sika Sikafloor®-2510 W · Epoxidový nátěr na vodní bázi · Transparentní / 20kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikafloor®-2510 W · Transparentní / 20kg - Epoxidová podlaha</PRODUCT>
+          <DESCRIPTION>Epoxidový nátěr na vodní bázi s nízkými emisemi VOC.
+Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxidové pryskyřice na vodní bázi s nízkými emisemi a nízkými nároky na údržbu.
+✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=54821098160465</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
+          <PRICE_VAT>13800.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
         </SHOPITEM>
       
     
