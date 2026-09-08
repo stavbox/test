@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2248 -->
 <!-- Total individual products: 636 -->
-<!-- Created: 2026-09-08 13:08:11 -->
+<!-- Created: 2026-09-08 17:14:44 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -5779,7 +5779,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=54821098160465</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
           <PRICE_VAT>13800.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
@@ -5829,7 +5829,7 @@ Sikafloor®-151 je 2-komponentní víceúčelová epoxidová pryskyřice s plniv
           <URL>https://www.stavbox.cz/products/sika-sikafloor-151?variant=52717209059665</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-151_opt.jpg?v=1759489968</IMGURL>
           <PRICE_VAT>9580.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -3, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895588308</EAN>
@@ -5931,7 +5931,7 @@ Balení: 10kg (8,5kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-305-w-10kg?variant=54693781930321</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikafloor-305-w_opt.jpg?v=1768129413</IMGURL>
           <PRICE_VAT>9885.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655079954</EAN>
@@ -5984,7 +5984,7 @@ Balení: 7,5kg (6kg komp. A + 1,5kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-304-w?variant=53218231910737</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-304-W_opt.jpg?v=1764682843</IMGURL>
           <PRICE_VAT>9330.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -5, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895820194</EAN>
@@ -11717,7 +11717,7 @@ Sikafloor® BC 375 N  je samonivelační polyuretanová, neředěná, dvouslož
           <URL>https://www.stavbox.cz/products/sika-sikafloor-bc-375-n-30kg?variant=52851689226577</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-BC-375N_opt.jpg?v=1768845200</IMGURL>
           <PRICE_VAT>11170.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -6, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894908756</EAN>
@@ -14225,7 +14225,7 @@ Barva:komponent A: bílákomponent B: šedáA+B smíchané: světle šedá</DESC
           <URL>https://www.stavbox.cz/products/sika-anchorfix-3030?variant=53231778070865</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Anchorfix-3030_stavbox.webp?v=1772914241</IMGURL>
           <PRICE_VAT>695.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: O -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895725031</EAN>
@@ -15318,7 +15318,7 @@ Barva:  růžová</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799918929</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
           <PRICE_VAT>715.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905070040</EAN>
@@ -24904,7 +24904,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450175313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 467 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 467 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018449</EAN>
