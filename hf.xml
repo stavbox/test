@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2248 -->
-<!-- Total individual products: 636 -->
-<!-- Created: 2026-09-09 09:00:47 -->
+<!-- Total products+variants: 2250 -->
+<!-- Total individual products: 637 -->
+<!-- Created: 2026-09-09 16:19:29 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -1240,10 +1240,10 @@ Speciální transparentní skleněný granulát pro vysokou zátěž. Protiskluz
   
           <SHOPITEM>
           <ITEM_ID>TX202</ITEM_ID>
-          <PRODUCTNAME>TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l · tixotropní přísada pro epoxidy a polyuretany</PRODUCTNAME>
-          <PRODUCT>Bauprotect TX speciál 5L PE (tzv. &quot;peří&quot;) · 5 l - Tužidlo (tzv. peří)</PRODUCT>
+          <PRODUCTNAME>TX 202speciál 5L PE (tzv. &quot;peří&quot;) · tixotropní přísada pro epoxidy, PU</PRODUCTNAME>
+          <PRODUCT>Bauprotect TX 202 speciál 5L PE (tzv. &quot;peří&quot;) · 5 l - Tužidlo (tzv. peří)</PRODUCT>
           <DESCRIPTION>Tixotropní přísada pro epoxidy a polyuretany (tzv. &quot;peří&quot;).</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/oem-tx-special-5l</URL>
+          <URL>https://www.stavbox.cz/products/bauprotect-tx-202-special-5l-peri</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/no-image-placeholder.jpg?v=1758281411</IMGURL>
           <PRICE_VAT>998.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 30 -->
@@ -24904,7 +24904,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450175313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 467 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 467 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018449</EAN>
@@ -24920,7 +24920,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450208081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 162 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 162 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018456</EAN>
@@ -29658,7 +29658,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922093393</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 15 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 15 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265447</EAN>
@@ -37811,6 +37811,38 @@ Balení: 300 ml kartuše / 600 ml monoporce</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895733197</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>412249</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® EG145 13E NEW · epoxidová penetrace pro vlhké podklady · AB · 2,9kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® EG145 13E NEW · AB · 2,9kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Dvousložková (2K) rychleschnoucí epoxidová pryskyřice určená pro penetraci minerálních  podkladů s rizikem prostupu spodní a zbytkové vlhkosti.
+HADALAN® EG145 13E je epoxidová penetrace, která slouží na ochranu a uzavírání podkladů proti vlhkosti. Vylepšuje a zaručuje míru přídržnosti dalších materiálů k podkladu a to i v případě velkých teplotních a vlhkostních změn.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-eg145-13e-new?variant=54834284036433</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hadalan_EG145-13E_stavbox.webp?v=1788959313</IMGURL>
+          <PRICE_VAT>2735.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <EAN>4004637412249</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>412232</ITEM_ID>
+          <PRODUCTNAME>Hahne HADALAN® EG145 13E NEW · epoxidová penetrace pro vlhké podklady · AB · 8,7kg</PRODUCTNAME>
+          <PRODUCT>Hahne HADALAN® EG145 13E NEW · AB · 8,7kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>Dvousložková (2K) rychleschnoucí epoxidová pryskyřice určená pro penetraci minerálních  podkladů s rizikem prostupu spodní a zbytkové vlhkosti.
+HADALAN® EG145 13E je epoxidová penetrace, která slouží na ochranu a uzavírání podkladů proti vlhkosti. Vylepšuje a zaručuje míru přídržnosti dalších materiálů k podkladu a to i v případě velkých teplotních a vlhkostních změn.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/hahne-hadalan-eg145-13e-new?variant=54834284069201</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hadalan_EG145-13E_stavbox.webp?v=1788959313</IMGURL>
+          <PRICE_VAT>7895.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Hahne</MANUFACTURER>
+          <EAN>4004637412232</EAN>
         </SHOPITEM>
       
     
