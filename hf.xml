@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2248 -->
 <!-- Total individual products: 636 -->
-<!-- Created: 2026-09-09 00:00:29 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-09 09:00:47 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -3219,7 +3219,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386890065</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <PRICE_VAT>8790.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707011426</EAN>
@@ -8859,7 +8859,7 @@ Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp.
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215459665</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
           <PRICE_VAT>11330.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
