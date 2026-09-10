@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-10 18:19:13 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-09-11 00:00:42 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -5159,7 +5159,7 @@ Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie C
 Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par. Rychle odolný po 60 min.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc?variant=52652510380369</URL>
           <PRICE_VAT>1520.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
