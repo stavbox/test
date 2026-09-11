@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-11 16:43:24 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-09-12 00:00:28 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -636,7 +636,7 @@ Vyroben v Německu 🇩🇪
 HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-siloxanové bázi. Účinná silansiloxanová složka tvoří min. 80 % výrobku. Toto složení zaručuje rychlý prostup do kapilárních systémů typických pro běžné minerální stavební materiály a v nich utváří trvalou horizontální bariéru proti vzlínající vlhkosti. Vyznačuje se velmi snadným použitím, protože se vtlačuje přímo do vyvrtaných otvorů například za pomoci kvalitního tlakového zahradního postřikovače.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-cream-injektazni-krem?variant=52603952988497</URL>
           <PRICE_VAT>3935.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 30 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 30 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
           <DELIVERY>
