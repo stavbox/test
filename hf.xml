@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-13 07:37:04 -->
+<!-- Created: 2026-09-13 22:51:23 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -32,7 +32,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 359 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 359 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707131148</EAN>
@@ -21685,7 +21685,7 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616283517265</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <PRICE_VAT>890.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           
