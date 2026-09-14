@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-14 00:00:28 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-14 09:39:17 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -19105,7 +19105,7 @@ Sikafloor®-2600 je 2komponentní, bezrozpouštědlové, barevné pojivo na báz
 Varianty balení:· 30kg (23,9kg komp. A + 6,1kg komp. B)· 825kg (3x219kg komp. A + 168kg komp. B)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2600?variant=52521215459665</URL>
           <PRICE_VAT>11330.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -2, VI: T -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2600_opt.jpg?v=1764680159</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -64812,7 +64812,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923141969</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 202 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 202 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
