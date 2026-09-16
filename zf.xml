@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-16 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-16 14:55:05 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -12271,7 +12271,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
 ✅ Nízké emise VOC✅ Dobrá odolnost proti oděru✅ Dobrá odolnost vůči specifickým chemikáliím</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2510-w?variant=52639300616529</URL>
           <PRICE_VAT>3275.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: O -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2510-W-20kg_opt.jpg?v=1759490214</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -44591,7 +44591,7 @@ Balení: 25kg</DESCRIPTION>
 Balení: 25kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-l?variant=53562678477137</URL>
           <PRICE_VAT>575.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-RockMortar_L_stavbox.webp?v=1776492154</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           <DELIVERY>
@@ -44661,7 +44661,7 @@ Balení: 25kg</DESCRIPTION>
 Balení: 25kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-l?variant=53562678542673</URL>
           <PRICE_VAT>455.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-RockMortar_L_stavbox.webp?v=1776492154</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           <DELIVERY>
@@ -44696,7 +44696,7 @@ Balení: 25kg</DESCRIPTION>
 Balení: 25kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-l?variant=53562678608209</URL>
           <PRICE_VAT>335.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-RockMortar_L_stavbox.webp?v=1776492154</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           <DELIVERY>
