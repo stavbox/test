@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-17 14:36:02 -->
+<!-- Created: 2026-09-17 19:35:34 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -2869,7 +2869,7 @@ Spárovací malta pro cihly, odolná solím a síranům. Paropropustná, pro san
           <URL>https://www.stavbox.cz/products/remmers-fm-san-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-FM-SAN-30kg-vapenocementova-sanacni-malta.jpg?v=1755862720</IMGURL>
           <PRICE_VAT>1935.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 24 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -3, VI: 24 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Spárovací hmoty</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707255578</EAN>
@@ -4685,7 +4685,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638962001</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-Plus-5l-kremova-hydrofilni-impregnace.jpg?v=1755879706</IMGURL>
           <PRICE_VAT>6445.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707070775</EAN>
@@ -19428,7 +19428,7 @@ BP konstrukční deska je vodotěsný, multifunkční nosný prvek s jádrem z e
           <URL>https://www.stavbox.cz/products/botament-bp?variant=53478984057169</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BP_stavbox.webp?v=1775739000</IMGURL>
           <PRICE_VAT>875.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905131697</EAN>
@@ -31586,7 +31586,7 @@ Vodou ředitelný polyuretanový lak pro podlahy, parkety, schody a nábytek. Od
           <URL>https://www.stavbox.cz/products/remmers-podlahovy-lak-premium?variant=54080424771921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Podlahovy-lak-PREMIUM_dl_stavbox.jpg?v=1781615898</IMGURL>
           <PRICE_VAT>2034.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -15, VI: 21 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 21 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Laky na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707138932</EAN>
