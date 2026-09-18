@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2250 -->
 <!-- Total individual products: 637 -->
-<!-- Created: 2026-09-18 08:19:59 -->
+<!-- Created: 2026-09-18 13:18:46 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 354 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 354 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -487,7 +487,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
 Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 20, VI: 86 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 86 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -3025,7 +3025,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <DESCRIPTION>Zpomalující a ředící materiál pro sprejovou aplikaci NB 4000</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 60 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 60 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -12156,8 +12156,8 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
           <DESCRIPTION>Vysoce kvalitní oboustranná těsnicí páska na bázi kaučuku NBR potažená rounem.
 Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objednané délky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-500?variant=52671066964305</URL>
-          <PRICE_VAT>445.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 100 -->
+          <PRICE_VAT>490.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 100 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-VF-500_dl_sbx.jpg?v=1757338345</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -44233,7 +44233,7 @@ KÖSTER Silicone Paint White je matná, vodou ředitelná, kapilárně hydrofob
 DAKORIT® Bituflex 20B je viskózní, snadno aplikovatelný, kaučukovým elastomerem obohacený bitumenový nátěr. Má velmi dobrou přilnavost ke všem běžným stavebním materiálům a je odolný proti odletujícím jiskrám a sálavému teplu. Není škodlivý podzemním vodám. DAKORIT® Bituflex 20B je vysoce odolný vůči UV záření, rozmrazovacím solím a agresivním látkám, které se obvykle nacházejí v půdě.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-dakorit-bituflex-20b-23kg</URL>
           <PRICE_VAT>4620.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -25, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/DAKORIT-Bituflex-20B_stavbox.webp?v=1776166038</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -52090,7 +52090,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449093969</URL>
           <PRICE_VAT>3650.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 37 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 37 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -53140,7 +53140,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450240849</URL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
