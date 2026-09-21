@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2251 -->
-<!-- Total individual products: 638 -->
-<!-- Created: 2026-09-21 15:04:36 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2252 -->
+<!-- Total individual products: 639 -->
+<!-- Created: 2026-09-22 00:00:38 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -3025,7 +3025,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <DESCRIPTION>Zpomalující a ředící materiál pro sprejovou aplikaci NB 4000</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 60 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 60 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -81463,6 +81463,45 @@ Balení:1 l lahev s dávkovačem</DESCRIPTION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>KOTCAT-NLNCYL</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Render Admixture ·  · 1 l</PRODUCTNAME>
+          <DESCRIPTION>Účinná přísada do malt.
+Přísada na syntetické bázi vhodná do cementových malt. Zlepšuje a prodlužuje zpracovatelnost a usnadňuje nanášení malty. Zlepšuje soudržnost, snižuje nasákavost a propustnost maltové směsi.
+✅ Zlepšuje zpracovatelnost cementových smesí✅ Zvyšuje vodotesnost✅ Zvyšuje mrazuvzdornost
+Dávkování:250 ml přísady na 25 kg cementu.
+Balení:1 l lahev s dávkovačem</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-render-admixture</URL>
+          <PRICE_VAT>400.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Render-Admixture_stavbox.webp?v=1789998930</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>825141</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+            
+
+          <EAN>7612895021690</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KNHCYE-NAYCKT</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     

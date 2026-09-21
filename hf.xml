@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2251 -->
-<!-- Total individual products: 638 -->
-<!-- Created: 2026-09-21 15:04:35 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2252 -->
+<!-- Total individual products: 639 -->
+<!-- Created: 2026-09-22 00:00:37 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -1421,7 +1421,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 60 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 60 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906139381</EAN>
@@ -37863,6 +37863,26 @@ Balení:1 l lahev s dávkovačem</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895021683</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>825141</ITEM_ID>
+          <PRODUCTNAME>Sika® Render Admixture ·  · 1 l</PRODUCTNAME>
+          <PRODUCT>Sika® Render Admixture · 1 l - Přísada do betonu</PRODUCT>
+          <DESCRIPTION>Účinná přísada do malt.
+Přísada na syntetické bázi vhodná do cementových malt. Zlepšuje a prodlužuje zpracovatelnost a usnadňuje nanášení malty. Zlepšuje soudržnost, snižuje nasákavost a propustnost maltové směsi.
+✅ Zlepšuje zpracovatelnost cementových smesí✅ Zvyšuje vodotesnost✅ Zvyšuje mrazuvzdornost
+Dávkování:250 ml přísady na 25 kg cementu.
+Balení:1 l lahev s dávkovačem</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-render-admixture</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Render-Admixture_stavbox.webp?v=1789998930</IMGURL>
+          <PRICE_VAT>400.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612895021690</EAN>
         </SHOPITEM>
       
     
