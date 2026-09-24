@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-24 12:15:03 -->
+<!-- Created: 2026-09-24 15:58:32 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -26896,7 +26896,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634228049</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 292 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707067539</EAN>
@@ -37859,7 +37859,7 @@ Balení:1 l lahev s dávkovačem</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-waterproofer</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Waterproofer_stavbox.webp?v=1789990935</IMGURL>
           <PRICE_VAT>420.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895021683</EAN>

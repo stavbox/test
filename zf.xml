@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-24 12:15:05 -->
+<!-- Created: 2026-09-24 15:58:33 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -57418,7 +57418,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634228049</URL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 292 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 292 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -81439,7 +81439,7 @@ Dávkování:200 ml přísady na 25 kg cementu.
 Balení:1 l lahev s dávkovačem</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-waterproofer</URL>
           <PRICE_VAT>420.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Waterproofer_stavbox.webp?v=1789990935</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
