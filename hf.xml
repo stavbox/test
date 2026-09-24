@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-24 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-24 12:15:03 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -185,7 +185,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
           <URL>https://www.stavbox.cz/products/remmers-iq-m-universal-20kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-M-Universal-20kg-lepici-a-prodysna-malta.png?v=1755849992</IMGURL>
           <PRICE_VAT>1565.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Příslušenství pro zateplení</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269735</EAN>
@@ -873,7 +873,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-therm-2-0?variant=52653697433937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-Therm-2-0-vnitrni-tepelna-izolace.jpg?v=1755849898</IMGURL>
           <PRICE_VAT>9600.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 0.978 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 0.978 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Příslušenství pro zateplení</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269421</EAN>
@@ -2233,7 +2233,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991680337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <PRICE_VAT>3175.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 8 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 8 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707228794</EAN>
@@ -2371,7 +2371,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849738065</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <PRICE_VAT>2245.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707034333</EAN>
@@ -2633,7 +2633,7 @@ Nyní dostupná: Páska na míruCena je za 1 metr. Dodáváme v kuse dle objedna
           <URL>https://www.stavbox.cz/products/remmers-tape-vf-120?variant=52670659625297</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tape-VF-120-10m-tesnici-pasek.jpg?v=1755777665</IMGURL>
           <PRICE_VAT>5325.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 250 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 250 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707142847</EAN>
@@ -3323,7 +3323,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 4 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707093279</EAN>
@@ -4901,7 +4901,7 @@ Velikost oka: 4x4mm</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tex-4-100-50m</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Tex-armovaci-sklotextilni-sitovina.jpg?v=1755880620</IMGURL>
           <PRICE_VAT>3815.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Příslušenství pro zateplení</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707114967</EAN>
@@ -24360,7 +24360,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448864593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 411 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 411 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707017978</EAN>
@@ -24440,7 +24440,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 418 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 418 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018036</EAN>
@@ -24664,7 +24664,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449585489</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 206 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 206 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018203</EAN>
@@ -25000,7 +25000,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450404689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 344 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 344 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018517</EAN>
@@ -25160,7 +25160,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450765137</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 395 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 395 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018630</EAN>
@@ -30684,7 +30684,7 @@ Olejový lazurovací krém 3v1 pro exteriér – krémová konzistence, neskapá
           <URL>https://www.stavbox.cz/products/remmers-lazurovaci-krem-3v1?variant=54073992479057</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Lazurovaci-krem-3v1_dl_stavbox.jpg?v=1781552657</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 45 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 45 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707095792</EAN>
