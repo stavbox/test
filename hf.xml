@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-25 00:00:27 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-25 11:16:55 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -16,7 +16,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707210102</EAN>
@@ -19428,7 +19428,7 @@ BP konstrukční deska je vodotěsný, multifunkční nosný prvek s jádrem z e
           <URL>https://www.stavbox.cz/products/botament-bp?variant=53478984057169</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BP_stavbox.webp?v=1775739000</IMGURL>
           <PRICE_VAT>980.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905131697</EAN>
@@ -24904,7 +24904,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450175313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 70 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 70 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018449</EAN>
@@ -26880,7 +26880,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634195281</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>860.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 302 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 302 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707067416</EAN>
@@ -27408,7 +27408,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635276625</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 29 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 29 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707249706</EAN>
@@ -29466,7 +29466,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073921765713</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 141 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 141 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265829</EAN>
@@ -37859,7 +37859,7 @@ Balení:1 l lahev s dávkovačem</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-waterproofer</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Waterproofer_stavbox.webp?v=1789990935</IMGURL>
           <PRICE_VAT>420.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895021683</EAN>
