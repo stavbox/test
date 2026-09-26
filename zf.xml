@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-26 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-09-26 12:37:53 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -50240,7 +50240,7 @@ Sika MonoTop®-2001 Bond &amp;amp; Protect je 1komponentní polymer-cementový n
 Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-monotop-2001-bond-protect-20kg</URL>
           <PRICE_VAT>1555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MonoTop-2001-2002-2003_stavbox.webp?v=1778593052</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
