@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-29 15:22:05 -->
+<!-- Created: 2026-09-29 20:56:31 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 16, VI: 308 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 14, VI: 308 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -1083,7 +1083,7 @@ Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychlesch
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -68061,7 +68061,7 @@ Vodou ředitelný lak na parkety, schody a dřevěné podlahy. Odolný oděru a 
    </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-aqua-pl-413-parkettlack?variant=54080962920785</URL>
           <PRICE_VAT>2697.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 9 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 9 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Aqua-PL-413-Parkettlack_dl_stavbox.jpg?v=1781619980</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
