@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2252 -->
 <!-- Total individual products: 639 -->
-<!-- Created: 2026-09-28 21:34:37 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-09-29 00:00:30 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -77981,7 +77981,7 @@ Pružný silikonový tmel pro rohové a dilatační spáry v koupelnách, bazén
 Pružný silikonový tmel pro rohové a dilatační spáry v koupelnách, bazénech, na terasách a fasádách. Odolný UV záření, fungicidní, 21 barev. Do +165 °C.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-silcofug-e?variant=54333687497041</URL>
           <PRICE_VAT>332.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -4, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Silcofug-E_stavbox.webp?v=1784204721</IMGURL>
           <MANUFACTURER>PCI</MANUFACTURER>
           <DELIVERY>
