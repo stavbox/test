@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2253 -->
 <!-- Total individual products: 640 -->
-<!-- Created: 2026-09-30 20:17:20 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-01 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -65,7 +65,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279802193</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
-          <PRICE_VAT>5255.0</PRICE_VAT>
+          <PRICE_VAT>5455.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 28 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -97,7 +97,7 @@ Silan/siloxanový injektážní krém pro dodatečnou horizontální izolaci zdi
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-c?variant=52712279736657</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-C-12-5l-injektazni-krem.jpg?v=1755759342</IMGURL>
-          <PRICE_VAT>13130.0</PRICE_VAT>
+          <PRICE_VAT>13600.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 34 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -131,7 +131,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
-          <PRICE_VAT>2995.0</PRICE_VAT>
+          <PRICE_VAT>3190.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 255 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -985,7 +985,7 @@ Další rozměry (délka x šířka) pásů:1 175 mm x 125 mm</DESCRIPTION>
 Minerální barva pro památky. Paropropustná, odolná povětrnosti, vhodná pro restaurování historických fasád.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-cl-historic-10kg-bily</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-CL-Historic-10kg-ciste-vapenny-nater.png?v=1755852808</IMGURL>
-          <PRICE_VAT>2756.0</PRICE_VAT>
+          <PRICE_VAT>3250.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Fasádní barvy</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -1351,7 +1351,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 15 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040113</EAN>
@@ -1489,7 +1489,7 @@ Klasická vápenná ručně zpracovatelná omítka pro fasády, vnitřní stěny
 Rychleschnoucí stěrka pro vnitřní izolaci. Odolná síranům, pružná, vhodná pro sklepy a novostavby.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-rapid-25kg-sedy</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-Rapid-25kg-hydroizolacni-sterka.jpg?v=1755852958</IMGURL>
-          <PRICE_VAT>3240.0</PRICE_VAT>
+          <PRICE_VAT>3570.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -2992,7 +2992,7 @@ Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly,
 Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává paropropustnost, odolná UV záření a povětrnosti. Zvýrazňuje barvu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-as?variant=52652845728081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AS-5l-ochrana-fasad-pred-destem-a-zelenanim.jpg?v=1755863343</IMGURL>
-          <PRICE_VAT>2795.0</PRICE_VAT>
+          <PRICE_VAT>3450.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3007,7 +3007,7 @@ Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává p
 Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává paropropustnost, odolná UV záření a povětrnosti. Zvýrazňuje barvu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-as?variant=52652845760849</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AS-5l-ochrana-fasad-pred-destem-a-zelenanim.jpg?v=1755863343</IMGURL>
-          <PRICE_VAT>15195.0</PRICE_VAT>
+          <PRICE_VAT>15990.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3058,7 +3058,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
 Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paropropustná, Odpuzujíci olej, mastnotu a nečistoty.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ag?variant=52652557631825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AG-5l-impregnace-proti-rasam.jpg?v=1755863510</IMGURL>
-          <PRICE_VAT>6795.0</PRICE_VAT>
+          <PRICE_VAT>8400.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3073,7 +3073,7 @@ Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paro
 Impregnace pro fasády s ochranou proti řasám a plísním. Vodoodpudivá, paropropustná, Odpuzujíci olej, mastnotu a nečistoty.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ag?variant=52652557664593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-AG-5l-impregnace-proti-rasam.jpg?v=1755863510</IMGURL>
-          <PRICE_VAT>39175.0</PRICE_VAT>
+          <PRICE_VAT>39990.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3322,7 +3322,7 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
-          <PRICE_VAT>1650.0</PRICE_VAT>
+          <PRICE_VAT>1990.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3337,7 +3337,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
 Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní, paropropustná, bez solí, zajišťuje ochranu a přilnavost nátěrů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884794705</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
-          <PRICE_VAT>8550.0</PRICE_VAT>
+          <PRICE_VAT>9950.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3405,7 +3405,7 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300-hv?variant=52670609195345</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-HV-5l-zpevnovac-vapence.jpg?v=1755865320</IMGURL>
-          <PRICE_VAT>3850.0</PRICE_VAT>
+          <PRICE_VAT>4330.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3422,7 +3422,7 @@ Bezrozpouštědlový zpevňovač vápence na bázi KSE se speciálními adhezivy
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300-hv?variant=52670609228113</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-HV-5l-zpevnovac-vapence.jpg?v=1755865320</IMGURL>
-          <PRICE_VAT>22222.0</PRICE_VAT>
+          <PRICE_VAT>23500.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -3543,7 +3543,7 @@ Jednosložkový (1K)  bitumenový nátěr, bezrozpouštědlový, modifikovaný 
 Dvousložková (2K) bitumenová izolace s polystyrenem, přemosťující trhliny. Odolná vodě, bez rozpouštědel, WTA certifikát, pro vnější izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-bit-k2-30l</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-BIT-K2-30l-silnovrstva-izolace.jpg?v=1755865653</IMGURL>
-          <PRICE_VAT>4320.0</PRICE_VAT>
+          <PRICE_VAT>4950.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4016,7 +4016,7 @@ Vápenná stěrka pro památkové a ekologické interiérové prostory. Připrav
 Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu, zpevňuje porézní pískovce, cihly, omítky, odolný povětrnosti, pro restaurování.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-500-e?variant=52670623056209</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-500-E-5l-elasticky-zpevnovac-kamene.jpg?v=1755877337</IMGURL>
-          <PRICE_VAT>4050.0</PRICE_VAT>
+          <PRICE_VAT>4800.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4031,7 +4031,7 @@ Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu
 Elastifikovaný zpevňovač kamene na bázi KSE pro památky. Vysoká míra gelu, zpevňuje porézní pískovce, cihly, omítky, odolný povětrnosti, pro restaurování.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-500-e?variant=52670623088977</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-500-E-5l-elasticky-zpevnovac-kamene.jpg?v=1755877337</IMGURL>
-          <PRICE_VAT>23425.0</PRICE_VAT>
+          <PRICE_VAT>24900.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27007,7 +27007,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634457425</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>395.0</PRICE_VAT>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27023,7 +27023,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634490193</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>990.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 9 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27055,7 +27055,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634555729</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>395.0</PRICE_VAT>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27071,7 +27071,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634588497</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>860.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 20 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27135,7 +27135,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634719569</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>380.0</PRICE_VAT>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 142 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27151,7 +27151,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634752337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>950.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 58 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27183,7 +27183,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634817873</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>380.0</PRICE_VAT>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 17 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27199,7 +27199,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634850641</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>950.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 20 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27231,7 +27231,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634916177</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>380.0</PRICE_VAT>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 104 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27247,7 +27247,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634948945</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>950.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 80 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27279,7 +27279,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635014481</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>380.0</PRICE_VAT>
+          <PRICE_VAT>420.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 80 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27295,7 +27295,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635047249</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>950.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -27343,7 +27343,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635145553</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
-          <PRICE_VAT>950.0</PRICE_VAT>
+          <PRICE_VAT>1020.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 135 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
