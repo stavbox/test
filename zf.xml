@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2252 -->
-<!-- Total individual products: 640 -->
-<!-- Created: 2026-10-01 09:36:25 -->
+<!-- Total products+variants: 2253 -->
+<!-- Total individual products: 641 -->
+<!-- Created: 2026-10-01 16:15:51 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -15,7 +15,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -378,7 +378,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-iq-m-universal-20kg</URL>
           <PRICE_VAT>1565.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-M-Universal-20kg-lepici-a-prodysna-malta.png?v=1755849992</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -415,7 +415,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
 Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost omítek, WTA certifikát.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-salt-ih?variant=52662913597777</URL>
           <PRICE_VAT>1295.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 7 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -10654,7 +10654,7 @@ Génius mezi hydroizolacemi na eco bázi. Chrání proti tlakové vodě a solím
 Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící plochy citlivé k organickým ředidlům. Zlepšuje razuvzdornost, prodyšná, proniká do hloubky, UV odolná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936200529</URL>
           <PRICE_VAT>3033.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SN-5l-bezbarva-hydrofobni-impregnace.jpg?v=1755880822</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -25702,7 +25702,7 @@ Sikafloor® CureHard LI je směs křemičitanu lithného na vodní bázi pro vyt
 Barva: čirá kapalina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-curehard-li?variant=52854782099793</URL>
           <PRICE_VAT>6950.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika-generic-02_opt.jpg?v=1767793518</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -46002,7 +46002,7 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
 Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616283517265</URL>
           <PRICE_VAT>890.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -76830,7 +76830,7 @@ Prémiová spárovací hmota pro spáry 1–10 mm na keramice, mozaice a příro
 Balení: 5 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-nanofug-premium?variant=54309610881361</URL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Nanofug-Premium_stavbox.webp?v=1783954107</IMGURL>
           <MANUFACTURER>PCI</MANUFACTURER>
           <DELIVERY>
@@ -81503,6 +81503,45 @@ Jemná trasvápenná tenkovrstvá omítka (štuk) pro povrchovou úpravu jádrov
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>HEHCK-AHECAK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika SikaGrout®-314 · zálivková hmota pro stroje a základy</PRODUCTNAME>
+          <DESCRIPTION>Vysoce pevnostní zálivková hmota.
+SikaGrout®-314 je 1komponentní, zálivková hmota na bázi cementu, připravená ihned k použití, vysoce tekutá s expanzními účinky a omezeným smrštěním.
+✅ Rychlý nárůst pevností✅ Vysoké konečné pevnosti✅ Omezené smrštění (v plastickém stavu, i během tvrdnutí)
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagrout-314-25kg</URL>
+          <PRICE_VAT>1055.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_SikaGrout-314_stavbox.webp?v=1790863637</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>421138</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Beton</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+            
+
+          <EAN>7612894868142</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ANOCTO-EKNUCKO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     

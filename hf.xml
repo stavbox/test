@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2252 -->
-<!-- Total individual products: 640 -->
-<!-- Created: 2026-10-01 09:36:24 -->
+<!-- Total products+variants: 2253 -->
+<!-- Total individual products: 641 -->
+<!-- Created: 2026-10-01 16:15:50 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -16,7 +16,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707210102</EAN>
@@ -185,7 +185,7 @@ Lepí, omítá, zpevňuje. Difuzně otevřená, kapilárně aktivní, vytvořena
           <URL>https://www.stavbox.cz/products/remmers-iq-m-universal-20kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-iQ-M-Universal-20kg-lepici-a-prodysna-malta.png?v=1755849992</IMGURL>
           <PRICE_VAT>1565.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Příslušenství pro zateplení</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269735</EAN>
@@ -202,7 +202,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
           <URL>https://www.stavbox.cz/products/remmers-salt-ih?variant=52662913597777</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Salt-IH-penetrace-pro-zapouzdreni-soli.jpg?v=1755853106</IMGURL>
           <PRICE_VAT>1295.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 7 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707011525</EAN>
@@ -4941,7 +4941,7 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936200529</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SN-5l-bezbarva-hydrofobni-impregnace.jpg?v=1755880822</IMGURL>
           <PRICE_VAT>3033.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010825</EAN>
@@ -12091,7 +12091,7 @@ Barva: čirá kapalina</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-curehard-li?variant=52854782099793</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sika-generic-02_opt.jpg?v=1767793518</IMGURL>
           <PRICE_VAT>6950.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894792218</EAN>
@@ -21670,7 +21670,7 @@ Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník bar
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616283517265</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <PRICE_VAT>890.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           
@@ -35722,7 +35722,7 @@ Balení: 5 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-nanofug-premium?variant=54309610881361</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Nanofug-Premium_stavbox.webp?v=1783954107</IMGURL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Spárovací hmoty</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           <EAN>4083200030332</EAN>
@@ -37885,6 +37885,25 @@ Jemná trasvápenná tenkovrstvá omítka (štuk) pro povrchovou úpravu jádrov
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Tubag</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>421138</ITEM_ID>
+          <PRODUCTNAME>Sika SikaGrout®-314 · zálivková hmota pro stroje a základy</PRODUCTNAME>
+          <PRODUCT>Sika SikaGrout®-314 · 25 kg - Zálivková hmota</PRODUCT>
+          <DESCRIPTION>Vysoce pevnostní zálivková hmota.
+SikaGrout®-314 je 1komponentní, zálivková hmota na bázi cementu, připravená ihned k použití, vysoce tekutá s expanzními účinky a omezeným smrštěním.
+✅ Rychlý nárůst pevností✅ Vysoké konečné pevnosti✅ Omezené smrštění (v plastickém stavu, i během tvrdnutí)
+Barva: šedý prášek</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikagrout-314-25kg</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_SikaGrout-314_stavbox.webp?v=1790863637</IMGURL>
+          <PRICE_VAT>1055.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894868142</EAN>
         </SHOPITEM>
       
     
