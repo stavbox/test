@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2253 -->
 <!-- Total individual products: 641 -->
-<!-- Created: 2026-10-02 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-02 08:44:19 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -13789,15 +13789,16 @@ Barva: zelená</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>34100660295609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® RD 2morrow · 2K ekologická hydroizolace EC1 Plus · AB · 30kg · "MAX" (velké vědro na míchání)</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® RD 2morrow · AB · 30kg · "MAX" (velké vědro na míchání) - 2K hydroizolační stěrka</PRODUCT>
-          <DESCRIPTION>Rychlá reaktivní hydroizolace šetrná ke klimatu, dvousložková (2K).
-BotaGreen® RD 2morrow je rychleschnoucí hydroizolační stěrková hmota bez obsahu bitumenu. Je vhodná pro izolování nových stavebních konstrukcí pod terénem a k renovaci starých izolačních vrstev.BotaGreen® RD 2morrow je přezkoušen podle PG-MDS a PG-FPD (SRN) jako hydroizolace staveb a jako spojená hydroizolační vrstva podle EN 14891. Produkt BotaGreen® RD 2morrow je díky receptuře snižující emise CO2 a udržitelnému balení zvláště šetrný k životnímu prostředí*.BotaGreen® RD 2morrow je také mimořádně nízkoemisní s redukovanou prašností a vytváří protiradonovou barieru.
-✅ Rychleschnoucí hydroizolace, šetrná k životnímu prostředí✅ Snižuje uhlíkovou stopu*✅ Obaly šetřící zdroje✅ Velmi nízké emise (EC1 Plus)✅ Snížená prašnost, protiradonová bariera* detailní informace: http://www.botagreen.botament.com/co2
-  
+          <PRODUCTNAME>Botament RD 2morrow · 2K ekologická hydroizolace EC1 Plus · AB · 30kg · "MAX" (velké vědro na míchání)</PRODUCTNAME>
+          <PRODUCT>Botament RD 2morrow · AB · 30kg · "MAX" (velké vědro na míchání) - 2K hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Rychlá multifunkční reaktivní hydroizolace (2K).
+Dříve prodáván pod názvem: Botament BotaGreen® RD 2morrow
+Botament RD 2morrow je rychleschnoucí hydroizolační stěrková hmota bez obsahu bitumenu. Je vhodná pro izolování nových stavebních konstrukcí pod terénem a k renovaci starých izolačních vrstev. Produkt Botament RD 2morrow je přezkoušen podle PG-MDS a PG-FPD (SRN) jako hydroizolace staveb podle DIN 18533 a jako spojená hydroizolační vrstva dle EN 14891.
+✅ Rychleschnoucí hydroizolace✅ Velmi nízké emise (EC1 Plus)✅ Vysoce flexibilní, překlenuje trhliny✅ S osvědčením ETA✅ Snížená prašnost✅ Podklad se nemusí penetrovat
+ 
 Barva: zelená</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-rd-2morrow?variant=53222805406033</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Botagreen-RD-2morrow_opt_sbx.webp?v=1772815570</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-rd-2morrow?variant=53222805406033</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RD2morrow_stavbox.webp?v=1790912947</IMGURL>
           <PRICE_VAT>4110.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -13807,15 +13808,16 @@ Barva: zelená</DESCRIPTION>
       
           <SHOPITEM>
           <ITEM_ID>34100670295609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® RD 2morrow · 2K ekologická hydroizolace EC1 Plus · AB · 30kg · "MIN" (kbelík)</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® RD 2morrow · AB · 30kg · "MIN" (kbelík) - 2K hydroizolační stěrka</PRODUCT>
-          <DESCRIPTION>Rychlá reaktivní hydroizolace šetrná ke klimatu, dvousložková (2K).
-BotaGreen® RD 2morrow je rychleschnoucí hydroizolační stěrková hmota bez obsahu bitumenu. Je vhodná pro izolování nových stavebních konstrukcí pod terénem a k renovaci starých izolačních vrstev.BotaGreen® RD 2morrow je přezkoušen podle PG-MDS a PG-FPD (SRN) jako hydroizolace staveb a jako spojená hydroizolační vrstva podle EN 14891. Produkt BotaGreen® RD 2morrow je díky receptuře snižující emise CO2 a udržitelnému balení zvláště šetrný k životnímu prostředí*.BotaGreen® RD 2morrow je také mimořádně nízkoemisní s redukovanou prašností a vytváří protiradonovou barieru.
-✅ Rychleschnoucí hydroizolace, šetrná k životnímu prostředí✅ Snižuje uhlíkovou stopu*✅ Obaly šetřící zdroje✅ Velmi nízké emise (EC1 Plus)✅ Snížená prašnost, protiradonová bariera* detailní informace: http://www.botagreen.botament.com/co2
-  
+          <PRODUCTNAME>Botament RD 2morrow · 2K ekologická hydroizolace EC1 Plus · AB · 30kg · "MIN" (kbelík)</PRODUCTNAME>
+          <PRODUCT>Botament RD 2morrow · AB · 30kg · "MIN" (kbelík) - 2K hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Rychlá multifunkční reaktivní hydroizolace (2K).
+Dříve prodáván pod názvem: Botament BotaGreen® RD 2morrow
+Botament RD 2morrow je rychleschnoucí hydroizolační stěrková hmota bez obsahu bitumenu. Je vhodná pro izolování nových stavebních konstrukcí pod terénem a k renovaci starých izolačních vrstev. Produkt Botament RD 2morrow je přezkoušen podle PG-MDS a PG-FPD (SRN) jako hydroizolace staveb podle DIN 18533 a jako spojená hydroizolační vrstva dle EN 14891.
+✅ Rychleschnoucí hydroizolace✅ Velmi nízké emise (EC1 Plus)✅ Vysoce flexibilní, překlenuje trhliny✅ S osvědčením ETA✅ Snížená prašnost✅ Podklad se nemusí penetrovat
+ 
 Barva: zelená</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-rd-2morrow?variant=53222805438801</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Botagreen-RD-2morrow_opt_sbx.webp?v=1772815570</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-rd-2morrow?variant=53222805438801</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RD2morrow_stavbox.webp?v=1790912947</IMGURL>
           <PRICE_VAT>3965.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -15456,14 +15458,15 @@ Barva: modrá</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>31151600115609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Grundierung · Eko penetrace a kontaktní nátěr · 1kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Grundierung · 1kg - Kontaktní a penetrační nátěr</PRODUCT>
+          <PRODUCTNAME>Botament MultiPrimer (Grundierung) · Eko penetrace a kontaktní nátěr · 1kg</PRODUCTNAME>
+          <PRODUCT>Botament MultiPrimer (Grundierung) · 1kg - Kontaktní a penetrační nátěr</PRODUCT>
           <DESCRIPTION>Rychlý, multifunkční kontaktní a penetrační nátěr.
-BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační nátěr k přípravě nasákavých a nenasákavých podkladů před následnou aplikací lepidel a stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí. Nátěr BotaGreen® Grundierung je obzvláště šetrný k životnímu prostředí, protože jeho základnu tvoří až 30 % obnovitelné a recyklované suroviny.
-✅ Báze pojiva tvoří až 30 % obnovitelné a recyklované suroviny✅ Obal tvoří až 50 % recyklovaných materiálů✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2
+Dříve prodáván pod názvem: Botament BotaGreen® Grundierung
+Botament MultiPrimer je rychlý, multifunkční kontaktní a penetrační nátěr k přípravě nasákavých a nenasákavých podkladů před následnou aplikací lepidel a stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2✅ Pro nasákavé i nenasákavé podklady✅ Nahrazuje zásyp křemičitým pískem na penetracích z reaktivních pryskyřic✅ Drsná struktura povrchu
 Barva: zelená</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388638814545</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-multiprimer-grundierung?variant=53388638814545</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MultiPrimer_stavbox.webp?v=1790910052</IMGURL>
           <PRICE_VAT>340.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
@@ -15473,14 +15476,15 @@ Barva: zelená</DESCRIPTION>
       
           <SHOPITEM>
           <ITEM_ID>31151600195609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Grundierung · Eko penetrace a kontaktní nátěr · 5kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Grundierung · 5kg - Kontaktní a penetrační nátěr</PRODUCT>
+          <PRODUCTNAME>Botament MultiPrimer (Grundierung) · Eko penetrace a kontaktní nátěr · 5kg</PRODUCTNAME>
+          <PRODUCT>Botament MultiPrimer (Grundierung) · 5kg - Kontaktní a penetrační nátěr</PRODUCT>
           <DESCRIPTION>Rychlý, multifunkční kontaktní a penetrační nátěr.
-BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační nátěr k přípravě nasákavých a nenasákavých podkladů před následnou aplikací lepidel a stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí. Nátěr BotaGreen® Grundierung je obzvláště šetrný k životnímu prostředí, protože jeho základnu tvoří až 30 % obnovitelné a recyklované suroviny.
-✅ Báze pojiva tvoří až 30 % obnovitelné a recyklované suroviny✅ Obal tvoří až 50 % recyklovaných materiálů✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2
+Dříve prodáván pod názvem: Botament BotaGreen® Grundierung
+Botament MultiPrimer je rychlý, multifunkční kontaktní a penetrační nátěr k přípravě nasákavých a nenasákavých podkladů před následnou aplikací lepidel a stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2✅ Pro nasákavé i nenasákavé podklady✅ Nahrazuje zásyp křemičitým pískem na penetracích z reaktivních pryskyřic✅ Drsná struktura povrchu
 Barva: zelená</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388638847313</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-multiprimer-grundierung?variant=53388638847313</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MultiPrimer_stavbox.webp?v=1790910052</IMGURL>
           <PRICE_VAT>1335.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
@@ -15490,14 +15494,15 @@ Barva: zelená</DESCRIPTION>
       
           <SHOPITEM>
           <ITEM_ID>31151600245609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Grundierung · Eko penetrace a kontaktní nátěr · 10kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Grundierung · 10kg - Kontaktní a penetrační nátěr</PRODUCT>
+          <PRODUCTNAME>Botament MultiPrimer (Grundierung) · Eko penetrace a kontaktní nátěr · 10kg</PRODUCTNAME>
+          <PRODUCT>Botament MultiPrimer (Grundierung) · 10kg - Kontaktní a penetrační nátěr</PRODUCT>
           <DESCRIPTION>Rychlý, multifunkční kontaktní a penetrační nátěr.
-BotaGreen® Grundierung je rychlý, multifunkční kontaktní a penetrační nátěr k přípravě nasákavých a nenasákavých podkladů před následnou aplikací lepidel a stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí. Nátěr BotaGreen® Grundierung je obzvláště šetrný k životnímu prostředí, protože jeho základnu tvoří až 30 % obnovitelné a recyklované suroviny.
-✅ Báze pojiva tvoří až 30 % obnovitelné a recyklované suroviny✅ Obal tvoří až 50 % recyklovaných materiálů✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2
+Dříve prodáván pod názvem: Botament BotaGreen® Grundierung
+Botament MultiPrimer je rychlý, multifunkční kontaktní a penetrační nátěr k přípravě nasákavých a nenasákavých podkladů před následnou aplikací lepidel a stěrkových hmot, omítek nebo nátěrů ve vnitřním i vnějším prostředí.
+✅ Velmi nízké emise✅ Rychleschnoucí✅ Ředitelný vodou 1:2✅ Pro nasákavé i nenasákavé podklady✅ Nahrazuje zásyp křemičitým pískem na penetracích z reaktivních pryskyřic✅ Drsná struktura povrchu
 Barva: zelená</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-grundierung?variant=53388630131025</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Grundierung_stavbox.webp?v=1774503557</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-multiprimer-grundierung?variant=53388630131025</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MultiPrimer_stavbox.webp?v=1790910052</IMGURL>
           <PRICE_VAT>2465.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
@@ -15581,15 +15586,15 @@ Barva: černá</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>34120010245609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Multiproof · Eko hybridní hydroizolace 2v1 (1K) · 12kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Multiproof · 12kg - 1K hydroizolační hmota</PRODUCT>
-          <DESCRIPTION>Udržitelná hybridní hydroizolace (1K).
-BotaGreen® Multiproof je hybridní jednosložková hmota pro vytváření spojené hydroizolační vrstvy pod keramické dlaždice ve vnitřním i vnějším prostředí. BotaGreen® Multiproof je praktický produkt 2 v 1, který umožňuje vytvářet hydroizolační vrstvy různých tlouštěk v závislosti na oblasti použití a míry zatížení vodou. BotaGreen Multiproof je obzvláště šetrný k životnímu prostředí, protože podíl pevných látek receptury tvoří cca. ze 30 % recyklované suroviny.
-✅ Obsah pevných látek tvoří ze 30 % recyklované suroviny*✅ Balení je vyrobeno až z 50 % recyklovaných plastů✅ Připraveno k použití✅ Vysoce elastická, překlenuje trhliny, s armovacími vlákny✅ přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)
-*Tento údaj se vztahuje k hydroizolačním hmotám Botament srovnatelných technických vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
-   </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-multiproof?variant=53394204590417</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Botagreen-Multiproof_stavbox_ed098137-fc02-43e8-930a-40124d9f0694.webp?v=1774605659</IMGURL>
+          <PRODUCTNAME>Botament Multiproof · Eko hybridní hydroizolace 2v1 (1K) · 12kg</PRODUCTNAME>
+          <PRODUCT>Botament Multiproof · 12kg - 1K hydroizolační hmota</PRODUCT>
+          <DESCRIPTION>Hybridní hydroizolace (1K).
+Dříve prodáván pod názvem: Botament BotaGreen® Multiproof
+Botament MultiProof je hybridní jednosložková hmota pro vytváření spojené hydroizolační vrstvy pod keramické dlaždice ve vnitřním i vnějším prostředí.Botament MultiProof je praktický produkt 2 v 1, který umožňuje vytvářet hydroizolační vrstvy různých tlouštěk v závislosti na oblasti použití a míry zatížení vodou.
+✅ K okamžitému použití✅ Elastická, překlenuje trhliny, s armovacími vlákny✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Podklad se nemusí penetrovat✅ Spojená hydroizolace na balkóny a terasy✅ Snadné odebrání menšího množství
+   </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multiproof?variant=53394204590417</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Multiproof_stavbox.webp?v=1790912613</IMGURL>
           <PRICE_VAT>3165.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -15599,15 +15604,15 @@ BotaGreen® Multiproof je hybridní jednosložková hmota pro vytváření spoje
       
           <SHOPITEM>
           <ITEM_ID>34120010345609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Multiproof · Eko hybridní hydroizolace 2v1 (1K) · 18kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Multiproof · 18kg - 1K hydroizolační hmota</PRODUCT>
-          <DESCRIPTION>Udržitelná hybridní hydroizolace (1K).
-BotaGreen® Multiproof je hybridní jednosložková hmota pro vytváření spojené hydroizolační vrstvy pod keramické dlaždice ve vnitřním i vnějším prostředí. BotaGreen® Multiproof je praktický produkt 2 v 1, který umožňuje vytvářet hydroizolační vrstvy různých tlouštěk v závislosti na oblasti použití a míry zatížení vodou. BotaGreen Multiproof je obzvláště šetrný k životnímu prostředí, protože podíl pevných látek receptury tvoří cca. ze 30 % recyklované suroviny.
-✅ Obsah pevných látek tvoří ze 30 % recyklované suroviny*✅ Balení je vyrobeno až z 50 % recyklovaných plastů✅ Připraveno k použití✅ Vysoce elastická, překlenuje trhliny, s armovacími vlákny✅ přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)
-*Tento údaj se vztahuje k hydroizolačním hmotám Botament srovnatelných technických vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
-   </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-multiproof?variant=53394204623185</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Botagreen-Multiproof_stavbox_ed098137-fc02-43e8-930a-40124d9f0694.webp?v=1774605659</IMGURL>
+          <PRODUCTNAME>Botament Multiproof · Eko hybridní hydroizolace 2v1 (1K) · 18kg</PRODUCTNAME>
+          <PRODUCT>Botament Multiproof · 18kg - 1K hydroizolační hmota</PRODUCT>
+          <DESCRIPTION>Hybridní hydroizolace (1K).
+Dříve prodáván pod názvem: Botament BotaGreen® Multiproof
+Botament MultiProof je hybridní jednosložková hmota pro vytváření spojené hydroizolační vrstvy pod keramické dlaždice ve vnitřním i vnějším prostředí.Botament MultiProof je praktický produkt 2 v 1, který umožňuje vytvářet hydroizolační vrstvy různých tlouštěk v závislosti na oblasti použití a míry zatížení vodou.
+✅ K okamžitému použití✅ Elastická, překlenuje trhliny, s armovacími vlákny✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Podklad se nemusí penetrovat✅ Spojená hydroizolace na balkóny a terasy✅ Snadné odebrání menšího množství
+   </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-multiproof?variant=53394204623185</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Multiproof_stavbox.webp?v=1790912613</IMGURL>
           <PRICE_VAT>4595.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -15619,16 +15624,17 @@ BotaGreen® Multiproof je hybridní jednosložková hmota pro vytváření spoje
   
           <SHOPITEM>
           <ITEM_ID>18919950355609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® MegaFlow · Eko samonivelační stěrka 0-30 mm · 20kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® MegaFlow · 20kg - Samonivelační stěrka</PRODUCT>
-          <DESCRIPTION>Samonivelační stěrka s technologií Green Boost.
-BotaGreen® Megaflow je samonivelační stěrka se sníženou prašností, nízkými emisemi, vhodná pro vyrovnání povrchů v interiéru i exteriéru. Inovativní technologie Green Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování. V případě potřeby lze do BotaGreen Megaflow přidat armovací vlákna BotaGreen MegaFlow AF.Díky technologii pojiva, které je šetrné ke klimatu i zdrojům, se při výrobě sníží emise CO2 asi o 20 %*.
-✅ Pochozí a lze dláždit už po ~ 2 hodinách✅ Pro vrstvy 0 – 30 mm v jednom pracovním kroku✅ Nastavitelná pískem do 40 mm✅ Perfektní rozliv✅ Excelentní povrch
+          <PRODUCTNAME>Botament MegaFlow · Eko samonivelační stěrka 0-30 mm · 20kg</PRODUCTNAME>
+          <PRODUCT>Botament MegaFlow · 20kg - Samonivelační stěrka</PRODUCT>
+          <DESCRIPTION>Samonivelační hmota CT-C25-F5.
+Dříve prodáván pod názvem: Botament BotaGreen® MegaFlow
+Botament MegaFlow je samonivelační hmota se sníženou prašností, nízkými emisemi, vhodná pro vyrovnání povrchů v interiéru i exteriéru. Inovativní technologie Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování. Do hmoty Botament MegaFlow lze v případě potřeby přidat armovací vlákna Botament MegaFlow AF.
+✅ Pochozí a lze dláždit už po ~ 2 hodinách✅ Pro vrstvy 0 – 30 mm v jednom pracovním kroku✅ Redukce CO2e o 30 % oproti hmotě Botament A220*✅ Nastavitelná pískem do 40 mm✅ Perfektní rozliv✅ Excelentní povrch
+*Ekvivalent oxidu uhličitého (GWP – celkový) na kg dle EN 15804+A2, modul A1 – A3, ref. 2024
 Barva: šedá
-*Tento údaj se vztahuje k samonivelační hmotě Botament srovnatelných vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
-    </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-megaflow</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-MegaFlow_stavbox.webp?v=1774606822</IMGURL>
+   </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-megaflow</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MEGAFlow_stavbox.webp?v=1790911713</IMGURL>
           <PRICE_VAT>715.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
@@ -15693,16 +15699,17 @@ RD Flow je rychleschnoucí hydroizolační stěrková hmota bez obsahu bitumenu.
   
           <SHOPITEM>
           <ITEM_ID>49188550345609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® GreenHero® · Eko lepidlo C2TE S1 pro velkoformát · 18kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® GreenHero® · 18kg - Multifunkční lepidlo C2TE S1</PRODUCT>
-          <DESCRIPTION>Multifunkční lepidlo typu C2TE S1.
-BotaGreen® Megaflow je samonivelační stěrka se sníženou prašností, nízkými emisemi, vhodná pro vyrovnání povrchů v interiéru i exteriéru. Inovativní technologie Green Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování. V případě potřeby lze do BotaGreen Megaflow přidat armovací vlákna BotaGreen MegaFlow AF.Díky technologii pojiva, které je šetrné ke klimatu i zdrojům, se při výrobě sníží emise CO2 asi o 20 %*.
-✅ Extrémně komfortní zpracování✅ Pro tenkovrstvé, středněvrstvé i tekuté lože✅ Snižuje uhlíkovou stopu*✅ Snížená prašnost✅ Velmi nízké emise✅ Vysoce vydatné multifunkční lepidlo C2 TE S1✅ Zvláště vhodný pro velkoformátové dlaždice
+          <PRODUCTNAME>Botament Hero (GreenHero) · Eko lepidlo C2TE S1 pro velkoformát · 18kg</PRODUCTNAME>
+          <PRODUCT>Botament Hero · 18kg - Multifunkční lepidlo C2TE S1</PRODUCT>
+          <DESCRIPTION>Multifunkční lepidlo C2TE S1.
+Dříve prodáván pod názvem: Botament BotaGreen® GreenHero®
+Botament Hero je multifunkční, lehčené lepidlo pro lepení bezmála všech keramických dlaždic, či přírodních kamenů, které nejsou citlivé na probarvení. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí a plochách s podlahovým vytápěním. Díky technologii Airflow má lepidlo Botament Hero obzvláště vláčnou konzistenci s lehkou zpracovatelností.
+✅ Extrémně komfortní zpracování✅ Pro tenkovrstvé, středněvrstvé i tekuté lože✅ Redukce CO2e o 35 % oproti lepidlu MULTISTAR*✅ Snížená prašnost✅ Velmi nízké emise✅ Vysoce vydatné multifunkční lepidlo C2 TE S1✅ Zvláště vhodný pro velkoformátové dlaždice
+* Ekvivalent oxidu uhličitého (GWP – celkový) na kg dle EN 15804+A2, modul A1 – A3, ref. 2024
 Barva: šedá
-*Tento údaj se vztahuje k lepidlům Botament srovnatelných vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
-     </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-greenhero</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-GreenHero_stavbox.webp?v=1774691111</IMGURL>
+     </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-hero-greenhero</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Hero_stavbox.webp?v=1790913881</IMGURL>
           <PRICE_VAT>820.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 11, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
@@ -15714,16 +15721,17 @@ Barva: šedá
   
           <SHOPITEM>
           <ITEM_ID>49188610345609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® GreenRocket · Eko lepidlo C2FTE S1 rychloschnoucí · 18kg</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® GreenRocket · 18kg - Rychleschnoucí lepidlo C2 FTE S1</PRODUCT>
+          <PRODUCTNAME>Botament Rocket (GreenRocket) · Eko lepidlo C2FTE S1 rychloschnoucí · 18kg</PRODUCTNAME>
+          <PRODUCT>Botament Rocket (GreenRocket) · 18kg - Rychleschnoucí lepidlo C2 FTE S1</PRODUCT>
           <DESCRIPTION>Multifunkční rychleschnoucí lepidlo pro keramické dlaždice a přírodní kameny C2 FTE S1.
-BotaGreen® GreenRocket je multifunkčí, lehčené, rychleschnoucí lepidlo pro lepení téměř všech keramických dlaždic, či přírodních kamenů citlivých na probarvení. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí a plochách s podlahovým vytápěním. Díky technologii, která je šetrná ke klimatu i zdrojům, jsou při výrobě pojiva sníženy emise CO2 cca. o 35%.* Inovativní technologie Green Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování.
-✅ Zpracování rychlostí zvuku✅ Pro keramické dlaždice a přírodní kameny✅ Snižení emisí ~ o 35 %*✅ 4 superschopnosti v 1**✅ Technologie Green Boost✅ Snížená prašnost, velmi nízké emise✅ Vysoce vydatné
+Dříve prodáván pod názvem: Botament BotaGreen® GreenRocket
+Botament Rocket je multifunkční, lehčené, rychleschnoucí lepidlo pro lepení téměř všech keramických dlaždic, či přírodních kamenů citlivých na probarvení. Pro použití na stěnách i podlahách ve vnitřním i vnějším prostředí a plochách s podlahovým vytápěním. Inovativní technologie Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování.
+✅ Extrémně komfortní zpracování✅ Pro keramické dlaždice a přírodní kameny✅ Redukce CO2e o 35 % oproti lepidlu MULTISTONE*✅ Pro tenkovrstvé, středněvrstvé i tekuté lože✅ Snížená prašnost, velmi nízké emise✅ Vysoce vydatné✅ Zvláště vhodné pro velkoformátové dlaždice
+*Ekvivalent oxidu uhličitého (GWP – celkový) na kg dle EN 15804+A2, modul A1 – A3, ref. 2024
 Barva: šedá
-*Tento údaj se vztahuje k lepidlům Botament srovnatelných vlastností. Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2**Použitelné pro tenkovrstvé, středněvrstvé i tekuté lůžko a vyrovnání do 30 mm
-    </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-greenrocket</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-GreenRocket_stavbox.webp?v=1774773598</IMGURL>
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-rocket-greenrocket</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_ROCKET_stavbox.webp?v=1790914219</IMGURL>
           <PRICE_VAT>1055.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
@@ -16750,15 +16758,15 @@ Black Future kombinuje nejlepší vlastnosti tradiční 2sl. bitumenové hydroiz
   
           <SHOPITEM>
           <ITEM_ID>87700100925609005</ITEM_ID>
-          <PRODUCTNAME>BotaGreen AE · izolační fólie pod obklady z recyklátu · 1m x 5m (5m2) role</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® AE · 1m x 5m (5m2) role - Izolační a dělicí fólie</PRODUCT>
+          <PRODUCTNAME>Botament AE · izolační fólie pod obklady z recyklátu · 1m x 5m (5m2) role</PRODUCTNAME>
+          <PRODUCT>Botament AE · 1m x 5m (5m2) role - Izolační a dělicí fólie</PRODUCT>
           <DESCRIPTION>Izolační a dělicí fólie
-BotaGreen® AE izolační a dělicí fólie je univerzálně použitelná jako spojená hydroizolační vrstva pod keramickým obkladem či přírodními kameny ve vnitřním i vnějším prostředí. Výrobek lze využít pro vytvoření hydroizolace na stěnách a podlahách v privátních i komerčních objektech. Také je vhodný do oblastí silně namáhaných vodou ve spojení s chemickým zatížením, např. velkokapacitních kuchyní. Produkt BotaGreen AE je zvlášť šetrný k životnímu prostředí, protože jsou při výrobě také použity recyklované suroviny*.
-✅ Membrána obsahuje převažující podíl recyklátu✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Spoje prováděny přezkoušenými lepidly
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+Dříve prodáván pod názvem: Botament BotaGreen® AE
+Botament AE izolační a dělicí fólie je univerzálně použitelná jako spojená hydroizolační vrstva pod keramickým obkladem či přírodními kameny ve vnitřním i vnějším prostředí. Výrobek lze využít pro vytvoření hydroizolace na stěnách a podlahách v privátních i komerčních objektech. Také je vhodný do oblastí silně namáhaných vodou ve spojení s chemickým zatížením, např. velkokapacitních kuchyní.
+✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Spoje prováděny přezkoušenými lepidly✅ Elastická, s vysokou odolností proti přetržení✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny
 Barva: zelená
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-ae?variant=53457206411601</URL>
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ae?variant=53457206411601</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-AE_stavbox.webp?v=1775494288</IMGURL>
           <PRICE_VAT>1265.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
@@ -16769,15 +16777,15 @@ Barva: zelená
       
           <SHOPITEM>
           <ITEM_ID>87700300915609</ITEM_ID>
-          <PRODUCTNAME>BotaGreen AE · izolační fólie pod obklady z recyklátu · 1m x 30m (30m2) role</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® AE · 1m x 30m (30m2) role - Izolační a dělicí fólie</PRODUCT>
+          <PRODUCTNAME>Botament AE · izolační fólie pod obklady z recyklátu · 1m x 30m (30m2) role</PRODUCTNAME>
+          <PRODUCT>Botament AE · 1m x 30m (30m2) role - Izolační a dělicí fólie</PRODUCT>
           <DESCRIPTION>Izolační a dělicí fólie
-BotaGreen® AE izolační a dělicí fólie je univerzálně použitelná jako spojená hydroizolační vrstva pod keramickým obkladem či přírodními kameny ve vnitřním i vnějším prostředí. Výrobek lze využít pro vytvoření hydroizolace na stěnách a podlahách v privátních i komerčních objektech. Také je vhodný do oblastí silně namáhaných vodou ve spojení s chemickým zatížením, např. velkokapacitních kuchyní. Produkt BotaGreen AE je zvlášť šetrný k životnímu prostředí, protože jsou při výrobě také použity recyklované suroviny*.
-✅ Membrána obsahuje převažující podíl recyklátu✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Spoje prováděny přezkoušenými lepidly
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+Dříve prodáván pod názvem: Botament BotaGreen® AE
+Botament AE izolační a dělicí fólie je univerzálně použitelná jako spojená hydroizolační vrstva pod keramickým obkladem či přírodními kameny ve vnitřním i vnějším prostředí. Výrobek lze využít pro vytvoření hydroizolace na stěnách a podlahách v privátních i komerčních objektech. Také je vhodný do oblastí silně namáhaných vodou ve spojení s chemickým zatížením, např. velkokapacitních kuchyní.
+✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Spoje prováděny přezkoušenými lepidly✅ Elastická, s vysokou odolností proti přetržení✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny
 Barva: zelená
- </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-ae?variant=53457206378833</URL>
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-ae?variant=53457206378833</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-AE_stavbox.webp?v=1775494288</IMGURL>
           <PRICE_VAT>7080.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
@@ -16790,15 +16798,15 @@ Barva: zelená
   
           <SHOPITEM>
           <ITEM_ID>86938150915609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · pás - 12cm x 50m role</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · pás - 12cm x 50m role - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB120 - role á 50m šíře 12cm</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB120 - role á 50m šíře 12cm - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459035783505</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459035783505</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>2435.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16808,15 +16816,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86938510925609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · kout</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · kout - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-IE - kout (10ks)</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-IE - kout (10ks) - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459037159761</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459037159761</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16826,15 +16834,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86938500925609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · vnější roh</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · vnější roh - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-AE - vnější roh (10ks)</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-AE - vnější roh (10ks) - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459037192529</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459037192529</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16844,15 +16852,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86938520925609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · izolační manžeta - 120×120 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · izolační manžeta - 120×120 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-DM - izolační manžeta, 120×120 mm, 25ks</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-DM - izolační manžeta, 120×120 mm, 25ks - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459035816273</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459035816273</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>115.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16862,15 +16870,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86938530925609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · izolační manžeta - 425×425 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · izolační manžeta - 425×425 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-DM - izolační manžeta, 425×425 mm, 25ks</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-DM - izolační manžeta, 425×425 mm, 25ks - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459037126993</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459037126993</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>445.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16880,15 +16888,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86938560925609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · těsnicí manžeta hrany - levá 20 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · těsnicí manžeta hrany - levá 20 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-SML / SB-SMR - těsnicí manžeta hrany levá / pravá, 12mm</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-SML / SB-SMR - těsnicí manžeta hrany levá / pravá, 12mm - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040764241</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459040764241</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>230.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16898,15 +16906,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86938570925609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · těsnicí manžeta hrany - pravá 20 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · těsnicí manžeta hrany - pravá 20 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-SML / SB-SMR - těsnicí manžeta hrany levá / pravá, 20mm</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-SML / SB-SMR - těsnicí manžeta hrany levá / pravá, 20mm - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040797009</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459040797009</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>230.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16916,15 +16924,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86950230915609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · manžeta s elastickou zónou - 130×130 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · manžeta s elastickou zónou - 130×130 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-DZM - manžeta s elastickou zónou, 130×130 mm</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-DZM - manžeta s elastickou zónou, 130×130 mm - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040960849</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459040960849</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>170.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16934,15 +16942,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86950240915609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · manžeta s elastickou zónou - 140×140 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · manžeta s elastickou zónou - 140×140 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-DZM - manžeta s elastickou zónou, 140×140 mm</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-DZM - manžeta s elastickou zónou, 140×140 mm - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459040993617</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459040993617</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>180.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -16952,15 +16960,15 @@ BotaGreen Systemdichtband je příčně elastická izolační páska oboustrann�
       
           <SHOPITEM>
           <ITEM_ID>86950280915609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Systemdichtband · elastická izolační páska · manžeta s elastickou zónou - 180×180 mm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Systemdichtband · manžeta s elastickou zónou - 180×180 mm - Izolační pás</PRODUCT>
-          <DESCRIPTION>Systémový izolační pás + příslušenství
-BotaGreen Systemdichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem pro použití v systémových skladbách. Produkt lze použít s izolačními hmotami Botament pod obklady a dlažby, dále také s reaktivními izolačními hmotami Botament. Páska BotaGreen Systemdichtband je vhodná pro použití ve vnitřním i vnějším prostředí.
-✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
+          <PRODUCTNAME>Botament SB120 (Systemdichtband) · elastická izolační páska · SB-DZM - manžeta s elastickou zónou, 180×180 mm</PRODUCTNAME>
+          <PRODUCT>Botament SB120 (Systemdichtband) · SB-DZM - manžeta s elastickou zónou, 180×180 mm - Izolační pás</PRODUCT>
+          <DESCRIPTION>Systémový izolační páska + příslušenství
+Dříve prodáván pod názvem: Botament BotaGreen® Systemdichtband
+Botament SB120 Systemdichtband je příčně elastická izolační páska, oboustranně kašírovaná textilním rounem pro použití v systémových skladbách s reaktivními a spojenými hydroizolačními hmotami Botament. Páska je vhodná k použití v interiéru i ve vnějším prostředí.
+✅ Vysoce elastická✅ Přezkoušena pro působení vody ve třídách W0-I až W3-I  W1-E, W2.1-E, W3-E, W4-E dále pro W1-B a W2-B (dle DIN 18534)✅ Odolná proti přidruženému působení chemikálií dle předpisu PG-AIV-B (SRN)✅ Pro místnosti zatěžované vlhkostí, terasy a balkóny✅ Vysoká pevnost✅ Rychlý pracovní postup
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-systemdichtband?variant=53459041026385</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Systemdichtband_stavbox.webp?v=1775535123</IMGURL>
+          <URL>https://www.stavbox.cz/products/botament-sb120-systemdichtband?variant=53459041026385</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>265.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
@@ -17044,15 +17052,14 @@ Barva: světle modrá</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>86935030915609</ITEM_ID>
-          <PRODUCTNAME>Botament BotaGreen® Portaldichtband · Elastická izolační páska · role 20 m | šíře 40 cm</PRODUCTNAME>
-          <PRODUCT>Botament BotaGreen® Portaldichtband · role 20 m | šíře 40 cm - Izolační pás</PRODUCT>
+          <PRODUCTNAME>Botament PB400 (Portaldichtband) · Elastická izolační páska · role 20 m | šíře 40 cm</PRODUCTNAME>
+          <PRODUCT>Botament PB400 (Portaldichtband) · role 20 m | šíře 40 cm - Izolační pás</PRODUCT>
           <DESCRIPTION>Izolační páska
-BotaGreen Portaldichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem, z jedné strany opatřena proužkem samolepicí vrstvy pro použití v systémových skladbách s izolační hmotou BotaGreen RD 2morrow a RD2 The Green 1. Izolační páska je vhodná pro použití ve vnitřním i vnějším prostředí. Produkt BotaGreen Portaldichtband je zvlášť šetrný k životnímu prostředí, protože jsou při výrobě také použity recyklované suroviny.
-✅ Membrána obsahuje převažující podíl recyklátu*✅ Vysoce elastická✅ Snadná manipulace díky samolepicímu proužku✅ Vysoká odolnost proti přetržení✅ Rychlé a jednoduché uložení
-*Detailní informace k našemu konceptu udržitelnosti naleznete na http://www.botagreen.botament.com/co2
-</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-botagreen-portaldichtband</URL>
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen-Portaldichtband_stavbox.webp?v=1775552000</IMGURL>
+Dříve prodáván pod názvem: Botament BotaGreen® Portaldichtband
+Botament PB400 Portaldichtband je příčně elastická izolační páska oboustranně kašírovaná textilním rounem, z jedné strany opatřena proužkem samolepicí vrstvy pro použití v systémových skladbách s hydroizolacemi Botament RD 2morrow a RD2 The Green 1. Izolační páska Botament PB400 je vhodná pro použití ve vnitřním i vnějším prostředí. Vysoká propustnost vodních par izolační pásky přispívá k rychlému proschnutí hmot.
+✅ Vysoce elastická✅ Snadná manipulace díky samolepicímu proužku✅ Vysoká odolnost proti přetržení✅ Rychlé a jednoduché uložení✅ Velmi vysoká odolnost proti stárnutí</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-pb400-portaldichtband</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PB400-Portaldichtband_stavbox.webp?v=1790913360</IMGURL>
           <PRICE_VAT>4270.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
@@ -19746,16 +19753,17 @@ WE je deska přesných rozměrů pro rychlé a jednoduché zakrytí boků van pr
   
           <SHOPITEM>
           <ITEM_ID>87571200915609</ITEM_ID>
-          <PRODUCTNAME>Botament WC sada · montážní prvek pro závěsné toalety · sada „Standard“ (120×60 cm/3 ks 120×20 cm)</PRODUCTNAME>
-          <PRODUCT>Botament WC sada · sada „Standard“ (120×60 cm/3 ks 120×20 cm) - Montážní sada pro WC instalaci</PRODUCT>
-          <DESCRIPTION>Montážní sada
-Montážní sada lehkých desek s integrovanými zesílenými body vhodná pro zakrytí závěsných WC instalací. Zvlášť vhodná při renovacích koupelen a lze ji osadit téměř na všechny únosné podklady.
-✅ Sada pro zakrytí závěsných WC instalací✅ Rychlá montáž díky připraveným otvorům✅ Vysoce stabilní integrovanými zesílenými body✅ Variabilita možností sestavení✅ Vodotěsné dle ETAG 022
+          <PRODUCTNAME>Botament StrongBoard WC (WC sada) · montážní prvek pro závěsné toalety · sada Mini (120×60 cm/3 ks 120×20 cm)</PRODUCTNAME>
+          <PRODUCT>Botament StrongBoard WC · sada Mini (120×60 cm/3 ks 120×20 cm) - Montážní sada pro WC instalaci</PRODUCT>
+          <DESCRIPTION>Montážní prvek
+Dříve prodáván pod názvem: Botament WC sada
+Botament StrongBoard WC je lehký, všestranně použitelný, maltou oboustranně potažený nosný prvek s jádrem z PET pěny určený pro zakrytí závěsných WC instalací. Produkt Botament StrongBoard WC se hodí zejména pro použití při rekonstrukcích koupelen a lze jej zabudovat téměř na všechny nosné podkladní konstrukce. Pro pěnové jádro prvku StrongBoard WC je použit PET recyklát*.
+✅ Prvek na podomítkové instalace závěsných WC✅ Nosný materiál z PET recyklátu✅ Velmi nízké emise✅ Extrémní pevnost v tlaku✅ Rychlá montáž díky hotovým výřezům✅ Vysoká teplotní a rozměrová stabilita✅ Ideální do oblastí Wellness✅ Variabilní možnosti✅ Vodoodpudivý
 Sady:
-WC – Set „Standard“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
+WC – Set „Mini“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-wc-sada?variant=53481360851281</URL>
+          <URL>https://www.stavbox.cz/products/botament-strongboard-wc-sada?variant=53481360851281</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_WC-sada_stavbox.webp?v=1775755043</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
           <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
@@ -19766,16 +19774,17 @@ WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířov
       
           <SHOPITEM>
           <ITEM_ID>87571210915609</ITEM_ID>
-          <PRODUCTNAME>Botament WC sada · montážní prvek pro závěsné toalety · sada „Maxi“ (120×120 cm)</PRODUCTNAME>
-          <PRODUCT>Botament WC sada · sada „Maxi“ (120×120 cm) - Montážní sada pro WC instalaci</PRODUCT>
-          <DESCRIPTION>Montážní sada
-Montážní sada lehkých desek s integrovanými zesílenými body vhodná pro zakrytí závěsných WC instalací. Zvlášť vhodná při renovacích koupelen a lze ji osadit téměř na všechny únosné podklady.
-✅ Sada pro zakrytí závěsných WC instalací✅ Rychlá montáž díky připraveným otvorům✅ Vysoce stabilní integrovanými zesílenými body✅ Variabilita možností sestavení✅ Vodotěsné dle ETAG 022
+          <PRODUCTNAME>Botament StrongBoard WC (WC sada) · montážní prvek pro závěsné toalety · sada Maxi (120×120 cm)</PRODUCTNAME>
+          <PRODUCT>Botament StrongBoard WC · sada Maxi (120×120 cm) - Montážní sada pro WC instalaci</PRODUCT>
+          <DESCRIPTION>Montážní prvek
+Dříve prodáván pod názvem: Botament WC sada
+Botament StrongBoard WC je lehký, všestranně použitelný, maltou oboustranně potažený nosný prvek s jádrem z PET pěny určený pro zakrytí závěsných WC instalací. Produkt Botament StrongBoard WC se hodí zejména pro použití při rekonstrukcích koupelen a lze jej zabudovat téměř na všechny nosné podkladní konstrukce. Pro pěnové jádro prvku StrongBoard WC je použit PET recyklát*.
+✅ Prvek na podomítkové instalace závěsných WC✅ Nosný materiál z PET recyklátu✅ Velmi nízké emise✅ Extrémní pevnost v tlaku✅ Rychlá montáž díky hotovým výřezům✅ Vysoká teplotní a rozměrová stabilita✅ Ideální do oblastí Wellness✅ Variabilní možnosti✅ Vodoodpudivý
 Sady:
-WC – Set „Standard“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
+WC – Set „Mini“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-wc-sada?variant=53481426288977</URL>
+          <URL>https://www.stavbox.cz/products/botament-strongboard-wc-sada?variant=53481426288977</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_WC-sada_stavbox.webp?v=1775755043</IMGURL>
           <PRICE_VAT>2820.0</PRICE_VAT>
           <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
@@ -19786,16 +19795,17 @@ WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířov
       
           <SHOPITEM>
           <ITEM_ID>87581200915609</ITEM_ID>
-          <PRODUCTNAME>Botament WC sada · montážní prvek pro závěsné toalety · element Standard 1200×600 mm</PRODUCTNAME>
-          <PRODUCT>Botament WC sada · element Standard 1200×600 mm - Montážní sada pro WC instalaci</PRODUCT>
-          <DESCRIPTION>Montážní sada
-Montážní sada lehkých desek s integrovanými zesílenými body vhodná pro zakrytí závěsných WC instalací. Zvlášť vhodná při renovacích koupelen a lze ji osadit téměř na všechny únosné podklady.
-✅ Sada pro zakrytí závěsných WC instalací✅ Rychlá montáž díky připraveným otvorům✅ Vysoce stabilní integrovanými zesílenými body✅ Variabilita možností sestavení✅ Vodotěsné dle ETAG 022
+          <PRODUCTNAME>Botament StrongBoard WC (WC sada) · montážní prvek pro závěsné toalety · element Mini (1200×600 mm)</PRODUCTNAME>
+          <PRODUCT>Botament StrongBoard WC · element Mini (1200×600 mm) - Montážní sada pro WC instalaci</PRODUCT>
+          <DESCRIPTION>Montážní prvek
+Dříve prodáván pod názvem: Botament WC sada
+Botament StrongBoard WC je lehký, všestranně použitelný, maltou oboustranně potažený nosný prvek s jádrem z PET pěny určený pro zakrytí závěsných WC instalací. Produkt Botament StrongBoard WC se hodí zejména pro použití při rekonstrukcích koupelen a lze jej zabudovat téměř na všechny nosné podkladní konstrukce. Pro pěnové jádro prvku StrongBoard WC je použit PET recyklát*.
+✅ Prvek na podomítkové instalace závěsných WC✅ Nosný materiál z PET recyklátu✅ Velmi nízké emise✅ Extrémní pevnost v tlaku✅ Rychlá montáž díky hotovým výřezům✅ Vysoká teplotní a rozměrová stabilita✅ Ideální do oblastí Wellness✅ Variabilní možnosti✅ Vodoodpudivý
 Sady:
-WC – Set „Standard“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
+WC – Set „Mini“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-wc-sada?variant=53481426321745</URL>
+          <URL>https://www.stavbox.cz/products/botament-strongboard-wc-sada?variant=53481426321745</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_WC-sada_stavbox.webp?v=1775755043</IMGURL>
           <PRICE_VAT>1195.0</PRICE_VAT>
           <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
@@ -19806,16 +19816,17 @@ WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířov
       
           <SHOPITEM>
           <ITEM_ID>87571220915609</ITEM_ID>
-          <PRODUCTNAME>Botament WC sada · montážní prvek pro závěsné toalety · element 1200×1200 mm</PRODUCTNAME>
-          <PRODUCT>Botament WC sada · element 1200×1200 mm - Montážní sada pro WC instalaci</PRODUCT>
-          <DESCRIPTION>Montážní sada
-Montážní sada lehkých desek s integrovanými zesílenými body vhodná pro zakrytí závěsných WC instalací. Zvlášť vhodná při renovacích koupelen a lze ji osadit téměř na všechny únosné podklady.
-✅ Sada pro zakrytí závěsných WC instalací✅ Rychlá montáž díky připraveným otvorům✅ Vysoce stabilní integrovanými zesílenými body✅ Variabilita možností sestavení✅ Vodotěsné dle ETAG 022
+          <PRODUCTNAME>Botament StrongBoard WC (WC sada) · montážní prvek pro závěsné toalety · element Maxi (1200×1200 mm)</PRODUCTNAME>
+          <PRODUCT>Botament StrongBoard WC · element Maxi (1200×1200 mm) - Montážní sada pro WC instalaci</PRODUCT>
+          <DESCRIPTION>Montážní prvek
+Dříve prodáván pod názvem: Botament WC sada
+Botament StrongBoard WC je lehký, všestranně použitelný, maltou oboustranně potažený nosný prvek s jádrem z PET pěny určený pro zakrytí závěsných WC instalací. Produkt Botament StrongBoard WC se hodí zejména pro použití při rekonstrukcích koupelen a lze jej zabudovat téměř na všechny nosné podkladní konstrukce. Pro pěnové jádro prvku StrongBoard WC je použit PET recyklát*.
+✅ Prvek na podomítkové instalace závěsných WC✅ Nosný materiál z PET recyklátu✅ Velmi nízké emise✅ Extrémní pevnost v tlaku✅ Rychlá montáž díky hotovým výřezům✅ Vysoká teplotní a rozměrová stabilita✅ Ideální do oblastí Wellness✅ Variabilní možnosti✅ Vodoodpudivý
 Sady:
-WC – Set „Standard“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
+WC – Set „Mini“- 1 ks čelní deska 1200 × 600 × 20 mm- 3 ks bočních desek 1200 × 200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 WC – Set „Maxi“- 1 ks čelní deska 1200 × 1200 × 20 mm- 20 ks talířových podložek | 20 ks samořezných šroubů
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/botament-wc-sada?variant=53481426354513</URL>
+          <URL>https://www.stavbox.cz/products/botament-strongboard-wc-sada?variant=53481426354513</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_WC-sada_stavbox.webp?v=1775755043</IMGURL>
           <PRICE_VAT>2125.0</PRICE_VAT>
           <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
@@ -30347,7 +30358,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923273041</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 33 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 33 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707271776</EAN>
