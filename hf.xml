@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2253 -->
 <!-- Total individual products: 641 -->
-<!-- Created: 2026-10-02 16:06:48 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-03 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -1572,7 +1572,7 @@ KÖSTER KB-Fix 5 je mimořádně rychle nastavitelná vodotěsná malta pro ryc
           <URL>https://www.stavbox.cz/products/koster-kb-fix-5?variant=52614524240209</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Fix-5-15kg-vodotesna-rychle-vytvrzujici-malta.jpg?v=1755853465</IMGURL>
           <PRICE_VAT>1855.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906051539</EAN>
@@ -2687,7 +2687,7 @@ KÖSTER Mautrol 2C je dvousložková nízko viskózní injektážní kapalina na
           <URL>https://www.stavbox.cz/products/koster-mautrol-2c?variant=52612582441297</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koste-Mautrol-2C-PU-injektazni-hmota.jpg?v=1755861681</IMGURL>
           <PRICE_VAT>8435.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 39 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 39 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906030695</EAN>
