@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2253 -->
 <!-- Total individual products: 641 -->
-<!-- Created: 2026-10-05 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-05 11:06:28 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -132,7 +132,7 @@ Minerální hydroizolační těsnicí stěrka pro interiér proti solím a vlhko
           <URL>https://www.stavbox.cz/products/remmers-wp-sulfatex-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-Sulfatex-25kg-hydroizolacni-sterka.jpg?v=1755759639</IMGURL>
           <PRICE_VAT>3190.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 255 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 255 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707037099</EAN>
@@ -149,7 +149,7 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <PRICE_VAT>1095.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 380 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 380 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707090858</EAN>
@@ -271,7 +271,7 @@ Tradiční krémy a sůl:V případě vysokého obsahu soli ve zdivu dochází u
           <URL>https://www.stavbox.cz/products/koster-crisin-cream?variant=52615419789649</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Crisin-Creme-10l-injektazni-krem.jpg?v=1755759214</IMGURL>
           <PRICE_VAT>13445.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 25 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 25 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906131057</EAN>
@@ -4809,14 +4809,15 @@ Malta pro lepení, armování a opravu popraskaných omítek a tepelně izolačn
     
   
           <SHOPITEM>
-          <ITEM_ID>081901</ITEM_ID>
+          <ITEM_ID>082701</ITEM_ID>
           <PRODUCTNAME>Remmers DS Protect AL · 2m · 1ks · Dekorativní ochrana pro DS Protect</PRODUCTNAME>
           <PRODUCT>Remmers DS Protect AL · 2 m · 1 ks - Ukončující lišta pro DS Protect</PRODUCT>
           <DESCRIPTION>Dekorativní ochranná lišta.
-Dekorativní ochrana drenážního prvku DS Protect. Flexibilní, Odolná vůči UV záření a teplotě.</DESCRIPTION>
+Dekorativní ochrana drenážního prvku DS Protect.Flexibilní, Odolná vůči UV záření a teplotě.
+Balení: 1ks = 2m</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect-al-2m</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-AL-ukoncujici-lista-pro-DS-Protect.jpg?v=1755880247</IMGURL>
-          <PRICE_VAT>175.0</PRICE_VAT>
+          <PRICE_VAT>190.0</PRICE_VAT>
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -13, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Příslušenství pro zateplení</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -4826,14 +4827,15 @@ Dekorativní ochrana drenážního prvku DS Protect. Flexibilní, Odolná vůči
     
   
           <SHOPITEM>
-          <ITEM_ID>081801</ITEM_ID>
+          <ITEM_ID>082601</ITEM_ID>
           <PRODUCTNAME>Remmers DS Protect Clip · 50 ks · Držák pro DS Protect AL</PRODUCTNAME>
-          <PRODUCT>Remmers DS Protect Clip · 50 ks - Držák pro DS Protect a DS Protect AL</PRODUCT>
+          <PRODUCT>Remmers DS Protect Clip · 100 ks - Držák pro DS Protect a DS Protect AL</PRODUCT>
           <DESCRIPTION>Samotěsnící držák.
-Samotěsnící držák pro DS Protect AL,  flexibilní, odolný vůči UV záření a teplotě.</DESCRIPTION>
+Samotěsnící držák pro DS Protect AL,  flexibilní, odolný vůči UV záření a teplotě.
+Balení: 100ks</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-ds-protect-clip-50ks</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-DS-Protect-Clip-drzak-pro-DS-Protect.jpg?v=1755880486</IMGURL>
-          <PRICE_VAT>1995.0</PRICE_VAT>
+          <PRICE_VAT>3900.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 1 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Příslušenství pro zateplení</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
@@ -13652,7 +13654,7 @@ Sikalastic®-625 N je 1-komponentní polyuretanová vyztužená hydroizolace apl
           <URL>https://www.stavbox.cz/products/sika-sikalastic-625-n?variant=53152335921489</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikalastic-625-N_opt.jpg?v=1772019905</IMGURL>
           <PRICE_VAT>11965.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895565392</EAN>
@@ -24388,7 +24390,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448930129</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>7050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 87 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 87 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707093903</EAN>
@@ -24420,7 +24422,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449028433</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 1374 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 1374 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018029</EAN>
@@ -27404,7 +27406,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635276625</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 21 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 21 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707249706</EAN>
