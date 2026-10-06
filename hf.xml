@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2253 -->
-<!-- Total individual products: 641 -->
-<!-- Created: 2026-10-06 13:06:30 -->
+<!-- Total products+variants: 2266 -->
+<!-- Total individual products: 644 -->
+<!-- Created: 2026-10-06 19:54:33 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 48, VI: 292 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 43, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -1421,7 +1421,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 11, VI: 60 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 60 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906139381</EAN>
@@ -5782,7 +5782,7 @@ Sikafloor®-2510 W je 2-komponentní barevný podlahový nátěr na bázi epoxid
           <URL>https://www.stavbox.cz/products/remmers-tape-f-50m-sirka-12cm</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Tape-F_dl_sbx.jpg?v=1758722181</IMGURL>
           <PRICE_VAT>530.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 1500 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 1500 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707269513</EAN>
@@ -10592,7 +10592,7 @@ Barva: parketově hnědá.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikabond-151-17kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBond-151_opt.jpg?v=1768046534</IMGURL>
           <PRICE_VAT>2810.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895403243</EAN>
@@ -37917,6 +37917,207 @@ Barva: šedý prášek</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894868142</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>SBX62107320001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · Bílá · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · Bílá · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194377847121</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>5990.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX62107320002</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · MC-grau (šedá) · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · MC-grau (šedá) · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194845413713</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>6500.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX62107320003</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · RAL 7032 (štěrková šedá) · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · RAL 7032 (štěrková šedá) · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194714407249</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>6425.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX62107320004</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · RAL 7035 (světle šedá) · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · RAL 7035 (světle šedá) · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194714440017</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>6260.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX62107320005</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · RAL 7038 (achátová šedá) · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · RAL 7038 (achátová šedá) · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194714472785</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>6570.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>SBX62107320006</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · RAL 7040 (okenní šedá) · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · RAL 7040 (okenní šedá) · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194845446481</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>6135.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62107320310101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · Standardní barva · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · Standardní barva · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194377879889</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>8005.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62107320500101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · Standardní barva · 120l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · Standardní barva · 120l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194377912657</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>57645.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62101020310101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · Speciální barva · 15l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · Speciální barva · 15l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194377945425</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>8640.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>62101020500101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Flex Pure · flexibilní ochranný nátěr na beton · Speciální barva · 120l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Flex Pure · Speciální barva · 120l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Pigmentovaný, flexibilní ochranný krycí systém.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-flex-pure?variant=55194377978193</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Flex-pure_stavbox.webp?v=1791288591</IMGURL>
+          <PRICE_VAT>63890.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>44470010370101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafufill KM 110 · jemná malta pro vyrovnání betonu · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafufill KM 110 · 25kg - Jemná správková malta</PRODUCT>
+          <DESCRIPTION>Jemná správková malta pro egalizaci betonových ploch.
+MC-Bauchemie Nafufill KM 110 je jemná správková malta pro egalizaci betonových ploch. Slouží k vyrovnání povrchu betonu a vytvoření sjednocené povrchové úpravy.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-km-110</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Nafufill-KM-110_stavbox.webp?v=1791292133</IMGURL>
+          <PRICE_VAT>1300.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>61290010240101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Primer ·  · 10l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Primer · 10l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Penetrační nátěr připravený k okamžitému použití.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-primer?variant=55195866825041</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Primer_stavbox.webp?v=1791294519</IMGURL>
+          <PRICE_VAT>1740.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>61290010540101</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Color Primer ·  · 120l</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Color Primer · 120l - Ochranný nátěr na beton</PRODUCT>
+          <DESCRIPTION>Penetrační nátěr připravený k okamžitému použití.
+MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí systém. Zajišťuje ochrannou povrchovou úpravu s pigmentací a flexibilním charakterem.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-color-primer?variant=55195878392145</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Color-Primer_stavbox.webp?v=1791294519</IMGURL>
+          <PRICE_VAT>17135.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
         </SHOPITEM>
       
     
