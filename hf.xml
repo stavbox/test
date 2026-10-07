@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2266 -->
 <!-- Total individual products: 644 -->
-<!-- Created: 2026-10-07 10:27:52 -->
+<!-- Created: 2026-10-07 15:42:42 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -234,7 +234,7 @@ Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace s
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 16, VI: 86 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 15, VI: 86 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906136335</EAN>
@@ -536,7 +536,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 14 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 14 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707215916</EAN>
@@ -1421,7 +1421,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 60 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 60 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906139381</EAN>
@@ -17925,7 +17925,7 @@ PF1 je lazura pro nasákavé minerální plochy ve vnějším prostředí. Výro
           <URL>https://www.stavbox.cz/products/botament-pf1?variant=53471042928977</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_PF1_stavbox.webp?v=1775650765</IMGURL>
           <PRICE_VAT>690.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: -3, VI: O -->
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905095371</EAN>
@@ -23623,9 +23623,9 @@ Barva: šedý prášek</DESCRIPTION>
           <ITEM_ID>827187</ITEM_ID>
           <PRODUCTNAME>Sika SikaGrout®-800 · Zálivková malta 6–300 mm, odolná síranům</PRODUCTNAME>
           <PRODUCT>Sika SikaGrout®-800 · 25 kg - Zálivková hmota</PRODUCT>
-          <DESCRIPTION>Vysoce výkonná cementová zálivková hmota se zvýšenou udržitelností.
-SikaGrout®-800 je cementová, vysoce výkonná technická malta s kompenzací smrštění. Obsahuje recyklované materiály a v porovnání s referenční cementovou maltou může při hodnocení životního cyklu snížit uhlíkovou stopu.
-✅ Používá recyklované suroviny✅ Aplikační tloušťka 6 mm až 300 mm✅ Snížená prašnost✅ Odolnost vůči síranům
+          <DESCRIPTION>Vysoce výkonná cementová zálivková malta.
+SikaGrout®-800 je jednosložková, cementová, vysoce výkonná, zálivková malta s kompenzovaným smrštěním. Je připravená k míchání, tekutá a čerpatelná. Je vhodná pro aplikaci v tloušťce vrstvy od 6 mm do 300 mm.
+✅ Aplikační tloušťka 6 mm až 300 mm✅ Snížená prašnost✅ Rychlý náběh pevností
 Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
@@ -24358,7 +24358,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448864593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 667 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 667 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707017978</EAN>
@@ -24422,7 +24422,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449028433</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 1374 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 1374 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018029</EAN>
@@ -24438,7 +24438,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 279 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 279 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018036</EAN>
@@ -24646,7 +24646,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449552721</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>405.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018197</EAN>
@@ -24902,7 +24902,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450175313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 2 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018449</EAN>
@@ -24934,7 +24934,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450240849</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 5 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018463</EAN>
@@ -24998,7 +24998,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450404689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 312 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 312 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018517</EAN>
@@ -26846,7 +26846,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634129745</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1690.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 437 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 437 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707055130</EAN>
@@ -26878,7 +26878,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634195281</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>860.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 268 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 268 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707067416</EAN>
@@ -26894,7 +26894,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634228049</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 264 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 264 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707067539</EAN>
@@ -26942,7 +26942,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634326353</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 65 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 65 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707054621</EAN>
@@ -27150,7 +27150,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066634752337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1020.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 58 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 58 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707277310</EAN>
@@ -27310,7 +27310,7 @@ Terasový olej pro dřevěné terasy a zahradní nábytek. Chrání před zašed
           <URL>https://www.stavbox.cz/products/remmers-top-terasovy-olej?variant=54066635080017</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_TOP-Terasovy-olej_dl_stavbox.jpg?v=1781460581</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 148 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 148 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707249942</EAN>
@@ -29464,7 +29464,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073921765713</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 134 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 134 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265829</EAN>
@@ -29624,7 +29624,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922027857</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>405.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 283 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 283 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265423</EAN>
@@ -29992,7 +29992,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54704646488401</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>95.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 30 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 30 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           
@@ -32377,7 +32377,7 @@ Vhodná pro konstrukce jako jsou nadjezdy, tunely a mosty. Splňuje požadavky R
           <URL>https://www.stavbox.cz/products/remmers-funcosil-rtd</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Funcosil-RTD.jpg?v=1782295151</IMGURL>
           <PRICE_VAT>3090.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           
@@ -35735,7 +35735,7 @@ Balení: 5 kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-nanofug-premium?variant=54309610881361</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Nanofug-Premium_stavbox.webp?v=1783954107</IMGURL>
           <PRICE_VAT>899.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Spárovací hmoty</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           <EAN>4083200030332</EAN>
