@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2266 -->
 <!-- Total individual products: 644 -->
-<!-- Created: 2026-10-08 16:21:43 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-09 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -1333,7 +1333,7 @@ Trvale plastická těsnicí hmota pro utěsnění průchodů potrubí a kabelů,
           <URL>https://www.stavbox.cz/products/koster-kb-flex-200-850g-530ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Flex-200-tesneni-pro-prostupy.jpg?v=1755854646</IMGURL>
           <PRICE_VAT>1015.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -10, VI: 54 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -7, VI: 54 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906159167</EAN>
@@ -1351,7 +1351,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 15 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040113</EAN>
