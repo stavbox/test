@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2266 -->
 <!-- Total individual products: 644 -->
-<!-- Created: 2026-10-08 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-08 16:21:43 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -837,7 +837,7 @@ Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapa
           <URL>https://www.stavbox.cz/products/remmers-vz-mb-1l</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-VZ-MB-1l-zpomalovac.jpg?v=1755777830</IMGURL>
           <PRICE_VAT>290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707243223</EAN>
@@ -1333,7 +1333,7 @@ Trvale plastická těsnicí hmota pro utěsnění průchodů potrubí a kabelů,
           <URL>https://www.stavbox.cz/products/koster-kb-flex-200-850g-530ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-KB-Flex-200-tesneni-pro-prostupy.jpg?v=1755854646</IMGURL>
           <PRICE_VAT>1015.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 54 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -10, VI: 54 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906159167</EAN>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 43, VI: 292 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 40, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -9853,7 +9853,7 @@ Barva:Vzhled: barevná tixotropní kapalinaVzhled po vysušení: matně lesklý<
           <URL>https://www.stavbox.cz/products/sika-sikagard-5500-20-6kg?variant=52763516928337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-5500_opt.jpg?v=1767787466</IMGURL>
           <PRICE_VAT>8460.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy na beton</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895821955</EAN>
@@ -21093,7 +21093,7 @@ Balení: 25kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-l?variant=53562678608209</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-RockMortar_L_stavbox.webp?v=1776492154</IMGURL>
           <PRICE_VAT>335.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -25, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
@@ -24918,7 +24918,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450208081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 611 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 611 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018456</EAN>
@@ -24998,7 +24998,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450404689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 312 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 312 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018517</EAN>
@@ -29944,7 +29944,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922584913</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 181 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 181 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265560</EAN>
@@ -37445,7 +37445,7 @@ Vodopropustná spárovací malta pro dlažbu z přírodního kamene, betonu a ka
           <URL>https://www.stavbox.cz/products/mc-bauchemie-murafan-39?variant=54753214005585</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo_400x300_149b5de7-f993-405d-819c-5437d349cba9.webp?v=1777127695</IMGURL>
           <PRICE_VAT>6640.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
