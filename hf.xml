@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2266 -->
-<!-- Total individual products: 644 -->
-<!-- Created: 2026-10-12 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2268 -->
+<!-- Total individual products: 645 -->
+<!-- Created: 2026-10-12 11:22:43 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -149,7 +149,7 @@ Cementová vyrovnávací malta pro hydroizolaci stěn a podlah. Rychleschnoucí,
           <URL>https://www.stavbox.cz/products/remmers-wp-ds-levell-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-WP-DS-Levell-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755759944</IMGURL>
           <PRICE_VAT>1095.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 345 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 345 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707090858</EAN>
@@ -234,7 +234,7 @@ Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace s
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 86 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 86 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906136335</EAN>
@@ -1351,7 +1351,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 15 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040113</EAN>
@@ -1421,7 +1421,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 60 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 60 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906139381</EAN>
@@ -3323,7 +3323,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884794705</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <PRICE_VAT>9950.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 13 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 13 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707013666</EAN>
@@ -9665,7 +9665,7 @@ Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkt
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894917796</EAN>
@@ -29656,7 +29656,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922093393</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 356 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 356 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707265447</EAN>
@@ -38118,6 +38118,42 @@ MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí sy
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>64588</ITEM_ID>
+          <PRODUCTNAME>Sika Mischerschutz · ochrana míchaček a nářadí před betonem · 27l</PRODUCTNAME>
+          <PRODUCT>Sika® Mischerschutz · 27l - Ochranný prostředek pro míchačky</PRODUCT>
+          <DESCRIPTION>Prostředek pro ochranu míchacích zařízení.
+Sika® Mischerschutz je prostředek pro ochranu podkladu před vznikem rzi a před ulpíváním čerstvého betonu na kovových částech.
+✅ Způsobuje chemicko-fyzikální oddělení čerstvého betonu a kovových částí✅ Zabraňuje přilnutí čerstvého betonu nebo malty na míchací zařízení, hadice a ostatní vybavení, zajišťuje snadné čištění nářadí✅ Již vytvrzený beton je oslaben a odstraněn
+Barva: čirá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-mischerschutz?variant=55265848295761</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_generic_product_placeholder_opt.jpg?v=1760357042</IMGURL>
+          <PRICE_VAT>10995.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>9003449703724</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>64587</ITEM_ID>
+          <PRODUCTNAME>Sika Mischerschutz · ochrana míchaček a nářadí před betonem · 200l</PRODUCTNAME>
+          <PRODUCT>Sika® Mischerschutz · 200l - Ochranný prostředek pro míchačky</PRODUCT>
+          <DESCRIPTION>Prostředek pro ochranu míchacích zařízení.
+Sika® Mischerschutz je prostředek pro ochranu podkladu před vznikem rzi a před ulpíváním čerstvého betonu na kovových částech.
+✅ Způsobuje chemicko-fyzikální oddělení čerstvého betonu a kovových částí✅ Zabraňuje přilnutí čerstvého betonu nebo malty na míchací zařízení, hadice a ostatní vybavení, zajišťuje snadné čištění nářadí✅ Již vytvrzený beton je oslaben a odstraněn
+Barva: čirá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-mischerschutz?variant=55265848328529</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_generic_product_placeholder_opt.jpg?v=1760357042</IMGURL>
+          <PRICE_VAT>79900.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>9003449710111</EAN>
         </SHOPITEM>
       
     
