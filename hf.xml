@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2268 -->
 <!-- Total individual products: 645 -->
-<!-- Created: 2026-10-13 00:00:21 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-13 08:50:51 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -31221,7 +31221,7 @@ Ekologická matná lazura na vodní bázi z obnovitelných surovin. Vynikající
           <URL>https://www.stavbox.cz/products/remmers-olejova-lazura-eco?variant=54078733910353</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Olejova-lazura-_eco__dl_stavbox.jpg?v=1781609380</IMGURL>
           <PRICE_VAT>404.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 14 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 14 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707223782</EAN>
