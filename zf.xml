@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2268 -->
 <!-- Total individual products: 645 -->
-<!-- Created: 2026-10-14 00:00:21 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-14 14:02:25 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -340,7 +340,7 @@ Sanační omítka WTA pro vlhké a zasolené zdivo. Paropropustná, odolná sír
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-sp-top-white-20kg-bily</URL>
           <PRICE_VAT>850.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 691 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -4, VI: 691 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-SP-Top-White-20kg-sanacni-omitka.jpg?v=1755760055</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -2911,7 +2911,7 @@ Naředěný velmi tekutý produkt na bázi polymerů a silikátů. Jeho použit�
 KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materiál je vhodný pro přípravu nasákavého podkladu pod těsnící malty, omítky a stěrkové hydroizolace.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388101457</URL>
           <PRICE_VAT>2870.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 62 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -5997,7 +5997,7 @@ Opakovaně použitelný.</DESCRIPTION>
 Zpevňovač bez rozpouštědel na organokřemičité bázi (KSE), 30% gel, hluboká penetrace. Ideální pro porézní kámen nebo nesoudržné zdivo.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-300?variant=52666201866577</URL>
           <PRICE_VAT>3590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 16, VI: 6 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 15, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-300-5l-zpevnovac-kamene-vysoka-koncentrace.jpg?v=1755862491</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -46591,7 +46591,7 @@ Restaurátorská malta pro obnovu, kompletaci a reprofilaci minerálních podkla
 Na prodejně Stavbox v Brně si můžete prohlédnout rozsáhlý vzorkovník barev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm?variant=53616283779409</URL>
           <PRICE_VAT>890.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 1 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/RM_dl_stavbox.jpg?v=1777021914</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -64790,7 +64790,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
     </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073923141969</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 104 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 104 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -69319,7 +69319,7 @@ Vhodná pro konstrukce jako jsou nadjezdy, tunely a mosty. Splňuje požadavky R
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-rtd</URL>
           <PRICE_VAT>3090.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -4, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Funcosil-RTD.jpg?v=1782295151</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
