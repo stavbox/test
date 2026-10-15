@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2269 -->
 <!-- Total individual products: 646 -->
-<!-- Created: 2026-10-14 21:50:21 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-15 00:00:27 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -41552,7 +41552,7 @@ RK-U je prefabrikovaný kryt tvaru „U“ pro rychlé zakrytí instalací a ná
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rk-u?variant=53479683490129</URL>
           <PRICE_VAT>1140.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: -1, VI: O -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RK-U_stavbox.webp?v=1775744817</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>

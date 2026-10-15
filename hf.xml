@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2269 -->
 <!-- Total individual products: 646 -->
-<!-- Created: 2026-10-14 21:50:20 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-15 00:00:26 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -19655,7 +19655,7 @@ RK-U je prefabrikovaný kryt tvaru „U“ pro rychlé zakrytí instalací a ná
           <URL>https://www.stavbox.cz/products/botament-rk-u?variant=53479683490129</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RK-U_stavbox.webp?v=1775744817</IMGURL>
           <PRICE_VAT>1140.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: -1, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Dřevěné desky | OSB desky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905131734</EAN>
