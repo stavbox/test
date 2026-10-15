@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2273 -->
-<!-- Total individual products: 649 -->
-<!-- Created: 2026-10-15 16:10:14 -->
+<!-- Total products+variants: 2275 -->
+<!-- Total individual products: 650 -->
+<!-- Created: 2026-10-15 20:05:51 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -4894,7 +4894,7 @@ Omítka pro systém vnitřní izolace IQ Term 2.0. Paropropustná, vysoce kapil
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SNL · Dodatečná hydrofobní impregnace · 1l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Facade Impregnation
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil WS
  
 Dodatečná hydrofobní impregnace.
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
@@ -4931,7 +4931,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SNL · Dodatečná hydrofobní impregnace · 5l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Facade Impregnation
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil WS
  
 Dodatečná hydrofobní impregnace.
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
@@ -4968,7 +4968,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SNL · Dodatečná hydrofobní impregnace · 10l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Facade Impregnation
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil WS
  
 Dodatečná hydrofobní impregnace.
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
@@ -5005,7 +5005,7 @@ Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální 
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SNL · Dodatečná hydrofobní impregnace · 30l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Facade Impregnation
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil WS
  
 Dodatečná hydrofobní impregnace.
 Bezbarvá, hydrofobní, rozpouštědlová impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, otevřen difúzi vodních par.</DESCRIPTION>
@@ -5048,7 +5048,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849738065</URL>
           <PRICE_VAT>2245.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5411,11 +5411,14 @@ Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnos
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SL · Hydrofobní impregnace pro vápenaté přírodní kameny · 5l</PRODUCTNAME>
-          <DESCRIPTION>Hydrofobní impregnace pro vápenaté přírodní kameny.
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil SL Alc
+DOPRODEJ: POSLEDNÍCH PÁR KUSŮ 30l BALENÍ K DISPOZICI
+ 
+Hydrofobní impregnace pro vápenaté přírodní kameny.
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031588177</URL>
           <PRICE_VAT>2585.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>-1</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5446,7 +5449,10 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SL · Hydrofobní impregnace pro vápenaté přírodní kameny · 30l</PRODUCTNAME>
-          <DESCRIPTION>Hydrofobní impregnace pro vápenaté přírodní kameny.
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil SL Alc
+DOPRODEJ: POSLEDNÍCH PÁR KUSŮ 30l BALENÍ K DISPOZICI
+ 
+Hydrofobní impregnace pro vápenaté přírodní kameny.
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031620945</URL>
           <PRICE_VAT>10240.0</PRICE_VAT>
@@ -6287,7 +6293,7 @@ Rychleschnoucí malta pro opravy betonu se statickou funkcí. Vysoká přilnavos
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu · 5l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Facade Impregnation
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil WS
  
 Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu.
 Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, hluboká penetrace, UV odolná, pro staré budovy.
@@ -6325,7 +6331,7 @@ Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly,
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SNL geruchsneutral · Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu · 30l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Facade Impregnation
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil WS
  
 Bezbarvá, hydrofobní, rozpouštědlová impregnace na bázi silanu/siloxanu.
 Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly, vápenopískové cihly, minerální omítky a pórobeton. Vysoká vodoodpudivost, hluboká penetrace, UV odolná, pro staré budovy.
@@ -6364,7 +6370,9 @@ Bezbarvá impregnace pro porézní, minerální stavební materiály jako cihly,
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil AS · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu · 5l</PRODUCTNAME>
-          <DESCRIPTION>Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu.
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil FC [intense]
+ 
+Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu.
 Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává paropropustnost, odolná UV záření a povětrnosti. Zvýrazňuje barvu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-as?variant=52652845728081</URL>
           <PRICE_VAT>3450.0</PRICE_VAT>
@@ -6399,7 +6407,9 @@ Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává p
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil AS · Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu · 30l</PRODUCTNAME>
-          <DESCRIPTION>Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu.
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil FC [intense]
+ 
+Ochrana fasád před deštěm a zelenáním, zvýrazňující barvu.
 Ochrana fasád před deštěm a zelenáním. Chrání před vodou, zachovává paropropustnost, odolná UV záření a povětrnosti. Zvýrazňuje barvu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-as?variant=52652845760849</URL>
           <PRICE_VAT>15990.0</PRICE_VAT>
@@ -6476,7 +6486,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052756305</URL>
           <PRICE_VAT>12730.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7012,7 +7022,7 @@ Dvousložkový bitumenový nátěr bez rozpouštědel. Překlenuje trhliny, odol
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil BI · Hydrofobní impregnace betonu · 5l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil RTD
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil RTD
  
 Hydrofobní impregnace betonu.
 Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáliím, redukuje korozi výztuže, pro dopravní stavby.</DESCRIPTION>
@@ -7049,7 +7059,7 @@ Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáli�
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil BI · Hydrofobní impregnace betonu · 30l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil RTD
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil RTD
  
 Hydrofobní impregnace betonu.
 Hydrofobní impregnace pro beton. Chrání před solí a vodou, odolná alkáliím, redukuje korozi výztuže, pro dopravní stavby.</DESCRIPTION>
@@ -7163,7 +7173,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
 Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobní, bez solí, ředitelná vodou, zajišťuje přilnavost a ochranu fasád.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-hydro-hf?variant=52656395813201</URL>
           <PRICE_VAT>1540.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-HF-5l-hloubkova-zpevnujici-penetrace.jpg?v=1755865121</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -7198,7 +7208,7 @@ Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydro
 Vodní hloubková penetrace pro omítky starých budov. Zpevňuje podklad, hydrofobní, bez solí, ředitelná vodou, zajišťuje přilnavost a ochranu fasád.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-primer-hydro-hf?variant=52656395845969</URL>
           <PRICE_VAT>7530.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 2 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-HF-5l-hloubkova-zpevnujici-penetrace.jpg?v=1755865121</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8259,7 +8269,7 @@ Akrylová výplňová barva pro cihlové fasády starých budov. Překlenuje mik
 Vysoce prodyšná silikonová lazura pro renovaci památek a minerálních ploch. Má matný vzhled, vysokou vodoodpudivost i nízké pnutí. Reverzibilní a velmi odolná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-historic-specialni-odstiny?variant=52656096182609</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Historic-5l-historicka-barva-specialni-odstiny.jpg?v=1755876920</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8294,7 +8304,7 @@ Vysoce prodyšná silikonová lazura pro renovaci památek a minerálních ploch
 Vysoce prodyšná silikonová lazura pro renovaci památek a minerálních ploch. Má matný vzhled, vysokou vodoodpudivost i nízké pnutí. Reverzibilní a velmi odolná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-la-historic-specialni-odstiny?variant=52656096215377</URL>
           <PRICE_VAT>8590.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-LA-Historic-5l-historicka-barva-specialni-odstiny.jpg?v=1755876920</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9020,7 +9030,7 @@ Akrylová výplňová barva pro cihlové fasády památek. Překlenuje mikrotrhl
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil C 40 · 12,5l · Hydrofobní impregnace pro betonové konstrukce a omítky</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil FC
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil FC
 Hydrofobní impregnace pro betonové konstrukce a omítky.
 Hloubková hydrofobizace betonu a železobetonu, karbonatických betonových povrchů a vápenných a cementových omítek. Zlepšuje mrazuvzdornost a odolnost vůči solím.Vodoodpudivý, otevřen difúzi vodních par.Dobře proniká do hloubky.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-c-40-12-5l</URL>
@@ -9350,7 +9360,7 @@ Jemná minerální omítka a tmel pro sanaci zdiva. Kapilárně aktivní, paropr
 HADALAN® PUR Top 32P je jednosložková polyuretanová, světelnému zatížení odolná nátěrová pryskyřice. Po vyzrání utváří barevný vysoce elastický a mechanickému zatížení odolný film, který překlenuje trhliny.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/hahne-hadalan-pur-top-32p-2-5kg?variant=52603738882385</URL>
           <PRICE_VAT>3460.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -12, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Hahne-HADALAN-PUR-Top-32P-2-5kg-ochranny-a-uzaviraci-nater.jpg?v=1755878530</IMGURL>
           <MANUFACTURER>Hahne</MANUFACTURER>
           <DELIVERY>
@@ -10028,7 +10038,7 @@ Produkt je k dispozici také v dalších speciálních barevných odstínech. V 
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil FC Plus · Krémová impregnace · 0,75l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil FC [intense]
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil FC [intense]
 Krémová impregnace.
 Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určené pro porézní, minerální stavební materiály.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638929233</URL>
@@ -10064,7 +10074,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil FC Plus · Krémová impregnace · 5l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil FC [intense]
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil FC [intense]
 Krémová impregnace.
 Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určené pro porézní, minerální stavební materiály.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638962001</URL>
@@ -10657,7 +10667,10 @@ Génius mezi hydroizolacemi na eco bázi. Chrání proti tlakové vodě a solím
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SN · Hydrofobní impregnace · 5l</PRODUCTNAME>
-          <DESCRIPTION>Hydrofobní impregnace.
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil SL Alc
+DOPRODEJ: POSLEDNÍCH PÁR KUSŮ 5l BALENÍ K DISPOZICI
+ 
+Hydrofobní impregnace.
 Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící plochy citlivé k organickým ředidlům. Zlepšuje razuvzdornost, prodyšná, proniká do hloubky, UV odolná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936200529</URL>
           <PRICE_VAT>3033.0</PRICE_VAT>
@@ -10692,11 +10705,14 @@ Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící pl
 
         <SHOPITEM>
           <PRODUCTNAME>Remmers Funcosil SN · Hydrofobní impregnace · 30l</PRODUCTNAME>
-          <DESCRIPTION>Hydrofobní impregnace.
+          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil SL Alc
+DOPRODEJ: POSLEDNÍCH PÁR KUSŮ 5l BALENÍ K DISPOZICI
+ 
+Hydrofobní impregnace.
 Silan/siloxanová bezbarvá hydrofobní impregnace pro podklady a sousedící plochy citlivé k organickým ředidlům. Zlepšuje razuvzdornost, prodyšná, proniká do hloubky, UV odolná.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sn?variant=52652936233297</URL>
           <PRICE_VAT>16870.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>-1</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SN-5l-bezbarva-hydrofobni-impregnace.jpg?v=1755880822</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -60309,7 +60325,7 @@ Ekologický terasový olej na vodní bázi pro dřevěné terasy a zahradní ná
           <DESCRIPTION>Hydrofobní impregnace na bázi silanu/siloxanu ve formě vodné emulze.
 Hydrofobní impregnace silan/siloxan pro fasády, kámen a omítky. Bez rozpouštědel, PFAS-free, UV odolná, difúzně otevřená. Dlouhodobý účinek.
 </DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-facade-impregnation-basic</URL>
+          <URL>https://www.stavbox.cz/products/remmers-facade-impregnation-basic?variant=54071973380433</URL>
           <PRICE_VAT>2730.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 1 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Facade-Impregnation-basic_dl_stavbox.jpg?v=1781535255</IMGURL>
@@ -60335,6 +60351,41 @@ Hydrofobní impregnace silan/siloxan pro fasády, kámen a omítky. Bez rozpouš
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>EOYKCOO-HELECNY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers Facade Impregnation [basic] · Dodatečná hydrofobní impregnace · 30l</PRODUCTNAME>
+          <DESCRIPTION>Hydrofobní impregnace na bázi silanu/siloxanu ve formě vodné emulze.
+Hydrofobní impregnace silan/siloxan pro fasády, kámen a omítky. Bez rozpouštědel, PFAS-free, UV odolná, difúzně otevřená. Dlouhodobý účinek.
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-facade-impregnation-basic?variant=55327060590929</URL>
+          <PRICE_VAT>7990.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Facade-Impregnation-basic_dl_stavbox.jpg?v=1781535255</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>547230</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NALYCH-LNTNCLE</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
@@ -82260,6 +82311,42 @@ Vysoce vodoodpudivý krém pro fasády – na silanové bázi, ochrana proti de�
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>HYHTCK-TTHYCHO</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers Funcosil SL Alc · hydrofobní impregnace vápence a fasád · 30l</PRODUCTNAME>
+          <DESCRIPTION>Bezbarvá hydrofobní impregnace na bázi silanu/siloxanu, určená zejména pro stavební materiály citlivé na rozpouštědla, oblasti napojení a vápencové povrchy.
+Bezbarvá hydrofobní impregnace na bázi silanu a siloxanu pro vápenec, památkové fasády a materiály citlivé na rozpouštědla. Odpuzuje vodu a je paropropustná.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-funcosil-sl-alc</URL>
+          <PRICE_VAT>10650.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Funcosil-SL-Alc_stavbox.webp?v=1792076730</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>547330</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>AKEKCN-EKOKYCHN</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
