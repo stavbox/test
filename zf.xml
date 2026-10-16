@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2275 -->
-<!-- Total individual products: 650 -->
-<!-- Created: 2026-10-16 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2276 -->
+<!-- Total individual products: 651 -->
+<!-- Created: 2026-10-16 12:11:16 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -1083,7 +1083,7 @@ Thixotropní 2K hybridní hydroizolace pro ploché střechy a balkony. Rychlesch
 Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpevňuje, zlepšuje přilnavost, vodoodpudivá. Ideální pro izolaci novostaveb.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -29053,7 +29053,7 @@ Sika® Reemat Premium netkaná výztužná rohož ze skelných vláken pro syst�
 Barva: bílá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-reemat-premium</URL>
           <PRICE_VAT>16065.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Reemat-Premium_opt.jpg?v=1772018741</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -54014,7 +54014,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451191121</URL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54049,7 +54049,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451223889</URL>
           <PRICE_VAT>7050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 16 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -82347,6 +82347,43 @@ Bezbarvá hydrofobní impregnace na bázi silanu a siloxanu pro vápenec, památ
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>AKEKCN-EKOKYCHN</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Köster Bikuthan 2C · asfaltová hydroizolace základů a spodní stavby · AB · 28l</PRODUCTNAME>
+          <DESCRIPTION>Dvousložková (2K) polymerem modifikovaná asfaltová silnovrstvá stěrka s polystyrenovým lehkým plnivem pro hydroizolaci stavebních konstrukcí dle DIN 18533.
+KÖSTER Bikuthan 2C je bezpečná a dlouhotrvající vnější hydroizolace podzemních stěn, základů a základových desek ve spádu, dále slouží k hydroizolaci balkonů a teras nad neobytnými prostory a k hydroizolaci místností se zvýšenou vlhkostí a výskytem páry.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-bikuthan-2c</URL>
+          <PRICE_VAT>2590.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster_Bikuthan-2C_stavbox.webp?v=1792137651</IMGURL>
+          <MANUFACTURER>Köster</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>W250028</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EYENCKT-KOLECYK</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     

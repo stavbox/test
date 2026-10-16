@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2275 -->
-<!-- Total individual products: 650 -->
-<!-- Created: 2026-10-16 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2276 -->
+<!-- Total individual products: 651 -->
+<!-- Created: 2026-10-16 12:11:14 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -521,7 +521,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796952401</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707246170</EAN>
@@ -13694,7 +13694,7 @@ Barva: bílá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-reemat-premium</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Reemat-Premium_opt.jpg?v=1772018741</IMGURL>
           <PRICE_VAT>16065.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Střechy a komíny | Střešní okna  a doplňky | Doplňky pro střešní okna</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895305080</EAN>
@@ -25355,7 +25355,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451191121</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018760</EAN>
@@ -25371,7 +25371,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451223889</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>7050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 16 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707094030</EAN>
@@ -38293,6 +38293,23 @@ Bezbarvá hydrofobní impregnace na bázi silanu a siloxanu pro vápenec, památ
           <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>W250028</ITEM_ID>
+          <PRODUCTNAME>Köster Bikuthan 2C · asfaltová hydroizolace základů a spodní stavby · AB · 28l</PRODUCTNAME>
+          <PRODUCT>Köster Bikuthan 2C · AB · 28l - Asfaltová hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Dvousložková (2K) polymerem modifikovaná asfaltová silnovrstvá stěrka s polystyrenovým lehkým plnivem pro hydroizolaci stavebních konstrukcí dle DIN 18533.
+KÖSTER Bikuthan 2C je bezpečná a dlouhotrvající vnější hydroizolace podzemních stěn, základů a základových desek ve spádu, dále slouží k hydroizolaci balkonů a teras nad neobytnými prostory a k hydroizolaci místností se zvýšenou vlhkostí a výskytem páry.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/koster-bikuthan-2c</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster_Bikuthan-2C_stavbox.webp?v=1792137651</IMGURL>
+          <PRICE_VAT>2590.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Köster</MANUFACTURER>
           
         </SHOPITEM>
       
