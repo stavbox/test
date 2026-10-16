@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2276 -->
 <!-- Total individual products: 651 -->
-<!-- Created: 2026-10-16 16:58:33 -->
+<!-- Created: 2026-10-16 18:11:18 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -8416,7 +8416,7 @@ Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperz
           <URL>https://www.stavbox.cz/products/sika-level-01-primer?variant=52645301059921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
           <PRICE_VAT>295.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895155821</EAN>
@@ -12641,7 +12641,7 @@ Sikafloor®-400 N Elastic+ je jednosložkový vysoce elastický nátěr z polyur
           <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic-plus</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-Elastic-N-Plus_opt.jpg?v=1768988694</IMGURL>
           <PRICE_VAT>4370.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894748833</EAN>
