@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2276 -->
 <!-- Total individual products: 651 -->
-<!-- Created: 2026-10-16 18:11:18 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-17 00:00:28 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -9686,7 +9686,7 @@ Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkt
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894917796</EAN>

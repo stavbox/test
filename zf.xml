@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2276 -->
 <!-- Total individual products: 651 -->
-<!-- Created: 2026-10-16 18:11:19 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-17 00:00:30 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -20666,7 +20666,7 @@ Lze jej také použít ke zvýšení objemu (plnění) vybraných potěrů a mal
 Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkty stavební chemie. Vyzvednutí na prodejně je možné.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
