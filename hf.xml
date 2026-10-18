@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2277 -->
-<!-- Total individual products: 652 -->
-<!-- Created: 2026-10-18 10:32:09 -->
+<!-- Total products+variants: 2279 -->
+<!-- Total individual products: 653 -->
+<!-- Created: 2026-10-18 19:30:26 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -25179,7 +25179,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450765137</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 614 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 614 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018630</EAN>
@@ -25259,7 +25259,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450961745</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 256 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 256 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018692</EAN>
@@ -38328,6 +38328,38 @@ Bílé cementové lepidlo určené pro kladení přírodního kamene. Spojuje ce
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           <EAN>4083200011355</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>758645</ITEM_ID>
+          <PRODUCTNAME>PCI Carrament® · lepidlo na přírodní kámen do středně silného lože · šedá (grau) · 25kg</PRODUCTNAME>
+          <PRODUCT>PCI Carrament® · šedá (grau) · 25kg - Lepidlo pro přírodní kameny</PRODUCT>
+          <DESCRIPTION>Lepidlo pro středně silné lože k pokládání obkladů a dlažeb z přírodního kamene.
+Lepidlo pro pokládku obkladů a dlažeb z přírodního kamene do středně silného lože. Pro lepení kamenných obkladových i dlažebních prvků na stěnách a podlahách.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-carrament?variant=55358554472785</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Carrament-grau-seda_stavbox.webp?v=1792330035</IMGURL>
+          <PRICE_VAT>1660.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <EAN>4083200033425</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>758800</ITEM_ID>
+          <PRODUCTNAME>PCI Carrament® · lepidlo na přírodní kámen do středně silného lože · bílá (weiss) · 25kg</PRODUCTNAME>
+          <PRODUCT>PCI Carrament® · bílá (weiss) · 25kg - Lepidlo pro přírodní kameny</PRODUCT>
+          <DESCRIPTION>Lepidlo pro středně silné lože k pokládání obkladů a dlažeb z přírodního kamene.
+Lepidlo pro pokládku obkladů a dlažeb z přírodního kamene do středně silného lože. Pro lepení kamenných obkladových i dlažebních prvků na stěnách a podlahách.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/pci-carrament?variant=55358556635473</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Carrament-grau-seda_stavbox.webp?v=1792330035</IMGURL>
+          <PRICE_VAT>1915.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>PCI</MANUFACTURER>
+          <EAN>4083200011393</EAN>
         </SHOPITEM>
       
     
