@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2279 -->
 <!-- Total individual products: 653 -->
-<!-- Created: 2026-10-19 00:00:24 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-19 10:00:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -28758,7 +28758,7 @@ Sika MonoTop®-412 N je 1komponentní, vlákny vyztužená opravná malta s níz
 Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-monotop-412-n-25kg</URL>
           <PRICE_VAT>875.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -5, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MonoTop-412-N_opt.jpg?v=1769698880</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -53979,7 +53979,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451158353</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -54014,7 +54014,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451191121</URL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>

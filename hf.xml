@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2279 -->
 <!-- Total individual products: 653 -->
-<!-- Created: 2026-10-19 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-19 10:00:43 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -13556,7 +13556,7 @@ Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-monotop-412-n-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MonoTop-412-N_opt.jpg?v=1769698880</IMGURL>
           <PRICE_VAT>875.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -5, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894868548</EAN>
@@ -25339,7 +25339,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451158353</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018753</EAN>
@@ -25355,7 +25355,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451191121</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018760</EAN>
