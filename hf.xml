@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2279 -->
+<!-- Total products+variants: 2280 -->
 <!-- Total individual products: 653 -->
-<!-- Created: 2026-10-19 10:00:43 -->
+<!-- Created: 2026-10-19 15:21:08 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -48,7 +48,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012893521</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>3950.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -3, VI: 276 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -5, VI: 276 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707223904</EAN>
@@ -252,7 +252,7 @@ KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodot
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 94 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 94 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906032118</EAN>
@@ -306,7 +306,7 @@ HORIZONT-IN Cream je injektážní krém bez obsahu rozpouštědel na silan-si
           <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-cream-injektazni-krem?variant=52603952988497</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect-Horizont-In-Cream-injektazni-kremt.jpg?v=1755783949</IMGURL>
           <PRICE_VAT>3935.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 7, VI: 30 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 30 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
           
@@ -837,7 +837,7 @@ Tekutý zpomalovač, který zpomaluje rychlost tuhnutí s zpomalujícím a zkapa
           <URL>https://www.stavbox.cz/products/remmers-vz-mb-1l</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-VZ-MB-1l-zpomalovac.jpg?v=1755777830</IMGURL>
           <PRICE_VAT>290.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707243223</EAN>
@@ -1282,7 +1282,7 @@ Nechcete pumpu kupovat?Pro váš projekt vám ji rádi zapůjčíme – včetně
           <URL>https://www.stavbox.cz/products/gloria-405-410-t-profiline?variant=52756540948817</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Gloria-405T-Profiline-5l-pumpa-pro-injektaz-zdiva.jpg?v=1755850439</IMGURL>
           <PRICE_VAT>605.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 89, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 88, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>Gloria</MANUFACTURER>
           
@@ -1351,7 +1351,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388068689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>380.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 11, VI: 15 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 15 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040113</EAN>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 39, VI: 292 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 29, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -1421,7 +1421,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-nb-4000-spray-additive-250ml</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-Spray-Additive-250ml-pridavek.jpg?v=1755852613</IMGURL>
           <PRICE_VAT>125.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 60 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 60 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906139381</EAN>
@@ -2423,7 +2423,7 @@ Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím.
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-old?variant=52652510380369</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
           <PRICE_VAT>1675.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707053983</EAN>
@@ -2560,7 +2560,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031620945</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <PRICE_VAT>10240.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 7 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 7 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010887</EAN>
@@ -3320,7 +3320,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707093279</EAN>
@@ -4685,7 +4685,7 @@ Ochrana fasád před nárazovým deštěm, znečištěním a zelenáním. Určen
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-plus?variant=52652638962001</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-Plus-5l-kremova-hydrofilni-impregnace.jpg?v=1755879706</IMGURL>
           <PRICE_VAT>6445.0</PRICE_VAT>
-          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: -2, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707070775</EAN>
@@ -9652,7 +9652,7 @@ Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/schonox-pgh-1-02kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/schonox-pgh_opt.jpg?v=1767699270</IMGURL>
           <PRICE_VAT>610.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Pryskyřice</CATEGORYTEXT>
           <MANUFACTURER>Schönox</MANUFACTURER>
           <EAN>7612895561516</EAN>
@@ -24304,16 +24304,32 @@ Barva:komponent A: bílákomponent B: černásměs A+B: světle šedá</DESCRIPT
     
   
           <SHOPITEM>
-          <ITEM_ID>BPHIS0020</ITEM_ID>
-          <PRODUCTNAME>Bauprotect HORIZONT-IN SMEK · Injektážní emulze, bariéra proti vlhkosti</PRODUCTNAME>
-          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 20 l - Koncentrát pro injektážní bariéry</PRODUCT>
+          <ITEM_ID>BPHIS0001</ITEM_ID>
+          <PRODUCTNAME>Bauprotect HORIZONT-IN SMEK · Injektážní emulze, bariéra proti vlhkosti · 1l</PRODUCTNAME>
+          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 20 l · 1l - Koncentrát pro injektážní bariéry</PRODUCT>
           <DESCRIPTION>Bezrozpouštědlový silikonový mikroemulzní koncentrát sloužící pro utvoření horizontální nebo plošné bariéry proti vlínající vlhkosti ve zdivu.S oficiální certifikací WTA.
 Vyroben v Německu 🇩🇪
 HORIZONT-IN SMEK je bezrozpouštědlový silikonový mikroemulzní koncentrát. Účinnou složkou jsou silany a siloxany, které po příslušném naředění vodou utvoří injektážní mikroemulzi. Naředěná směs HORIZONT-IN SMEK je hydrofobizující horizontální izolace, která zabraňuje kapilárnímu vzlínání v minerálních, a dokonce i alkalických podkladech.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-smek</URL>
+          <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-smek?variant=55363773759825</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect_HORIZONT-IN_stavbox.webp?v=1779870093</IMGURL>
+          <PRICE_VAT>1936.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Bauprotect</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>BPHIS0020</ITEM_ID>
+          <PRODUCTNAME>Bauprotect HORIZONT-IN SMEK · Injektážní emulze, bariéra proti vlhkosti · 20l</PRODUCTNAME>
+          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 20 l · 20l - Koncentrát pro injektážní bariéry</PRODUCT>
+          <DESCRIPTION>Bezrozpouštědlový silikonový mikroemulzní koncentrát sloužící pro utvoření horizontální nebo plošné bariéry proti vlínající vlhkosti ve zdivu.S oficiální certifikací WTA.
+Vyroben v Německu 🇩🇪
+HORIZONT-IN SMEK je bezrozpouštědlový silikonový mikroemulzní koncentrát. Účinnou složkou jsou silany a siloxany, které po příslušném naředění vodou utvoří injektážní mikroemulzi. Naředěná směs HORIZONT-IN SMEK je hydrofobizující horizontální izolace, která zabraňuje kapilárnímu vzlínání v minerálních, a dokonce i alkalických podkladech.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-smek?variant=55363773792593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect_HORIZONT-IN_stavbox.webp?v=1779870093</IMGURL>
           <PRICE_VAT>28070.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 30 -->
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
           
@@ -24379,7 +24395,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064448864593</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 787 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 787 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707017978</EAN>
@@ -25179,7 +25195,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450765137</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 614 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 614 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018630</EAN>
@@ -25195,7 +25211,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450797905</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 72 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 72 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018647</EAN>
@@ -25259,7 +25275,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450961745</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 256 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 256 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018692</EAN>
@@ -25339,7 +25355,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451158353</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 10 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018753</EAN>
@@ -25371,7 +25387,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451223889</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>7050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 16 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 16 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707094030</EAN>
@@ -25419,7 +25435,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064451354961</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 267 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 267 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018876</EAN>
@@ -37950,7 +37966,7 @@ Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-314-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_SikaGrout-314_stavbox.webp?v=1790863637</IMGURL>
           <PRICE_VAT>1055.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -4, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894868142</EAN>
