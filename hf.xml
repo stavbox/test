@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2280 -->
-<!-- Total individual products: 653 -->
-<!-- Created: 2026-10-19 15:21:08 -->
+<!-- Total products+variants: 2284 -->
+<!-- Total individual products: 655 -->
+<!-- Created: 2026-10-19 20:59:11 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -234,7 +234,7 @@ Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace s
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 86 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 86 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906136335</EAN>
@@ -30093,7 +30093,7 @@ Nástupce HK lazury 3v1 s hybridním pojivem – lepší odolnost vůči vlhkost
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1-plus?variant=54073922748753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1-_plus__dl_stavbox.jpg?v=1781550573</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 62 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 62 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707271615</EAN>
@@ -38376,6 +38376,78 @@ Lepidlo pro pokládku obkladů a dlažeb z přírodního kamene do středně sil
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>PCI</MANUFACTURER>
           <EAN>4083200011393</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>172049</ITEM_ID>
+          <PRODUCTNAME>Sika® Tooling Agent N · prostředek pro vyhlazování tmelů · 500ml</PRODUCTNAME>
+          <PRODUCT>Sika® Tooling Agent N · 500ml - Prostředek pro vyhlazování tmelů</PRODUCT>
+          <DESCRIPTION>Prostředek pro vytváření hladkých povrchů u Sikaflex® tmelů.
+Sika® Tooling Agent N je prostředek na vodní bázi, bez rozpouštědel pro elastické Sika lepidla a tmely.
+✅ pH neutrální✅ Vhodné pro běžné povrchy✅ Nenarušuje ani nevymývá čerstvě nanesené tmely nebo lepidla</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-tooling-agent-n?variant=55368008991057</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Tooling-Agent-N_stavbox.webp?v=1792421175</IMGURL>
+          <PRICE_VAT>170.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894704693</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>4612</ITEM_ID>
+          <PRODUCTNAME>Sika® Tooling Agent N · prostředek pro vyhlazování tmelů · 1l</PRODUCTNAME>
+          <PRODUCT>Sika® Tooling Agent N · 1l - Prostředek pro vyhlazování tmelů</PRODUCT>
+          <DESCRIPTION>Prostředek pro vytváření hladkých povrchů u Sikaflex® tmelů.
+Sika® Tooling Agent N je prostředek na vodní bázi, bez rozpouštědel pro elastické Sika lepidla a tmely.
+✅ pH neutrální✅ Vhodné pro běžné povrchy✅ Nenarušuje ani nevymývá čerstvě nanesené tmely nebo lepidla</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-tooling-agent-n?variant=55368053653841</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Tooling-Agent-N_stavbox.webp?v=1792421175</IMGURL>
+          <PRICE_VAT>290.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>4003923094275</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>26352</ITEM_ID>
+          <PRODUCTNAME>Sika® Tooling Agent N · prostředek pro vyhlazování tmelů · 5l</PRODUCTNAME>
+          <PRODUCT>Sika® Tooling Agent N · 5l - Prostředek pro vyhlazování tmelů</PRODUCT>
+          <DESCRIPTION>Prostředek pro vytváření hladkých povrchů u Sikaflex® tmelů.
+Sika® Tooling Agent N je prostředek na vodní bázi, bez rozpouštědel pro elastické Sika lepidla a tmely.
+✅ pH neutrální✅ Vhodné pro běžné povrchy✅ Nenarušuje ani nevymývá čerstvě nanesené tmely nebo lepidla</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-tooling-agent-n?variant=55368053686609</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Tooling-Agent-N_stavbox.webp?v=1792421175</IMGURL>
+          <PRICE_VAT>955.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>4003923094282</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>18919990355609</ITEM_ID>
+          <PRODUCTNAME>Botament MegaFlow Xtra · samonivelační hmota pro interiér i exteriér · 20kg</PRODUCTNAME>
+          <PRODUCT>Botament MegaFlow Xtra · 20kg - Samonivelační stěrka</PRODUCT>
+          <DESCRIPTION>Samonivelační hmota s armovacími vlákny CT-C35-F7.
+Dříve prodáván pod názvem: Botament BotaGreen® MegaFlow
+Botament MegaFlow Xtra je samonivelační hmota se sníženou prašností, nízkými emisemi, vyztužená armovacími vlákny vhodná pro vyrovnání povrchů v interiéru i exteriéru. Inovativní technologie Boost umožňuje velkorysou dobu zpracování a zároveň zajišťuje obzvláště rychlé schnutí a vytvrzování.
+✅ Pochozí a lze dláždit už po ~ 2 – 3 hodinách✅ Pro vrstvy 3 – 50 mm v jednom pracovním kroku✅ Redukce CO2e o 30 % oproti hmotě Botament M53 Extra*✅ Pro plochy s podlahovým vytápěním a uložení systémů podlahového topení nízké konstrukční výšky✅ Vhodná pro kritické podklady ze dřeva i smíšené podklady✅ Redukuje tvorbu trhlin
+*Ekvivalent oxidu uhličitého (GWP – celkový) na kg dle EN 15804+A2, modul A1 – A3, ref. 2024
+Barva: šedá
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-megaflow-xtra</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MegaFlow-Xtra_stavbox.webp?v=1792431745</IMGURL>
+          <PRICE_VAT>975.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <EAN>4030905060577</EAN>
         </SHOPITEM>
       
     
