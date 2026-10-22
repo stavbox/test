@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2284 -->
 <!-- Total individual products: 655 -->
-<!-- Created: 2026-10-22 14:01:06 -->
+<!-- Created: 2026-10-22 18:54:05 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -5527,7 +5527,7 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124992849</URL>
           <PRICE_VAT>14900.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 2 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6486,7 +6486,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052756305</URL>
           <PRICE_VAT>12730.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -22150,7 +22150,7 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
 ✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310411089</URL>
           <PRICE_VAT>10260.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: O -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -50317,7 +50317,7 @@ SikaGrout®-800 je jednosložková, cementová, vysoce výkonná, zálivková ma
 Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <PRICE_VAT>995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -23, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -26, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -52089,7 +52089,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 622 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 622 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
