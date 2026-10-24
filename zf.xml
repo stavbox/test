@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2283 -->
-<!-- Total individual products: 654 -->
-<!-- Created: 2026-10-24 19:23:28 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2286 -->
+<!-- Total individual products: 657 -->
+<!-- Created: 2026-10-25 00:00:28 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -35007,6 +35007,45 @@ EB100 Botascreed je epoxidová pryskyřice pro výrobu pryskyřičných potěrů
       
     
   
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament MegaFlow AF · armovací vlákna do samonivelačních hmot · 200g</PRODUCTNAME>
+          <DESCRIPTION>Armovací vlákna
+Botament MegaFlow AF jsou vysokopevnostní vlákna k armování samonivelačních hmot Botament. Armovací vlákna Botament MegaFlow AF se optimálně rozloží ve směsi a tak nenarušují zpracovatelnost hmoty.
+✅ K armování a zlepšení samonivelačních hmot Botament✅ Vhodné zejména pro použití na kritických podkladech✅ Redukují tvorbu smršťovacích trhlin✅ Zpevňují strukturu a zvyšují pevnost ve střihu✅ Vysoká odolnost alkáliím
+Barva: bílá – transparentní
+</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-megaflow-af</URL>
+          <PRICE_VAT>290.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_BotaGreen_MegaFlow_AF_stavbox.webp?v=1775478481</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>58529110235609</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>4030905200799</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EAYCLA-HNUCTN</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
   
           
 
@@ -35473,7 +35512,7 @@ Black Future kombinuje nejlepší vlastnosti tradiční 2sl. bitumenové hydroiz
 ✅ Extrémně dlouhá zpracovatelnost až 3 hodiny✅ Použitelná při teplotách až 35 °C✅ Skladovatelnost 24 měsíců✅ Receptura bez cementu✅ Vysoká vydatnost✅ Vysoký podíl pevných látek &amp;gt; 90 %✅ Flexibilní, přemosťuje trhliny</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-black-future?variant=55458136916305</URL>
           <PRICE_VAT>2710.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: O -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Black-Future_stavbox.webp?v=1775493218</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -82634,6 +82673,85 @@ Barva: šedá
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>AUNCY-EKELCAY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament Screed FM · rychleschnoucí potěr pro interiér i exteriér · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Rychleschnoucí potěr CT-C35-F7.
+Botament Screed FM je hotová směs na bázi cementu pro výrobu rychleschnoucích spojených, oddělených i plovoucích potěrů.
+✅ Po 24 hodinách možné předláždění✅ Dlouhá doba na zpracování✅ Redukce CO2e o 20 % oproti potěru Botament M54 FM*✅ Pro vnitřní i vnější použití✅ Hotová směs (bez nutnosti přidání písku)✅ Zpracovatelné i strojně
+*Ekvivalent oxidu uhličitého (GWP – celkový) na kg dle EN 15804+A2, modul A1 – A3, ref. 2024
+Barva: šedá
+    </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-screed-fm</URL>
+          <PRICE_VAT>640.0</PRICE_VAT>
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SCREED-FM_stavbox.webp?v=1792862941</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>gid://shopify/Product/11279385100625</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Samonivelační stěrky</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Cement</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>HLTCO-YUECAH</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Botament SB40-S · ochranná páska proti proříznutí hydroizolace · role 10 m | šíře 40 mm | tloušťka 0,7 mm</PRODUCTNAME>
+          <DESCRIPTION>Ochranná páska
+Botament SB40-S je samolepicí páska, s dvojitou tkaninou na ochranu hydroizolačních pásek proti proříznutí v zóně dilatačních spár ve vnitřním i vnějším prostředí dle normy DIN 18534.
+✅ Excelentní odolnost proti proříznutí✅ Samolepicí✅ Vysoká pevnost✅ Zdvojená tkanina✅ Velmi vysoká odolnost proti stárnutí</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/botament-sb40-s</URL>
+          <PRICE_VAT>2235.0</PRICE_VAT>
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB40-S_stavbox.webp?v=1792865340</IMGURL>
+          <MANUFACTURER>Botament</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>86938250915609</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Těsnicí pásky</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            
+
+          <EAN>4030905052329</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EHYNCYK-KTLECTE</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
