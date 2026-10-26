@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2286 -->
 <!-- Total individual products: 657 -->
-<!-- Created: 2026-10-26 11:49:37 -->
+<!-- Created: 2026-10-26 13:20:13 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -2592,7 +2592,7 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124992849</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <PRICE_VAT>14900.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: 2 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 2 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707032476</EAN>
@@ -12641,7 +12641,7 @@ Sikafloor®-400 N Elastic+ je jednosložkový vysoce elastický nátěr z polyur
           <URL>https://www.stavbox.cz/products/sika-sikafloor-400-n-elastic-plus</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-400-Elastic-N-Plus_opt.jpg?v=1768988694</IMGURL>
           <PRICE_VAT>4370.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894748833</EAN>
