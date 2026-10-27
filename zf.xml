@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2286 -->
-<!-- Total individual products: 657 -->
-<!-- Created: 2026-10-27 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2287 -->
+<!-- Total individual products: 658 -->
+<!-- Created: 2026-10-27 12:44:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -51,7 +51,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 434 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: 434 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -525,7 +525,7 @@ KÖSTER NB 1 Grey je minerální hydroizolační nátěr, který obsahuje krysta
 KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodotěsná tlakové vodě až do 13 barů. Obsahuje přísady, které aktivně pronikají do pórů a do kapilární struktury podkladu, kde reagují a utváří pevnou krystalickou vazbu. Kromě hydraulického vytvrzování těsnicí stěrky může být krystalizační proces reaktivován, což vede k samovolnému ucpávání případných následně vzniklých mikrotrhlin v podkladu. Hydroizolace s KÖSTER NB 1 Grey by měla být prováděna pouze na podklady bez pohyblivých trhlin. Pohyblivé trhliny, konstrukční spáry nebo dilatační spáry musí být ošetřeny jinými systémy, jako jsou např. KÖSTER Joint Tape, KÖSTER Injektážní pryskyřice nebo KÖSTER Joint Sealant FS. KÖSTER SB-Bonding Emulsion dodává materiálu flexibilitu.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: 94 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 94 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -5151,78 +5151,6 @@ Dle ČSN EN 998-1: 2016 ed.3, pro zdi, stropy, pilíře a příčky, kategorie C
       
     
   
-          
-
-        <SHOPITEM>
-          <PRODUCTNAME>Remmers Funcosil FC · Krémová hydrofobní impregnace · 0,75l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil FC
-Krémová hydrofobní impregnace.
-Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par. Rychle odolný po 60 min.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-old?variant=52652510380369</URL>
-          <PRICE_VAT>1675.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>250</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
-            
-          </DELIVERY>
-          <DELIVERY>
-            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>71101</ITEM_ID>
-
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
-            
-
-          <EAN>4004707053983</EAN>
-          <CONDITION>new</CONDITION>
-          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
-
-          <CUSTOM_LABEL_0>LTYCH-ELTKCL</CUSTOM_LABEL_0>
-        </SHOPITEM>
-      
-          
-
-        <SHOPITEM>
-          <PRODUCTNAME>Remmers Funcosil FC · Krémová hydrofobní impregnace · 12,5l</PRODUCTNAME>
-          <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen: Remmers Funcosil FC
-Krémová hydrofobní impregnace.
-Vysoce vodoodpudivý krém pro fasády – ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par. Rychle odolný po 60 min.</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/remmers-funcosil-fc-old?variant=52652510445905</URL>
-          <PRICE_VAT>15490.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-FC-5l-oleofobni-a-hydrofobni-ochranny-prostredek.jpg?v=1755860242</IMGURL>
-          <MANUFACTURER>Remmers</MANUFACTURER>
-          <DELIVERY>
-            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <DELIVERY>
-            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
-            <DELIVERY_PRICE>0</DELIVERY_PRICE>
-            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
-          </DELIVERY>
-          <ITEM_ID>71113</ITEM_ID>
-
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
-            
-
-          <EAN>4004707228664</EAN>
-          <CONDITION>new</CONDITION>
-          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
-
-          <CUSTOM_LABEL_0>LUHHCTH-EYKEYCUK</CUSTOM_LABEL_0>
-        </SHOPITEM>
-      
-    
   
           
 
@@ -35169,7 +35097,7 @@ M34 je minerální izolační hmota vhodná k izolování masivních stavebních
 ✅ Jednoduché zpracování✅ Přilne bez penetrace na matně vlhké podklady✅ Vysoká mrazuvzdornost a odolnost vůči stárnutí✅ Použití i při negativním tlaku vody✅ Propouští vodní páry</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-m34</URL>
           <PRICE_VAT>930.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -2, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M34_stavbox.webp?v=1775488243</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -69409,7 +69337,7 @@ Vhodná pro konstrukce jako jsou nadjezdy, tunely a mosty. Splňuje požadavky R
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-rtd</URL>
           <PRICE_VAT>3090.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Funcosil-RTD.jpg?v=1782295151</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -82320,7 +82248,7 @@ Vysoce vodoodpudivý krém pro fasády – na silanové bázi, ochrana proti de�
 Vysoce vodoodpudivý krém pro fasády – na silanové bázi, ochrana proti dešti, mrazu i solím. Penetruje hluboko, umožňuje odvod vodních par.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-fc?variant=55324794716497</URL>
           <PRICE_VAT>6590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 5 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 5 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Funcosil-FC_stavbox.webp?v=1792067862</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -82752,6 +82680,115 @@ Botament SB40-S je samolepicí páska, s dvojitou tkaninou na ochranu hydroizola
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>EHYNCHK-KTLECTE</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers MB FL 2K · hydroizolace, lepidlo na dlaždice a spárování 3v1 · 6,67kg</PRODUCTNAME>
+          <DESCRIPTION>3v1 lepená hydroizolace Hydroizolace, lepidlo na dlaždice a výplň spár v jednom.
+Řešení 3v1 spojuje lepenou hydroizolaci, lepidlo na dlaždice a výplň spár v jednom materiálu. Pro hydroizolaci, lepení i spárování bez střídání tří produktů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-fl-2k?variant=55498262905169</URL>
+          <PRICE_VAT>1750.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_MB-FL-2K_stavbox.webp?v=1793097853</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>300106</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EUKKCHY-KUAECY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers MB FL 2K · hydroizolace, lepidlo na dlaždice a spárování 3v1 · 20kg</PRODUCTNAME>
+          <DESCRIPTION>3v1 lepená hydroizolace Hydroizolace, lepidlo na dlaždice a výplň spár v jednom.
+Řešení 3v1 spojuje lepenou hydroizolaci, lepidlo na dlaždice a výplň spár v jednom materiálu. Pro hydroizolaci, lepení i spárování bez střídání tří produktů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-mb-fl-2k?variant=55498262937937</URL>
+          <PRICE_VAT>4830.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_MB-FL-2K_stavbox.webp?v=1793097853</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>300120</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>KYELCY-OAYACA</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Remmers Clean FL · čisticí koncentrát pro MB FL 2K · 1l</PRODUCTNAME>
+          <DESCRIPTION>Čisticí koncentrát pro MB FL 2K.
+Čisticí koncentrát určený pro použití s multifunkční hmotou MB FL 2K. Doplňuje systém pro hydroizolaci, lepení dlaždic a spárování jako přípravek pro čištění.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/remmers-clean-fl</URL>
+          <PRICE_VAT>330.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Clean-FL_stavbox.webp?v=1793099596</IMGURL>
+          <MANUFACTURER>Remmers</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>065101</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ETOCKT-HOHCNA</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
