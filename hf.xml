@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2286 -->
 <!-- Total individual products: 657 -->
-<!-- Created: 2026-10-26 13:20:13 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-27 00:00:24 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -8416,7 +8416,7 @@ Sika® Level-01 Primer je 1-komponentní, vodou ředitelná akrylátová disperz
           <URL>https://www.stavbox.cz/products/sika-level-01-primer?variant=52645301059921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Level-01-Primer_opt.jpg?v=1763713336</IMGURL>
           <PRICE_VAT>310.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895155821</EAN>
