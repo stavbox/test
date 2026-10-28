@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2287 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-10-28 20:35:20 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-29 00:00:32 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -5420,7 +5420,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <PRICE_VAT>2890.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -20594,7 +20594,7 @@ Lze jej také použít ke zvýšení objemu (plnění) vybraných potěrů a mal
 Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkty stavební chemie. Vyzvednutí na prodejně je možné.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -53626,7 +53626,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450797905</URL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 72 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 72 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>

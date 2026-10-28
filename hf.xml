@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2287 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-10-28 20:35:19 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-10-29 00:00:30 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -2544,7 +2544,7 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <PRICE_VAT>2890.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 13, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707032452</EAN>
@@ -9653,7 +9653,7 @@ Vzhledem k váze je možné křemičitý písek objednat pouze s jinými produkt
           <URL>https://www.stavbox.cz/products/sika-quartz-sand-kremicity-pisek-25kg?variant=52873173172561</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika-Quartz-Sand_opt.jpg?v=1769088781</IMGURL>
           <PRICE_VAT>370.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894917796</EAN>
@@ -25178,7 +25178,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450797905</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>3750.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 72 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 72 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018647</EAN>
