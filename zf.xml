@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2287 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-10-29 00:00:32 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-10-29 11:07:38 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -487,7 +487,7 @@ Inhibitor solí pro sanaci zdiva. Neutralizuje sírany, zlepšuje přilnavost om
 Polymerem modifikovaná minerální stěrka, která slouží jako hydroizolace stavebních konstrukcí ve vnějším i vnitřním prostředí. Brzy po aplikaci je odolná proti dešti a po 24 hodinách vytvrzení může být vystavena tlakové vodě. Hydroizolace KÖSTER NB 4000 je elastická a přemosťuje trhliny a je vhodný pro těsnění v oblastech jako jsou sklepy, základové desky, zdivo a opravy vadných hydroizolačních vrstev.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/koster-nb-4000-25kg</URL>
           <PRICE_VAT>4235.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 86 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -7, VI: 86 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-4000-25kg-hydroizolacni-sterka.jpg?v=1756189360</IMGURL>
           <MANUFACTURER>Köster</MANUFACTURER>
           <DELIVERY>
@@ -28798,7 +28798,7 @@ Sikaflex®-950 je 2-komponentní lepicí tmel na bázi STP, který vytvrzuje che
 ✅ Vynikající čerpatelnost✅ Dobrá adheze na širokou škálu podkladů bez nutnosti speciální předúpravy✅ Splňuje nejvyšší standardy EHS</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikaflex-950</URL>
           <PRICE_VAT>970.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-950_opt.jpg?v=1771942497</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -80893,7 +80893,7 @@ Kluzné trny pro spojování dilatačních spár v minerálních a vytápěných
 Balení: 10ks.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/pci-apogel-duebel</URL>
           <PRICE_VAT>2675.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/PCI_Apogel-Dubel_stavbox.webp?v=1788707380</IMGURL>
           <MANUFACTURER>PCI</MANUFACTURER>
           <DELIVERY>
