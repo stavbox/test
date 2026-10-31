@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2287 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-10-31 17:24:24 -->
+<!-- Created: 2026-10-31 19:16:46 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 26, VI: 292 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 24, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -7107,7 +7107,7 @@ KÖSTER MS-Flexfolie neobsahuje rozpouštědla, a proto netrpí odpařováním r
           <URL>https://www.stavbox.cz/products/koster-ms-flexfolie?variant=52604158443857</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MS-Flexfolie.jpg?v=1761141802</IMGURL>
           <PRICE_VAT>4370.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 4 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 4 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906180826</EAN>
