@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2287 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-03 17:35:49 -->
+<!-- Created: 2026-11-03 22:30:07 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -19532,7 +19532,7 @@ Barva: pozink</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-dammplatenteller</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_Dammplatenteller_stavbox.webp?v=1775740722</IMGURL>
           <PRICE_VAT>435.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: -1, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Voda, plyn, topení | Potřeby pro instalatéry | Instalatérské potřeby</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905132953</EAN>
@@ -19642,7 +19642,7 @@ RK je prefabrikovaný kryt tvaru „L“ pro rychlé zakrytí instalací a násl
           <URL>https://www.stavbox.cz/products/botament-rk?variant=53479651803473</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RK_stavbox.webp?v=1775744147</IMGURL>
           <PRICE_VAT>1080.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: -9, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Sádrokartonové desky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905130102</EAN>
