@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2287 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-04 00:00:20 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-11-04 09:31:34 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -32,7 +32,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 370 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 370 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707131148</EAN>
@@ -3153,7 +3153,7 @@ Kyselý čistič pro omítané fasády. Odstraňuje vápenné výkvěty, špínu
           <URL>https://www.stavbox.cz/products/remmers-clean-fp?variant=52660386857297</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-FP-5kg-cistici-pasta-pro-fasady.jpg?v=1755864026</IMGURL>
           <PRICE_VAT>430.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 8 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 8 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707011402</EAN>
@@ -3624,7 +3624,7 @@ Kyselý čistič pro cihlové fasády starých budov. Odstraňuje vápenné výk
           <URL>https://www.stavbox.cz/products/remmers-clean-ac-basic?variant=52657777246545</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Clean-AC-basic-1kg-kysely-cistic-fasad.jpg?v=1755876534</IMGURL>
           <PRICE_VAT>410.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707011464</EAN>
