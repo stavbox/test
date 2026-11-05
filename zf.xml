@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2288 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-05 14:11:30 -->
+<!-- Created: 2026-11-05 18:52:18 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
@@ -902,7 +902,7 @@ Silanový krém pro injektáž zdiva proti vzlínající vlhkosti. Beztlaká apl
  </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-injection-cream-80-12-5l</URL>
           <PRICE_VAT>11500.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 32 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 32 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Injection-Cream-80-12-5l-injektazni-krem.jpg?v=1755783508</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -8781,7 +8781,7 @@ Jemná PCC stěrka pro betonové konstrukce. Vysoká pevnost, odolná síranům,
 Barva: betonově šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-fill-25kg</URL>
           <PRICE_VAT>2050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 20 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -15, VI: 20 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-Fill-25kg-PCC-jemna-sterka.jpg?v=1755877725</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -37364,7 +37364,7 @@ M57 je rychleschnoucí lehce zpracovatelná stěrka vláčné konzistence vhodn�
 ✅ Velmi jemná✅ Vysoká stabilita✅ Optimální zpracovatelnost✅ Pro vrstvy do 6 mm✅ Pro stěny a stropy</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-m57</URL>
           <PRICE_VAT>905.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -4, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M57_stavbox.webp?v=1775588324</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
