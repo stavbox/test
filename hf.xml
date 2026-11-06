@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2288 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-06 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-11-06 09:34:13 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -10357,7 +10357,7 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
           <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310411089</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
           <PRICE_VAT>10260.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895880358</EAN>
@@ -23618,7 +23618,7 @@ Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
           <PRICE_VAT>995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -25, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -22, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655085887</EAN>

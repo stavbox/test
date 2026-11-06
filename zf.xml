@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2288 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-06 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-11-06 09:34:15 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -22078,7 +22078,7 @@ Sikagard® WallCoat N je dvoukomponentní barevný epoxidový uzavírací nátě
 ✅ Dobrá mechanická odolnost✅ Dobrá odolnost vůči specifickým chemikáliím✅ Nepropustnost pro kapaliny</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagard-wallcoat-n-20kg?variant=52781310411089</URL>
           <PRICE_VAT>10260.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: O -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/sikagard-wallcoat-n-20kg_opt.jpg?v=1767964890</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -50244,7 +50244,7 @@ SikaGrout®-800 je jednosložková, cementová, vysoce výkonná, zálivková ma
 Barva: šedý prášek</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikagrout-800-25kg</URL>
           <PRICE_VAT>995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -25, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -22, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaGrout-800_stavbox.webp?v=1778596489</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
