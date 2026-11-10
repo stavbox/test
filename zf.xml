@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2288 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-09 17:42:05 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-11-10 00:00:24 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -5420,7 +5420,7 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
 Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení přílišného zpevnění a k dosažení rovnoměrného profilu pevnosti.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <PRICE_VAT>2890.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 11, VI: 10 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -9436,7 +9436,7 @@ Vápenocementová vrchní omítka pro historické fasády. Paropropustná, odoln
 Rychlovazná malta z románského cementu pro štuky a spáry památek. Paropropustná, odolná povětrnosti, pro restaurování historických fasád a detailů.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-rm-rz-historic-6kg</URL>
           <PRICE_VAT>1050.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -3, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-RM-RZ-Historic-6kg-rychlovazna-malta-na-bazi-romanskeho-cementu.jpg?v=1755878896</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
