@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2288 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-11 16:27:51 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-11-12 00:00:26 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -6188,7 +6188,7 @@ Rychleschnoucí kontaktní nástřik s polymerními přísadami pro přípravu 
 Rychleschnoucí malta pro opravy betonu se statickou funkcí. Vysoká přilnavost, odolná mrazu, vhodná pro rychlé zásahy na konstrukcích.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-r4-25kg</URL>
           <PRICE_VAT>1470.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-R4-25kg-PCC-malta.jpg?v=1755863170</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>

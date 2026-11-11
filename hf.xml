@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2288 -->
 <!-- Total individual products: 658 -->
-<!-- Created: 2026-11-11 16:27:50 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-11-12 00:00:25 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -2898,7 +2898,7 @@ Rychleschnoucí malta pro opravy betonu se statickou funkcí. Vysoká přilnavos
           <URL>https://www.stavbox.cz/products/remmers-betofix-r4-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-R4-25kg-PCC-malta.jpg?v=1755863170</IMGURL>
           <PRICE_VAT>1470.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 3 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 3 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707107266</EAN>
