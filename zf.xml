@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2288 -->
-<!-- Total individual products: 658 -->
-<!-- Created: 2026-11-12 00:00:26 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2293 -->
+<!-- Total individual products: 662 -->
+<!-- Created: 2026-11-12 12:29:44 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -81972,7 +81972,7 @@ MC-Bauchemie MC-Color Flex Pure je pigmentovaný flexibilní ochranný krycí sy
 MC-Bauchemie Nafufill KM 110 je jemná správková malta pro egalizaci betonových ploch. Slouží k vyrovnání povrchu betonu a vytvoření sjednocené povrchové úpravy.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-km-110</URL>
           <PRICE_VAT>1300.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Nafufill-KM-110_stavbox.webp?v=1791292133</IMGURL>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           <DELIVERY>
@@ -82836,6 +82836,196 @@ Botament SB40-S je samolepicí páska, s dvojitou tkaninou na ochranu hydroizola
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>ETOCKT-HOHCNA</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Primer 206 G+P · primer pod polyuretanová lepidla · 250ml</PRODUCTNAME>
+          <DESCRIPTION>Pigmentovaný primer na bázi rozpouštědel pro různé podklady.
+Sika® Primer-206 G+P je černý primer na bázi rozpouštědel, který reaguje s vlhkostí a vytváří tenkou vrstvu. Tato vrstva funguje jako spojení mezi podklady a lepidly. Sika® Primer-206 G+P je speciálně vyvinut pro ošetření lepených ploch před aplikací 1-komponentních polyuretanů Sika.
+✅ Vylepšená adheze k široké škále podkladů✅ Snadné použití</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-primer-206-g-p?variant=55777581203793</URL>
+          <PRICE_VAT>950.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Primer-206-G_P_stavbox.webp?v=1794477797</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>1419</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ALTCA-EUOOCEK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika® Primer 206 G+P · primer pod polyuretanová lepidla · 1l</PRODUCTNAME>
+          <DESCRIPTION>Pigmentovaný primer na bázi rozpouštědel pro různé podklady.
+Sika® Primer-206 G+P je černý primer na bázi rozpouštědel, který reaguje s vlhkostí a vytváří tenkou vrstvu. Tato vrstva funguje jako spojení mezi podklady a lepidly. Sika® Primer-206 G+P je speciálně vyvinut pro ošetření lepených ploch před aplikací 1-komponentních polyuretanů Sika.
+✅ Vylepšená adheze k široké škále podkladů✅ Snadné použití</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-primer-206-g-p?variant=55777581236561</URL>
+          <PRICE_VAT>2610.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Primer-206-G_P_stavbox.webp?v=1794477797</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>113422</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>ELEYCN-KLUECOY</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sarnacol® T-660 · kontaktní lepidlo na střešní fólie Sarnafil · 5kg</PRODUCTNAME>
+          <DESCRIPTION>Lepidlo pro aplikaci hydroizolačních střešních fólií Sarnafil® TG 66, Sarnafil® TS 77 a Sarnafil® TU.
+1komponentní kontaktní lepidlo na bázi butylkaučuku.
+✅ Přilnavý na pevné, drsné a čisté podklady.
+Barva: žlutá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sarnacol-t-660</URL>
+          <PRICE_VAT>6150.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sarnacol-T660_stavbox.webp?v=1794479745</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>111085</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NUUNCEO-TALUCOK</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikadur®-52 Injection Normal · epoxidová injektážní pryskyřice · 30kg</PRODUCTNAME>
+          <DESCRIPTION>Epoxidová, nízkoviskózní injektážní pryskyřice.
+Sikadur®-52 Injection Normal je 2-komponentní injektážní pryskyřice na bázi epoxidových pryskyřic, bez rozpouštědel, nízko-viskózní.Typ N (= Normální zpracovatelnost) pro podklady s teplotou mezi +5°C a +30°C.Typ LP (= Dlouhá zpracovatelnost) pro podklady s teplotou mezi +25°C a +40°C.
+✅ Bez rozpouštědel✅ Vhodný pro vlhké i suché podmínky✅ Použitelný i za nízkých teplot
+Barva:komponent A: bezbarvýkomponent B: nahnědlýsměs A+B: žluto-hnědý</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadur-52-injection-normal</URL>
+          <PRICE_VAT>28140.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikadur-52-Injection-Normal_stavbox_2c185f54-3d54-4868-9a74-4d344795c2e8.webp?v=1794481507</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>707838</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          <EAN>7612895836201</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EYHENCE-HOETNCT</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikalastic® Metal Primer N ·  · 5l</PRODUCTNAME>
+          <DESCRIPTION>Dvousložkový primer na exponovaný kovový podklad před aplikací Sika tekutých střešních hydroizolací a hydroizolačních systému pro balkóny.
+Sikalastic® Metal Primer N je dvoukomponentní expoxidový primer na bázi rozpouštědel pro exponované kovové podklady. Skládá se ze báze (komp. A) a aktivátoru (komp. B).
+✅ Rychle vytvrzující, přetíratelnost možná za 6 hodin✅ Snadná aplikace štětcem nebo válečkem✅ Zlepšuje přilnavost k široké škále kovových podkladů
+Barva:komponent A: sedá kapalinakomponent B: jantarová kapalinasměs A+B: sedá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikalastic®-metal-primer-n</URL>
+          <PRICE_VAT>6900.0</PRICE_VAT>
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <IMGURL></IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>796753</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Impregnace zdiva</CATEGORYTEXT>
+            
+
+          <EAN>7612655097187</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>NNLOCUO-YAHHCHO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
