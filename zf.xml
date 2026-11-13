@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2306 -->
-<!-- Total individual products: 667 -->
-<!-- Created: 2026-11-13 14:19:13 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total individual products: 668 -->
+<!-- Created: 2026-11-14 00:00:22 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -5084,7 +5084,7 @@ Ochrana fasád a savých minerálních podkladů před nárazovým deštěm. Zac
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ws?variant=52660849770833</URL>
           <PRICE_VAT>9900.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-WS-5l-hydrofobizacni-impregnace.jpg?v=1755860090</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -5384,7 +5384,7 @@ Hydrofobní impregnace pro vápenaté přírodní kameny.
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031620945</URL>
           <PRICE_VAT>10240.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -6414,7 +6414,7 @@ Impregnace pro kuchyňské pracovní desky z přírodního kamene, vápenopísko
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-ofs?variant=52653052756305</URL>
           <PRICE_VAT>12730.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-OFS-5l-impregnace-pro-snadnou-udrzbu-povrchu.jpg?v=1755863458</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -83440,14 +83440,14 @@ Barva: černá</DESCRIPTION>
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika® Igolflex®-201 ·  · 10l</PRODUCTNAME>
+          <PRODUCTNAME>Sika® Igolflex®-201 · dvousložková (2K) asfaltová hydroizolační stěrka · 32kg</PRODUCTNAME>
           <DESCRIPTION>2komponentní stěrka na bázi polymerem modifikovaného bitumenu.
 Sika® Igolflex®-201 je 2komponentní, vlákny zesílená pružná hydroizolační stěrka na bázi polymerem modifikovaného bitumenu proti pronikání vlhkosti.
 ✅ Nehořlavá✅ Elastická se schopností překlenutí trhlin✅ Rychle vytvrzuje
 Barva:komp. A: černákomp. B: šedá</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-igolflex-201?variant=55792743252305</URL>
-          <PRICE_VAT>1490.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <URL>https://www.stavbox.cz/products/sika-igolflex-201</URL>
+          <PRICE_VAT>4390.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_generic_product_placeholder_opt.jpg?v=1760357042</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
@@ -83461,30 +83461,32 @@ Barva:komp. A: černákomp. B: šedá</DESCRIPTION>
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>gid://shopify/Product/11356792389969</ITEM_ID>
+          <ITEM_ID>127234</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
 
-          
+          <EAN>7612894577181</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>LTTCEH-EYTACTE</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>KYTKCY-OOETCA</CUSTOM_LABEL_0>
         </SHOPITEM>
       
+    
+  
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika® Igolflex®-201 ·  · 32l</PRODUCTNAME>
-          <DESCRIPTION>2komponentní stěrka na bázi polymerem modifikovaného bitumenu.
-Sika® Igolflex®-201 je 2komponentní, vlákny zesílená pružná hydroizolační stěrka na bázi polymerem modifikovaného bitumenu proti pronikání vlhkosti.
-✅ Nehořlavá✅ Elastická se schopností překlenutí trhlin✅ Rychle vytvrzuje
-Barva:komp. A: černákomp. B: šedá</DESCRIPTION>
-          <URL>https://www.stavbox.cz/products/sika-igolflex-201?variant=55792743285073</URL>
-          <PRICE_VAT>3995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_generic_product_placeholder_opt.jpg?v=1760357042</IMGURL>
+          <PRODUCTNAME>Sika® Igolflex® N · jednosložkový pružný asfaltový hydroizolační nátěr · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Silnovrstvý pružný hydroizolační nátěr na bázi bitumenu.
+1komponentní, vlákny vyztužený, flexibilní ochranný nátěr na bázi bitumenové emulze, bez rozpouštědel.
+✅ Snadná aplikace✅ Vhodný i na svislé plochy✅ Kryje trhliny a kapiláry
+Barva: černá pastovitá tekutina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-igolflex-n</URL>
+          <PRICE_VAT>4530.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Igolflex-N_stavbox.webp?v=1794577523</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
             <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
@@ -83497,16 +83499,16 @@ Barva:komp. A: černákomp. B: šedá</DESCRIPTION>
             <DELIVERY_PRICE>0</DELIVERY_PRICE>
             <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
           </DELIVERY>
-          <ITEM_ID>gid://shopify/Product/11356792389969</ITEM_ID>
+          <ITEM_ID>65900</ITEM_ID>
 
           <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
 
-          
+          <EAN>7612894213072</EAN>
           <CONDITION>new</CONDITION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
-          <CUSTOM_LABEL_0>KAEUCTK-OUENCKN</CUSTOM_LABEL_0>
+          <CUSTOM_LABEL_0>KLNACYH-OAOLCTY</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
