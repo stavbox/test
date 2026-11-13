@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2296 -->
-<!-- Total individual products: 663 -->
-<!-- Created: 2026-11-13 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2297 -->
+<!-- Total individual products: 664 -->
+<!-- Created: 2026-11-13 10:19:18 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -56116,7 +56116,7 @@ Vosková lazura na vodní bázi z lněného oleje pro dřevo v interiéru. Náby
   </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-voskova-lazura?variant=54066355241297</URL>
           <PRICE_VAT>1116.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Voskova-lazura_dl_stavbox.jpg?v=1781456101</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -83139,6 +83139,45 @@ Barva:komp. A: šedý/bílý prášekkomp. B: bílá kapalinasměs A+B: světle 
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>ELKLCAL-HTUACKH</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika MonoTop®-412 N · Hrubá reprofilační malta R4 s vlákny · 25kg</PRODUCTNAME>
+          <DESCRIPTION>Modifikovaná tenkovrstvá malta pro ochranu a opravy betonu podle ZTV-ING, díl 3, část 4.
+Sika® Icoment®-520 je 2-komponentní hydraulicky tuhnoucí PCC malta.Tekutý komponent A je speciálně vyvinutá disperze a práškový komponent B obsahuje hydraulická pojiva a minerální plniva. Přidáním vody lze dosáhnout požadované zpracovatelnosti.Sika® Icoment®-520, Komponent B, neobsahuje chromáty dle TRGS 613.
+✅ Vysoká přilnavost k podkladu i v tenké vrstvě✅ Ideální podklad pro další povrstvení✅ Vysoce kvalitní jemná malta podle OS systému
+Barva: cementová šedá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika®-icoment®-520</URL>
+          <PRICE_VAT>2870.0</PRICE_VAT>
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Icoment-520-Moertel_stavbox.webp?v=1794561495</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>250</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>299</DELIVERY_PRICE_COD>
+            
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>11492</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Beton</CATEGORYTEXT>
+            
+
+          <EAN>4003923008043</EAN>
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EYATCLO-HOYTCAO</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
