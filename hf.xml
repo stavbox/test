@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2306 -->
 <!-- Total individual products: 668 -->
-<!-- Created: 2026-11-16 00:00:25 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-11-16 16:55:02 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -16,7 +16,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012827985</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>1590.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707210102</EAN>
@@ -536,7 +536,7 @@ Kremičitý koncentrát penetrace pro savé minerální podklady pod MB 2K. Zpev
           <URL>https://www.stavbox.cz/products/remmers-kiesol-mb?variant=52665796985169</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Kiesol-MB-5l-penetrace.jpg?v=1755760395</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 4 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707215916</EAN>
@@ -2500,9 +2500,8 @@ Rychleschnoucí malta pro opravy fasád. Vysoká přilnavost, odolná povětrnos
           <SHOPITEM>
           <ITEM_ID>60805</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SL · Hydrofobní impregnace pro vápenaté přírodní kameny · 5l</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SL • !DOPRODEJ! · 5l - Hydrofobní impregnace pro vápenec</PRODUCT>
+          <PRODUCT>Remmers Funcosil SL · 5l - Hydrofobní impregnace pro vápenec</PRODUCT>
           <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil SL Alc
-DOPRODEJ: POSLEDNÍCH PÁR KUSŮ 30l BALENÍ K DISPOZICI
  
 Hydrofobní impregnace pro vápenaté přírodní kameny.
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
@@ -2518,16 +2517,15 @@ Silikonová impregnace pro minerální stavební materiály, zejména vápenaté
           <SHOPITEM>
           <ITEM_ID>60830</ITEM_ID>
           <PRODUCTNAME>Remmers Funcosil SL · Hydrofobní impregnace pro vápenaté přírodní kameny · 30l</PRODUCTNAME>
-          <PRODUCT>Remmers Funcosil SL • !DOPRODEJ! · 30l - Hydrofobní impregnace pro vápenec</PRODUCT>
+          <PRODUCT>Remmers Funcosil SL · 30l - Hydrofobní impregnace pro vápenec</PRODUCT>
           <DESCRIPTION>VÝROBA UKONČENA - produkt byl nahrazen:Remmers Funcosil SL Alc
-DOPRODEJ: POSLEDNÍCH PÁR KUSŮ 30l BALENÍ K DISPOZICI
  
 Hydrofobní impregnace pro vápenaté přírodní kameny.
 Silikonová impregnace pro minerální stavební materiály, zejména vápenaté kameny. Vysoká odolnost vodě, paropropustná, pro památkové fasády.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl?variant=52653031620945</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Funcosil-SL-5l-hydrofobni-impregnace-pro-vapenec.png?v=1755860822</IMGURL>
           <PRICE_VAT>10240.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
+          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707010887</EAN>
@@ -4084,7 +4082,7 @@ Barva: betonově šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-betofix-fill-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-Fill-25kg-PCC-jemna-sterka.jpg?v=1755877725</IMGURL>
           <PRICE_VAT>2050.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -15, VI: 5 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707169264</EAN>
@@ -12890,7 +12888,7 @@ Sikafloor®-2 SynTop je 1komponentní předmíchaná prášková směs obsahují
           <URL>https://www.stavbox.cz/products/sika-sikafloor-2-syntop-25kg?variant=52868119396689</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-2-SynTop_opt.jpg?v=1769022451</IMGURL>
           <PRICE_VAT>475.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -10, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -7, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894793475</EAN>
@@ -13817,7 +13815,7 @@ Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rd2-the-green-1?variant=53220500799825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament-RD2-Green_opt_sbx.webp?v=1772804696</IMGURL>
           <PRICE_VAT>1595.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905050851</EAN>
@@ -13874,7 +13872,7 @@ Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rd-2morrow?variant=53222805438801</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RD2morrow_stavbox.webp?v=1790912947</IMGURL>
           <PRICE_VAT>3965.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905052411</EAN>
@@ -15342,7 +15340,7 @@ Barva:  růžová</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799886161</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
           <PRICE_VAT>210.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905070033</EAN>
@@ -15360,7 +15358,7 @@ Barva:  růžová</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-d11?variant=53375799918929</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_D11_stavbox.webp?v=1774369923</IMGURL>
           <PRICE_VAT>715.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905070040</EAN>
@@ -15523,7 +15521,7 @@ Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multiprimer-grundierung?variant=53388638814545</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MultiPrimer_stavbox.webp?v=1790910052</IMGURL>
           <PRICE_VAT>340.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905070385</EAN>
@@ -15541,7 +15539,7 @@ Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multiprimer-grundierung?variant=53388638847313</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MultiPrimer_stavbox.webp?v=1790910052</IMGURL>
           <PRICE_VAT>1335.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905070378</EAN>
@@ -16534,7 +16532,7 @@ M300 Speed je jednosložková, extrémně rychle vytvrzující hmota pro vysprav
           <URL>https://www.stavbox.cz/products/botament-m300-speed</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M300_Speed_stavbox.webp?v=1775476996</IMGURL>
           <PRICE_VAT>825.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 5, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905060485</EAN>
@@ -16643,7 +16641,7 @@ M34 je minerální izolační hmota vhodná k izolování masivních stavebních
           <URL>https://www.stavbox.cz/products/botament-m34</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_M34_stavbox.webp?v=1775488243</IMGURL>
           <PRICE_VAT>930.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905050059</EAN>
@@ -17132,7 +17130,7 @@ Barva: světle modrá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-fb-fugendichtband</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_FB-Fugendichtband_stavbox.webp?v=1775549777</IMGURL>
           <PRICE_VAT>3710.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905020229</EAN>
@@ -17878,7 +17876,7 @@ Barva: šedá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-ms30</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MS30_stavbox.webp?v=1775646644</IMGURL>
           <PRICE_VAT>1525.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905050257</EAN>
@@ -21098,7 +21096,7 @@ Balení: 25kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-l?variant=53562678477137</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-RockMortar_L_stavbox.webp?v=1776492154</IMGURL>
           <PRICE_VAT>545.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -12, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
@@ -24345,7 +24343,7 @@ HORIZONT-IN SMEK je bezrozpouštědlový silikonový mikroemulzní koncentrát. 
           <URL>https://www.stavbox.cz/products/bauprotect-horizont-in-smek?variant=55363773759825</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Bauprotect_HORIZONT-IN_stavbox.webp?v=1779870093</IMGURL>
           <PRICE_VAT>1936.0</PRICE_VAT>
-          <DELIVERY_DATE></DELIVERY_DATE><!-- LI: 0, VI:  -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -2, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Bauprotect</MANUFACTURER>
           
@@ -24907,7 +24905,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450011473</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 547 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 547 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018333</EAN>
@@ -25051,7 +25049,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064450371921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1100.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 776 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 776 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018500</EAN>
@@ -26319,7 +26317,7 @@ Vosková lazura na vodní bázi z lněného oleje pro dřevo v interiéru. Náby
           <URL>https://www.stavbox.cz/products/remmers-voskova-lazura?variant=54066355110225</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Voskova-lazura_dl_stavbox.jpg?v=1781456101</IMGURL>
           <PRICE_VAT>1116.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 128 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 128 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707019873</EAN>
@@ -27605,7 +27603,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069743485265</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <PRICE_VAT>950.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 575 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 575 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707078481</EAN>
@@ -29115,7 +29113,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073661030737</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <PRICE_VAT>1030.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 9 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 9 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Barvy na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707032049</EAN>
@@ -29307,7 +29305,7 @@ Vysoce krycí barva na vodní bázi pro dřevo v exteriéru i interiéru. Elasti
           <URL>https://www.stavbox.cz/products/remmers-df-kryci-barva?variant=54073661423953</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_DF-Kryci-barva_dl_stavbox.jpg?v=1781548802</IMGURL>
           <PRICE_VAT>1995.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 56 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 56 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Barvy na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707155823</EAN>
@@ -37639,7 +37637,7 @@ Balení: 25kg</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-rockmortar-h?variant=54753448362321</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-RockMortar-H_stavbox.webp?v=1788185611</IMGURL>
           <PRICE_VAT>205.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -5, VI: 0 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
@@ -38365,7 +38363,7 @@ Bezbarvá hydrofobní impregnace na bázi silanu a siloxanu pro vápenec, památ
           <URL>https://www.stavbox.cz/products/remmers-funcosil-sl-alc</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Funcosil-SL-Alc_stavbox.webp?v=1792076730</IMGURL>
           <PRICE_VAT>10650.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -1, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           
