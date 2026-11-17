@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2306 -->
-<!-- Total individual products: 668 -->
-<!-- Created: 2026-11-16 16:55:02 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Total products+variants: 2311 -->
+<!-- Total individual products: 671 -->
+<!-- Created: 2026-11-17 00:00:30 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -37960,7 +37960,7 @@ HADALAN® EG145 13E je epoxidová penetrace, která slouží na ochranu a uzav�
           <PRODUCTNAME>Sika® Waterproofer · přísada do betonu pro vodotěsnost a mraz · 1 l</PRODUCTNAME>
           <PRODUCT>Sika® Waterproofer · 1 l - Přísada do betonu</PRODUCT>
           <DESCRIPTION>Vodotěsnicí přísada do betonů a cementových malt.
-řísada do betonu a cementových malt zvyšující vodotěsnost betonu, odolnost proti mrazu a posypovým solím. Snižuje nasákavost a propustnost výsledného betonu nebo maltové směsi. Přísada zlepšuje také zpracovatelnost a soudržnost směsi. Omezuje tvorbu výkvětů a tvorbu smršťovacích trhlin.
+Přísada do betonu a cementových malt zvyšující vodotěsnost betonu, odolnost proti mrazu a posypovým solím. Snižuje nasákavost a propustnost výsledného betonu nebo maltové směsi. Přísada zlepšuje také zpracovatelnost a soudržnost směsi. Omezuje tvorbu výkvětů a tvorbu smršťovacích trhlin.
 ✅ Zvyšuje vodotěsnost✅ Zvyšuje mrazuvzdornost✅ Omezuje tvorbu výkvětů a plísní
 Dávkování:200 ml přísady na 25 kg cementu.
 Balení:1 l lahev s dávkovačem</DESCRIPTION>
@@ -38849,6 +38849,97 @@ Barva: černá pastovitá tekutina</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894213072</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>434462</ITEM_ID>
+          <PRODUCTNAME>Sika® Igasol®-101 · ochranný asfaltový nátěr bez rozpouštědel (1K) · 5l</PRODUCTNAME>
+          <PRODUCT>Sika® Igasol®-101 · 5l - Asfaltová hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Ochranný nátěr na bázi polymerem modifikované bitumenové emulze.
+Sika® Igasol®-101 je 1-komponentní, je polymerem modifikované bitumenové emulze, bez rozpouštědel.
+✅ Ihned připraven k použití✅ Aplikace štětcem, válečkem nebo stříkáním Airless✅ Nestéká na vertikálních plochách
+Barva: pastovitá černohnědá tekutina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-igasol-101?variant=55835283390801</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Igasol-101_stavbox.webp?v=1794856775</IMGURL>
+          <PRICE_VAT>750.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894937923</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>127248</ITEM_ID>
+          <PRODUCTNAME>Sika® Igasol®-101 · ochranný asfaltový nátěr bez rozpouštědel (1K) · 12l</PRODUCTNAME>
+          <PRODUCT>Sika® Igasol®-101 · 12l - Asfaltová hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Ochranný nátěr na bázi polymerem modifikované bitumenové emulze.
+Sika® Igasol®-101 je 1-komponentní, je polymerem modifikované bitumenové emulze, bez rozpouštědel.
+✅ Ihned připraven k použití✅ Aplikace štětcem, válečkem nebo stříkáním Airless✅ Nestéká na vertikálních plochách
+Barva: pastovitá černohnědá tekutina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-igasol-101?variant=55835313242449</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Igasol-101_stavbox.webp?v=1794856775</IMGURL>
+          <PRICE_VAT>1570.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894577280</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>127282</ITEM_ID>
+          <PRODUCTNAME>Sika BlackSeal®-301 · asfaltová stěrka pro opravy hydroizolací · 5kg</PRODUCTNAME>
+          <PRODUCT>Sika BlackSeal®-301 · 5kg - Asfaltová opravná stěrka</PRODUCT>
+          <DESCRIPTION>Vláknem zesílená, bitumenová stěrka určená pro opravy hydroizolací.
+Stěrková těsnicí a lepicí hmota na bázi modifikovaných bitumenů, obsahující rozpouštědla a výztužná vlákna. Je vhodný pro opravy a vyrovnání bitumenových hydroizolací. Odolný povětrnostním vlivům a UV záření. Nestéká, překlenuje trhliny a zůstavá elastický při nízkých teplotách. Neobsahuje azbest.
+✅ Velmi pružný✅ Překlenuje trhliny✅ Odolává dešti: jakmile se vytvoří povrchová kůže
+Barva: černá</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-blackseal-301</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_BlackSeal-301_stavbox.webp?v=1794858120</IMGURL>
+          <PRICE_VAT>1540.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894577327</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>166992</ITEM_ID>
+          <PRODUCTNAME>Sika® Stabilizer-4R ·  · 25kg</PRODUCTNAME>
+          <PRODUCT>Sika® Stabilizer-4R · 25kg - Přísada do betonu</PRODUCT>
+          <DESCRIPTION>Stabilizující přísada do betonů a malt.
+Sika® Stabilizer-4R je stabilizující přísada speciálně určena pro samozhutnitelné betony (SCC) a pro zlepšení stability směsi během přepravy a ukládání.
+Dávkování:0,1 – 1,0 % na hmotnost cementu
+Balení:Světle modrá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-stabilizer-4r?variant=55835623194961</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Stabilizer-4-R_stavbox.webp?v=1794859549</IMGURL>
+          <PRICE_VAT>4990.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894678987</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>127357</ITEM_ID>
+          <PRODUCTNAME>Sika® Stabilizer-4R ·  · 220kg</PRODUCTNAME>
+          <PRODUCT>Sika® Stabilizer-4R · 220kg - Přísada do betonu</PRODUCT>
+          <DESCRIPTION>Stabilizující přísada do betonů a malt.
+Sika® Stabilizer-4R je stabilizující přísada speciálně určena pro samozhutnitelné betony (SCC) a pro zlepšení stability směsi během přepravy a ukládání.
+Dávkování:0,1 – 1,0 % na hmotnost cementu
+Balení:Světle modrá kapalina</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-stabilizer-4r?variant=55835677688145</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Stabilizer-4-R_stavbox.webp?v=1794859549</IMGURL>
+          <PRICE_VAT>28390.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <EAN>7612894577860</EAN>
         </SHOPITEM>
       
     
