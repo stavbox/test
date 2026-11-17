@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2311 -->
-<!-- Total individual products: 671 -->
-<!-- Created: 2026-11-17 00:00:30 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2312 -->
+<!-- Total individual products: 672 -->
+<!-- Created: 2026-11-17 16:15:14 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -2233,7 +2233,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991680337</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <PRICE_VAT>3175.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 6 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707228794</EAN>
@@ -14102,7 +14102,7 @@ Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rd1-universal?variant=53225847095633</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RD-1-Universal_stavbox.webp?v=1772831310</IMGURL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905051148</EAN>
@@ -23466,7 +23466,7 @@ Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zp
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBonding-Primer_stavbox.webp?v=1778066672</IMGURL>
           <PRICE_VAT>4995.0</PRICE_VAT>
           <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894735444</EAN>
         </SHOPITEM>
@@ -23482,7 +23482,7 @@ Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zp
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaBonding-Primer_stavbox.webp?v=1778066672</IMGURL>
           <PRICE_VAT>14140.0</PRICE_VAT>
           <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894839203</EAN>
         </SHOPITEM>
@@ -24336,7 +24336,7 @@ Barva:komponent A: bílákomponent B: černásměs A+B: světle šedá</DESCRIPT
           <SHOPITEM>
           <ITEM_ID>BPHIS0001</ITEM_ID>
           <PRODUCTNAME>Bauprotect HORIZONT-IN SMEK · Injektážní emulze, bariéra proti vlhkosti · 1l</PRODUCTNAME>
-          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 20 l · 1l - Koncentrát pro injektážní bariéry</PRODUCT>
+          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 1l - Koncentrát pro injektážní bariéry</PRODUCT>
           <DESCRIPTION>Bezrozpouštědlový silikonový mikroemulzní koncentrát sloužící pro utvoření horizontální nebo plošné bariéry proti vlínající vlhkosti ve zdivu.S oficiální certifikací WTA.
 Vyroben v Německu 🇩🇪
 HORIZONT-IN SMEK je bezrozpouštědlový silikonový mikroemulzní koncentrát. Účinnou složkou jsou silany a siloxany, které po příslušném naředění vodou utvoří injektážní mikroemulzi. Naředěná směs HORIZONT-IN SMEK je hydrofobizující horizontální izolace, která zabraňuje kapilárnímu vzlínání v minerálních, a dokonce i alkalických podkladech.</DESCRIPTION>
@@ -24352,7 +24352,7 @@ HORIZONT-IN SMEK je bezrozpouštědlový silikonový mikroemulzní koncentrát. 
           <SHOPITEM>
           <ITEM_ID>BPHIS0020</ITEM_ID>
           <PRODUCTNAME>Bauprotect HORIZONT-IN SMEK · Injektážní emulze, bariéra proti vlhkosti · 20l</PRODUCTNAME>
-          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 20 l · 20l - Koncentrát pro injektážní bariéry</PRODUCT>
+          <PRODUCT>Bauprotect HORIZONT-IN SMEK · 20l - Koncentrát pro injektážní bariéry</PRODUCT>
           <DESCRIPTION>Bezrozpouštědlový silikonový mikroemulzní koncentrát sloužící pro utvoření horizontální nebo plošné bariéry proti vlínající vlhkosti ve zdivu.S oficiální certifikací WTA.
 Vyroben v Německu 🇩🇪
 HORIZONT-IN SMEK je bezrozpouštědlový silikonový mikroemulzní koncentrát. Účinnou složkou jsou silany a siloxany, které po příslušném naředění vodou utvoří injektážní mikroemulzi. Naředěná směs HORIZONT-IN SMEK je hydrofobizující horizontální izolace, která zabraňuje kapilárnímu vzlínání v minerálních, a dokonce i alkalických podkladech.</DESCRIPTION>
@@ -27619,7 +27619,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069743518033</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 372 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 372 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Oleje na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707078498</EAN>
@@ -32346,7 +32346,7 @@ Set obsahuje:250 ml čisticí prostředek, 250 ml balzám a 2 speciální utěrk
           <URL>https://www.stavbox.cz/products/remmers-udrzovaci-set-na-okna</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Udrzovaci-set-na-okna_dl_stavbox.jpg?v=1781700901</IMGURL>
           <PRICE_VAT>745.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 560 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 560 -->
           <CATEGORYTEXT>Heureka.cz | Drogerie | Čisticí prostředky | Speciální čisticí prostředky</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707045735</EAN>
@@ -38910,7 +38910,7 @@ Barva: černá</DESCRIPTION>
   
           <SHOPITEM>
           <ITEM_ID>166992</ITEM_ID>
-          <PRODUCTNAME>Sika® Stabilizer-4R ·  · 25kg</PRODUCTNAME>
+          <PRODUCTNAME>Sika® Stabilizer-4R · stabilizující přísada do betonů a malt · 25kg</PRODUCTNAME>
           <PRODUCT>Sika® Stabilizer-4R · 25kg - Přísada do betonu</PRODUCT>
           <DESCRIPTION>Stabilizující přísada do betonů a malt.
 Sika® Stabilizer-4R je stabilizující přísada speciálně určena pro samozhutnitelné betony (SCC) a pro zlepšení stability směsi během přepravy a ukládání.
@@ -38927,7 +38927,7 @@ Balení:Světle modrá kapalina</DESCRIPTION>
       
           <SHOPITEM>
           <ITEM_ID>127357</ITEM_ID>
-          <PRODUCTNAME>Sika® Stabilizer-4R ·  · 220kg</PRODUCTNAME>
+          <PRODUCTNAME>Sika® Stabilizer-4R · stabilizující přísada do betonů a malt · 220kg</PRODUCTNAME>
           <PRODUCT>Sika® Stabilizer-4R · 220kg - Přísada do betonu</PRODUCT>
           <DESCRIPTION>Stabilizující přísada do betonů a malt.
 Sika® Stabilizer-4R je stabilizující přísada speciálně určena pro samozhutnitelné betony (SCC) a pro zlepšení stability směsi během přepravy a ukládání.
@@ -38940,6 +38940,25 @@ Balení:Světle modrá kapalina</DESCRIPTION>
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612894577860</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>421858</ITEM_ID>
+          <PRODUCTNAME>Sika Sikadur®-188 Rapid · rychle vytvrzující epoxidová penetrace · AB · 30kg</PRODUCTNAME>
+          <PRODUCT>Sika Sikadur®-188 Rapid · AB · 30kg - Epoxidová penetrace</PRODUCT>
+          <DESCRIPTION>2komponentní epoxidový penetrační nátěr, bez rozpouštědel, rychle vytvrzující.
+Sikadur®-188 Rapid je rychle vytvrzující, 2komponentní, transparentní a bezrozpouštědlový epoxidový penetrační nátěr, s vynikajícími povrch penetrujícími schopnostmi.
+✅ Rychle vytvrzuje✅ Vynikající povrchová penetrace✅ Vynikající přídržnost na beton
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadur-188-rapid</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikadur-188-Rapid_stavbox.webp?v=1794903244</IMGURL>
+          <PRICE_VAT>19990.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          
         </SHOPITEM>
       
     

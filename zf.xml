@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2311 -->
-<!-- Total individual products: 671 -->
-<!-- Created: 2026-11-17 00:00:31 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2312 -->
+<!-- Total individual products: 672 -->
+<!-- Created: 2026-11-17 16:15:16 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -4751,7 +4751,7 @@ Vysoce paropropustná barva pro zdivo. Odolná vodě a plísním, UV záření, 
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-color-sl?variant=52657991680337</URL>
           <PRICE_VAT>3175.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 6 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: 6 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Color-SL-12-5l-barva-na-vnitrni-steny.jpg?v=1755783856</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -12124,7 +12124,7 @@ Univerzálně použitelný, pigmentovaný, difúzi par otevřený, ekologický, 
           </DELIVERY>
           <ITEM_ID>CT227010</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Barvy a laky | Barvy na beton</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
 
@@ -29924,7 +29924,7 @@ RD1 Universal je rychleschnoucí, reaktivní jednosložková hydroizolační st�
 Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-rd1-universal?variant=53225847095633</URL>
           <PRICE_VAT>555.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_RD-1-Universal_stavbox.webp?v=1772831310</IMGURL>
           <MANUFACTURER>Botament</MANUFACTURER>
           <DELIVERY>
@@ -49931,8 +49931,7 @@ Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zp
           </DELIVERY>
           <ITEM_ID>174274</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
 
           <EAN>7612894735444</EAN>
@@ -49966,8 +49965,7 @@ Sika® Bonding Primer je 2komponentní, epoxidový primer na vodní bázi pro zp
           </DELIVERY>
           <ITEM_ID>405541</ITEM_ID>
 
-          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební chemie | Průmyslová lepidla</CATEGORYTEXT>
-            <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Stavební materiál | Stavební pojiva | Přísady a plastifikátory</CATEGORYTEXT>
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
             
 
           <EAN>7612894839203</EAN>
@@ -58958,7 +58956,7 @@ Prémiový voskový olej na přírodní bázi pro podlahy, schody a nábytek. Od
 </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-tvrdy-voskovy-olej-premium?variant=54069743518033</URL>
           <PRICE_VAT>1830.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 372 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 372 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Tvrdy-voskovy-olej-PREMIUM_dl_stavbox.jpg?v=1781519716</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -69250,7 +69248,7 @@ Set obsahuje:250 ml čisticí prostředek, 250 ml balzám a 2 speciální utěrk
 Set obsahuje:250 ml čisticí prostředek, 250 ml balzám a 2 speciální utěrky</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-udrzovaci-set-na-okna</URL>
           <PRICE_VAT>745.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 560 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 560 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Udrzovaci-set-na-okna_dl_stavbox.jpg?v=1781700901</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
@@ -83626,7 +83624,7 @@ Barva: černá</DESCRIPTION>
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika® Stabilizer-4R ·  · 25kg</PRODUCTNAME>
+          <PRODUCTNAME>Sika® Stabilizer-4R · stabilizující přísada do betonů a malt · 25kg</PRODUCTNAME>
           <DESCRIPTION>Stabilizující přísada do betonů a malt.
 Sika® Stabilizer-4R je stabilizující přísada speciálně určena pro samozhutnitelné betony (SCC) a pro zlepšení stability směsi během přepravy a ukládání.
 Dávkování:0,1 – 1,0 % na hmotnost cementu
@@ -83662,7 +83660,7 @@ Balení:Světle modrá kapalina</DESCRIPTION>
           
 
         <SHOPITEM>
-          <PRODUCTNAME>Sika® Stabilizer-4R ·  · 220kg</PRODUCTNAME>
+          <PRODUCTNAME>Sika® Stabilizer-4R · stabilizující přísada do betonů a malt · 220kg</PRODUCTNAME>
           <DESCRIPTION>Stabilizující přísada do betonů a malt.
 Sika® Stabilizer-4R je stabilizující přísada speciálně určena pro samozhutnitelné betony (SCC) a pro zlepšení stability směsi během přepravy a ukládání.
 Dávkování:0,1 – 1,0 % na hmotnost cementu
@@ -83692,6 +83690,43 @@ Balení:Světle modrá kapalina</DESCRIPTION>
           <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
 
           <CUSTOM_LABEL_0>EYNTOCHY-HONYNCNA</CUSTOM_LABEL_0>
+        </SHOPITEM>
+      
+    
+  
+          
+
+        <SHOPITEM>
+          <PRODUCTNAME>Sika Sikadur®-188 Rapid · rychle vytvrzující epoxidová penetrace · AB · 30kg</PRODUCTNAME>
+          <DESCRIPTION>2komponentní epoxidový penetrační nátěr, bez rozpouštědel, rychle vytvrzující.
+Sikadur®-188 Rapid je rychle vytvrzující, 2komponentní, transparentní a bezrozpouštědlový epoxidový penetrační nátěr, s vynikajícími povrch penetrujícími schopnostmi.
+✅ Rychle vytvrzuje✅ Vynikající povrchová penetrace✅ Vynikající přídržnost na beton
+Barva: transparentní</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/sika-sikadur-188-rapid</URL>
+          <PRICE_VAT>19990.0</PRICE_VAT>
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikadur-188-Rapid_stavbox.webp?v=1794903244</IMGURL>
+          <MANUFACTURER>Sika</MANUFACTURER>
+          <DELIVERY>
+            <DELIVERY_ID>TOPTRANS</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <DELIVERY>
+            <DELIVERY_ID>VLASTNI_VYDEJNI_MISTA</DELIVERY_ID>
+            <DELIVERY_PRICE>0</DELIVERY_PRICE>
+            <DELIVERY_PRICE_COD>0</DELIVERY_PRICE_COD>
+          </DELIVERY>
+          <ITEM_ID>421858</ITEM_ID>
+
+          <CATEGORYTEXT>Dům, byt a zahrada | Stavebniny | Zateplení a izolace | Hydroizolace | Tekuté izolace</CATEGORYTEXT>
+            
+
+          
+          <CONDITION>new</CONDITION>
+          <SHOP_DEPOTS>13867598</SHOP_DEPOTS>
+
+          <CUSTOM_LABEL_0>EHUKHCLL-KOUENCHH</CUSTOM_LABEL_0>
         </SHOPITEM>
       
     
