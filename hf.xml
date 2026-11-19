@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2335 -->
-<!-- Total individual products: 682 -->
-<!-- Created: 2026-11-19 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2341 -->
+<!-- Total individual products: 688 -->
+<!-- Created: 2026-11-19 14:42:22 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -3285,7 +3285,7 @@ Minerální penetrace pro fasády starých budov. Zpevňuje podklad, hydrofobní
           <URL>https://www.stavbox.cz/products/remmers-hydro-s-f?variant=52662884761937</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Primer-Hydro-S-F-5kg-mineralni-zpevnujici-penetrace.jpg?v=1755864976</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 4 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 4 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707093279</EAN>
@@ -4083,7 +4083,7 @@ Barva: betonově šedá</DESCRIPTION>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-Betofix-Fill-25kg-PCC-jemna-sterka.jpg?v=1755877725</IMGURL>
           <PRICE_VAT>2050.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 5 -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707169264</EAN>
         </SHOPITEM>
@@ -14301,7 +14301,7 @@ Barva:komponent A (pryskyřice): transparentní kapalinakomponent B (prášek / 
           <URL>https://www.stavbox.cz/products/sika-sikadur-12-pronto-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikadur-12-Pronto_stavbox.webp?v=1772955926</IMGURL>
           <PRICE_VAT>5840.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
@@ -19743,7 +19743,7 @@ Barva: béžová/hnědá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-te-plus</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_TE-Plus_stavbox.webp?v=1775745643</IMGURL>
           <PRICE_VAT>4380.0</PRICE_VAT>
-          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: 0, VI: O -->
+          <DELIVERY_DATE>7</DELIVERY_DATE><!-- LI: -1, VI: O -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Tepelné izolace | Izolační materiály | Mirelony a izolace podlah</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905133240</EAN>
@@ -23693,14 +23693,14 @@ Barva: šedý prášek</DESCRIPTION>
           <SHOPITEM>
           <ITEM_ID>44170000370101</ITEM_ID>
           <PRODUCTNAME>MC-Bauchemie Nafufill KM 250 · Vlákny vyztužená náhrada betonu · 25kg</PRODUCTNAME>
-          <PRODUCT>MC-Bauchemie Nafufill KM 250 · 25kg - </PRODUCT>
+          <PRODUCT>MC-Bauchemie Nafufill KM 250 · 25kg - Vlákny vyztužená opravná malta</PRODUCT>
           <DESCRIPTION>Systém SPCC/PCC-náhrady betonu, odolný požáru, zesílený vlákny pro opravy betonových konstrukcí v staticky i nestaticky relevantních oblastech.
-Vlákny vyztužený PCC systém náhrady betonu pro statické i nestatické opravy. Odolný požáru, tixotropní, rychlý nárůst pevnosti. Pro mosty, tunely.</DESCRIPTION>
+Vlákny vyztužená tixotropní náhrada betonu pro statické i nestatické opravy mostů a tunelů. Odolává požáru a vyznačuje se rychlým nárůstem pevnosti po aplikaci.</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-km-250</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_Nafufill-KM-250_stavbox.webp?v=1778671555</IMGURL>
           <PRICE_VAT>1390.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
         </SHOPITEM>
@@ -39323,6 +39323,108 @@ Minerální protikorozní ochrana výztuže a adhezní můstek pro opravy betonu
           <PRICE_VAT>1140.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>18902500371001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafufill RM 10 Rapid · rychlá opravná malta · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafufill RM 10 Rapid · 25kg - Rychleschnoucí malta</PRODUCT>
+          <DESCRIPTION>Jednosložková, extrémně rychle tuhnoucí malta pro opravy a renovace v interiéru i exteriéru.
+Jednosložková, extrémně rychle tuhnoucí malta pro opravy a renovace v interiéru i exteriéru. Pro opravné a renovační práce uvnitř budov i ve venkovním prostoru.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-rm-10-rapid</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC_Nafufill-RM-10-rapid_stavbox.webp?v=1795075945</IMGURL>
+          <PRICE_VAT>1090.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>34120000391001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Proof one · 1K rychletuhnoucí flexibilní hydroizolace · 30kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Proof one · 30kg - Hydroizolační stěrka (1K)</PRODUCT>
+          <DESCRIPTION>Rychletuhnoucí, vysoce flexibilní, jednosložková hydroizolace bez obsahu bitumenů.
+Rychletuhnoucí jednosložková (1K) hydroizolace bez bitumenů. Spojuje vysokou flexibilitu s rychlým tuhnutím a jednosložkovým provedením pro hydroizolační práce.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-proof-one</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Proof-one_stavbox.webp?v=1795076996</IMGURL>
+          <PRICE_VAT>7805.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>34110600351001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-Proof eco · rychletuhnoucí 2K hydroizolace · 20kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-Proof eco · 20kg - 2K hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Rychletuhnoucí, flexibilní, vysoce produktivní dvousložková hydroizolace bez obsahu bitumenů.
+Rychletuhnoucí flexibilní dvousložková hydroizolace bez bitumenů. Vysoce produktivní řešení pro hydroizolační práce spojuje pružnost hmoty s rychlým tuhnutím.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-proof-eco</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC_Proof-eco_stavbox.webp?v=1795078558</IMGURL>
+          <PRICE_VAT>4865.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>33130910381001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafuflex Basic 2 · dvousložková asfaltová hydroizolace · 28kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafuflex Basic 2 · 28kg - 2K hydroizolační stěrka</PRODUCT>
+          <DESCRIPTION>Rychletuhnoucí, dvousložková, silnovrstvá hydroizolační stěrka na bázi bitumenů modifikovaných polymery (PMBC).
+Rychletuhnoucí dvousložková silnovrstvá hydroizolační stěrka na bázi polymerem modifikovaných bitumenů (PMBC). Pro hydroizolační práce s asfaltovou stěrkou..</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafuflex-basic-2</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie-logo.webp?v=1793821467</IMGURL>
+          <PRICE_VAT>3250.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>55810002050001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie MC-AnchorSolid GP816 · kotevní malta do betonu a zdiva · 300ml</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie MC-AnchorSolid GP816 · 300ml - Kotevní malta</PRODUCT>
+          <DESCRIPTION>Spolehlivá, víceúčelová kotevní malta pro nákladově efektivní kotvení do betonu a zdiva.
+Víceúčelová kotevní malta bez styrenu pro beton bez trhlin a zdivo. Do suchých, vlhkých i vodou naplněných vývrtů. Nestéká, vhodná na svislé i stropní plochy.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-mc-anchorsolid-gp816</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC-AnchorSolid-GP816_stavbox.webp?v=1795081723</IMGURL>
+          <PRICE_VAT>328.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
+          <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
+          
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>44170700371001</ITEM_ID>
+          <PRODUCTNAME>MC-Bauchemie Nafufill KM 250 HS · náhrada betonu odolná síranům · 25kg</PRODUCTNAME>
+          <PRODUCT>MC-Bauchemie Nafufill KM 250 HS · 25kg - Vlákny vyztužená opravná malta</PRODUCT>
+          <DESCRIPTION>Systém PCC-náhrady betonu zesílený vlákny s vysokou odolností vůči sulfátům.
+Vlákny vyztužená PCC náhrada betonu s vysokou odolností vůči síranům. Pro opravy betonových konstrukcí, kde je požadována vyšší odolnost proti působení síranů.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/mc-bauchemie-nafufill-km-250-hs</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/MC-Bauchemie_MC_Nafufill-KM-250-HS_stavbox.webp?v=1795086863</IMGURL>
+          <PRICE_VAT>1270.0</PRICE_VAT>
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>MC-Bauchemie</MANUFACTURER>
           
         </SHOPITEM>
