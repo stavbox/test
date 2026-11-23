@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2341 -->
 <!-- Total individual products: 688 -->
-<!-- Created: 2026-11-23 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-11-23 10:29:40 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -59972,7 +59972,7 @@ Ekologický terasový olej na vodní bázi pro dřevěné terasy a zahradní ná
       </DESCRIPTION>
           <URL>https://www.stavbox.cz/products/remmers-terasovy-olej-eco?variant=54071567581521</URL>
           <PRICE_VAT>2218.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: 34 -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -3, VI: 34 -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_Terasovy-olej-_eco__dl_stavbox.jpg?v=1781533599</IMGURL>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <DELIVERY>
