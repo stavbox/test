@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Total products+variants: 2346 -->
-<!-- Total individual products: 691 -->
-<!-- Created: 2026-11-25 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Total products+variants: 2353 -->
+<!-- Total individual products: 696 -->
+<!-- Created: 2026-11-25 16:46:20 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -32,7 +32,7 @@ Remmers MB 2K (dříve známý jako Multi-Baudicht) je nejprodávanější hydro
           <URL>https://www.stavbox.cz/products/remmers-mb-2k?variant=52666012860753</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-MB-2K-25kg-3plus3-multifunkcni-hydroizolacni-sterka.jpg?v=1755775945</IMGURL>
           <PRICE_VAT>3990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 26, VI: 360 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 20, VI: 360 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707131148</EAN>
@@ -9362,7 +9362,7 @@ Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, kt
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645432099153</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
           <PRICE_VAT>5110.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -1, VI: T -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612655102508</EAN>
@@ -9445,7 +9445,7 @@ Sikafloor®-264 Plus je dvousložkový epoxidový barevný nátěr a stěrka, kt
 ✅ Dobrá mechanická odolnost✅ Dobrá odolnost proti nárazu✅ Nenáročná údržba</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikafloor-264-plus?variant=52645432131921</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikafloor-264-Plus_opt.jpg?v=1766133928</IMGURL>
-          <PRICE_VAT>4685.0</PRICE_VAT>
+          <PRICE_VAT>5110.0</PRICE_VAT>
           <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -16897,7 +16897,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>2435.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905135930</EAN>
         </SHOPITEM>
@@ -16915,7 +16915,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905135992</EAN>
         </SHOPITEM>
@@ -16933,7 +16933,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>135.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905135985</EAN>
         </SHOPITEM>
@@ -16951,7 +16951,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>115.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905136005</EAN>
         </SHOPITEM>
@@ -16969,7 +16969,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>445.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905136012</EAN>
         </SHOPITEM>
@@ -16987,7 +16987,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>230.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905136043</EAN>
         </SHOPITEM>
@@ -17005,7 +17005,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>230.0</PRICE_VAT>
           <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905136050</EAN>
         </SHOPITEM>
@@ -17023,7 +17023,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>170.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905052343</EAN>
         </SHOPITEM>
@@ -17041,7 +17041,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>180.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905052350</EAN>
         </SHOPITEM>
@@ -17059,7 +17059,7 @@ Botament SB120 Systemdichtband je příčně elastická izolační páska, obous
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_SB120_stavbox.webp?v=1790911603</IMGURL>
           <PRICE_VAT>265.0</PRICE_VAT>
           <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: S -->
-          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905052367</EAN>
         </SHOPITEM>
@@ -39442,7 +39442,7 @@ Balení: světle žlutá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-boom-583</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Boom-583_stavbox.webp?v=1795510494</IMGURL>
           <PRICE_VAT>185.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -72, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895816005</EAN>
@@ -39460,7 +39460,7 @@ Sikasil® C je 1komponentní, víceúčelový tmel pro aplikaci v interiéru i e
           <URL>https://www.stavbox.cz/products/sika-sikasil-c?variant=55940893344081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikasil-C_stavbox.webp?v=1795512430</IMGURL>
           <PRICE_VAT>240.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -48, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895442037</EAN>
@@ -39514,6 +39514,130 @@ Sikacryl®-112 Universal je jednosložkový akrylový spárový tmel na vodní b
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>525976</ITEM_ID>
+          <PRODUCTNAME>Schönox iFIX® · lepidlo na hydroizolační pásy do bazénů a koupelen · 7,8kg</PRODUCTNAME>
+          <PRODUCT>Schönox iFIX® · 7,8kg - Lepidlo na hydroizolační pásy</PRODUCT>
+          <DESCRIPTION>Dvousložkové lepidlo aplikovatelné válečkem.
+Pro vodonepropustné lepení hydroizolačního pásu pro přemosťování trhlin SCHÖNOX AB v mokrých prostorech s normální a vysokou zátěží a v plaveckých bazénech. SCHÖNOX iFIX™ a SCHÖNOX AB jsou součástí systému SCHÖNOX BALTERRA®. SCHÖNOX iFIX™ je stěrka na bázi samovýztužné speciální akrylátové disperze. Má obecný certifikát německých stavebních dozorových orgánů pro hydroizolační zátěže třídy A, B a C.
+ </DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ifix</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_iFIX_stavbox.webp?v=1795604460</IMGURL>
+          <PRICE_VAT>2210.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895331423</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>580483</ITEM_ID>
+          <PRODUCTNAME>Schönox ST · těsnicí páska do rohů a dilatačních spár · ST 25 - 120mm x 25m</PRODUCTNAME>
+          <PRODUCT>Schönox ST · ST 25 - 120mm x 25m - Hydroizolační páska</PRODUCT>
+          <DESCRIPTION>Těsnicí páska.
+Příčně elastická, speciální těsnící páska, kašírovaná textilií. 120 mm široká, pro utěsnění rohů a dilatačních spár pod keramickými krytinami ve vlhkých a mokrých provozech. Certifikováno TZÚS. Produkt získal ekologickou licenci EC1 Plus.
+Certifikováno TZÚS.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-st?variant=55963798470993</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_ST-50_stavbox.webp?v=1795606369</IMGURL>
+          <PRICE_VAT>3110.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895501512</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>485888</ITEM_ID>
+          <PRODUCTNAME>Schönox ST · těsnicí páska do rohů a dilatačních spár · ST 50 - 120mm x 50m</PRODUCTNAME>
+          <PRODUCT>Schönox ST · ST 50 - 120mm x 50m - Hydroizolační páska</PRODUCT>
+          <DESCRIPTION>Těsnicí páska.
+Příčně elastická, speciální těsnící páska, kašírovaná textilií. 120 mm široká, pro utěsnění rohů a dilatačních spár pod keramickými krytinami ve vlhkých a mokrých provozech. Certifikováno TZÚS. Produkt získal ekologickou licenci EC1 Plus.
+Certifikováno TZÚS.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-st?variant=55963798503761</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_ST-50_stavbox.webp?v=1795606369</IMGURL>
+          <PRICE_VAT>4995.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>4016447019198</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>579852</ITEM_ID>
+          <PRODUCTNAME>Schönox AB · hydroizolační pás do mokrých prostor a bazénů · AB 10 - 1x10 m (10 m2)</PRODUCTNAME>
+          <PRODUCT>Schönox AB · AB 10 - 1x10 m (10 m2) - Hydroizolační páska</PRODUCT>
+          <DESCRIPTION>Hydroizolační pás.
+Hydroizolační pás pro přemostění trhlin, vyrobený z polyetylénové fólie s vysokou odolností proti roztržení, oboustranně kašírované tkaninou pro izolaci v normálních prostorech, prostorech s vysokou vlhkostní zátěží a plaveckých bazénech. SCHÖNOX AB zajišťuje velmi dobrou adhezi k výrobkům pro instalaci dlaždic. Součást systému SCHÖNOX BALTERRA®.
+Pro vnitřní i vnější použití.
+Oficiálně schválený zkušební certifikát pro třídy těsnění A, B a C. Splňuje požadavky ETAG 022.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ab?variant=55964396912977</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_AB_stavbox.webp?v=1795608752</IMGURL>
+          <PRICE_VAT>3590.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895499369</EAN>
+        </SHOPITEM>
+      
+          <SHOPITEM>
+          <ITEM_ID>579849</ITEM_ID>
+          <PRODUCTNAME>Schönox AB · hydroizolační pás do mokrých prostor a bazénů · AB 30 - 1x30 m (30 m2)</PRODUCTNAME>
+          <PRODUCT>Schönox AB · AB 30 - 1x30 m (30 m2) - Hydroizolační páska</PRODUCT>
+          <DESCRIPTION>Hydroizolační pás.
+Hydroizolační pás pro přemostění trhlin, vyrobený z polyetylénové fólie s vysokou odolností proti roztržení, oboustranně kašírované tkaninou pro izolaci v normálních prostorech, prostorech s vysokou vlhkostní zátěží a plaveckých bazénech. SCHÖNOX AB zajišťuje velmi dobrou adhezi k výrobkům pro instalaci dlaždic. Součást systému SCHÖNOX BALTERRA®.
+Pro vnitřní i vnější použití.
+Oficiálně schválený zkušební certifikát pro třídy těsnění A, B a C. Splňuje požadavky ETAG 022.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ab?variant=55964396945745</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_AB_stavbox.webp?v=1795608752</IMGURL>
+          <PRICE_VAT>10490.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895499352</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>579641</ITEM_ID>
+          <PRODUCTNAME>Schönox IC · vnitřní těsnicí kout k hydroizolační pásce ST · 50ks - 120x120 mm</PRODUCTNAME>
+          <PRODUCT>Schönox IC · 50ks - 120x120 mm - Hydroizolační páska</PRODUCT>
+          <DESCRIPTION>Vnitřní kout.
+Speciální tvarovka – doplněk izolační pásky SCHÖNOX ST.
+Certifikováno TZÚS.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ic</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_IC_stavbox.webp?v=1795612158</IMGURL>
+          <PRICE_VAT>10760.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895498683</EAN>
+        </SHOPITEM>
+      
+    
+  
+          <SHOPITEM>
+          <ITEM_ID>579668</ITEM_ID>
+          <PRODUCTNAME>Schönox EC · vnější těsnicí kout k hydroizolační pásce ST · 50ks - 105x105 mm</PRODUCTNAME>
+          <PRODUCT>Schönox EC · 50ks - 105x105 mm - Hydroizolační páska</PRODUCT>
+          <DESCRIPTION>Vnější roh.
+Speciální tvarovka – doplněk izolační pásky SCHÖNOX ST.
+Certifikováno TZÚS.</DESCRIPTION>
+          <URL>https://www.stavbox.cz/products/schonox-ec</URL>
+          <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Schonox_EC_stavbox.webp?v=1795613162</IMGURL>
+          <PRICE_VAT>12980.0</PRICE_VAT>
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
+          <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební pásky</CATEGORYTEXT>
+          <MANUFACTURER>Schönox</MANUFACTURER>
+          <EAN>7612895498775</EAN>
         </SHOPITEM>
       
     
