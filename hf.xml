@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2353 -->
 <!-- Total individual products: 696 -->
-<!-- Created: 2026-11-26 11:59:13 -->
+<!-- Created: 2026-11-26 16:01:40 -->
 <!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
@@ -252,7 +252,7 @@ KÖSTER NB 1 Grey se aplikuje jako uzavřená vrstva, která je absolutně vodot
           <URL>https://www.stavbox.cz/products/koster-nb-1-grey-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-NB-1-Grey-25kg-hydroizolace-proti-tlakove-vode.jpg?v=1755852099</IMGURL>
           <PRICE_VAT>1650.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 94 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 94 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Hydroizolace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906032118</EAN>
@@ -1367,7 +1367,7 @@ KÖSTER Polysil TG 500 má také zpevňující a hydrofobizační funkci. Materi
           <URL>https://www.stavbox.cz/products/koster-polysil-tg-500?variant=52622388101457</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Polysil-TG-500-penetrace.jpg?v=1755851589</IMGURL>
           <PRICE_VAT>2870.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: 62 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 3, VI: 62 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906040441</EAN>
@@ -1405,7 +1405,7 @@ KÖSTER WP Mortar je rychle tuhnoucí těsnící malta pro reprofilaci povrchů.
           <URL>https://www.stavbox.cz/products/koster-wu-mortar-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-WP-WU-Mortar-25kg-tesnici-a-vyrovnavaci-malta.jpg?v=1755852320</IMGURL>
           <PRICE_VAT>1280.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 17, VI: 292 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 9, VI: 292 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906100664</EAN>
@@ -2542,7 +2542,7 @@ Zpevňovač s nízkým množstvím vyloučeného gelu (10 %) k předcházení p�
           <URL>https://www.stavbox.cz/products/remmers-kse-100?variant=52666124960081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers-KSE-100-5l-zpevnovac-kamene-na-organokremicite-bazi.jpg?v=1755860942</IMGURL>
           <PRICE_VAT>2890.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 10, VI: 10 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 8, VI: 10 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Sanace</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707032452</EAN>
@@ -2879,7 +2879,7 @@ Rychleschnoucí kontaktní nástřik s polymerními přísadami pro přípravu 
           <URL>https://www.stavbox.cz/products/koster-restoration-plaster-key-coarse-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Koster-Restoration-Plaster-Key-Coarse-25kg-kontaktni-nastrik.jpg?v=1755863121</IMGURL>
           <PRICE_VAT>990.0</PRICE_VAT>
-          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: 0, VI: 254 -->
+          <DELIVERY_DATE>2</DELIVERY_DATE><!-- LI: -1, VI: 254 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Köster</MANUFACTURER>
           <EAN>4026906050501</EAN>
@@ -14468,7 +14468,7 @@ SikaScreed®-100 je předmíchaná cementová směs na bázi vysokopevnostních 
 ✅ Připraven pro okamžité použití (smíchání pouze s vodou)✅ Zamezuje veškeré chyby způsobené použitím nevhodných pojiv a kameniva nebo jejich nevhodným dávkováním✅ Velmi nízké smrštění</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikascreed-100-25kg</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/SikaScreed-100_stavbox.webp?v=1773655385</IMGURL>
-          <PRICE_VAT>520.0</PRICE_VAT>
+          <PRICE_VAT>467.0</PRICE_VAT>
           <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: 0, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
@@ -15521,7 +15521,7 @@ Barva: zelená</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/botament-multiprimer-grundierung?variant=53388638814545</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Botament_MultiPrimer_stavbox.webp?v=1790910052</IMGURL>
           <PRICE_VAT>340.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 6, VI: S -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 4, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Penetrace</CATEGORYTEXT>
           <MANUFACTURER>Botament</MANUFACTURER>
           <EAN>4030905070385</EAN>
