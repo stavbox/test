@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2353 -->
 <!-- Total individual products: 696 -->
-<!-- Created: 2026-11-25 16:46:20 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-11-26 00:00:23 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP>
   
@@ -16287,7 +16287,7 @@ Sikaflex®-415 Universal je 1-komponentní, vlhkostí vytvrzující, elastický 
           <URL>https://www.stavbox.cz/products/sika-sikaflex-415-universal</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-415-Universal_stavbox.webp?v=1774886800</IMGURL>
           <PRICE_VAT>285.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -60, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895889269</EAN>

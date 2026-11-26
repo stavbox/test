@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2353 -->
 <!-- Total individual products: 696 -->
-<!-- Created: 2026-11-25 16:46:21 -->
-<!-- Trigger: shopify/inventory_levels/update -->
+<!-- Created: 2026-11-26 00:00:24 -->
+<!-- Trigger: mechanic/scheduler/daily -->
 
 <SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
   
@@ -34507,7 +34507,7 @@ Sikaflex®-415 Universal je 1-komponentní, vlhkostí vytvrzující, elastický 
 ✅ Dobrá kapacita pohybu: ±25 % (ISO 9047), ±35 % (ASTM C719)✅ Odolný vůči vodě a slané vodě (EN 15651-4)✅ Dobrá odolnost vůči povětrnostním vlivům (ISO 19862)✅ Obsah monomerního diisokyanátu &amp;lt;0,1 %: není třeba bezpečnostní školení uživatelů (omezení REACH 2023, příloha XVII článek 74)</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-sikaflex-415-universal</URL>
           <PRICE_VAT>285.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -60, VI: T -->
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-415-Universal_stavbox.webp?v=1774886800</IMGURL>
           <MANUFACTURER>Sika</MANUFACTURER>
           <DELIVERY>
