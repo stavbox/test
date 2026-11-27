@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Total products+variants: 2353 -->
 <!-- Total individual products: 696 -->
-<!-- Created: 2026-11-27 00:00:23 -->
-<!-- Trigger: mechanic/scheduler/daily -->
+<!-- Created: 2026-11-27 10:01:01 -->
+<!-- Trigger: shopify/inventory_levels/update -->
 
 <SHOP>
   
@@ -16287,7 +16287,7 @@ Sikaflex®-415 Universal je 1-komponentní, vlhkostí vytvrzující, elastický 
           <URL>https://www.stavbox.cz/products/sika-sikaflex-415-universal</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikaflex-415-Universal_stavbox.webp?v=1774886800</IMGURL>
           <PRICE_VAT>285.0</PRICE_VAT>
-          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: -60, VI: T -->
+          <DELIVERY_DATE>5</DELIVERY_DATE><!-- LI: 0, VI: T -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895889269</EAN>
@@ -24505,7 +24505,7 @@ Olejová lazura 3v1 pro dřevo v exteriéru. Impregnace, základ i lazura v jedn
           <URL>https://www.stavbox.cz/products/remmers-hk-lazura-3v1?variant=54064449061201</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Remmers_HK-lazura-3v1_dl_stavbox.jpg?v=1781440745</IMGURL>
           <PRICE_VAT>1990.0</PRICE_VAT>
-          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 2, VI: 852 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 1, VI: 852 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Barvy a laky | Barvy, laky na dřevo | Lazury a mořidla na dřevo</CATEGORYTEXT>
           <MANUFACTURER>Remmers</MANUFACTURER>
           <EAN>4004707018036</EAN>
@@ -31060,7 +31060,7 @@ Barva:komp. A (Pryskyřice) : bílý kapalinakomp. B (Tvrdidlo) : průsvitná ž
           <URL>https://www.stavbox.cz/products/sika-sikagard-720-epocem?variant=54077590929745</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sikagard-720-EpoCem_stavbox.webp?v=1781605395</IMGURL>
           <PRICE_VAT>3220.0</PRICE_VAT>
-          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -2, VI: S -->
+          <DELIVERY_DATE>1</DELIVERY_DATE><!-- LI: -1, VI: S -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Příměsi do stavebních hmot</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895522449</EAN>
@@ -39465,7 +39465,7 @@ Balení: světle žlutá</DESCRIPTION>
           <URL>https://www.stavbox.cz/products/sika-boom-583</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Boom-583_stavbox.webp?v=1795510494</IMGURL>
           <PRICE_VAT>185.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -72, VI: 0 -->
+          <DELIVERY_DATE>0</DELIVERY_DATE><!-- LI: 12, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tekuté a chemické kotvy</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895816005</EAN>
@@ -39483,7 +39483,7 @@ Sikasil® C je 1komponentní, víceúčelový tmel pro aplikaci v interiéru i e
           <URL>https://www.stavbox.cz/products/sika-sikasil-c?variant=55940893344081</URL>
           <IMGURL>https://cdn.shopify.com/s/files/1/0896/2146/3377/files/Sika_Sikasil-C_stavbox.webp?v=1795512430</IMGURL>
           <PRICE_VAT>240.0</PRICE_VAT>
-          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: -48, VI: 0 -->
+          <DELIVERY_DATE>14</DELIVERY_DATE><!-- LI: 0, VI: 0 -->
           <CATEGORYTEXT>Heureka.cz | Dílna, stavba, zahrada | Stavba | Stavební materiál | Stavební chemie | Tmely, silikony a lepidla</CATEGORYTEXT>
           <MANUFACTURER>Sika</MANUFACTURER>
           <EAN>7612895442037</EAN>
